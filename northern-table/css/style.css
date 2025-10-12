@@ -360,6 +360,13 @@ main {
   border-radius: var(--radius-lg);
   overflow: hidden;
   box-shadow: var(--shadow-soft);
+  aspect-ratio: 4 / 3;
+}
+
+.story__media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .story__content {

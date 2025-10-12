@@ -24,7 +24,7 @@ const appData = {
         "value": "1983"
       }
     ],
-    "image": "https://images.pexels.com/photos/7119045/pexels-photo-7119045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.pexels.com/photos/5638752/pexels-photo-5638752.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
@@ -73,7 +73,7 @@ const appData = {
       "In a converted Victorian warehouse in Manchester's Northern Quarter, siblings Maya and Declan Harper had finally realized their dream. Northern Table wasn't just another restaurant—it was their love letter to the North, where Manchester's industrial grit met the rolling farmlands of Lancashire and Yorkshire. Every morning, they'd arrive before dawn to inspect the day's deliveries: heritage carrots still dusted with Pennine soil, mutton from the fells, and day-boat fish from Fleetwood. ",
       "Maya, who'd cut her teeth in London's fine dining scene, had returned home with a revelation—the best ingredients were growing in her own backyard, and they deserved to be treated with the same reverence as any Mediterranean import."
     ],
-    "image": "https://images.pexels.com/photos/30239469/pexels-photo-30239469.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.pexels.com/photos/24871545/pexels-photo-24871545.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
     "eyebrow": "Guests in their words",
@@ -83,13 +83,13 @@ const appData = {
         "quote": "The tasting menu was a tour of Manchester—thoughtful, vibrant, and paced perfectly from first bite to dessert.",
         "name": "Leah Whitaker",
         "role": "Co-founder, Cotton Exchange Studio",
-        "avatar": "https://images.unsplash.com/photo-1691632870307-17119541724a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxOb3J0aGVybiUyMFRhYmxlfGVufDB8fHx8MTc2MDI5ODkxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+        "avatar": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
         "quote": "Every cocktail felt bespoke, and the staff remembered our anniversaries without prompting—it's our go-to.",
         "name": "Marcus O'Neill",
         "role": "Creative Director, Ancoats Lab",
-        "avatar": "https://images.unsplash.com/photo-1712926362714-97ab56bd078a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwyfHxOb3J0aGVybiUyMFRhYmxlfGVufDB8fHx8MTc2MDI5ODkxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
+        "avatar": "https://images.unsplash.com/photo-1758599543154-76ec1c4257df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBwb3J0cmFpdCUyMGhlYWRzaG90JTIwYnVzaW5lc3MlMjBwZXJzb258ZW58MHx8fHwxNzYwMzAxOTk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
