@@ -20,8 +20,8 @@ const appData = {
         "value": "4.8/5"
       },
       {
-        "label": "Seasonal tasting menus",
-        "value": "Rotating four- and six-course journeys highlight peak produce, line-caught seafood, and small-farm meats."
+        "label": "Local gastronomy since",
+        "value": "1983"
       }
     ],
     "image": "https://images.pexels.com/photos/7119045/pexels-photo-7119045.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,16 +31,16 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
+        "title": "Seasonal tasting menus",
+        "description": "Rotating four- and six-course journeys highlight peak produce, line-caught seafood, and small-farm meats."
+      },
+      {
         "title": "Craft cocktail program",
         "description": "Botanical-led drinks, house bitters, and zero-proof pairings designed to complement each course."
       },
       {
         "title": "Community atmosphere",
         "description": "Open kitchen seating, vinyl evenings, and chef chats connect regulars with Manchester's creative scene."
-      },
-      {
-        "title": "Host private tastings, chef's table celebrations, or weekend brunch clubs with dedicated staff and curated playlists.",
-        "description": "Chef's counter"
       }
     ]
   },
@@ -51,18 +51,18 @@ const appData = {
     "cards": [
       {
         "icon": "🛋️",
+        "title": "Chef's counter",
+        "description": "Host private tastings, chef's table celebrations, or weekend brunch clubs with dedicated staff and curated playlists."
+      },
+      {
+        "icon": "🛠️",
         "title": "Garden dining room",
         "description": "Plant-filled space for family gatherings or launch events, complete with ambient lighting and localized art."
       },
       {
-        "icon": "🛠️",
+        "icon": "🎥",
         "title": "Cellar lounge",
         "description": "Soft seating, vinyl rotations, and late-night desserts with a reserve wine and spirits selection."
-      },
-      {
-        "icon": "🎥",
-        "title": "Meet Northern Table",
-        "description": "Manchester-born chefs crafting seasonal plates with a modern Northern soul."
       }
     ]
   },
@@ -70,25 +70,25 @@ const appData = {
     "eyebrow": "Meet Northern Table",
     "title": "Manchester-born chefs crafting seasonal plates with a modern Northern soul.",
     "paragraphs": [
-      "Guests in their words",
-      "People keep coming back for more."
+      "In a converted Victorian warehouse in Manchester's Northern Quarter, siblings Maya and Declan Harper had finally realized their dream. Northern Table wasn't just another restaurant—it was their love letter to the North, where Manchester's industrial grit met the rolling farmlands of Lancashire and Yorkshire. Every morning, they'd arrive before dawn to inspect the day's deliveries: heritage carrots still dusted with Pennine soil, mutton from the fells, and day-boat fish from Fleetwood. ",
+      "Maya, who'd cut her teeth in London's fine dining scene, had returned home with a revelation—the best ingredients were growing in her own backyard, and they deserved to be treated with the same reverence as any Mediterranean import."
     ],
     "image": "https://images.pexels.com/photos/30239469/pexels-photo-30239469.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "The tasting menu was a tour of Manchester—thoughtful, vibrant, and paced perfectly from first bite to dessert.",
-    "title": "Leah Whitaker",
+    "eyebrow": "Guests in their words",
+    "title": "People keep coming back for more.",
     "list": [
       {
-        "quote": "Co-founder, Cotton Exchange Studio",
-        "name": "Every cocktail felt bespoke, and the staff remembered our anniversaries without prompting—it's our go-to.",
-        "role": "Marcus O'Neill",
+        "quote": "The tasting menu was a tour of Manchester—thoughtful, vibrant, and paced perfectly from first bite to dessert.",
+        "name": "Leah Whitaker",
+        "role": "Co-founder, Cotton Exchange Studio",
         "avatar": "https://images.unsplash.com/photo-1691632870307-17119541724a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxOb3J0aGVybiUyMFRhYmxlfGVufDB8fHx8MTc2MDI5ODkxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
       },
       {
-        "quote": "Creative Director, Ancoats Lab",
-        "name": "Plan your evening",
-        "role": "Find us in Manchester's Northern Quarter.",
+        "quote": "Every cocktail felt bespoke, and the staff remembered our anniversaries without prompting—it's our go-to.",
+        "name": "Marcus O'Neill",
+        "role": "Creative Director, Ancoats Lab",
         "avatar": "https://images.unsplash.com/photo-1712926362714-97ab56bd078a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwyfHxOb3J0aGVybiUyMFRhYmxlfGVufDB8fHx8MTc2MDI5ODkxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
@@ -110,11 +110,11 @@ const appData = {
   "byronCallout": {
     "eyebrow": "Enablematic insight",
     "title": "Upload menus and photos—receive a conversion-ready redesign.",
-    "description": "Automate reservation flows with CRM tags and instant guest follow-ups.",
+    "description": "We partner with ambitious SMEs who refuse to settle for \"business as usual.\" Our approach is simple: identify the repetitive tasks stealing your team's time, the manual processes bleeding your profits, and the untapped audiences your current marketing can't reach. Then we build custom AI solutions that work 24/7, learn from every interaction, and get smarter while you sleep.",
     "bullets": [
       "Use AI to summarize diner notes and prep service briefs before doors open.",
-      "Mention Northern Table for complimentary launch analytics setup.",
-      "Book a call with Byron"
+      "Automate reservation flows with CRM tags and instant guest follow-ups.",
+      "Intelligent campaigns that find customers your current marketing misses."
     ],
     "offer": "Mention Northern Table for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
