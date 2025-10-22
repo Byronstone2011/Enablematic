@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
-    "name": "Fire Queen Ltd",
-    "tagline": "Your Fire Safety Experts",
-    "category": "Fire Safety Services",
+    "name": "Fire Queen Ltd.",
+    "tagline": "Your Safety, Our Priority",
+    "category": "Fire Protection Services",
     "location": "UK & Ireland",
-    "phone": "0800 123 4567"
+    "phone": "+44 1234 567890"
   },
   "hero": {
-    "eyebrow": "Trusted fire safety partner",
-    "title": "Simplifying Compliance & Fire Safety",
-    "description": "Fire Queen Limited ensures your business stays audit-ready, compliant, and protected with seamless scheduling, expert servicing, and digital records.",
+    "eyebrow": "Trusted Fire Safety Experts",
+    "title": "Streamlined Fire Safety & Compliance, Made Easy",
+    "description": "Fire Queen Limited ensures businesses meet fire safety regulations with automated scheduling, fast fault resolution, and audit-ready documentation.",
     "highlights": [
       {
-        "label": "Years of expertise",
-        "value": "20+"
+        "label": "Years of Experience",
+        "value": "15+"
       },
       {
-        "label": "Businesses served",
-        "value": "10,000+"
+        "label": "Service Coverage",
+        "value": "UK & IE"
       },
       {
-        "label": "Certified technicians",
-        "value": "100+"
+        "label": "Certifications Held",
+        "value": "Multiple"
       }
     ],
     "image": "https://images.pexels.com/photos/33533879/pexels-photo-33533879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Comprehensive Services",
-        "description": "We offer a full suite of fire safety solutions tailored to cinemas, schools, hospitals, and more."
+        "title": "Comprehensive Expertise",
+        "description": "Decades of experience paired with certified technicians ensure top-tier fire safety services for every industry."
       },
       {
-        "title": "Certified Professionals",
-        "description": "Our technicians are fully licensed and experienced, providing reliable service every time."
+        "title": "Trust Signals Everywhere",
+        "description": "Visible certifications and branded service vans underline our professionalism and reliability."
       },
       {
-        "title": "Proven Track Record",
-        "description": "We’ve earned trust through consistent results, servicing businesses across the UK & Ireland."
+        "title": "Clear Service Layout",
+        "description": "Easy-to-understand service categories and icons make planning your fire safety needs straightforward."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Fire Queen Limited provides expert fire safety services to ensure your business is compliant and protected.",
+    "description": "From fire alarms to emergency lighting, Fire Queen Limited delivers complete fire safety solutions tailored to your needs.",
     "cards": [
       {
         "icon": "🛋️",
-        "title": "Fire Extinguisher Care",
-        "description": "Supply, install, recharge, and service fire extinguishers to ensure readiness in emergencies."
+        "title": "Fire Extinguisher Services",
+        "description": "Supply, install, recharge, and service fire extinguishers to meet safety standards for diverse industries."
       },
       {
         "icon": "🛠️",
-        "title": "Fire Alarm Solutions",
-        "description": "Install, maintain, upgrade, and diagnose fire alarms for reliable life-saving alerts."
+        "title": "Fire Alarm Systems",
+        "description": "Installation, servicing, upgrades, and fault diagnosis for advanced fire alarm systems that protect lives."
       },
       {
         "icon": "🎥",
         "title": "Emergency Lighting",
-        "description": "Test, install, and maintain emergency lighting systems for safe evacuations."
+        "description": "Installation, testing, and maintenance of emergency lighting systems for safe evacuation during emergencies."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Legacy",
-    "title": "20+ Years of Fire Safety Excellence",
+    "eyebrow": "Our Journey",
+    "title": "Dedicated to Protecting Lives & Businesses",
     "paragraphs": [
-      "Fire Queen Limited has spent over two decades protecting lives and businesses with tailored fire safety solutions across the UK & Ireland.",
-      "We deliver regulated services with automation to simplify compliance, improve scheduling, and provide peace of mind for our clients."
+      "Fire Queen Limited has been a trusted name in fire safety for over 15 years, offering meticulous services and unparalleled expertise to safeguard businesses across the UK & Ireland.",
+      "With regulated, recurring services and innovative automation, we eliminate compliance headaches, ensuring audit-ready records, seamless scheduling, and faster resolutions."
     ],
     "image": "https://images.pexels.com/photos/5965019/pexels-photo-5965019.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Customer Voices",
+    "eyebrow": "Customer Experiences",
     "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "Fire Queen makes compliance effortless. Their digital certificates and scheduling save us hours each month.",
-        "name": "John Smith",
+        "quote": "Their automated scheduling and compliance support save us hours on audits!",
+        "name": "Emma Brown",
         "role": "Property Manager",
         "avatar": "https://images.pexels.com/photos/7831936/pexels-photo-7831936.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Reliable and professional service every time. We’ve never missed an audit thanks to Fire Queen.",
-        "name": "Sarah Evans",
-        "role": "School Administrator",
+        "quote": "Fast fault resolution keeps our fire systems running smoothly.",
+        "name": "James Carter",
+        "role": "Event Organizer",
         "avatar": "https://images.unsplash.com/photo-1713689824343-77d2f99e19b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxGaXJlJTIwcHJvdGVjdGlvbiUyMCUyRiUyMEZpcmUlMjBzYWZldHklMjBzZXJ2aWNlcyUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYxMTM4MDQyfDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Serving Businesses Nationwide",
-    "description": "Our expert team is ready to help your business meet fire safety standards. Contact us today.",
-    "address": "123 Safety Lane, London, UK",
+    "eyebrow": "Explore Our Coverage",
+    "title": "Serving UK & Ireland Businesses",
+    "description": "From bustling cities to rural towns, our expert fire safety services are available across the UK & Ireland.",
+    "address": "123 Fire Queen Way, London",
     "website": "www.firequeen.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get In Touch",
-    "title": "Request A Free Fire Safety Survey",
-    "description": "Contact Fire Queen Limited to schedule your free survey or consultation. Let’s make fire safety simple.",
-    "consent": "By submitting, you agree to our privacy policy and terms of service."
+    "eyebrow": "Ready to Get Started?",
+    "title": "Schedule Your Free Fire Safety Survey",
+    "description": "Book your free survey or consultation today to ensure compliance and peace of mind for your business.",
+    "consent": "By submitting, you agree to our terms and privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline Fire Safety with Automation",
-    "description": "Fire Queen Limited employs cutting-edge AI and automation to simplify compliance, servicing, and customer management.",
+    "title": "Smart Fire Safety with Automation",
+    "description": "Fire Queen Limited leverages cutting-edge AI to streamline fire safety processes, saving you time and ensuring compliance with ease.",
     "bullets": [
-      "Automated maintenance scheduling and reminders.",
-      "Digital compliance records for audit reporting.",
-      "Self-service e-commerce for fire safety products."
+      "Automated scheduling for maintenance and inspections.",
+      "Online booking and customer self-service tools.",
+      "Digital compliance records for audit readiness."
     ],
-    "offer": "Mention Fire Queen Ltd for the launch-week optimization kit.",
+    "offer": "Mention Fire Queen Ltd. for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.com",
     "phone": "(718) 555-0198",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Fire Queen Ltd delivers unforgettable experiences.",
-    "address": "123 Safety Lane, London, UK",
+    "blurb": "Fire Queen Ltd. delivers unforgettable experiences.",
+    "address": "123 Fire Queen Way, London",
     "email": "",
     "socials": [
       {
