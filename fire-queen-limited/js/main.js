@@ -7,21 +7,21 @@ const appData = {
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Your trusted fire safety partne",
-    "title": "Simplify Compliance & Protect Lives with Fire Queen",
-    "description": "Fire Queen Limited ensures your business stays compliant with fire safety regulations through reliable services, streamlined maintenance, and audit-ready",
+    "eyebrow": "Your compliance partner",
+    "title": "Fire safety made simple and audit-ready",
+    "description": "Fire Queen Limited removes the hassle of fire protection by ensuring regulatory compliance, streamlined scheduling, and fast fault resolution. With tailored services",
     "highlights": [
       {
-        "label": "Years of Expertise",
-        "value": "Over 10"
+        "label": "Years in Service",
+        "value": "2018"
       },
       {
-        "label": "Service Coverage",
+        "label": "Coverage",
         "value": "UK & Ir"
       },
       {
-        "label": "Trusted by",
-        "value": "100+ organ"
+        "label": "Expertise",
+        "value": "Multi-sect"
       }
     ],
     "image": "https://images.pexels.com/photos/33533879/pexels-photo-33533879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Comprehensive Service",
-        "description": "From fire extinguisher servicing to fire risk assessments, we cover all fire safety needs under one roof, ensuring"
+        "title": "Certified Professionals",
+        "description": "Our team’s certifications ensure trustworthy, industry-compliant services for fire safety and protection."
       },
       {
-        "title": "Certified & Trusted Profe",
-        "description": "Our team is fully certified, delivering top-tier services with visible trust signals and professional branding."
+        "title": "Tailored Solutions",
+        "description": "Customizable services for businesses across diverse sectors, from schools to event venues."
       },
       {
-        "title": "Proven Reliability",
-        "description": "Our service vans and consistent branding reflect our commitment to reliability and quality for every customer."
+        "title": "Visible Credibility",
+        "description": "From branded service vans to badges, our professionalism inspires trust at every step."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We provide extensive fire safety services designed to protect businesses and organizations while ensuring compliance.",
+    "description": "Comprehensive fire safety services to protect your people and property.",
     "cards": [
       {
         "icon": "🛋️",
         "title": "Fire Extinguisher Services",
-        "description": "Supply, installation, recharge, and maintenance to keep your fire extinguishers ready for action."
+        "description": "Supply, installation, recharge, and servicing to keep your extinguishers ready and compliant."
       },
       {
         "icon": "🛠️",
         "title": "Fire Alarm Systems",
-        "description": "Installation, diagnostics, upgrades, and servicing to ensure your fire alarms are always operational."
+        "description": "Installation, servicing, fault diagnosis, and upgrades for reliable fire detection."
       },
       {
         "icon": "🎥",
         "title": "Emergency Lighting",
-        "description": "Testing and maintenance of emergency lighting systems for safe evacuations during power outages."
+        "description": "Installation, testing, and maintenance ensuring safe evacuation routes."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey of fire",
-    "title": "A Passion for Protection",
+    "eyebrow": "Our commitment to",
+    "title": "Built for protection, driven by innovation",
     "paragraphs": [
-      "Fire Queen Limited was founded with a mission to safeguard businesses and organizations from fire hazards. With a comprehensive range of services, we’ve built a reputation for reliability and expertise across the UK & Ireland.",
-      "By leveraging automation and tailored solutions, we help clients simplify compliance, streamline operations, and protect lives. Our trusted services make fire safety effortless, giving you peace of mind."
+      "Fire Queen Limited was founded to simplify fire safety for businesses. We understand the challenges of compliance and maintenance, and we’ve crafted services that remove complexity while prioritizing safety at every turn.",
+      "With automation opportunities and a customer-first approach, we deliver unmatched value by simplifying processes like scheduling, documentation, and product access. Fire Queen ensures peace of mind for organizations across sectors."
     ],
     "image": "https://images.pexels.com/photos/5965019/pexels-photo-5965019.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What clients say about",
-    "title": "Customer Stories",
+    "eyebrow": "What clients say",
+    "title": "Trusted by businesses nationwide",
     "list": [
       {
-        "quote": "Fire Queen’s automated reminders saved us from missed maintenance visits. Their reliability keeps our multi-site business compliant and",
-        "name": "Jane Simmons",
-        "role": "Facilities Manager, Local Council",
-        "avatar": "https://images.pexels.com/photos/7831936/pexels-photo-7831936.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        "quote": "Fire Queen’s automated compliance records saved us hours during audits. Their team is highly reliable and professional.",
+        "name": "Mark T.",
+        "role": "Property Manager",
+        "avatar": "https://images.unsplash.com/photo-1713689824343-77d2f99e19b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxGaXJlJTIwcHJvdGVjdGlvbiUyMCUyRiUyMEZpcmUlMjBzYWZldHklMjBzZXJ2aWNlcyUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYxMTQ4ODE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
       },
       {
-        "quote": "Their fire risk assessments helped us pass audits seamlessly. The team’s professionalism is unmatched.",
-        "name": "Mark Davies",
-        "role": "Operations Director, Care Home",
-        "avatar": "https://images.unsplash.com/photo-1713689824343-77d2f99e19b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxGaXJlJTIwcHJvdGVjdGlvbiUyMCUyRiUyMEZpcmUlMjBzYWZldHklMjBzZXJ2aWNlcyUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYxMTM4MDQyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+        "quote": "Scheduling maintenance for multiple sites used to be a nightmare. Fire Queen’s system is a game-changer for us.",
+        "name": "Sarah L.",
+        "role": "Facilities Coordinator",
+        "avatar": "https://images.unsplash.com/photo-1713689824345-c86fd9e2e06b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwyfHxGaXJlJTIwcHJvdGVjdGlvbiUyMCUyRiUyMEZpcmUlMjBzYWZldHklMjBzZXJ2aWNlcyUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYxMTQ4ODE0fDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Serving across the UK",
-    "title": "Find Us Nearby",
-    "description": "We proudly serve businesses nationwide, ensuring every client receives timely and trusted fire safety solutions.",
-    "address": "UK & Ireland",
-    "website": "www.firequeenlimited.com",
+    "eyebrow": "Serving the UK & Irela",
+    "title": "Your local fire safety experts",
+    "description": "We proudly serve businesses nationwide, from bustling city centers to rural areas, ensuring safety wherever you are.",
+    "address": "Contact us for location-specific",
+    "website": "www.firequeenlimited.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Ready to protect your busines",
-    "title": "Contact Fire Queen Limited",
-    "description": "Schedule a consultation or service today. Let us handle your fire safety needs with expertise and care.",
-    "consent": "We value your privacy and will only use your details for service-related communication."
+    "eyebrow": "Get started today",
+    "title": "Request a free consultation",
+    "description": "Ready to simplify fire safety? Book a free survey or consultation to discuss your needs.",
+    "consent": "Your information will be used to schedule services and provide updates."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Enhancing Fire Safety Through Automation",
-    "description": "Fire Queen Limited leverages AI to simplify operations and improve compliance for businesses.",
+    "title": "Automation powers your safety",
+    "description": "Streamline fire safety processes with smart automation tailored to your needs.",
     "bullets": [
-      "Automated scheduling ensures timely maintenance and fault resolution.",
-      "Centralized digital compliance records streamline audits and reporting.",
-      "E-commerce capabilities simplify product sales and inventory management."
+      "Automated scheduling and reminders for hassle-free compliance.",
+      "Digital service certificates and audit-ready documentation.",
+      "E-commerce platform for effortless product purchases."
     ],
     "offer": "Mention Fire Queen Limited for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Fire Queen Limited delivers unforgettable experiences.",
-    "address": "UK & Ireland",
+    "address": "Contact us for location-specific",
     "email": "",
     "socials": [
       {
