@@ -7,21 +7,21 @@ const appData = {
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Your trusted fire safety partne",
-    "title": "Simplifying Compliance. Enhancing Protection.",
-    "description": "Panache Fire Services ensures your premises meet regulations, stay protected with cutting-edge fire safety solutions, and keeps your staff trained for",
+    "eyebrow": "Trusted fire protection experts",
+    "title": "Simplifying Fire Safety Compliance for Your Business",
+    "description": "Panache Fire Services eliminates the stress of navigating fire safety regulations. With cutting-edge solutions, 24/7 monitoring, and tailored training, we protect",
     "highlights": [
       {
-        "label": "Established",
-        "value": "Leading"
+        "label": "Years in Service",
+        "value": "2018"
       },
       {
-        "label": "24/7 Protection",
-        "value": "Always"
+        "label": "24/7 Monitoring",
+        "value": "Availab"
       },
       {
-        "label": "Comprehensive Services",
-        "value": "From alarm"
+        "label": "Specialized Solutions",
+        "value": "Commercial"
       }
     ],
     "image": "https://images.pexels.com/photos/19894924/pexels-photo-19894924.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Certified Expertise You",
-        "description": "With industry certifications, we deliver professional-grade fire safety solutions to safeguard your business and"
+        "title": "Clear Service Categoriza",
+        "description": "Our user-friendly navigation makes finding fire safety solutions simple and efficient, saving you time."
       },
       {
-        "title": "Tailored Solutions for",
-        "description": "From fire alarms to risk assessments, our services are customized to meet your unique compliance and safety needs."
+        "title": "Trust Built Through Testi",
+        "description": "Authentic reviews showcase our dedication to reliable fire safety services and compliance expertise."
       },
       {
-        "title": "Transparent and Reliabl",
-        "description": "Clear communication, detailed reporting, and dependable support ensure your peace of mind."
+        "title": "Certified Excellence",
+        "description": "Industry certifications ensure our services meet the highest standards for fire safety and protection."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Panache Fire Services provides comprehensive fire safety solutions to protect your business, staff, and premises.",
+    "description": "Comprehensive fire safety services tailored to your business, ensuring compliance and protection.",
     "cards": [
       {
         "icon": "🛋️",
         "title": "Fire Alarm Installation",
-        "description": "Ensure early detection with advanced alarm systems designed to protect your commercial space."
+        "description": "Design, installation, and maintenance of advanced fire alarm systems for commercial properties."
       },
       {
         "icon": "🛠️",
         "title": "Fire Extinguisher Servi",
-        "description": "Supply, servicing, and maintenance to keep your extinguishers ready when it matters most."
+        "description": "Supplying, servicing, and ensuring optimal performance of fire extinguishers."
       },
       {
         "icon": "🎥",
         "title": "Fire Risk Assessments",
-        "description": "Detailed evaluations to identify hazards and maintain compliance with fire safety regulations."
+        "description": "Professional evaluations to identify risks and ensure regulatory compliance."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "Built to Protect, Focused on Excellence",
+    "eyebrow": "Our Commitment to",
+    "title": "Leading Fire Protection Solutions Since 2018",
     "paragraphs": [
-      "Since 2018, Panache Fire Services has been a trusted name in commercial fire safety. From alarms to compartmentation, we deliver solutions that protect businesses and save lives.",
-      "Through automation, tailored workflows, and 24/7 support, we streamline safety compliance and ensure businesses remain protected without disruption."
+      "Panache Fire Services has been a trusted partner for commercial properties, providing tailored fire protection solutions like alarms, extinguishers, and compartmentation. Our goal is simple: protect lives and premises while",
+      "Through innovative automation and a customer-first approach, we excel in simplifying compliance workflows. From scheduling inspections to monitoring systems 24/7, we ensure safety without operational disruptions."
     ],
     "image": "https://images.pexels.com/photos/5965019/pexels-photo-5965019.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What Our Clients Say",
-    "title": "Real Stories of Safety and Compliance",
+    "eyebrow": "Hear From Our Clients",
+    "title": "Trusted by Businesses Nationwide",
     "list": [
       {
-        "quote": "Panache Fire Services made compliance simple for us, and their team’s professionalism is unmatched.",
-        "name": "Sarah Thompson",
+        "quote": "Panache Fire Services made compliance stress-free for our team. Their training and alarm systems keep our property secure 24/7.",
+        "name": "Lisa Carter",
         "role": "Facilities Manager",
         "avatar": "https://images.pexels.com/photos/7831936/pexels-photo-7831936.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their training sessions gave our staff the confidence to act in emergencies. Highly recommend!",
-        "name": "James Carter",
-        "role": "Operations Director",
+        "quote": "Their risk assessment was thorough and easy to follow. We now feel confident in our fire safety measures.",
+        "name": "Mark Stevens",
+        "role": "Business Owner",
         "avatar": "https://images.unsplash.com/photo-1713689824343-77d2f99e19b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxGaXJlJTIwcHJvdGVjdGlvbiUyMCUyRiUyMEZpcmUlMjBzYWZldHklMjBzZXJ2aWNlcyUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYxMTM4MDQyfDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Come and See Us",
-    "title": "Protecting Businesses Nationwide",
-    "description": "Situated at the heart of commercial hubs, we’re proud to support businesses across the UK with expert fire safety services.",
-    "address": "123 Safety Lane, London, UK",
-    "website": "www.panachefireservices.co.uk",
+    "eyebrow": "Visit Us Today",
+    "title": "Protect Your Business With Panache",
+    "description": "Located in a thriving commercial hub, we’re here to serve businesses nationwide with expert fire safety solutions.",
+    "address": "Contact us for location details.",
+    "website": "www.panachefireservices.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started Today",
-    "title": "Ensure Your Safety Compliance",
-    "description": "Contact us now to schedule consultations, assessments, or training sessions tailored to your needs.",
-    "consent": "We value your privacy and adhere to GDPR regulations."
+    "eyebrow": "Get Started",
+    "title": "Request Your Fire Safety Consultation",
+    "description": "Contact us today to discuss your fire protection needs. Let’s safeguard your business together.",
+    "consent": "We respect your privacy and protect your data."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automation for Fire Safety Excellence",
-    "description": "Streamline compliance and service management with our AI-driven tools.",
+    "title": "Streamline Fire Safety With Automation",
+    "description": "Discover how our AI-powered solutions simplify compliance and enhance efficiency.",
     "bullets": [
-      "Automate inspections and training schedules for maximum efficiency.",
-      "Receive reminders for certificate renewals to stay compliant",
-      "Use digital reporting tools to speed up assessments and record keeping."
+      "Automated reminders for inspections and certificate renewals.",
+      "Digital tools for fast and accurate fire risk assessments.",
+      "CRM integration for seamless client and contract management."
     ],
     "offer": "Mention Panache Fire Services (PFS Network Ltd) for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Panache Fire Services (PFS Network Ltd) delivers unforgettable experiences.",
-    "address": "123 Safety Lane, London, UK",
+    "address": "Contact us for location details.",
     "email": "",
     "socials": [
       {
