@@ -7,87 +7,87 @@ const appData = {
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted fire safety experts",
-    "title": "Simplifying Fire Safety Compliance for Every Site",
-    "description": "Cotswold Fire Services specializes in fire door surveys, fire stopping inspections, and compliance reporting, ensuring your properties meet safety standards without",
+    "eyebrow": "Your Compliance Partner",
+    "title": "Seamless Fire Safety Compliance, Made Simple",
+    "description": "Cotswold Fire Services ensures fire doors and compartmentation are fully compliant with streamlined inspections, detailed reporting, and automated scheduling to",
     "highlights": [
       {
-        "label": "Established Expertise",
-        "value": "Complian"
+        "label": "Expertise Since",
+        "value": "2018"
+      },
+      {
+        "label": "Specialized Services",
+        "value": "Fire Do"
       },
       {
         "label": "Automation Ready",
-        "value": "Streaml"
-      },
-      {
-        "label": "Targeted Solutions",
-        "value": "Tailored f"
+        "value": "Streamline"
       }
     ],
-    "image": "https://images.pexels.com/photos/13618921/pexels-photo-13618921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1633540437424-cbc32e0b60a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxQYXNzaXZlJTIwZmlyZSUyMHByb3RlY3Rpb24lMjAlMkYlMjBGaXJlJTIwc2FmZXR5JTIwc2VydmljZXMlMjAlNUIlMEElMjAlMjAlMjAlMjAlMjJGaXJlJTIwZG9vciUyMHN1cnZleXMlMjIlMkMlMEElMjAlMjAlMjAlMjAlMjJGaXJlJTIwc3RvcHBpbmclMjAlMjhjb21wYXJ0bWVudGF0aW9uJTI5JTIwc3VydmV5cyUyMiUyQyUwQSUyMCUyMCUyMCUyMCUyMkZpcmUlMjBkb29yJTIwYW5kJTIwZmlyZSUyMHN0b3BwaW5nJTIwaW5zcGVjdGlvbnMlMjBhbmQlMjBjb21wbGlhbmNlJTIwcmVwb3J0aW5nJTIyJTBBJTVEfGVufDB8fHx8MTc2MTE0ODgyNnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Professional Design",
-        "description": "Our clean, organized layouts and clear service categorization make navigating fire safety simple."
+        "title": "Precision Compliance",
+        "description": "Our detailed inspection reports and certifications are clear, accurate, and tailored to meet fire safety"
       },
       {
-        "title": "Trustworthy Expertise",
-        "description": "Certified by leading authorities, we deliver reliable, compliance-driven results every time."
+        "title": "Professional Service Desi",
+        "description": "A clean, intuitive layout helps clients easily navigate services and understand their compliance needs."
       },
       {
-        "title": "Clear Communication",
-        "description": "Strong visuals and professional reporting ensure you always understand your compliance status."
+        "title": "Reliable Expertise",
+        "description": "With strong industry certifications, we deliver trustworthy, high-quality fire safety solutions."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive fire safety services tailored to your needs, backed by expert compliance solutions.",
+    "description": "We specialize in fire safety compliance services to protect your properties and ensure peace of mind.",
     "cards": [
       {
         "icon": "🛋️",
         "title": "Fire Door Surveys",
-        "description": "Detailed assessments to ensure fire doors meet legal and safety requirements."
+        "description": "Comprehensive inspections to ensure fire door functionality and regulatory compliance."
       },
       {
         "icon": "🛠️",
         "title": "Fire Stopping Surveys",
-        "description": "Expert evaluations of compartmentation systems to maintain fire containment integrity."
+        "description": "Evaluate compartmentation to prevent fire and smoke spread between building zones."
       },
       {
         "icon": "🎥",
         "title": "Compliance Reporting",
-        "description": "Accurate inspection reports and recommendations for remedial actions to stay compliant."
+        "description": "Detailed inspection reports to simplify compliance with fire safety standards."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Mission",
-    "title": "Your Partner in Fire Safety Compliance",
+    "eyebrow": "Our Story",
+    "title": "Built to Protect, Designed for Efficiency",
     "paragraphs": [
-      "At Cotswold Fire Services, we are dedicated to simplifying fire safety compliance for busy property managers and contractors. Our expertise in fire protection ensures buildings are safe and legally compliant, giving you",
-      "By leveraging automation and structured workflows, we provide seamless inspections, clear reporting, and ongoing support. With tailored solutions, we help you stay ahead in a compliance-heavy industry, saving time and driving efficiency across your operations."
+      "Cotswold Fire Services was founded to provide specialized fire safety solutions for property managers and building owners. Our goal is to simplify compliance while ensuring the highest standards of safety.",
+      "With automation and tailored workflows, we transform compliance-heavy processes into manageable tasks, giving your business the tools to stay ahead in fire protection and safety."
     ],
     "image": "https://images.pexels.com/photos/5965019/pexels-photo-5965019.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What Our Clients Say",
-    "title": "Real Feedback from Trusted Partners",
+    "eyebrow": "What Clients Say",
+    "title": "Trusted by Industry Professionals",
     "list": [
       {
-        "quote": "Cotswold Fire Services streamlined our fire door compliance process. Their reports are clear, and scheduling inspections is hassle-free.",
-        "name": "Sarah Thompson",
+        "quote": "Cotswold Fire Services made compliance reporting effortless across multiple sites. Their detailed inspections saved us hours of work.",
+        "name": "Emily Carter",
         "role": "Facilities Manager",
         "avatar": "https://images.pexels.com/photos/7831936/pexels-photo-7831936.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Managing multiple sites used to be overwhelming, but their automated reminders and expert guidance have been invaluable.",
-        "name": "James Carter",
+        "quote": "Their automated reminders and reporting have transformed how we manage fire door inspections. Highly recommend!",
+        "name": "James Holloway",
         "role": "Property Manager",
         "avatar": "https://images.unsplash.com/photo-1713689824343-77d2f99e19b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxQYXNzaXZlJTIwZmlyZSUyMHByb3RlY3Rpb24lMjAlMkYlMjBGaXJlJTIwc2FmZXR5JTIwc2VydmljZXMlMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MTEzOTAxOXww&ixlib=rb-4.1.0&q=80&w=1080"
       }
@@ -95,26 +95,26 @@ const appData = {
   },
   "visit": {
     "eyebrow": "Visit Us",
-    "title": "Serving the Cotswolds and Beyond",
-    "description": "Based in the scenic Cotswolds, we bring trusted fire safety services to properties across the region, ensuring compliance wherever you are.",
-    "address": "Cotswolds, UK",
+    "title": "Serving the Cotswold Region",
+    "description": "Located in the heart of the Cotswolds, we offer professional fire safety services tailored to your building needs.",
+    "address": "Cotswold, UK",
     "website": "www.cotswoldfireservices.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Let’s Get Started",
-    "title": "Book Your Inspection Today",
-    "description": "Contact us for tailored fire safety solutions and compliance services. Your safety is our priority!",
-    "consent": "We respect your privacy. Your information will only be used to respond to your inquiry."
+    "eyebrow": "Get in Touch",
+    "title": "Request a Consultation Today",
+    "description": "Contact us to schedule your fire safety inspection or compliance review.",
+    "consent": "We value your privacy and handle your data responsibly."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Smarter Fire Safety with Automation",
-    "description": "Simplify compliance and boost efficiency with AI-powered solutions tailored for fire safety.",
+    "title": "Efficiency Through Automation",
+    "description": "Simplify your fire safety processes with cutting-edge automation.",
     "bullets": [
-      "Automated inspection bookings and reminders.",
-      "Instant compliance reports and certificates.",
-      "CRM integration for site management and invoicing."
+      "Automated inspection scheduling saves time and effort.",
+      "Instant compliance reports keep you updated and prepared.",
+      "Recurring reminders ensure nothing is missed."
     ],
     "offer": "Mention Cotswold Fire Services for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Cotswold Fire Services delivers unforgettable experiences.",
-    "address": "Cotswolds, UK",
+    "address": "Cotswold, UK",
     "email": "",
     "socials": [
       {
