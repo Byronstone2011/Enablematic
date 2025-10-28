@@ -7,21 +7,21 @@ const appData = {
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Specialists in fire safety",
-    "title": "Simplifying Fire Safety for Construction Success",
-    "description": "Marshall Fire Ltd ensures your project meets fire safety regulations with expert engineering, tailored strategies, and seamless compliance support.",
+    "eyebrow": "Fire safety experts for constru",
+    "title": "Simplifying Fire Safety Compliance for Construction Teams",
+    "description": "Marshall Fire Ltd provides tailored fire safety solutions, helping architects, developers, and project managers navigate complex regulations, meet safety",
     "highlights": [
       {
         "label": "Projects Supported",
-        "value": "1,000+"
+        "value": "450+"
       },
       {
         "label": "Compliance Rate",
-        "value": "99.8%"
+        "value": "99.9%"
       },
       {
-        "label": "Years in Business",
-        "value": "10+"
+        "label": "Years of Expertise",
+        "value": "15+"
       }
     ],
     "image": "https://images.pexels.com/photos/7937680/pexels-photo-7937680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,47 +31,47 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expertise You Can Trust",
-        "description": "Decades of combined experience in fire safety engineering and compliance for construction projects."
+        "title": "Unmatched Fire Safety",
+        "description": "Over 15 years of industry experience ensures the highest standards in fire engineering and compliance."
       },
       {
-        "title": "Tailored Solutions",
-        "description": "Custom fire safety strategies designed to meet unique project needs and regulatory standards."
+        "title": "Client-Focused Service",
+        "description": "We tailor fire safety strategies to your unique project needs, delivering reliable and practical solutions."
       },
       {
-        "title": "Streamlined Compliance",
-        "description": "Efficient processes that ensure projects meet safety requirements without delays."
+        "title": "Comprehensive Complianc",
+        "description": "From design to construction, we ensure fire safety regulations are met seamlessly at every stage."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive fire safety services tailored to construction professionals.",
+    "description": "Marshall Fire Ltd provides specialized fire safety consultancy and engineering services to the construction sector, ensuring compliance and occupant safety.",
     "cards": [
       {
         "icon": "🛋️",
         "title": "Fire Engineering & Design",
-        "description": "Advanced safety design solutions for buildings, including strategies and smoke modeling."
+        "description": "Advanced fire engineering solutions to meet complex design and safety requirements."
       },
       {
         "icon": "🛠️",
         "title": "Regulatory Compliance",
-        "description": "Risk assessments, external wall reviews, EWS1 forms, and fire statements for planning applications."
+        "description": "Comprehensive fire risk assessments and compliance support for construction projects."
       },
       {
         "icon": "🎥",
         "title": "Technical Consultancy",
-        "description": "Expert guidance during design and construction stages, from feasibility studies to RIBA Stage 4 support."
+        "description": "Expert advice and hands-on support throughout the project lifecycle."
       }
     ]
   },
   "story": {
-    "eyebrow": "About Us",
-    "title": "Delivering Excellence in Fire Safety",
+    "eyebrow": "Our Journey",
+    "title": "Built on Expertise and Client Commitment",
     "paragraphs": [
-      "Marshall Fire Ltd was founded to simplify fire safety for construction professionals. With a team of 17 experts, we provide solutions that ensure compliance, occupant safety, and project success.",
-      "We’re dedicated to helping architects, developers, and project managers navigate complex regulations with ease. Our client-focused approach and advanced technology make us the preferred partner for construction fire safety."
+      "Founded with a mission to enhance fire safety standards in construction, Marshall Fire Ltd combines technical expertise and regulatory knowledge to deliver reliable solutions. With over 15 years of experience, our team has",
+      "Our client-centric approach and repeat-project workflows allow us to build lasting partnerships with architects, developers, and construction firms. By leveraging modern tools and technologies, we streamline processes, reduce risks, and help clients meet"
     ],
     "image": "https://images.pexels.com/photos/416405/pexels-photo-416405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
@@ -80,41 +80,41 @@ const appData = {
     "title": "Trusted by Industry Leaders",
     "list": [
       {
-        "quote": "Marshall Fire Ltd turned a complicated compliance process into a seamless experience. Our project stayed on schedule without compromises to",
-        "name": "James Carter",
-        "role": "Project Manager, Apex Developments",
+        "quote": "\"Marshall Fire Ltd helped us navigate challenging fire regulations seamlessly. Their expertise kept our project compliant and on schedule.\"",
+        "name": "David Collins",
+        "role": "Project Manager, Collins Construction",
         "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their expertise in fire safety engineering was invaluable for our building design. They helped us meet regulations while optimizing",
-        "name": "Emma Taylor",
-        "role": "Architect, Horizon Design Studio",
+        "quote": "\"Their fire strategy plans were invaluable during planning. Marshall Fire is our go-to consultancy for reliable fire safety",
+        "name": "Sarah Mitchell",
+        "role": "Architect, Mitchell Design Studio",
         "avatar": "https://images.unsplash.com/photo-1603516270950-26e4f5004ffd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxjb25zdHJ1Y3Rpb24lMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MTY2MzYxN3ww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit Us",
-    "title": "Your Trusted Fire Safety Partner",
-    "description": "Connect with Marshall Fire Ltd to discuss your project’s fire safety needs and compliance strategies.",
-    "address": "",
-    "website": "",
+    "title": "Located in Stansted Mountfitchet",
+    "description": "Marshall Fire Ltd is based in the historic village of Stansted Mountfitchet, offering accessible services across England.",
+    "address": "Stansted Mountfitchet, England",
+    "website": "www.marshallfire.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get Started",
-    "title": "Request Your Consultation Today",
-    "description": "Contact us to explore tailored fire safety solutions for your project. Let’s ensure compliance and success together.",
+    "title": "Book Your Consultation Today",
+    "description": "Contact us to discuss your fire safety needs. Our team is ready to provide tailored solutions for your project.",
     "consent": "By submitting, you agree to our privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamlining Fire Safety with Technology",
-    "description": "Marshall Fire Ltd leverages automation to simplify fire safety processes for construction projects.",
+    "title": "Streamline Fire Safety Compliance",
+    "description": "Harness AI-driven tools to improve efficiency and accuracy in fire safety processes for construction projects.",
     "bullets": [
-      "Automated compliance checklists ensure regulations are met efficiently.",
-      "Online scheduling with reminders keeps consultations on track.",
-      "Secure client portal for document sharing and report generation."
+      "Automated compliance checklists ensure regulatory standards are met.",
+      "Secure client portals simplify document sharing and updates.",
+      "Online scheduling with reminders keeps consultations on track."
     ],
     "offer": "Mention Marshall Fire for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Marshall Fire delivers unforgettable experiences.",
-    "address": "",
+    "address": "Stansted Mountfitchet, England",
     "email": "",
     "socials": [
       {
