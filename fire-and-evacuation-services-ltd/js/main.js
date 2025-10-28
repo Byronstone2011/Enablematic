@@ -8,11 +8,11 @@ const appData = {
   },
   "hero": {
     "eyebrow": "Nationwide fire safety experts",
-    "title": "Rapid Fire Safety Solutions You Can Trust",
-    "description": "Ensure compliance, safeguard lives, and minimize risks with our expert fire services. From waking watch to event fire cover, we deploy accredited teams nationwide",
+    "title": "Rapid, compliant fire safety services tailored to you",
+    "description": "From waking watch to event fire cover, Fire & Evacuation Services Ltd ensures safety, compliance, and swift deployment across the UK. Avoid legal risks and",
     "highlights": [
       {
-        "label": "Years Protecting Commu",
+        "label": "Years of Expertise",
         "value": "10+"
       },
       {
@@ -20,8 +20,8 @@ const appData = {
         "value": "5,000+"
       },
       {
-        "label": "Compliance Success Rate",
-        "value": "99.8%"
+        "label": "Compliance Rate",
+        "value": "99.9%"
       }
     ],
     "image": "https://images.pexels.com/photos/5964739/pexels-photo-5964739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Certified Fire Professio",
-        "description": "Our teams are led by experienced firefighters with proven expertise in fire safety compliance and rapid response."
+        "title": "Qualified Expertise",
+        "description": "Firefighter-led teams with accredited fire safety training ensure compliance and professionalism."
       },
       {
-        "title": "24/7 Nationwide Coverage",
-        "description": "We offer nationwide services with fast dispatch times, ensuring prompt protection when you need it most."
+        "title": "Rapid Deployment",
+        "description": "24/7 emergency services with an SLA of four hours for urgent needs."
       },
       {
-        "title": "Compliance Made Simple",
-        "description": "Our services ensure full compliance with UK fire safety regulations, reducing legal risks for property managers."
+        "title": "Tailored Solutions",
+        "description": "Custom fire safety plans for events, high-rises, and unique property requirements."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We provide tailored fire safety solutions to meet your specific needs. From emergency deployments to fire safety training, we’ve got you covered.",
+    "description": "Comprehensive fire safety services designed for property managers, landlords, and event organizers.",
     "cards": [
       {
         "icon": "🛋️",
         "title": "Waking Watch Services",
-        "description": "Dedicated, trained professionals to monitor high-risk buildings and ensure occupant safety."
+        "description": "On-site teams for high-rise residential buildings, ensuring constant fire risk monitoring."
       },
       {
         "icon": "🛠️",
         "title": "Event Fire Cover",
-        "description": "Expert fire safety planning and on-site fire cover for events of all sizes."
+        "description": "Specialized fire safety and crowd management for venues and events of all sizes."
       },
       {
         "icon": "🎥",
-        "title": "Emergency Deployment",
-        "description": "Rapid dispatch of accredited fire safety teams for urgent on-site needs 24/7."
+        "title": "Compliance Consultanc",
+        "description": "Expert guidance to meet UK fire regulations and avoid legal exposure."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "Committed to Fire Safety Excellence",
+    "eyebrow": "Our Mission",
+    "title": "Ensuring safety and compliance nationwide",
     "paragraphs": [
-      "Fire & Evacuation Services Ltd was founded to address the critical need for reliable, compliant fire safety solutions across the UK. With a team of certified fire professionals, we pride ourselves on safeguarding lives and",
-      "By combining expertise with advanced technologies, we deliver fast, dependable services that meet the highest standards. Our client-focused approach ensures compliance, safety, and peace of mind for property managers and event organisers nationwide."
+      "Since our founding, Fire & Evacuation Services Ltd has been dedicated to protecting lives and property through expert fire safety solutions. With a focus on reliability and compliance, we serve clients across the UK with",
+      "Our services are tailored for landlords, property managers, and event organizers who need rapid, trusted fire safety solutions. By combining firefighter-led expertise with cutting-edge technology, we deliver peace of mind and legal compliance with every project."
     ],
     "image": "https://images.pexels.com/photos/7693223/pexels-photo-7693223.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What Our Clients Say",
-    "title": "Trusted by Property Managers & Event",
+    "eyebrow": "Client Feedback",
+    "title": "Trusted by property managers and event",
     "list": [
       {
-        "quote": "Their waking watch service helped us achieve full compliance in record time, protecting residents and reducing risk. Highly recommended!",
-        "name": "Sarah Williams",
+        "quote": "Fire & Evacuation Services Ltd helped our high-rise meet compliance standards while keeping residents safe. Their waking watch team was",
+        "name": "Sarah Wilson",
         "role": "Property Manager",
         "avatar": "https://images.pexels.com/photos/4427610/pexels-photo-4427610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "We rely on them for event fire cover—they’re professional, responsive, and always deliver peace of mind.",
-        "name": "James Mitchell",
-        "role": "Event Organiser",
+        "quote": "Their event fire cover ensured everything ran smoothly and safely. Highly recommend for any large-scale venue.",
+        "name": "James Carter",
+        "role": "Event Organizer",
         "avatar": "https://images.unsplash.com/photo-1589668944320-409833e5ba10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxnb3Zlcm5tZW50JTIwYWRtaW5pc3RyYXRpb24lMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MTY2MzY0Mnww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit Us",
-    "title": "Headquartered in Bromsgrove",
-    "description": "Located in Bromsgrove, England, we’re proud to serve communities and businesses nationwide with expert fire safety solutions.",
-    "address": "Bromsgrove, England",
+    "title": "Based in Leeds, serving the UK",
+    "description": "Located in Leeds, our team is proud to offer nationwide fire safety services. Leeds combines rich history with modern infrastructure, making it an ideal hub for",
+    "address": "Leeds, England",
     "website": "www.fireandevacuationservices.co.",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get In Touch",
-    "title": "Request a Consultation Today",
-    "description": "Contact us to discuss your fire safety needs. Our team is ready to assist with tailored solutions for your property or event.",
-    "consent": "Your privacy is important to us. By submitting, you consent to our team contacting you."
+    "eyebrow": "Get in Touch",
+    "title": "Request a consultation today",
+    "description": "Contact us for fire safety services tailored to your needs. Email Martyn Hughes at martyn@fireandevacuationservices.co.uk to get started.",
+    "consent": "We respect your privacy. Your information will only be used for consultation purposes."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Smart Fire Safety Solutions",
-    "description": "Leverage cutting-edge automation to streamline operations and ensure safety compliance effortlessly.",
+    "title": "Transform Fire Safety with AI Automation",
+    "description": "Harness automation to streamline fire safety operations and compliance tracking.",
     "bullets": [
-      "Automated booking and dispatch for rapid deployments within 4 hours.",
-      "Client portal to store compliance certifications and detailed service",
-      "Recurring invoicing and payment solutions for ongoing contracts."
+      "Automate booking and dispatch to meet 4-hour SLA requirements.",
+      "Centralize compliance documents and reports in a secure portal.",
+      "Simplify lead capture with CRM workflows and automated quoting."
     ],
     "offer": "Mention Fire and Evacuation Services Ltd for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Fire and Evacuation Services Ltd delivers unforgettable experiences.",
-    "address": "Bromsgrove, England",
+    "address": "Leeds, England",
     "email": "",
     "socials": [
       {
