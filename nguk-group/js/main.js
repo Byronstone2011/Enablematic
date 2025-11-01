@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
-    "name": "NGUK KITCHENS",
-    "tagline": "Modern Spaces, Timeless Craftsmanshi",
-    "category": "Kitchen & Home Refurbishment",
-    "location": "Colchester, Essex,",
-    "phone": "N/A"
+    "name": "NGUK Group",
+    "tagline": "",
+    "category": "",
+    "location": "",
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Bespoke Kitchen Solutions",
+    "eyebrow": "Premium bespoke kitchen solutio",
     "title": "Transform Your Home with Expert Renovations",
-    "description": "At NGUK KITCHENS, we specialize in creating stunning kitchens, bathrooms, and interiors tailored to your unique style. From modern designs to bespoke builds, our",
+    "description": "At NGUK KITCHENS, we specialize in bespoke kitchens, bedrooms, bathrooms, and extensions. From design to installation, our modern solutions enhance your space with",
     "highlights": [
       {
-        "label": "Projects Completed",
+        "label": "Kitchens Renovated",
         "value": "1,000+"
-      },
-      {
-        "label": "Client Satisfaction",
-        "value": "98%"
       },
       {
         "label": "Years of Expertise",
         "value": "15+"
+      },
+      {
+        "label": "Client Satisfaction",
+        "value": "98%"
       }
     ],
     "image": "https://images.pexels.com/photos/8978598/pexels-photo-8978598.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Bespoke Design Excellenc",
-        "description": "Custom-built kitchens, bathrooms & interiors that reflect your personal style."
+        "title": "Modern Bespoke Designs",
+        "description": "We craft personalized interiors that blend functionality and elegance, tailored to your lifestyle."
       },
       {
-        "title": "Modern Craftsmanship",
-        "description": "High-quality installations with precision and attention to detail."
+        "title": "Exceptional Craftsmanship",
+        "description": "Our expert team ensures every detail is executed with precision and care for lasting quality."
       },
       {
-        "title": "Stress-Free Project",
-        "description": "From planning to completion, we handle every step with care."
+        "title": "Seamless Project Manage",
+        "description": "From planning to installation, we handle every step to deliver your dream space stress-free."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We offer a wide range of renovation and design services tailored to enhance your home.",
+    "description": "NGUK KITCHENS offers a wide range of services to transform your home. Whether you're upgrading your kitchen, designing a new bedroom, or planning an",
     "cards": [
       {
-        "icon": "🏗",
-        "title": "Kitchen Renovations",
-        "description": "Complete kitchen transformations including bespoke designs, fittings, and modern upgrades."
+        "icon": "🏠",
+        "title": "Bespoke Kitchen Design",
+        "description": "Custom layouts, premium materials, and expert installations for the perfect kitchen space."
       },
       {
         "icon": "🛁",
-        "title": "Bathroom Installations",
-        "description": "Stylish and functional bathroom designs with expert fittings and finishes."
+        "title": "Bathroom Renovations",
+        "description": "Transform your bathroom into a luxurious space with modern designs and high-quality finishes."
       },
       {
-        "icon": "🛋",
-        "title": "Home Extensions",
-        "description": "Expand your living space with beautifully designed house extensions and loft conversions."
+        "icon": "🛏",
+        "title": "Bedroom & Wardrobe",
+        "description": "Create a serene and organized bedroom with custom wardrobes and innovative design solutions."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "A Legacy of Exceptional Spaces",
+    "eyebrow": "Our Story",
+    "title": "Crafting Spaces, Enhancing Lives",
     "paragraphs": [
-      "NGUK KITCHENS was founded to enhance living spaces with bespoke designs and expert craftsmanship. From Colchester to London, we’ve helped homeowners create their dream kitchens, bathrooms, and interiors while exceeding",
-      "Our commitment to quality, modern solutions, and seamless project management sets us apart. By combining your vision with our expertise, we deliver spaces that are functional, beautiful, and built to last."
+      "NGUK KITCHENS started with a vision to transform homes in Colchester, Essex, and beyond. Specializing in bespoke kitchens, bathrooms, and extensions, we combine modern aesthetics with practical design to create spaces that truly",
+      "With 15+ years of expertise, we understand the importance of quality craftsmanship and seamless project management. Our tailored solutions and customer-first approach ensure every project exceeds expectations, creating spaces you'll love for years to come."
     ],
     "image": "https://images.pexels.com/photos/20706509/pexels-photo-20706509.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Client Feedback",
-    "title": "What Our Clients Say",
+    "eyebrow": "Client Success Stories",
+    "title": "What Our Customers Say",
     "list": [
       {
-        "quote": "NGUK KITCHENS completely transformed our kitchen! The process was smooth, and the final design is stunning. Highly recommend their services.",
-        "name": "Laura Mitchell",
-        "role": "Homeowner",
+        "quote": "NGUK KITCHENS transformed my outdated kitchen into a stunning space. The team was professional and delivered exactly what I envisioned!",
+        "name": "Sarah P.",
+        "role": "Homeowner, Colchester",
         "avatar": "https://images.pexels.com/photos/10223593/pexels-photo-10223593.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "The team at NGUK KITCHENS handled everything from design to installation flawlessly. Our new bathroom is both stylish and practical!",
-        "name": "James Taylor",
-        "role": "Homeowner",
+        "quote": "From start to finish, NGUK KITCHENS made my bathroom renovation seamless and stress-free. I couldn’t be happier with the final result!",
+        "name": "James R.",
+        "role": "Homeowner, Essex",
         "avatar": "https://images.unsplash.com/photo-1576325782614-1df4c30918e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxLaXRjaGVuJTIwJTI2JTIwaG9tZSUyMHJlZnVyYmlzaG1lbnQlMjAlMjhLaXRjaGVucyUyQyUyMGJlZHJvb21zJTJDJTIwYmF0aHJvb21zJTJDJTIwZXh0ZW5zaW9ucyUyOSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyMDIwMDIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit Us",
-    "title": "Discover NGUK KITCHENS",
-    "description": "We serve Colchester, Essex, Hornchurch, and London. Experience our bespoke craftsmanship and see how we can transform your home.",
-    "address": "Colchester, Essex, UK",
-    "website": "www.ngukkitchens.co.uk",
+    "title": "Discover Our Expertise",
+    "description": "Explore the artistry and craftsmanship of NGUK KITCHENS. Our team is ready to help you create your dream home.",
+    "address": "Colchester, Essex",
+    "website": "www.ngukgroup.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Schedule Your Free Consultation",
-    "description": "Contact us today to discuss your project and bring your vision to life. Get started with a free consultation!",
-    "consent": "By submitting, you agree to our terms & privacy policy."
+    "eyebrow": "Get Started Today",
+    "title": "Schedule Your Consultation",
+    "description": "Contact us to book a free consultation or on-site assessment. Let’s bring your vision to life!",
+    "consent": "Your details are safe with us and will not be shared."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline Your Renovation Process",
-    "description": "Transform your operations with AI-powered tools tailored to home renovation businesses.",
+    "title": "Revolutionize Your Renovation Experience",
+    "description": "Harness the power of AI and automation to streamline your renovation journey.",
     "bullets": [
-      "Simplify bookings with an online consultation scheduler.",
-      "Automate lead follow-ups and proposal delivery to save time.",
-      "Use project management tools to streamline schedules and updates."
+      "Instant online booking for consultations and assessments.",
+      "Automated proposals and follow-ups for faster decision-making.",
+      "Effortless project tracking with integrated management tools."
     ],
-    "offer": "Mention NGUK KITCHENS for the launch-week optimization kit.",
+    "offer": "Mention NGUK Group for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.com",
     "phone": "(718) 555-0198",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "NGUK KITCHENS delivers unforgettable experiences.",
-    "address": "Colchester, Essex, UK",
+    "blurb": "NGUK Group delivers unforgettable experiences.",
+    "address": "Colchester, Essex",
     "email": "",
     "socials": [
       {
