@@ -7,21 +7,21 @@ const appData = {
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Elevating luxury living",
-    "title": "Bespoke homes, flawless execution",
-    "description": "Guy Phoenix delivers unmatched luxury residential development and interior design services, streamlining the process with premium craftsmanship and personalized",
+    "eyebrow": "Luxury Redefined",
+    "title": "Crafting Bespoke Homes with Precision & Elegance",
+    "description": "At Guy Phoenix, we specialize in delivering high-end residences and transformations tailored to your vision. From seamless design to flawless execution, our",
     "highlights": [
       {
-        "label": "Luxury Homes Designed",
-        "value": "200+"
+        "label": "Years of Experience",
+        "value": "20+"
       },
       {
-        "label": "Client Satisfaction",
-        "value": "98%"
+        "label": "Luxury Homes Delivered",
+        "value": "300+"
       },
       {
-        "label": "Years of Expertise",
-        "value": "15+"
+        "label": "Client Satisfaction Rate",
+        "value": "97%"
       }
     ],
     "image": "https://images.pexels.com/photos/5691591/pexels-photo-5691591.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Uncompromising Quality",
-        "description": "Our homes feature meticulous attention to detail, premium materials, and craftsmanship that transcends expectations."
+        "title": "Exceptional Design",
+        "description": "Our portfolio showcases visionary designs that embody sophistication and timeless elegance."
       },
       {
-        "title": "Seamless Design Process",
-        "description": "From concept to completion, we ensure a stress-free experience with streamlined project management and clear"
+        "title": "Seamless Process",
+        "description": "From concept to completion, our streamlined project management ensures every detail is executed flawlessly."
       },
       {
-        "title": "Exclusive Client Focus",
-        "description": "We specialize in tailored solutions for high-net-worth individuals, delivering personalized homes and renovations."
+        "title": "Unmatched Expertise",
+        "description": "With two decades of experience, we bring unparalleled craftsmanship to every project."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Our services redefine luxury living with bespoke property development and high-end interior design expertise.",
+    "description": "From bespoke homes to high-end interiors, Guy Phoenix transforms your vision into reality.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Bespoke Home Development",
-        "description": "Create your dream home from the ground up with custom design and expert craftsmanship."
+        "description": "Specializing in luxurious new builds tailored to your unique lifestyle and preferences."
       },
       {
         "icon": "🔨",
-        "title": "Premium Renovations",
-        "description": "Transform existing spaces with innovative, high-end refurbishment solutions tailored to your vision."
+        "title": "Renovations & Refurbish",
+        "description": "Transform your property with high-end renovations that enhance its value and beauty."
       },
       {
-        "icon": "🏡",
+        "icon": "🎨",
         "title": "Turnkey Interior Desi",
-        "description": "From concept to completion, we deliver fully managed luxury interiors ready for your lifestyle."
+        "description": "Complete interior design and project management for seamless luxury living."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Built on artistry and precision",
+    "eyebrow": "Our Story",
+    "title": "Built on Craftsmanship & Vision",
     "paragraphs": [
-      "Guy Phoenix was founded on the vision of creating exquisite homes that embody luxury, sophistication, and functionality. With a dedication to flawless craftsmanship, we’ve redefined residential property development and interior",
-      "We understand the unique needs of high-net-worth homeowners, delivering bespoke solutions that simplify the process while ensuring exceptional results. With streamlined workflows and a focus on client satisfaction, we bring dream homes to life, effortlessly."
+      "Guy Phoenix was founded with a passion for creating luxurious, bespoke properties that combine timeless elegance with cutting-edge innovation. Over two decades, we've curated exceptional homes that reflect the individuality of",
+      "We understand the unique needs of high-net-worth individuals, delivering a seamless, personalized experience with unmatched attention to detail. Our automated systems ensure efficiency, allowing clients to focus on their vision while we handle the intricacies."
     ],
     "image": "https://images.pexels.com/photos/7414904/pexels-photo-7414904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Client experiences",
-    "title": "Transforming visions into reality",
+    "eyebrow": "Client Praise",
+    "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "Guy Phoenix exceeded my expectations with stunning craftsmanship and seamless project management. They made the process effortless and",
-        "name": "Sarah Johnson",
-        "role": "Property Owner",
+        "quote": "Guy Phoenix transformed our home into a masterpiece. Their process was seamless and exceeded our expectations.",
+        "name": "Sarah Middleton",
+        "role": "Luxury Homeowner",
         "avatar": "https://images.pexels.com/photos/5589437/pexels-photo-5589437.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "The bespoke design and attention to detail were extraordinary. Guy Phoenix transformed my home into a luxurious oasis, with every",
+        "quote": "Every detail was perfect. The team’s professionalism made creating our dream home effortless.",
         "name": "James Carter",
-        "role": "Homeowner",
+        "role": "Property Investor",
         "avatar": "https://images.unsplash.com/photo-1628592102751-ba83b0314276?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxMdXh1cnklMjByZXNpZGVudGlhbCUyMHByb3BlcnR5JTIwZGV2ZWxvcG1lbnQlMjAlMjYlMjBpbnRlcmlvciUyMGRlc2lnbiUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyMDIzNjE2fDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Discover luxury living",
-    "title": "Location matters",
-    "description": "Explore the elegance and artistry of Guy Phoenix properties in premium locations across the UK.",
-    "address": "Unavailable",
-    "website": "www.guyphoenix.com",
+    "eyebrow": "Visit Us",
+    "title": "Experience Luxury in Every Detail",
+    "description": "Explore our portfolio and consult with our experts to begin your journey to a dream home.",
+    "address": "",
+    "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Start your journey",
-    "title": "Schedule a consultation",
-    "description": "Contact us today to discuss your bespoke home or renovation project and experience luxury redefined.",
-    "consent": "By submitting, you consent to receive project updates and communications."
+    "eyebrow": "Get Started",
+    "title": "Let’s Build Your Dream Home",
+    "description": "Contact us today to book your consultation or request a bespoke proposal.",
+    "consent": "We respect your privacy and will never share your information."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline luxury property development",
-    "description": "Harness AI and automation to enhance client experience and project efficiency.",
+    "title": "Transforming Luxury Home Processes",
+    "description": "Streamline your journey to a bespoke property with cutting-edge automation tools.",
     "bullets": [
-      "Automated lead capture ensures no opportunity is missed.",
-      "Online booking simplifies scheduling consultations and follow-ups.",
-      "Client portals provide real-time project updates and milestones."
+      "Automated lead capture for effortless client onboarding.",
+      "Online booking and scheduling for convenience and flexibility.",
+      "Client portal for real-time project updates and milestone tracking."
     ],
     "offer": "Mention Guy Phoenix Luxury Developments for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Guy Phoenix Luxury Developments delivers unforgettable experiences.",
-    "address": "Unavailable",
+    "address": "",
     "email": "",
     "socials": [
       {
