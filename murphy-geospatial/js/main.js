@@ -7,21 +7,21 @@ const appData = {
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Data-driven decisions simplifie",
-    "title": "Accurate Geospatial Data for Every Project Stage",
-    "description": "Murphy Geospatial provides precise surveying, monitoring, and data governance solutions to reduce risks, improve safety, and ensure project success.",
+    "eyebrow": "Precision in Geospatial Data",
+    "title": "Eliminating Risk with Accurate Geospatial Intelligence",
+    "description": "Murphy Geospatial delivers precise surveying, monitoring, and data governance solutions to empower confident decision-making across the project lifecycle.",
     "highlights": [
       {
+        "label": "Years of Expertise",
+        "value": "38+"
+      },
+      {
         "label": "Projects Completed",
-        "value": "3,000+"
+        "value": "10,000+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
-      },
-      {
-        "label": "Years of Expertise",
-        "value": "35+"
       }
     ],
     "image": "https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -32,89 +32,89 @@ const appData = {
     "items": [
       {
         "title": "Unmatched Accuracy",
-        "description": "We deliver verified geospatial data, ensuring precision and reliability across diverse industries."
+        "description": "We leverage cutting-edge technology to provide the most precise geospatial data, reducing design and construction"
       },
       {
-        "title": "End-to-End Solutions",
-        "description": "From data capture to governance, our holistic approach supports projects at every stage."
+        "title": "Real-Time Monitoring",
+        "description": "Our advanced solutions offer live monitoring with instant alerts, ensuring safety and proactive issue resolution."
       },
       {
-        "title": "Innovative Technology",
-        "description": "Leveraging cutting-edge tools like GeoCERT® for seamless data governance and monitoring."
+        "title": "Trusted Data Governance",
+        "description": "With our proprietary GeoCERT® system, we prioritize data integrity and streamline workflows for reliable outputs."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Providing industry-leading geospatial services, we enable informed decisions through advanced surveying, monitoring, and consultancy solutions.",
+    "description": "From surveying to monitoring, we provide innovative solutions designed to ensure accuracy, safety, and informed decision-making.",
     "cards": [
       {
-        "icon": "📐",
+        "icon": "🏗",
         "title": "Surveying & Topographic",
-        "description": "Accurate land and infrastructure surveys for precise planning, design, and execution."
+        "description": "Delivering high-precision surveys for construction, engineering, and infrastructure projects."
       },
       {
-        "icon": "📊",
-        "title": "Monitoring Services",
-        "description": "Real-time structural and environmental monitoring to ensure safety and prevent delays."
+        "icon": "📡",
+        "title": "Monitoring Solutions",
+        "description": "Real-time monitoring for structural integrity, safety, and performance through advanced technologies."
       },
       {
-        "icon": "💡",
+        "icon": "💼",
         "title": "Geospatial Consultanc",
-        "description": "Expert guidance and data governance solutions with our proprietary GeoCERT® system."
+        "description": "Expert guidance in geospatial data governance with our innovative GeoCERT® system."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Legacy",
-    "title": "Empowering Projects Through Precision",
+    "eyebrow": "Our Journey",
+    "title": "Empowering Businesses with Geospatial Precision",
     "paragraphs": [
-      "For over 35 years, Murphy Geospatial has been a trusted leader in capturing, verifying, and governing geospatial data. We understand that accurate data is the foundation of successful engineering and construction projects.",
-      "Through our advanced technology, expertise, and commitment to innovation, we partner with our clients to reduce risks, ensure safety, and deliver seamless solutions. From local projects to global infrastructure, we bring clarity to complex challenges."
+      "Murphy Geospatial has been at the forefront of geospatial innovation for decades, capturing and verifying data that drives successful projects. Our commitment to accuracy ensures project safety and efficiency across sectors.",
+      "As a Woolpert Company, we combine people, process, and technology to deliver unmatched solutions. Our expertise in monitoring and data governance helps clients mitigate risks and achieve operational excellence."
     ],
     "image": "https://images.pexels.com/photos/8353805/pexels-photo-8353805.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Customer Stories",
-    "title": "Trusted by Industry Leaders",
+    "eyebrow": "Hear from Our Clients",
+    "title": "Trusted by Leading Industries",
     "list": [
       {
-        "quote": "Murphy Geospatial's monitoring solutions helped us avoid costly delays by identifying risks early. Their precision is unmatched.",
-        "name": "John Talbot",
-        "role": "Construction Project Manager",
+        "quote": "Murphy Geospatial’s monitoring solutions are vital to our project safety. Their real-time alerts have saved us from costly delays more than",
+        "name": "Jane Thompson",
+        "role": "Project Manager, Engineering Consulta",
         "avatar": "https://images.pexels.com/photos/8090141/pexels-photo-8090141.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their GeoCERT® system revolutionized our data workflows. We now have real-time insights and confidence in every decision.",
-        "name": "Sarah Mitchell",
-        "role": "Infrastructure Consultant",
+        "quote": "Their GeoCERT® system is a game-changer for data governance. We now have a streamlined process that ensures accuracy across all",
+        "name": "Mark Williams",
+        "role": "Operations Director, Construction",
         "avatar": "https://images.unsplash.com/photo-1526593740665-f57a5d42dd0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxHZW9zcGF0aWFsJTIwY29uc3VsdGFuY3klMjAlMkYlMjBTdXJ2ZXlpbmclMjAlMjYlMjBNb25pdG9yaW5nJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIwNTI0MTh8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Location Matters",
-    "title": "Explore Our Reach",
-    "description": "Strategically located to serve engineering, construction, and public sector projects across the UK and Europe.",
+    "eyebrow": "Find Us",
+    "title": "Connect with Murphy Geospatial",
+    "description": "Reach out to us for tailored geospatial solutions that drive efficiency and minimize risks.",
     "address": "Contact us for location details.",
     "website": "www.murphygs.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started Today",
-    "title": "Schedule a Consultation",
-    "description": "Contact us to discuss your project needs and discover how Murphy Geospatial can deliver precision solutions.",
-    "consent": "By submitting, you agree to our privacy policy."
+    "eyebrow": "Start Your Project",
+    "title": "Get in Touch Today",
+    "description": "Contact us to discuss your project requirements and learn how our geospatial solutions can help.",
+    "consent": "By submitting, you agree to our terms and privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Unlock the Power of AI in Geospatial Data",
-    "description": "Leverage advanced automation to streamline workflows and improve decision-making.",
+    "title": "Powering Geospatial Insights with AI",
+    "description": "Transform how you use geospatial data with AI-driven automation.",
     "bullets": [
-      "Automate sensor data ingestion for real-time monitoring and alerts.",
-      "Simplify reporting and quality assurance with optimized workflows.",
-      "Integrate GeoCERT® for efficient data governance and seamless project"
+      "Automate sensor data ingestion for live dashboards and instant alerts.",
+      "Streamline reporting and QA processes with intelligent workflows.",
+      "Enhance data accuracy and governance with the GeoCERT® system."
     ],
     "offer": "Mention Murphy Geospatial for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
