@@ -1,18 +1,18 @@
 const appData = {
   "brand": {
-    "name": "NAB Contractor",
-    "tagline": "Concrete expertise built strong",
+    "name": "NAB Contractor Ltd",
+    "tagline": "Concrete Experts Since 2005",
     "category": "Construction",
     "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted construction experts",
-    "title": "Streamlining concrete projects efficiently",
-    "description": "With 18+ years of experience, we deliver RC frames, groundworks, and turn-key solutions with precision and reliability.",
+    "eyebrow": "Your trusted construction",
+    "title": "Streamline your construction projects today.",
+    "description": "With 18+ years of expertise, we simplify RC frames, groundworks, and fit-outs for developers and contractors.",
     "highlights": [
       {
-        "label": "Years of Experience",
+        "label": "Years in Business",
         "value": "18+"
       },
       {
@@ -32,91 +32,91 @@ const appData = {
     "items": [
       {
         "title": "Proven Expertise",
-        "description": "18+ years of delivering top-quality concrete and groundworks solutions."
+        "description": "Over 18 years of experience in concrete and construction solutions."
       },
       {
-        "title": "Turn-key Solutions",
-        "description": "Complete packages from planning to interior fit-outs for seamless builds."
+        "title": "Quality Assurance",
+        "description": "Adherence to strict HSQE standards ensures reliability and safety."
       },
       {
-        "title": "Reliable Partnerships",
-        "description": "Trusted by developers and contractors for excellence and consistency."
+        "title": "End-to-End Services",
+        "description": "Comprehensive solutions from groundworks to interior fit-outs."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "NAB Contractor Ltd specializes in delivering high-quality construction solutions tailored to diverse needs.",
+    "description": "We deliver top-tier construction services tailored to your project needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "RC Frames & Groundworks",
-        "description": "Precision-built reinforced concrete frames and robust groundwork services."
+        "description": "High-performance reinforced concrete frames and groundwork solutions."
       },
       {
         "icon": "🏠",
         "title": "Turn-key New Builds",
-        "description": "End-to-end construction packages ensuring smooth project delivery."
+        "description": "Complete construction packages from concept to completion."
       },
       {
         "icon": "🛠",
         "title": "Interior Fit-Outs",
-        "description": "Tailored interiors that bring functionality and style to every space."
+        "description": "Precision interior finishes designed to meet your standards."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "Built on a foundation of excellence",
+    "eyebrow": "A legacy of excellenc",
+    "title": "Our journey in construction",
     "paragraphs": [
-      "Founded by Naib Singh Aulakh, NAB Contractor Ltd brings 18+ years of expertise in concrete solutions. We specialize in RC frames, groundworks, and turn-key builds.",
-      "We provide reliable and efficient services that meet client needs. Our focus on quality and safety makes us a trusted partner in the construction industry."
+      "Founded by Naib Singh Aulakh, NAB Contractor Ltd has built a reputation for concrete and groundworks expertise over 18 years.",
+      "By combining innovation and strict HSQE standards, we deliver reliable and efficient construction solutions for large-scale projects."
     ],
     "image": "https://images.pexels.com/photos/8961160/pexels-photo-8961160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Trust built over time",
+    "eyebrow": "What clients say",
+    "title": "Real results, real satisfaction",
     "list": [
       {
-        "quote": "NAB Contractor streamlined our RC frame projects with unmatched precision and reliability.",
-        "name": "John Stevens",
+        "quote": "NAB transformed our project with seamless groundworks and precision concrete frames.",
+        "name": "John Smith",
         "role": "Construction Manager",
         "avatar": "https://images.pexels.com/photos/17482906/pexels-photo-17482906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their turn-key solutions saved us time and ensured top-notch results every step of the way.",
-        "name": "Emily Carter",
-        "role": "Developer",
+        "quote": "Their turn-key approach saved us time and delivered exceptional quality.",
+        "name": "Sarah Davis",
+        "role": "Project Developer",
         "avatar": "https://images.unsplash.com/photo-1496038423529-aac021f11fee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMjhDb25jcmV0ZSUyQyUyMEdyb3VuZHdvcmtzJTIwJTI2JTIwUkMlMjBGcmFtZXMlMjklMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjM4Mzc2M3ww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Your project starts here",
-    "description": "Contact us to discuss your construction needs. Together, we’ll build your vision.",
+    "eyebrow": "Where we work",
+    "title": "Explore our projects",
+    "description": "We operate across various regions, providing construction expertise to developers and contractors.",
     "address": "",
     "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Request a Consultation",
-    "description": "Reach out today for a personalized quote and project solutions tailored to you.",
-    "consent": "By submitting, you agree to our terms."
+    "eyebrow": "Reach out today",
+    "title": "Get a custom quote",
+    "description": "Contact NAB Contractor Ltd to discuss your construction needs or request a consultation.",
+    "consent": "We value your privacy and data."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline Construction Projects",
-    "description": "Leverage AI and automation to simplify workflows and improve efficiency.",
+    "title": "Streamline with AI solutions",
+    "description": "Boost efficiency and grow leads with automation tailored for construction.",
     "bullets": [
-      "Automated tender submissions and client follow-ups.",
-      "Integrated project management tools for teams.",
-      "Digital HSQE compliance with automated safety audits."
+      "Automated tender submissions simplify workflows.",
+      "CRM tools for instant follow-ups and reporting.",
+      "Digital compliance reporting ensures HSQE standards."
     ],
-    "offer": "Mention NAB Contractor for the launch-week optimization kit.",
+    "offer": "Mention NAB Contractor Ltd for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,7 +124,7 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "NAB Contractor delivers unforgettable experiences.",
+    "blurb": "NAB Contractor Ltd delivers unforgettable experiences.",
     "address": "",
     "email": "",
     "socials": [
