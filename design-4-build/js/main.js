@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
-    "name": "Design 4 Build Ltd",
-    "tagline": "Stone cladding solutions",
-    "category": "Building materials supplier",
+    "name": "Design 4 Build",
+    "tagline": "Precision in Stone",
+    "category": "Stone Cladding Supplier",
     "location": "United Kingdom",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted by architects",
-    "title": "Streamlined cladding solutions for every design",
-    "description": "We simplify ordering and provide technical support, ensuring seamless integration into your projects.",
+    "eyebrow": "Architectural cladding experts",
+    "title": "Streamlined solutions for cladding needs.",
+    "description": "Design 4 Build Ltd simplifies quoting and offers expert technical support for architects and builders.",
     "highlights": [
       {
-        "label": "Projects Supplied",
-        "value": "3,000+"
+        "label": "Years in Business",
+        "value": "15+"
       },
       {
-        "label": "Customer Satisfaction",
-        "value": "95%"
+        "label": "Projects Completed",
+        "value": "2,500+"
       },
       {
-        "label": "Years of Experience",
-        "value": "20+"
+        "label": "Client Satisfaction",
+        "value": "98%"
       }
     ],
     "image": "https://images.pexels.com/photos/19783674/pexels-photo-19783674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Comprehensive Catalog",
-        "description": "Explore diverse stone cladding options tailored to architectural needs."
+        "title": "Exceptional Craftsmanshi",
+        "description": "We deliver high-quality stone cladding with unmatched precision."
       },
       {
-        "title": "Expert Support",
-        "description": "We assist with technical specs and installation guidance for trade clients."
+        "title": "Streamlined Processes",
+        "description": "Our tools simplify quoting and ordering for trade clients."
       },
       {
-        "title": "Seamless Ordering",
-        "description": "Our online tools simplify quoting and ordering, saving you time."
+        "title": "Sustainable Materials",
+        "description": "We offer eco-friendly solutions without compromising style."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We provide premium stone cladding materials for interior, exterior, and landscaping designs.",
+    "description": "Design 4 Build Ltd provides tailored cladding solutions for every project.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Exterior Stone Cladding",
-        "description": "Durable cladding solutions for architectural facades and outdoor spaces."
+        "description": "Durable stone cladding for outdoor projects and facades."
       },
       {
-        "icon": "🏡",
-        "title": "Interior Stone Panels",
-        "description": "Elegant stone finishes to elevate interior designs and spaces."
+        "icon": "🛋",
+        "title": "Interior Stone Finishes",
+        "description": "Elegant stone finishes for modern interior designs."
       },
       {
-        "icon": "🌱",
-        "title": "Landscape Cladding",
-        "description": "Natural stone materials perfect for patios, walls, and garden designs."
+        "icon": "🌿",
+        "title": "Landscaping Stone",
+        "description": "Natural stone cladding for stunning landscape designs."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Crafting timeless designs",
+    "eyebrow": "Our Journey",
+    "title": "Crafting Timeless Stone Cladding",
     "paragraphs": [
-      "Design 4 Build Ltd specializes in premium stone cladding, offering versatile solutions for architectural, interior, and landscape designs.",
-      "We empower professionals with streamlined tools, expert support, and quality materials tailored to their projects."
+      "Design 4 Build Ltd specializes in premium stone cladding for architectural, interior, and landscape projects. We focus on precision and style.",
+      "With over 15 years of experience, we simplify processes for professionals, offering tailored solutions and sustainable materials to elevate designs."
     ],
     "image": "https://images.pexels.com/photos/16488698/pexels-photo-16488698.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Real feedback from professionals",
+    "eyebrow": "Client Feedback",
+    "title": "Hear From Our Customers",
     "list": [
       {
-        "quote": "Their technical support made installation seamless and saved us time on-site.",
-        "name": "Sarah Johnson",
+        "quote": "Their streamlined quoting made ordering simple. The technical support was invaluable.",
+        "name": "Sarah J.",
         "role": "Architect",
         "avatar": "https://images.pexels.com/photos/4937198/pexels-photo-4937198.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "The online quoting tool was easy to use, and the materials were top-notch!",
-        "name": "David Lee",
+        "quote": "The quality of their stone cladding transformed our project's exterior completely.",
+        "name": "John M.",
         "role": "Builder",
         "avatar": "https://images.unsplash.com/photo-1751732255007-50915a6ceadf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxCdWlsZGluZyUyMG1hdGVyaWFscyUyMCUyRiUyMHN0b25lJTIwY2xhZGRpbmclMjBzdXBwbGllciUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyMzU4NTExfDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find us",
-    "title": "Explore our offerings",
-    "description": "Discover premium cladding solutions designed for UK professionals.",
+    "eyebrow": "Explore Our Location",
+    "title": "Visit Design 4 Build Ltd",
+    "description": "Experience our materials firsthand and consult with our experts.",
     "address": "",
     "website": "www.design4build.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started",
-    "title": "Request a quote today",
-    "description": "Contact us to discuss your project and explore our tailored solutions.",
-    "consent": "By submitting, you agree to our terms."
+    "eyebrow": "Get Started Today",
+    "title": "Request a Quote",
+    "description": "Contact us to discuss your project and request a tailored quote.",
+    "consent": "By inquiring, you consent to receive responses."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Efficiency through automation",
-    "description": "Streamline your projects with our AI-powered tools.",
+    "title": "Boost Efficiency with Automation",
+    "description": "Leverage AI to optimize your cladding needs.",
     "bullets": [
-      "Instant quotes via our online catalog.",
-      "Automated lead capture and follow-ups.",
-      "Simplified spec pack requests for projects."
+      "Instant quoting tools for faster approvals.",
+      "Automated CRM workflows for smooth follow-ups.",
+      "Online catalog for easy product selection."
     ],
-    "offer": "Mention Design 4 Build Ltd for the launch-week optimization kit.",
+    "offer": "Mention Design 4 Build for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,7 +124,7 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Design 4 Build Ltd delivers unforgettable experiences.",
+    "blurb": "Design 4 Build delivers unforgettable experiences.",
     "address": "",
     "email": "",
     "socials": [
