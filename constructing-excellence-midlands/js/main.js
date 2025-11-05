@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
-    "name": "Constructing Midlan",
+    "name": "CE Midlands",
     "tagline": "Building Collaboration",
-    "category": "Construction Innovation",
-    "location": "",
+    "category": "Construction Network",
+    "location": "Midlands, UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Driving industry growth",
+    "eyebrow": "Driving industry progress",
     "title": "Connecting construction leaders.",
-    "description": "We foster collaboration and innovation to solve inefficiencies and improve standards across the Midlands construction sector.",
+    "description": "We empower collaboration, share insights, and promote best practices to transform the Midlands construction sector.",
     "highlights": [
       {
-        "label": "Events Hosted",
-        "value": "300+"
+        "label": "Years of Expertise",
+        "value": "15+"
       },
       {
-        "label": "Members Engaged",
+        "label": "Events Hosted",
         "value": "500+"
       },
       {
-        "label": "Years of Expertise",
-        "value": "20+"
+        "label": "Members Engaged",
+        "value": "1,000+"
       }
     ],
     "image": "https://images.pexels.com/photos/33634824/pexels-photo-33634824.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -32,91 +32,91 @@ const appData = {
     "items": [
       {
         "title": "Knowledge Sharing",
-        "description": "Events and publications keep members informed and ahead of industry trends."
+        "description": "We host events to foster learning and industry collaboration across the construction sector."
       },
       {
-        "title": "Innovative Platform",
-        "description": "A dynamic network fosters collaboration and drives impactful solutions."
+        "title": "Innovation Leadership",
+        "description": "Our Theme Groups drive advancements, setting benchmarks for best practices and standards."
       },
       {
-        "title": "Trusted Leadership",
-        "description": "Decades of experience guiding construction excellence in the Midlands."
+        "title": "Networking Platform",
+        "description": "We connect stakeholders to build partnerships and strengthen the Midlands construction community."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Our services empower professionals with tools, resources, and opportunities to thrive.",
+    "description": "Innovative events, resources, and networking to advance construction industry standards.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Knowledge Events",
-        "description": "Join workshops, conferences, and networking events tailored for industry growth."
+        "title": "Events & Workshops",
+        "description": "Join conferences, workshops, and networking events to share knowledge and drive progress."
       },
       {
         "icon": "💼",
-        "title": "Thought Leadership",
-        "description": "Engage with Theme Groups to drive innovation and share cutting-edge insights."
+        "title": "Theme Groups",
+        "description": "Collaborate on innovation and thought leadership to shape the future of construction."
       },
       {
         "icon": "📚",
-        "title": "Best Practices",
-        "description": "Access guidance and publications to implement industry standards effectively."
+        "title": "Guidance & Publicatio",
+        "description": "Access best practice resources and insights to enhance efficiency and reduce risks."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our mission",
-    "title": "Empowering construction excellence.",
+    "eyebrow": "Our journey",
+    "title": "Leading construction excellence.",
     "paragraphs": [
-      "Constructing Excellence Midlands unites stakeholders to share knowledge, solve challenges, and improve outcomes in the construction sector.",
-      "Through collaboration, innovation, and trusted leadership, we help members adopt best practices, reduce inefficiencies, and drive sustainable growth."
+      "Constructing Excellence Midlands unites industry professionals to share knowledge, innovate, and set standards. We empower the Midlands construction community to thrive.",
+      "Through events, Theme Groups, and networking, we solve inefficiencies and streamline collaboration. Our tools ensure long-term impact for members and stakeholders."
     ],
     "image": "https://images.pexels.com/photos/32845681/pexels-photo-32845681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What our members say",
-    "title": "Impactful connections.",
+    "eyebrow": "What members say",
+    "title": "Proven results, trusted network.",
     "list": [
       {
-        "quote": "Their events and resources have transformed how we collaborate and innovate. A game-changer!",
-        "name": "Jane Smith",
+        "quote": "CE Midlands connects us with industry leaders and provides actionable guidance to improve efficiency.",
+        "name": "Sarah Johnson",
         "role": "Project Manager",
         "avatar": "https://images.pexels.com/photos/5474036/pexels-photo-5474036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Constructing Excellence Midlands has helped us adopt best practices and improve efficiency across projects.",
-        "name": "John Doe",
+        "quote": "The workshops and publications helped us adopt best practices and deliver better results.",
+        "name": "Mark Evans",
         "role": "Construction Consultant",
         "avatar": "https://images.unsplash.com/photo-1703585571126-07d02f357d2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMjhpbmR1c3RyeSUyMG1lbWJlcnNoaXAlMjAlMkYlMjBpbm5vdmF0aW9uJTIwbmV0d29yayUyOSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyMzgzODA0fDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us",
-    "title": "Explore new opportunities.",
-    "description": "Connect with professionals and discover the future of construction innovation in the Midlands.",
-    "address": "",
+    "eyebrow": "Join us locally",
+    "title": "Located in the Midlands",
+    "description": "Our central presence connects professionals across the region, fostering collaboration and growth.",
+    "address": "Midlands, UK",
     "website": "www.cemidlands.org",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Join our network today!",
-    "description": "Contact Andrew Carpenter to learn how to become part of our dynamic community.",
-    "consent": "We value your privacy and will not share your data."
+    "eyebrow": "Get involved",
+    "title": "Partner with CE Midlands",
+    "description": "Join our network, attend events, or access resources to drive construction excellence.",
+    "consent": "By submitting, you agree to be contacted."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your operations.",
-    "description": "Leverage AI automation to simplify processes and maximize efficiency.",
+    "title": "Streamline with AI",
+    "description": "Automation optimizes operations for CE Midlands, saving time and enhancing efficiency.",
     "bullets": [
-      "Automate event registration and reminders for seamless experiences.",
-      "Simplify member onboarding and renewals with CRM tools.",
-      "Effortlessly distribute publications through automated workflows."
+      "Automate event registration and reminders.",
+      "Streamline member management and onboarding.",
+      "Distribute publications with targeted workflows."
     ],
-    "offer": "Mention Constructing Midlan for the launch-week optimization kit.",
+    "offer": "Mention CE Midlands for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Constructing Midlan delivers unforgettable experiences.",
-    "address": "",
+    "blurb": "CE Midlands delivers unforgettable experiences.",
+    "address": "Midlands, UK",
     "email": "",
     "socials": [
       {
