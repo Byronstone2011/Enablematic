@@ -1,22 +1,22 @@
 const appData = {
   "brand": {
     "name": "A1 Flue Systems",
-    "tagline": "Precision Flue Solutions",
-    "category": "Flue Systems & Ventilation",
+    "tagline": "Flue solutions, perfected.",
+    "category": "HVAC & Ventilation",
     "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted Industry Leader",
-    "title": "Efficient flue systems tailored to you.",
-    "description": "We design, manufacture, and maintain flue systems that ensure safety, compliance, and optimal performance for your building needs.",
+    "eyebrow": "Trusted by professionals",
+    "title": "Streamlined flue & lighting solutions.",
+    "description": "We design, install, and maintain flue systems while ensuring compliance and efficiency. Simplify your projects with expert service.",
     "highlights": [
       {
-        "label": "Years of Experience",
+        "label": "Years in Business",
         "value": "50+"
       },
       {
-        "label": "Installations Completed",
+        "label": "Systems Installed",
         "value": "10,000+"
       },
       {
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Certified Expertise",
-        "description": "Extensive certifications ensure safety and compliance for every project."
+        "title": "50 Years of Expertise",
+        "description": "Our decades of industry experience ensure reliable solutions tailored to your needs."
       },
       {
-        "title": "Custom Solutions",
-        "description": "Tailored designs for commercial and domestic buildings."
+        "title": "Certified Professionals",
+        "description": "We hold multiple accreditations, ensuring safety and regulatory compliance."
       },
       {
-        "title": "Proven Reliability",
-        "description": "50+ years of trusted service in flue and ventilation systems."
+        "title": "Exceptional Quality",
+        "description": "Our robust systems are designed for durability and efficiency in every project."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Our services cover every stage of flue systems, from design to maintenance.",
+    "description": "Comprehensive solutions for flue, ventilation, and lighting systems.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Design Services",
-        "description": "We create custom flue and ventilation systems for any building type."
+        "title": "Flue System Design",
+        "description": "Custom designs for commercial and domestic flue systems tailored to your needs."
       },
       {
         "icon": "⚙️",
-        "title": "Manufacturing",
-        "description": "Advanced manufacturing ensures quality and durability."
+        "title": "Installation & Maintena",
+        "description": "Expert installation and servicing to ensure peak performance of your systems."
       },
       {
-        "icon": "🔧",
-        "title": "Maintenance & Servici",
-        "description": "Regular servicing keeps systems compliant and efficient."
+        "icon": "🌞",
+        "title": "Natural Lighting Solu",
+        "description": "Innovative lighting solutions to enhance your spaces sustainably."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Building Trust Through Excellence",
+    "title": "A Legacy of Excellence",
     "paragraphs": [
-      "A1 Flue Systems has been a trusted leader in flue and ventilation solutions for over 50 years. We combine expertise with innovative technology to deliver superior results.",
-      "Our tailored services ensure compliance and efficiency. By integrating cutting-edge tools, we simplify processes and exceed customer expectations."
+      "Founded over 50 years ago, A1 Flue Systems has pioneered solutions for flue, ventilation, and lighting systems. We are trusted by professionals worldwide.",
+      "Our commitment to safety, compliance, and innovation sets us apart. With cutting-edge automation, we simplify processes and deliver exceptional results."
     ],
     "image": "https://images.pexels.com/photos/7534232/pexels-photo-7534232.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
     "eyebrow": "What Clients Say",
-    "title": "Real-world feedback",
+    "title": "Customer Stories",
     "list": [
       {
-        "quote": "A1’s team ensured seamless installation, saving us time and ensuring compliance.",
-        "name": "James Carter",
+        "quote": "A1's automated scheduling made maintenance seamless. We never miss compliance deadlines now!",
+        "name": "Sarah Johnson",
         "role": "Facility Manager",
         "avatar": "https://images.pexels.com/photos/774091/pexels-photo-774091.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their custom designs perfectly fit our building’s needs. Highly recommend!",
-        "name": "Sarah Taylor",
-        "role": "Architect",
+        "quote": "Their design expertise and quick quotes saved us weeks of planning time.",
+        "name": "Michael Lee",
+        "role": "Commercial Developer",
         "avatar": "https://images.unsplash.com/photo-1717084864320-23463f0f7c93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxGbHVlJTIwc3lzdGVtcyUyMCUyRiUyMEhWQUMlMjAlMkYlMjBWZW50aWxhdGlvbiUyMGFuZCUyMG5hdHVyYWwlMjBsaWdodGluZyUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyMzgzNzAxfDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Explore Our Services",
-    "description": "Contact us to discuss tailored solutions for your flue and ventilation needs.",
+    "eyebrow": "Reach Us",
+    "title": "Visit Our Location",
+    "description": "Explore innovative solutions and meet our friendly team ready to assist you.",
     "address": "",
-    "website": "www.a1flues.co.uk",
+    "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get Started",
     "title": "Request a Quote",
-    "description": "Contact us for expert advice and customized solutions.",
-    "consent": "Your details are safe with us."
+    "description": "Contact us today to discuss your project needs or schedule a consultation.",
+    "consent": "We respect your privacy and comply with GDPR."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Smart Automation for Efficiency",
-    "description": "Streamline operations and save time with AI-powered solutions.",
+    "title": "Automate Your Projects",
+    "description": "Leverage AI to enhance efficiency and compliance.",
     "bullets": [
-      "Automated quoting for faster estimates.",
-      "Digital compliance records for easy access.",
-      "Maintenance scheduling with reminders."
+      "Get instant quotes and specifications online.",
+      "Automated scheduling with reminders.",
+      "Generate compliance certificates digitally."
     ],
     "offer": "Mention A1 Flue Systems for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
