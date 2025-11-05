@@ -1,26 +1,26 @@
 const appData = {
   "brand": {
-    "name": "Constructing Excell",
-    "tagline": "Building better together",
-    "category": "Construction Network",
-    "location": "Midlands, UK",
+    "name": "Constructing Midlan",
+    "tagline": "Building Collaboration",
+    "category": "Construction Innovation",
+    "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Driving industry innovation",
-    "title": "Unite construction for progress",
-    "description": "We bridge gaps in knowledge-sharing and collaboration, driving innovation and best practices across the Midlands construction sector.",
+    "eyebrow": "Driving industry growth",
+    "title": "Connecting construction leaders.",
+    "description": "We foster collaboration and innovation to solve inefficiencies and improve standards across the Midlands construction sector.",
     "highlights": [
       {
         "label": "Events Hosted",
-        "value": "500+"
+        "value": "300+"
       },
       {
         "label": "Members Engaged",
-        "value": "5,000+"
+        "value": "500+"
       },
       {
-        "label": "Years of Experience",
+        "label": "Years of Expertise",
         "value": "20+"
       }
     ],
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Knowledge Leadership",
-        "description": "We provide industry-leading insights and guidance on construction best practices."
+        "title": "Knowledge Sharing",
+        "description": "Events and publications keep members informed and ahead of industry trends."
       },
       {
-        "title": "Collaborative Network",
-        "description": "Our platform fosters connections across clients, contractors, and suppliers."
+        "title": "Innovative Platform",
+        "description": "A dynamic network fosters collaboration and drives impactful solutions."
       },
       {
-        "title": "Proven Solutions",
-        "description": "We deliver tools and resources that improve efficiency and reduce risk."
+        "title": "Trusted Leadership",
+        "description": "Decades of experience guiding construction excellence in the Midlands."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We empower the Midlands construction community through events, publications, and networking.",
+    "description": "Our services empower professionals with tools, resources, and opportunities to thrive.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Events & Conferences",
-        "description": "Join workshops, networking events, and conferences to share knowledge and ideas."
+        "title": "Knowledge Events",
+        "description": "Join workshops, conferences, and networking events tailored for industry growth."
       },
       {
-        "icon": "💡",
-        "title": "Theme Groups",
-        "description": "Collaborate on innovation and thought leadership in focused groups."
+        "icon": "💼",
+        "title": "Thought Leadership",
+        "description": "Engage with Theme Groups to drive innovation and share cutting-edge insights."
       },
       {
-        "icon": "📘",
-        "title": "Best Practice Guides",
-        "description": "Access our trusted publications to implement industry standards effectively."
+        "icon": "📚",
+        "title": "Best Practices",
+        "description": "Access guidance and publications to implement industry standards effectively."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey to excell",
-    "title": "Transforming construction together",
+    "eyebrow": "Our mission",
+    "title": "Empowering construction excellence.",
     "paragraphs": [
-      "Constructing Excellence Midlands connects stakeholders to share knowledge, foster innovation, and drive industry improvements across the region.",
-      "We align with member needs through events, networking tools, and publications that enhance efficiency, reduce risks, and strengthen collaboration."
+      "Constructing Excellence Midlands unites stakeholders to share knowledge, solve challenges, and improve outcomes in the construction sector.",
+      "Through collaboration, innovation, and trusted leadership, we help members adopt best practices, reduce inefficiencies, and drive sustainable growth."
     ],
     "image": "https://images.pexels.com/photos/32845681/pexels-photo-32845681.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
     "eyebrow": "What our members say",
-    "title": "Building partnerships that matter",
+    "title": "Impactful connections.",
     "list": [
       {
-        "quote": "Their events are invaluable for networking and learning about the latest industry trends.",
-        "name": "John Davis",
-        "role": "Construction Consultant",
+        "quote": "Their events and resources have transformed how we collaborate and innovate. A game-changer!",
+        "name": "Jane Smith",
+        "role": "Project Manager",
         "avatar": "https://images.pexels.com/photos/5474036/pexels-photo-5474036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "The best practice guides helped my team streamline our processes and reduce errors.",
-        "name": "Sarah Clarke",
-        "role": "Project Manager",
+        "quote": "Constructing Excellence Midlands has helped us adopt best practices and improve efficiency across projects.",
+        "name": "John Doe",
+        "role": "Construction Consultant",
         "avatar": "https://images.unsplash.com/photo-1703585571126-07d02f357d2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMjhpbmR1c3RyeSUyMG1lbWJlcnNoaXAlMjAlMkYlMjBpbm5vdmF0aW9uJTIwbmV0d29yayUyOSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyMzgzODA0fDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Explore the Midlands",
-    "title": "Join us locally or online",
-    "description": "Located at the heart of the Midlands, we provide accessible opportunities for construction professionals everywhere.",
+    "eyebrow": "Visit us",
+    "title": "Explore new opportunities.",
+    "description": "Connect with professionals and discover the future of construction innovation in the Midlands.",
     "address": "",
-    "website": "www.constructingexcellencemidland",
+    "website": "www.cemidlands.org",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get involved today",
-    "title": "Join our network",
-    "description": "Contact us to learn more about membership, events, and resources that drive industry excellence.",
-    "consent": "Yes, I consent to be contacted."
+    "eyebrow": "Get in touch",
+    "title": "Join our network today!",
+    "description": "Contact Andrew Carpenter to learn how to become part of our dynamic community.",
+    "consent": "We value your privacy and will not share your data."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline with automation",
-    "description": "Enhance operations with AI-powered tools tailored for construction networks.",
+    "title": "Streamline your operations.",
+    "description": "Leverage AI automation to simplify processes and maximize efficiency.",
     "bullets": [
-      "Automate event registrations and reminders for members.",
-      "Use CRM to simplify member onboarding and renewals.",
-      "Distribute publications via automated marketing workflows."
+      "Automate event registration and reminders for seamless experiences.",
+      "Simplify member onboarding and renewals with CRM tools.",
+      "Effortlessly distribute publications through automated workflows."
     ],
-    "offer": "Mention Constructing Excell for the launch-week optimization kit.",
+    "offer": "Mention Constructing Midlan for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,7 +124,7 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Constructing Excell delivers unforgettable experiences.",
+    "blurb": "Constructing Midlan delivers unforgettable experiences.",
     "address": "",
     "email": "",
     "socials": [
