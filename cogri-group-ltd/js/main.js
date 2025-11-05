@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "CoGri Group",
-    "tagline": "Flooring built to last",
+    "tagline": "Concrete, perfected.",
     "category": "Industrial Flooring",
-    "location": "Global",
+    "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted worldwide",
-    "title": "Durable floors without downtime.",
-    "description": "With 30+ years of expertise, we deliver seamless installations, long-lasting durability, and safety compliance worldwide.",
+    "eyebrow": "Global flooring leaders",
+    "title": "Durable floors, minimal downtime.",
+    "description": "We design, build, and upgrade industrial floors with precision, ensuring durability, safety, and minimal disruption to operations.",
     "highlights": [
       {
         "label": "Years in Business",
         "value": "30+"
       },
       {
-        "label": "Projects Completed",
-        "value": "5,000+"
+        "label": "Floors Upgraded",
+        "value": "7,500+"
       },
       {
-        "label": "Global Presence",
-        "value": "80+ countr"
+        "label": "Global Reach",
+        "value": "5+ contine"
       }
     ],
     "image": "https://images.pexels.com/photos/7464233/pexels-photo-7464233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Proven Expertise",
-        "description": "Over three decades of leadership in industrial flooring solutions ensures unmatched quality."
+        "title": "Precision Engineering",
+        "description": "Every flooring project is crafted to meet exacting industry standards for durability and safety."
       },
       {
-        "title": "Global Reach",
-        "description": "We manage projects seamlessly across continents, offering consistent excellence worldwide."
+        "title": "Global Expertise",
+        "description": "With over 30 years of global experience, we manage projects across multiple regions seamlessly."
       },
       {
-        "title": "Innovative Precision",
-        "description": "Advanced technologies deliver safety, durability, and efficiency for every project."
+        "title": "End-to-End Service",
+        "description": "From design to maintenance, we handle every aspect of your industrial flooring needs."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive flooring services tailored for warehouses, logistics, and industrial spaces.",
+    "description": "Our services ensure optimal flooring solutions for warehouses, factories, and commercial spaces.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Floor Installation",
-        "description": "Expert installation of durable concrete floors for industrial and commercial spaces."
+        "description": "Expert installation of industrial floors tailored to your facility's needs."
       },
       {
-        "icon": "🎨",
-        "title": "Surface Coatings",
-        "description": "High-quality coatings and preparation ensure safety and long-lasting performance."
+        "icon": "🛠",
+        "title": "Refurbishment",
+        "description": "Repair and upgrade existing floors, enhancing durability and compliance."
       },
       {
-        "icon": "🔧",
-        "title": "Maintenance Services",
-        "description": "Refurbishment and upkeep to extend floor lifespan and minimize downtime."
+        "icon": "💼",
+        "title": "Consultancy",
+        "description": "Professional project management for seamless flooring solutions worldwide."
       }
     ]
   },
   "story": {
     "eyebrow": "Our journey",
-    "title": "Building lasting foundations.",
+    "title": "Built on innovation.",
     "paragraphs": [
-      "For over 30 years, CoGri Group has led the industry in designing, constructing, and upgrading industrial concrete floors. Our commitment to quality and innovation drives every project.",
-      "We excel in addressing global challenges with tailored solutions, ensuring durability, compliance, and efficiency for our clients across diverse industries."
+      "For over 30 years, CoGri Group has been a leader in industrial flooring. We specialize in creating durable, precise concrete floors for warehouses and factories.",
+      "Our expertise spans continents, ensuring seamless project execution. We align with clients' goals, delivering flooring solutions that exceed expectations."
     ],
     "image": "https://images.pexels.com/photos/7464233/pexels-photo-7464233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Trusted by industry leaders",
+    "eyebrow": "Customer success",
+    "title": "Trusted by industry leaders.",
     "list": [
       {
-        "quote": "CoGri delivered flawless flooring that minimized downtime. Their expertise is unmatched.",
+        "quote": "CoGri Group upgraded our warehouse floors without disrupting operations. Their team was efficient and professional.",
         "name": "John Smith",
-        "role": "Warehouse Manager",
+        "role": "Logistics Manager",
         "avatar": "https://images.pexels.com/photos/7464233/pexels-photo-7464233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their precision and durability have elevated our operations. A truly global leader.",
-        "name": "Sarah Mitchell",
-        "role": "Logistics Director",
+        "quote": "Their flooring consultancy ensured compliance and durability for our manufacturing plant. Highly recommend!",
+        "name": "Sarah Lee",
+        "role": "Operations Director",
         "avatar": "https://images.unsplash.com/photo-1700582053942-44c81e76a168?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxJbmR1c3RyaWFsJTIwZmxvb3JpbmclMjAlMkYlMjBjb21tZXJjaWFsJTIwJTI2JTIwaW5kdXN0cmlhbCUyMGNvbnN0cnVjdGlvbiUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyMzU4NDI0fDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us",
-    "title": "Global expertise near you.",
-    "description": "With operations in over 80 countries, we’re ready to serve your industrial flooring needs.",
+    "eyebrow": "Find us",
+    "title": "Trusted worldwide.",
+    "description": "Our global reach ensures expert industrial flooring solutions wherever you are.",
     "address": "",
     "website": "www.cogrigroup.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Start your project today.",
-    "description": "Contact us for consultations, quotes, or project inquiries. Let’s build durable foundations.",
-    "consent": "We respect your privacy."
+    "eyebrow": "Get started",
+    "title": "Contact us today.",
+    "description": "Reach out to discuss your flooring needs or schedule a consultation with our experts.",
+    "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your projects",
-    "description": "Automated tools simplify flooring solutions for global operations.",
+    "title": "Streamline your projects.",
+    "description": "Leverage automation to simplify processes and enhance efficiency in flooring solutions.",
     "bullets": [
-      "Capture leads with CRM integration.",
-      "Automated quotes reduce manual effort.",
-      "Track projects with centralized dashboards."
+      "Automated lead qualification tools improve response times.",
+      "Centralized dashboards track multi-country projects seamlessly.",
+      "Scheduling tools reduce downtime and optimize workflows."
     ],
     "offer": "Mention CoGri Group for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
