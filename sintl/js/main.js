@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "SINTL",
-    "tagline": "Innovating UK property",
-    "category": "Property development",
-    "location": "London & Surrey,",
+    "tagline": "Building the future today",
+    "category": "Property Development & Construction",
+    "location": "UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Premium property services",
-    "title": "Streamlining property projects for success",
-    "description": "SINTL simplifies development, construction, and investment with tailored solutions that drive results.",
+    "eyebrow": "Expert property solutions",
+    "title": "Transforming spaces into investments.",
+    "description": "SINTL delivers tailored construction, development, and investment services for property owners and investors across London and Surrey.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "250+"
+        "value": "500+"
       },
       {
-        "label": "Client Satisfaction",
-        "value": "98%"
+        "label": "Years in Business",
+        "value": "10+"
       },
       {
-        "label": "Years of Experience",
-        "value": "15+"
+        "label": "Investor Satisfaction",
+        "value": "97%"
       }
     ],
     "image": "https://images.pexels.com/photos/34558071/pexels-photo-34558071.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Sophisticated design",
-        "description": "Our elegant typography and layouts create a premium, professional presence for every project."
+        "title": "Elegant Designs",
+        "description": "We create visually stunning spaces that exude sophistication and quality."
       },
       {
-        "title": "Luxury aesthetics",
-        "description": "We use dark, refined palettes and clean designs to elevate modern real estate standards."
+        "title": "Luxury Aesthetic",
+        "description": "Our premium designs set the benchmark for high-end real estate projects."
       },
       {
-        "title": "Flawless execution",
-        "description": "Our team ensures every project is completed with precision and client satisfaction."
+        "title": "Minimalist Layouts",
+        "description": "We deliver clean, modern developments with impeccable attention to detail."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "SINTL offers expert property solutions tailored to investors, landowners, and clients in the UK.",
+    "description": "SINTL specializes in construction, development, and investment services for residential and commercial properties.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Construction",
-        "description": "We deliver high-quality builds for residential and commercial spaces with precision and care."
+        "description": "From foundation to finish, we build high-quality properties tailored to your needs."
       },
       {
-        "icon": "🏠",
+        "icon": "🏡",
         "title": "Development",
-        "description": "From concept to completion, we transform properties into thriving, functional spaces."
+        "description": "Transform land into thriving residential or commercial spaces with expert planning."
       },
       {
         "icon": "💼",
         "title": "Investment",
-        "description": "We create opportunities for property investors to maximize returns and secure growth."
+        "description": "Maximize property value through strategic investment and asset management."
       }
     ]
   },
   "story": {
-    "eyebrow": "About SINTL",
-    "title": "Our journey in property excellence",
+    "eyebrow": "Our Journey",
+    "title": "Driven by innovation and quality",
     "paragraphs": [
-      "SINTL is a trusted name in UK property development, construction, and investment. We focus on delivering quality and innovation that builds lasting value.",
-      "With tailored solutions and seamless processes, SINTL helps clients achieve their goals efficiently. Our expertise ensures rapid ROI for every project."
+      "SINTL was founded to redefine property development with cutting-edge design and meticulous craftsmanship. Our team delivers bespoke solutions for every project.",
+      "By focusing on automation, streamlined workflows, and investor transparency, we provide unparalleled service and value to our clients in London and Surrey."
     ],
     "image": "https://images.pexels.com/photos/7937709/pexels-photo-7937709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Trusted by property professionals",
+    "eyebrow": "Client Feedback",
+    "title": "What our clients say",
     "list": [
       {
-        "quote": "SINTL transformed our land into a thriving residential community with flawless execution.",
-        "name": "John Matthews",
+        "quote": "SINTL made our vision a reality with seamless project execution and clear investor updates.",
+        "name": "Emma Johnson",
         "role": "Property Investor",
         "avatar": "https://images.pexels.com/photos/34558071/pexels-photo-34558071.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their development expertise maximized the value of our commercial estate project.",
-        "name": "Sarah Collins",
+        "quote": "Their expertise in development transformed our land into a lucrative investment.",
+        "name": "James Walker",
         "role": "Landowner",
         "avatar": "https://images.unsplash.com/photo-1738929185055-3dfc9e924823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxQcm9wZXJ0eSUyMGRldmVsb3BtZW50JTIwJTI2JTIwY29uc3RydWN0aW9uJTIwJTI4cmVhbCUyMGVzdGF0ZSUyOSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyMzU4NDk5fDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Our locations",
-    "title": "Serving London & Surrey",
-    "description": "SINTL operates in the heart of UK real estate, transforming properties in prime areas.",
-    "address": "",
-    "website": "",
+    "eyebrow": "Find Us",
+    "title": "Visit our projects",
+    "description": "Explore SINTL’s developments across London and Surrey and experience our craftsmanship firsthand.",
+    "address": "London, UK",
+    "website": "www.sintl.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Start your property journey",
-    "description": "Contact us today to discuss your next project or investment opportunity.",
-    "consent": "We respect your privacy."
+    "eyebrow": "Get Started",
+    "title": "Book a consultation today",
+    "description": "Contact us to discuss your next property development or investment project.",
+    "consent": "Your information is secure."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Boost your property workflow",
-    "description": "Leverage AI and automation to streamline operations and enhance client outcomes.",
+    "title": "The Power of Automation",
+    "description": "Enhance efficiency with tailored AI solutions for property development.",
     "bullets": [
-      "Automated lead capture forms integrated with CRM systems.",
-      "Email campaigns for seamless investor onboarding and nurturing.",
-      "Chatbots qualify leads and schedule site visits effortlessly."
+      "Automated lead capture with CRM integration.",
+      "Email campaigns for investor onboarding.",
+      "Real-time portfolio updates via RSS/email."
     ],
     "offer": "Mention SINTL for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "SINTL delivers unforgettable experiences.",
-    "address": "",
+    "address": "London, UK",
     "email": "",
     "socials": [
       {
