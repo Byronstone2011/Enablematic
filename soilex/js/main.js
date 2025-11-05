@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "SoilEx",
-    "tagline": "Smarter waste solutions",
-    "category": "Construction waste management",
-    "location": "Global services",
+    "tagline": "Smart waste solutions",
+    "category": "Construction Waste Management",
+    "location": "United Kingdom",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Expert waste management",
-    "title": "Cut costs and meet compliance.",
-    "description": "We simplify construction waste management, saving you money while ensuring full legislative compliance and sustainable practices.",
+    "eyebrow": "Experts in waste savings",
+    "title": "Cut costs and ensure compliance.",
+    "description": "We streamline waste management to reduce costs, ensure compliance, and simplify complex reporting for construction projects.",
     "highlights": [
       {
-        "label": "Projects Saved Costs",
-        "value": "300+"
-      },
-      {
-        "label": "Compliance Success Rate",
+        "label": "Compliance Accuracy",
         "value": "99.8%"
       },
       {
-        "label": "Years of Experience",
-        "value": "15+"
+        "label": "Projects Supported",
+        "value": "1,500+"
+      },
+      {
+        "label": "Cost Savings Delivered",
+        "value": "£2M+"
       }
     ],
     "image": "https://images.pexels.com/photos/11115604/pexels-photo-11115604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Cost-saving expertise",
-        "description": "We uncover hidden savings in waste management to reduce project expenses effectively."
+        "title": "Proven Expertise",
+        "description": "Years of industry experience ensure trusted waste management solutions for construction projects."
       },
       {
-        "title": "Compliance guaranteed",
-        "description": "Our services meet all legislative requirements for hassle-free project approvals."
+        "title": "Cost Efficiency",
+        "description": "We identify innovative ways to save you money on disposal and logistics costs."
       },
       {
-        "title": "End-to-end solutions",
-        "description": "From testing to logistics, we handle every aspect of waste management seamlessly."
+        "title": "Sustainability Focus",
+        "description": "Our strategies prioritize eco-friendly solutions that meet compliance standards."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive services tailored to construction waste management needs.",
+    "description": "Comprehensive services for smarter construction waste management.",
     "cards": [
       {
         "icon": "💼",
-        "title": "Consultancy Services",
-        "description": "Expert advice to optimize waste management and maximize project efficiency."
+        "title": "Consultancy",
+        "description": "Expert advice to optimize waste management processes for construction projects."
       },
       {
-        "icon": "🛠",
+        "icon": "⚙️",
         "title": "Testing & Reporting",
         "description": "Accurate soil and waste testing with clear, actionable reports."
       },
       {
-        "icon": "🚚",
+        "icon": "🏗",
         "title": "Logistics Management",
-        "description": "Streamlined coordination of waste movement for seamless operations."
+        "description": "Efficient coordination of waste movement for streamlined project execution."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Built to transform waste management.",
+    "eyebrow": "About SoilEx",
+    "title": "Our mission is smarter waste solutions.",
     "paragraphs": [
-      "SoilEx was founded to tackle the growing complexities of construction waste management. We deliver solutions that save money and reduce environmental impact.",
-      "By combining expertise with automation, we simplify compliance, optimize logistics, and unlock long-term savings for our clients."
+      "At SoilEx, we focus on helping construction teams manage waste effectively. Our expertise reduces costs and simplifies compliance.",
+      "Using advanced tools, we provide clear reporting and automated processes. We ensure projects run smoothly while meeting regulations."
     ],
     "image": "https://images.pexels.com/photos/416405/pexels-photo-416405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Client feedback",
-    "title": "What our clients say",
+    "eyebrow": "What Clients Say",
+    "title": "Trusted by industry leaders.",
     "list": [
       {
-        "quote": "SoilEx helped us cut disposal costs while ensuring full compliance on a major project. Highly recommend their services!",
-        "name": "John Peterson",
+        "quote": "SoilEx helped us cut disposal costs by 30%. Their reports made compliance simple and clear.",
+        "name": "James Mitchell",
         "role": "Project Manager",
         "avatar": "https://images.pexels.com/photos/11115604/pexels-photo-11115604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their reporting system made waste testing easy to understand and saved us valuable time on site decisions.",
-        "name": "Sarah Williams",
-        "role": "Construction Consultant",
+        "quote": "Their logistics management saved us time and money on our biggest project yet.",
+        "name": "Sarah Clark",
+        "role": "Construction Director",
         "avatar": "https://images.unsplash.com/photo-1600795848739-5c58472a9552?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjB3YXN0ZSUyMG1hbmFnZW1lbnQlMjAlMkYlMjBFbnZpcm9ubWVudGFsJTIwc2VydmljZXMlMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjM4Mzc1NHww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Our locations",
-    "title": "Serving projects globally",
-    "description": "Our services extend worldwide, supporting construction projects of all scales and scopes.",
-    "address": "",
+    "eyebrow": "Visit Us",
+    "title": "Serving the UK construction sector.",
+    "description": "We operate nationwide, delivering reliable and sustainable waste solutions for construction projects.",
+    "address": "Contact Alex Collman for details.",
     "website": "www.soilex.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Start saving today",
-    "description": "Contact us for tailored waste management solutions that fit your project needs.",
-    "consent": "We respect your privacy."
+    "eyebrow": "Get Started",
+    "title": "Request your consultation today.",
+    "description": "Contact us to discuss your project needs and discover how we can save you time and money.",
+    "consent": "By submitting, you agree to our privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline with AI",
-    "description": "Automation transforms waste management for faster, smarter results.",
+    "title": "Automate Your Waste Management",
+    "description": "Our AI-powered tools simplify waste workflows and compliance.",
     "bullets": [
-      "Automated compliance reporting saves time.",
-      "Online tools simplify logistics management.",
-      "Cost calculators deliver instant savings insights."
+      "Book waste collection online instantly.",
+      "Automated reporting portal with clear insights.",
+      "Generate compliance documents in seconds."
     ],
     "offer": "Mention SoilEx for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "SoilEx delivers unforgettable experiences.",
-    "address": "",
+    "address": "Contact Alex Collman for details.",
     "email": "",
     "socials": [
       {
