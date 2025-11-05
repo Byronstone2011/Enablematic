@@ -1,23 +1,23 @@
 const appData = {
   "brand": {
     "name": "Foster Cranes",
-    "tagline": "Reliable cranes, delivered.",
-    "category": "Crane servicing & sales",
-    "location": "United Kingdom",
+    "tagline": "Reliable crane solutions",
+    "category": "Crane Services",
+    "location": "UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "UK's largest crane stock",
+    "eyebrow": "Largest UK crane stock",
     "title": "Minimize downtime, maximize efficiency.",
-    "description": "Foster Cranes offers expert servicing, inspections, and reliable refurbished mobile cranes tailored to your business needs.",
+    "description": "We service, refurbish, and sell cranes to keep your projects on track and compliant with industry standards.",
     "highlights": [
       {
-        "label": "Cranes in Stock",
-        "value": "150+"
+        "label": "Used Cranes Stock",
+        "value": "100+"
       },
       {
         "label": "Years of Expertise",
-        "value": "20+"
+        "value": "15+"
       },
       {
         "label": "Client Satisfaction",
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Unmatched Inventory",
-        "description": "Largest UK stock ensures you'll find the right crane for your project."
+        "title": "Extensive Inventory",
+        "description": "We offer the largest stock of used mobile cranes in the UK for every need."
       },
       {
         "title": "Expert Servicing",
-        "description": "Comprehensive repair and inspections keep your cranes compliant."
+        "description": "Our skilled technicians ensure your cranes stay compliant and functional."
       },
       {
-        "title": "Trusted Quality",
-        "description": "Refurbished cranes meet high standards for reliability and safety."
+        "title": "Trusted Refurbishment",
+        "description": "We deliver reliable refurbished cranes to meet your exact specifications."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Foster Cranes specializes in servicing, inspections, and quality refurbished cranes.",
+    "description": "Foster Cranes provides servicing, inspections, repairs, and crane sales tailored to your business needs.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Servicing & Repairs",
-        "description": "Ensure your cranes operate at peak performance with expert repairs."
+        "title": "Mobile Crane Servicing",
+        "description": "Ensure peak performance with expert maintenance and repairs."
       },
       {
-        "icon": "⚙️",
+        "icon": "🛠",
         "title": "Testing & Inspection",
-        "description": "Stay compliant with thorough inspections and certification services."
+        "description": "Stay compliant with thorough inspections and certifications."
       },
       {
         "icon": "🔧",
-        "title": "Refurbished Cranes",
-        "description": "Purchase reliable, high-quality used cranes for your business needs."
+        "title": "Refurbishment for",
+        "description": "We repair and upgrade cranes for reliable resale opportunities."
       }
     ]
   },
   "story": {
     "eyebrow": "Our journey",
-    "title": "Built to lift your business higher.",
+    "title": "Built on trust and expertise",
     "paragraphs": [
-      "Founded by Andrew Foster, Foster Cranes is the UK's largest stockist of used mobile cranes. We provide top-quality equipment, servicing, and refurbishment.",
-      "Our expertise ensures compliance, reliability, and a seamless experience. We prioritize reducing downtime and helping your projects succeed."
+      "Foster Cranes combines 15+ years of experience with the largest stock of cranes in the UK, ensuring tailored solutions for your business needs.",
+      "We understand your challenges and use innovative tools to minimize downtime and deliver reliable service every step of the way."
     ],
     "image": "https://images.pexels.com/photos/13146337/pexels-photo-13146337.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
     "eyebrow": "Customer feedback",
-    "title": "What our clients say.",
+    "title": "What clients say about us",
     "list": [
       {
-        "quote": "Foster Cranes keeps our equipment running smoothly, saving us time and money.",
-        "name": "James Collins",
-        "role": "Construction Manager",
+        "quote": "Foster Cranes kept our project on schedule with their quick service and reliable cranes. Highly recommend!",
+        "name": "James K.",
+        "role": "Site Manager",
         "avatar": "https://images.pexels.com/photos/7564855/pexels-photo-7564855.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their refurbished cranes are always top-notch. We trust Foster completely.",
-        "name": "Sarah Mitchell",
-        "role": "Site Operator",
+        "quote": "Their refurbishment work was top-notch, saving us time and money on equipment costs.",
+        "name": "Laura M.",
+        "role": "Plant Hire Director",
         "avatar": "https://images.unsplash.com/photo-1584493896396-c18079480cfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDcmFuZSUyMHNlcnZpY2luZyUyMCUyNiUyMHJlZnVyYmlzaG1lbnQlMjAlMjhoZWF2eSUyMGVxdWlwbWVudCUyMG1haW50ZW5hbmNlJTI5JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIzODM4MzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit us",
-    "title": "Find your next crane here.",
-    "description": "Explore our extensive crane inventory and meet our expert team.",
-    "address": "United Kingdom",
-    "website": "www.fostercranes.co.uk",
+    "title": "Explore our inventory",
+    "description": "Browse cranes and services designed to meet your business needs.",
+    "address": "Location available upon request.",
+    "website": "fostercranes.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started",
-    "title": "Contact us today.",
-    "description": "Email Andrew Foster for bookings, consultations, or inquiries.",
-    "consent": "We respect your privacy. No spam."
+    "eyebrow": "Get in touch",
+    "title": "Book a consultation today",
+    "description": "Contact us for crane servicing, inspections, or sales. We're here to help!",
+    "consent": "We respect your privacy and will never share your information."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your crane operations.",
-    "description": "Automation tools solve downtime and compliance challenges.",
+    "title": "AI-Driven Efficiency",
+    "description": "Unlock automation to streamline crane servicing and sales.",
     "bullets": [
-      "Book mechanics online for faster service.",
+      "Schedule mobile mechanics with ease.",
       "Generate inspection certificates instantly.",
-      "Track crane inventory with CRM workflows."
+      "Track inventory and leads seamlessly."
     ],
     "offer": "Mention Foster Cranes for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Foster Cranes delivers unforgettable experiences.",
-    "address": "United Kingdom",
+    "address": "Location available upon request.",
     "email": "",
     "socials": [
       {
