@@ -1,26 +1,26 @@
 const appData = {
   "brand": {
     "name": "Kingsmen Developmen",
-    "tagline": "Building sustainable futures",
+    "tagline": "Building futures, sustainably.",
     "category": "Property Development",
-    "location": "West Midlands, UK",
+    "location": "West Midlands",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted property experts",
-    "title": "Transforming spaces, maximizing value.",
-    "description": "We deliver bespoke, sustainable homes while simplifying investments with expert-led solutions.",
+    "eyebrow": "Trusted since 1947",
+    "title": "High-quality homes, made easy.",
+    "description": "We simplify property investment and development with sustainable, bespoke solutions tailored to your needs.",
     "highlights": [
       {
         "label": "Years in Business",
-        "value": "15+"
+        "value": "75+"
       },
       {
         "label": "Projects Completed",
-        "value": "2,500+"
+        "value": "1,000+"
       },
       {
-        "label": "Customer Satisfaction",
+        "label": "Client Satisfaction",
         "value": "98%"
       }
     ],
@@ -32,89 +32,89 @@ const appData = {
     "items": [
       {
         "title": "Design Excellence",
-        "description": "We create spaces with striking designs that stand the test of time."
+        "description": "We craft homes with stunning design and attention to detail."
       },
       {
-        "title": "Sustainable Builds",
-        "description": "Our homes blend eco-friendly methods with modern construction techniques."
+        "title": "Sustainability Focus",
+        "description": "We use modern, eco-friendly construction methods for every project."
       },
       {
         "title": "Tailored Solutions",
-        "description": "From barn conversions to investments, we craft personalized results."
+        "description": "From barn conversions to bespoke builds, we deliver unique homes."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our premium services for residential property development and investments.",
+    "description": "Explore our range of property services designed to meet diverse needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Residential Development",
-        "description": "We specialize in creating high-quality homes built for modern living."
+        "description": "We create high-quality homes tailored to families and individuals."
       },
       {
-        "icon": "🏡",
+        "icon": "🌳",
         "title": "Bespoke Conversions",
-        "description": "Transform barns into stunning bespoke spaces with character and charm."
+        "description": "Transform barn spaces into stunning, personalized living areas."
       },
       {
-        "icon": "💼",
-        "title": "Property Investments",
-        "description": "Maximize returns with our expert guidance in property investments."
+        "icon": "💡",
+        "title": "Property Investment",
+        "description": "Maximize returns with our expert property investment strategies."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Building trust, shaping futures.",
+    "eyebrow": "Our legacy",
+    "title": "Building trust, one home at a time.",
     "paragraphs": [
-      "Kingsmen Developments has proudly served West Midlands with bespoke homes and investment opportunities for over 15 years.",
-      "Our sustainable approach and design-led focus create lasting value for homeowners and investors alike."
+      "Since 1947, Kingsmen Developments has been delivering quality property solutions across the West Midlands. From design to construction, we create homes that inspire.",
+      "With a focus on sustainability and bespoke services, we empower clients to achieve their property goals. Let us bring your vision to life."
     ],
     "image": "https://images.pexels.com/photos/8482828/pexels-photo-8482828.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Customer success stories",
+    "eyebrow": "What our clients say",
+    "title": "Transforming dreams into homes.",
     "list": [
       {
-        "quote": "Kingsmen turned our barn into a dream home while keeping us updated throughout the process.",
-        "name": "Emma Richards",
+        "quote": "Kingsmen turned our barn into a dream home. Their attention to detail is unmatched.",
+        "name": "Sarah Bennett",
         "role": "Homeowner",
         "avatar": "https://images.pexels.com/photos/8379357/pexels-photo-8379357.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their property investment team made everything seamless and delivered strong returns.",
-        "name": "James Walker",
+        "quote": "Their property investment expertise helped us achieve incredible returns.",
+        "name": "James Wright",
         "role": "Investor",
         "avatar": "https://images.unsplash.com/photo-1554018840-735188b5d45f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxQcm9wZXJ0eSUyMGRldmVsb3BtZW50JTIwJTI2JTIwaW52ZXN0bWVudCUyMCUyOHJlc2lkZW50aWFsJTI5JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIzODM4NTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Come visit us",
-    "title": "Explore the West Midlands",
-    "description": "Discover vibrant communities and beautifully crafted homes in our region.",
+    "eyebrow": "Visit us",
+    "title": "Discover our developments.",
+    "description": "Explore our properties in the beautiful West Midlands. Contact us today for a tour.",
     "address": "West Midlands, UK",
     "website": "www.kingsmen1947.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get in touch",
-    "title": "Start your journey today",
-    "description": "Contact us now to discuss your property needs or schedule a consultation.",
-    "consent": "We respect your privacy and will never share your information."
+    "title": "Ready to start your project?",
+    "description": "Contact us for bookings, consultations, or to learn more about our services.",
+    "consent": "We respect your privacy. Your data is safe with us."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline property management",
-    "description": "Leverage AI to simplify processes and boost efficiency.",
+    "title": "Automate your property journey.",
+    "description": "Streamline development with AI-powered solutions tailored for property management.",
     "bullets": [
-      "Automated lead capture and follow-ups for seamless communication.",
-      "Online booking for viewings with real-time calendar integration.",
-      "Client portals for automated project updates and progress tracking."
+      "Capture leads with automated follow-ups.",
+      "Book viewings online with calendar sync.",
+      "Get real-time project updates on demand."
     ],
     "offer": "Mention Kingsmen Developmen for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
