@@ -1,20 +1,16 @@
 const appData = {
   "brand": {
     "name": "Reston Waste",
-    "tagline": "Reliable Waste Solutions",
+    "tagline": "Skip hire made simple",
     "category": "Waste Management",
     "location": "London",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Fast and compliant service",
-    "title": "Skip hire made simple and efficient.",
-    "description": "We offer fast delivery, clear pricing, and tailored solutions. Choose the right skip size easily and manage waste with ease.",
+    "eyebrow": "Reliable Waste Solutions",
+    "title": "Effortless skip hire and removal",
+    "description": "From skip selection to timely pickups, we simplify waste management for homes and businesses in London.",
     "highlights": [
-      {
-        "label": "Years of Service",
-        "value": "15+"
-      },
       {
         "label": "Skips Delivered",
         "value": "10,000+"
@@ -22,6 +18,10 @@ const appData = {
       {
         "label": "Customer Satisfaction",
         "value": "98%"
+      },
+      {
+        "label": "Years in Business",
+        "value": "15+"
       }
     ],
     "image": "https://images.pexels.com/photos/9222613/pexels-photo-9222613.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Fast Delivery",
-        "description": "We ensure skips arrive quickly for your convenience."
+        "title": "Fast delivery",
+        "description": "We ensure skips arrive quickly to keep your projects on track."
       },
       {
-        "title": "Transparent Pricing",
-        "description": "No hidden fees. Clear costs upfront every time."
+        "title": "Clear pricing",
+        "description": "Transparent quotes with no hidden fees or surprises."
       },
       {
-        "title": "Tailored Solutions",
-        "description": "Choose skip sizes that fit your exact needs easily."
+        "title": "Easy booking",
+        "description": "Simple online tools help you book and choose the right skip."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive waste management services for homes and businesses.",
+    "description": "Comprehensive waste removal services tailored for homes and businesses.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Skip Hire",
-        "description": "Reliable skips from 6-12 cubic yards for any project size."
+        "description": "Choose from 6 to 12 cubic yard skips for construction and household waste."
       },
       {
         "icon": "🚛",
         "title": "Wait and Load",
-        "description": "Our driver waits while you load, saving time and effort."
+        "description": "Quick waste removal while our driver waits for you to load."
       },
       {
         "icon": "♻️",
-        "title": "Waste Removal",
-        "description": "Efficient disposal of construction, household, and bulky items."
+        "title": "Certified Skips",
+        "description": "Safe and enclosed skips for bulky or mixed recyclable waste."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "15 years of trusted waste management.",
+    "eyebrow": "Our Journey",
+    "title": "Building a greener London",
     "paragraphs": [
-      "Reston Waste Management Ltd began with a commitment to making waste disposal simple and reliable for Londoners. Today, we continue to innovate.",
-      "By offering fast booking, tailored solutions, and clear pricing, we ensure our clients can focus on their projects while we handle the waste efficiently."
+      "Reston Waste Management Ltd began with a mission to simplify waste removal while promoting sustainability. We’ve grown into a trusted provider in London.",
+      "With fast delivery and user-friendly tools, we make skip hire accessible. Our focus on compliance ensures safe waste disposal for every project."
     ],
     "image": "https://images.pexels.com/photos/7581123/pexels-photo-7581123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Trusted by homeowners and businesses alike.",
+    "eyebrow": "What Customers Say",
+    "title": "Trusted by Londoners",
     "list": [
       {
-        "quote": "Reston Waste made my renovation project so much easier. Their service was quick and hassle-free!",
-        "name": "John D.",
+        "quote": "Reston Waste made skip hire easy with clear pricing and quick delivery. Highly recommend their service!",
+        "name": "Jessica H.",
         "role": "Homeowner",
         "avatar": "https://images.pexels.com/photos/7827860/pexels-photo-7827860.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "The Wait-and-Load option saved me time and stress. Highly recommend their service!",
-        "name": "Sarah L.",
+        "quote": "Their Wait-and-Load service was a lifesaver for our renovation project. Efficiency and professionalism at its best.",
+        "name": "Mark T.",
         "role": "Builder",
         "avatar": "https://images.unsplash.com/photo-1648818170819-0dd78af84faa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxXYXN0ZSUyMG1hbmFnZW1lbnQlMjAlMkYlMjBTa2lwJTIwaGlyZSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyMzgzODYyfDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us",
-    "title": "London's trusted waste partner.",
-    "description": "Serving London with reliable waste management solutions. Schedule a service today!",
-    "address": "",
-    "website": "www.restonwaste.co.uk",
+    "eyebrow": "Visit Us",
+    "title": "Serving London",
+    "description": "Located in London, we proudly provide reliable waste solutions across the city.",
+    "address": "London, UK",
+    "website": "restonwaste.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Contact us",
-    "title": "Book your skip today.",
-    "description": "Get a quote or schedule a service now. We're here to help with all your waste needs.",
-    "consent": "We respect your privacy."
+    "eyebrow": "Get Started",
+    "title": "Book Your Skip Today",
+    "description": "Contact us for skip hire or waste removal solutions. We'll help every step of the way.",
+    "consent": "We respect your privacy and never share your information."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your waste solutions.",
-    "description": "AI-driven tools to simplify waste management for businesses and homeowners.",
+    "title": "Smarter Waste Solutions",
+    "description": "AI-powered automation makes waste removal faster and easier.",
     "bullets": [
-      "Instant quotes and skip-size recommendations.",
+      "Instant online booking and skip recommendations.",
       "Automated scheduling for timely pickups.",
-      "Integrated CRM for repeat business tracking."
+      "Seamless payment and invoicing integration."
     ],
     "offer": "Mention Reston Waste for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Reston Waste delivers unforgettable experiences.",
-    "address": "",
+    "address": "London, UK",
     "email": "",
     "socials": [
       {
