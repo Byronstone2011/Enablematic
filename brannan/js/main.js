@@ -1,26 +1,26 @@
 const appData = {
   "brand": {
     "name": "Brannan",
-    "tagline": "Precision in measurement",
+    "tagline": "Precision you can trust",
     "category": "Manufacturing",
     "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted European leader",
-    "title": "Streamline measurement processes.",
-    "description": "Brannan delivers high-quality instruments and automated solutions to simplify calibration and lead management.",
+    "eyebrow": "European manufacturing leader",
+    "title": "Streamlining measurement solutions worldwide",
+    "description": "Brannan simplifies temperature and pressure instrumentation with top-tier products and calibration services.",
     "highlights": [
       {
         "label": "Years in Business",
         "value": "100+"
       },
       {
-        "label": "Global Clients",
-        "value": "5,000+"
+        "label": "Products Delivered",
+        "value": "1M+"
       },
       {
-        "label": "Customer Satisfaction",
+        "label": "Client Satisfaction",
         "value": "98%"
       }
     ],
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Certified Quality",
-        "description": "Our products meet rigorous European standards for reliable performance."
+        "title": "Trusted Expertise",
+        "description": "Over a century in manufacturing temperature and pressure instruments."
       },
       {
-        "title": "Industry Expertise",
-        "description": "A century of manufacturing temperature and pressure instruments."
+        "title": "Certified Quality",
+        "description": "Delivering UKAS-accredited calibration for assured precision."
       },
       {
         "title": "Global Reach",
-        "description": "Serving clients worldwide with tailored solutions for every need."
+        "description": "Serving industries across healthcare, labs, and OEMs worldwide."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our comprehensive range of instruments and services.",
+    "description": "Brannan offers high-quality instruments and calibration services for accuracy and reliability.",
     "cards": [
       {
         "icon": "🌡",
         "title": "Thermometers",
-        "description": "Glass and industrial thermometers designed for accuracy and durability."
+        "description": "Glass and industrial thermometers for precise temperature measurement."
       },
       {
-        "icon": "📈",
+        "icon": "⏱️",
         "title": "Pressure Gauges",
-        "description": "Precision pressure measurement tools for industrial applications."
+        "description": "Reliable instruments for accurate pressure monitoring across industries."
       },
       {
-        "icon": "🔧",
-        "title": "UKAS Calibration",
-        "description": "Certified calibration services to ensure compliance and accuracy."
+        "icon": "✅",
+        "title": "Calibration Services",
+        "description": "UKAS-accredited calibration ensures consistent performance."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our legacy and missio",
-    "title": "Setting benchmarks in measurement",
+    "eyebrow": "Our legacy of precisi",
+    "title": "A century of trusted instrumentation",
     "paragraphs": [
-      "Brannan has been manufacturing precise temperature and pressure instruments for over a century. We are dedicated to quality and customer satisfaction.",
-      "Our solutions simplify industrial processes, enabling clients to achieve accuracy and efficiency. With a global presence, we deliver tailored expertise."
+      "Brannan has been a leader in temperature and pressure instrumentation since its inception. We combine innovation with time-tested expertise.",
+      "Our products and services meet global standards, delivering reliability to industries worldwide. Brannan ensures precision you can count on."
     ],
     "image": "https://images.pexels.com/photos/4491910/pexels-photo-4491910.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
     "eyebrow": "What clients say",
-    "title": "Trusted by industry leaders",
+    "title": "Why businesses trust Brannan",
     "list": [
       {
-        "quote": "Brannan's instruments enhanced our process accuracy while streamlining calibration scheduling.",
-        "name": "Sarah Collins",
+        "quote": "Brannan's thermometers are unmatched in accuracy and quality. They’ve streamlined our operations significantly.",
+        "name": "Sarah Jones",
         "role": "Lab Manager",
         "avatar": "https://images.pexels.com/photos/29879170/pexels-photo-29879170.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their automation tools saved us time and improved lead conversion rates.",
-        "name": "John Miller",
-        "role": "Procurement Specialist",
+        "quote": "The calibration services have saved us time and ensured compliance with industry standards.",
+        "name": "Mark Taylor",
+        "role": "OEM Procurement Lead",
         "avatar": "https://images.unsplash.com/photo-1752842936785-39ee0a9b5286?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxNYW51ZmFjdHVyaW5nJTIwJUUyJTgwJTk0JTIwdGVtcGVyYXR1cmUlMjAlMjYlMjBwcmVzc3VyZSUyMG1lYXN1cmVtZW50JTIwaW5zdHJ1bWVudGF0aW9uJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIzODM3OTR8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Connect with us",
-    "title": "Location and service",
-    "description": "We serve clients worldwide with reliable products and efficient services.",
+    "eyebrow": "Discover Brannan",
+    "title": "Explore excellence in instrumentation",
+    "description": "Contact Brannan to learn more about our precision products and services tailored to your needs.",
     "address": "",
     "website": "www.brannan.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get in touch",
-    "title": "Request a quote today",
-    "description": "Contact us to discuss your measurement needs or schedule calibration services.",
-    "consent": "We respect your privacy."
+    "title": "Contact us today",
+    "description": "Reach out for product inquiries or calibration services. Let’s discuss your needs.",
+    "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate for efficiency",
-    "description": "Streamline operations with AI-driven tools tailored for manufacturing.",
+    "title": "AI-powered efficiency",
+    "description": "Modernize operations with automated solutions tailored for manufacturers.",
     "bullets": [
-      "Automate catalogue delivery and lead nurturing with email workflows.",
-      "Simplify lead capture and follow-ups with CRM integration.",
-      "Introduce automated calibration scheduling tied to UKAS services."
+      "Automate lead nurturing with CRM integrations.",
+      "Streamline calibration scheduling with reminders.",
+      "Optimize quoting and follow-ups for faster conversions."
     ],
     "offer": "Mention Brannan for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
