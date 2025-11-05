@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "O Neill & Brennan",
-    "tagline": "Streamlined site logistics",
-    "category": "Logistics & Waste Management",
-    "location": "UK",
-    "phone": ""
+    "tagline": "Logistics made simple",
+    "category": "Site Logistics",
+    "location": "United Kingdom",
+    "phone": "Unavailable"
   },
   "hero": {
-    "eyebrow": "Trusted logistics partner",
-    "title": "Efficient logistics for busy sites",
-    "description": "We handle site logistics and waste management, ensuring compliance, safety, and project efficiency.",
+    "eyebrow": "Trusted site solutions",
+    "title": "Streamlining logistics on busy sites.",
+    "description": "We optimize logistics and waste management, ensuring safety, compliance, and project efficiency for construction teams.",
     "highlights": [
       {
-        "label": "Projects Supported",
-        "value": "3,000+"
+        "label": "Years of Experience",
+        "value": "15+"
       },
       {
-        "label": "Safety Compliance",
-        "value": "99.9%"
+        "label": "Projects Managed",
+        "value": "2,500+"
       },
       {
-        "label": "Years Experience",
-        "value": "20+"
+        "label": "Client Satisfaction",
+        "value": "98%"
       }
     ],
     "image": "https://images.pexels.com/photos/5668974/pexels-photo-5668974.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Coordination",
-        "description": "We streamline logistics for complex and restricted sites with precision and expertise."
+        "title": "Proven Expertise",
+        "description": "Over 15 years delivering reliable logistics and waste services across construction sites."
       },
       {
-        "title": "Reliable Waste Removal",
-        "description": "Our waste management solutions prioritize efficiency, safety, and environmental compliance."
+        "title": "Tailored Solutions",
+        "description": "Customized approaches meet the unique challenges of restricted and complex sites."
       },
       {
-        "title": "Integrated Support",
-        "description": "We seamlessly integrate with site teams to ensure smooth operations on every project."
+        "title": "Seamless Integration",
+        "description": "Integrate our services with your team for smooth project execution."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive logistics and waste management tailored for construction sites.",
+    "description": "We provide comprehensive site logistics and waste management services tailored to your project needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Site Logistics",
-        "description": "We manage deliveries, coordination, and restricted-site logistics efficiently."
+        "description": "Efficient coordination of deliveries and on-site operations for construction projects."
       },
       {
         "icon": "♻️",
         "title": "Waste Management",
-        "description": "Offering timely disposal and safe waste removal from construction sites."
+        "description": "Safe and compliant waste removal services tailored for busy construction sites."
       },
       {
-        "icon": "🔧",
-        "title": "Project Support",
-        "description": "We integrate closely with site teams to ensure smooth and compliant operations."
+        "icon": "🚛",
+        "title": "Restricted-Site Logis",
+        "description": "Specialized logistics for restricted access sites to keep projects on track."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Built on trust and expertise",
+    "eyebrow": "Our Journey",
+    "title": "Built on experience and trust.",
     "paragraphs": [
-      "O Neill & Brennan UK specializes in site logistics and waste management, ensuring construction projects run smoothly and safely.",
-      "With over 20 years of experience, we deliver tailored solutions that address site challenges and streamline operations."
+      "O Neill & Brennan UK has been a trusted partner for construction teams, solving logistics challenges with precision and care.",
+      "Our tailored services ensure compliance and efficiency, making us the go-to choice for managing complex site operations."
     ],
     "image": "https://images.pexels.com/photos/4481258/pexels-photo-4481258.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Trusted by industry leaders",
+    "eyebrow": "What Clients Say",
+    "title": "Trusted by industry leaders.",
     "list": [
       {
-        "quote": "O Neill & Brennan's logistics expertise kept our site running efficiently and on schedule.",
-        "name": "James Carter",
-        "role": "Site Manager",
+        "quote": "Their logistics expertise kept our project on schedule despite site restrictions.",
+        "name": "Mark Taylor",
+        "role": "Project Manager",
         "avatar": "https://images.pexels.com/photos/6170088/pexels-photo-6170088.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their waste management service was safe, compliant, and incredibly reliable.",
-        "name": "Sarah Hughes",
-        "role": "Project Developer",
+        "quote": "Reliable waste management that ensured safety and compliance every step.",
+        "name": "Sarah Jones",
+        "role": "Site Coordinator",
         "avatar": "https://images.unsplash.com/photo-1583193123517-09ef9447412c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxMb2dpc3RpY3MlMjAlMkYlMjBXYXN0ZSUyMG1hbmFnZW1lbnQlMjAlMkYlMjBTaXRlJTIwbG9naXN0aWNzJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIzNTg0NTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us",
-    "title": "Serving the UK construction sector",
-    "description": "We operate across the UK, delivering expert logistics and waste services tailored to construction needs.",
-    "address": "",
-    "website": "www.oandb.co.uk",
+    "eyebrow": "Find Us",
+    "title": "Serving construction sites nationwide.",
+    "description": "Providing expert logistics and waste services across the United Kingdom.",
+    "address": "Unavailable",
+    "website": "Unavailable",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Book a consultation today",
-    "description": "Contact us to discuss your site logistics and waste management needs.",
-    "consent": "We respect your data privacy."
+    "eyebrow": "Get Started",
+    "title": "Book your consultation today.",
+    "description": "Contact us to streamline your site logistics and waste management needs.",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline with AI tools",
-    "description": "Automation transforms how logistics and waste management are handled.",
+    "title": "Smarter Site Solutions",
+    "description": "Leverage AI to optimize logistics and waste management on construction sites.",
     "bullets": [
-      "Book deliveries and pickups online for faster scheduling.",
-      "Track vehicles in real time with ETA notifications.",
-      "Automate invoicing and waste reporting for accuracy."
+      "Real-time tracking for vehicles and deliveries.",
+      "Automated waste reporting and invoicing.",
+      "Streamlined online booking system."
     ],
     "offer": "Mention O Neill & Brennan for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "O Neill & Brennan delivers unforgettable experiences.",
-    "address": "",
+    "address": "Unavailable",
     "email": "",
     "socials": [
       {
