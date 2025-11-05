@@ -1,122 +1,122 @@
 const appData = {
   "brand": {
-    "name": "Green Hat",
-    "tagline": "Safety Simplified",
-    "category": "Health & Safety Consulting",
-    "location": "United Kingdom",
+    "name": "Green Hat Consultin",
+    "tagline": "Safety, compliance, wellbeing",
+    "category": "Health & Safety Consultancy",
+    "location": "UK-wide services",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Your Safety Partner",
-    "title": "Expert H&S solutions for construction.",
-    "description": "We help construction businesses thrive with CDM compliance, wellbeing strategies, and risk reduction services.",
+    "eyebrow": "Trusted by contractors",
+    "title": "Simplify safety compliance today.",
+    "description": "We help construction businesses manage CDM, SSIP, and wellbeing, reducing risks and saving time.",
     "highlights": [
       {
-        "label": "Years Supporting Const",
-        "value": "10+"
-      },
-      {
         "label": "Projects Supported",
-        "value": "1,500+"
+        "value": "1,000+"
       },
       {
         "label": "Compliance Success Rate",
-        "value": "98%"
+        "value": "99.5%"
+      },
+      {
+        "label": "Years of Experience",
+        "value": "10+"
       }
     ],
-    "image": "https://images.pexels.com/photos/4160235/pexels-photo-4160235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1539552891477-e08e54fbfee4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxIZWFsdGglMjAlMjYlMjBTYWZldHklMjBjb25zdWx0YW5jeSUyMCUyOGNvbnN0cnVjdGlvbiUyOSUyMCU1QiUyMkNETSUyMGNvbXBsaWFuY2UlMjIlMkMlMjJTU0lQJTIwc3VwcG9ydCUyMiUyQyUyMldlbGxiZWluZyUyMHN0cmF0ZWdpZXMlMjIlMkMlMjJTaXRlJTIwYW5kJTIwcHJlbWlzZXMlMjBpbnNwZWN0aW9ucyUyMiUyQyUyMkNvbXBldGVudCUyMHBlcnNvbiUyMHBhY2thZ2VzJTIyJTJDJTIySGF6YXJkJTIwaWRlbnRpZmljYXRpb24lMkMlMjBldmFsdWF0aW9uJTIwJTI2JTIwbWl0aWdhdGlvbiUyMiUyQyUyMkhlYWx0aCUyMCUyNiUyMFNhZmV0eSUyMG1hbmFnZW1lbnQlMjBzeXN0ZW1zJTIwZm9yJTIwcHJvamVjdHMlMjIlMkMlMjJCZXNwb2tlJTIwc2l0ZSUyMHByZXNlbnRhdGlvbnMlMjAlMjhTTUFSVCUyMG9iamVjdGl2ZXMlMjklMjIlMkMlMjJUcmFpbmluZyUyQyUyMG1lbnRvcmluZyUyMGFuZCUyMHVwc2tpbGxpbmclMjIlNUR8ZW58MHx8fHwxNzYyMzg0NTM4fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Proven Expertise",
-        "description": "Over a decade of experience in construction safety consulting ensures trusted advice and results."
+        "title": "Expert Guidance",
+        "description": "Decades of safety consultancy tailored to construction needs."
       },
       {
-        "title": "Tailored Solutions",
-        "description": "We adapt strategies to your unique project needs, ensuring compliance and wellbeing."
+        "title": "Proven Results",
+        "description": "High compliance rates and reduced business risks."
       },
       {
-        "title": "Measurable Results",
-        "description": "Our services deliver high compliance rates and reduced risks for long-term success."
+        "title": "Holistic Solutions",
+        "description": "From inspections to wellbeing strategies, we cover all bases."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Specialized services to enhance safety, ensure compliance, and empower construction teams.",
+    "description": "Comprehensive health and safety solutions for construction projects.",
     "cards": [
       {
         "icon": "🏗",
         "title": "CDM Compliance",
-        "description": "Navigate CDM regulations effortlessly with our expert guidance and support."
+        "description": "Ensure all construction projects meet CDM regulations efficiently."
       },
       {
         "icon": "🛡",
         "title": "Site Inspections",
-        "description": "Comprehensive inspections to identify risks and ensure site safety."
+        "description": "Thorough inspections to identify hazards and ensure safety standards."
       },
       {
         "icon": "⚕️",
         "title": "Wellbeing Strategies",
-        "description": "Promote better health and wellbeing for your workforce with tailored plans."
+        "description": "Boost employee health and reduce downtime with tailored programs."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Mission",
-    "title": "Building safer environments.",
+    "eyebrow": "Our Journey",
+    "title": "Your safety partner.",
     "paragraphs": [
-      "Green Hat Consulting is dedicated to improving health and safety in the construction industry, offering tailored solutions for compliance and wellbeing.",
-      "Our expertise and automation opportunities empower clients to save time, reduce risks, and achieve consistent safety success."
+      "Green Hat Consulting delivers health and safety services to construction firms across the UK. From compliance to wellbeing, we ensure businesses thrive safely.",
+      "Our expertise aligns with your needs, offering tailored solutions to streamline safety, save time, and reduce risks effectively."
     ],
-    "image": "https://images.pexels.com/photos/7446580/pexels-photo-7446580.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1622611935038-1c4caa0db5d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxIZWFsdGglMjAlMjYlMjBTYWZldHklMjBjb25zdWx0YW5jeSUyMCUyOGNvbnN0cnVjdGlvbiUyOSUyMHByb2Zlc3Npb25hbCUyMHRlYW0lMjBhdCUyMHdvcmt8ZW58MHx8fHwxNzYyMzg0NTM3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "testimonials": {
     "eyebrow": "Client Feedback",
-    "title": "Trusted by Industry Leaders",
+    "title": "What our clients say.",
     "list": [
       {
-        "quote": "Green Hat made CDM compliance simple for our projects—saving time and ensuring safety.",
-        "name": "John Stevens",
+        "quote": "Green Hat made compliance seamless and saved us hours of work. Highly recommend!",
+        "name": "Sarah Thompson",
         "role": "Site Manager",
         "avatar": "https://images.pexels.com/photos/4177640/pexels-photo-4177640.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their inspections and mentoring have transformed our safety standards. Highly recommend!",
-        "name": "Sarah Lowe",
-        "role": "Contractor",
+        "quote": "Their inspections and training transformed our safety protocols completely.",
+        "name": "James Wilson",
+        "role": "Project Director",
         "avatar": "https://images.unsplash.com/photo-1603516270950-26e4f5004ffd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxIZWFsdGglMjAlMjYlMjBTYWZldHklMjBjb25zdWx0YW5jeSUyMCUyOGNvbnN0cnVjdGlvbiUyOSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyMzgzODQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Partner with Green Hat",
-    "description": "Collaborate with us to safeguard your construction projects and workforce.",
-    "address": "",
-    "website": "greenhat-consulting.co.uk",
+    "eyebrow": "Find Us",
+    "title": "Serving businesses nationwide.",
+    "description": "We assist construction firms across Wales, the Southwest, and the UK.",
+    "address": "Contact us for details.",
+    "website": "www.greenhat-consulting.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Contact Us",
-    "title": "Ready to reduce risks?",
-    "description": "Book a consultation today to improve your project safety and compliance.",
-    "consent": "Your data will be kept confidential."
+    "eyebrow": "Get Started",
+    "title": "Book your consultation today.",
+    "description": "Contact us to discuss your health and safety needs. Let us help you thrive.",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "AI-Optimized Safety Solutions",
-    "description": "Leverage AI-powered tools to simplify construction safety management.",
+    "title": "Smarter safety management.",
+    "description": "Leverage AI and automation to simplify compliance and safety workflows.",
     "bullets": [
-      "Automate compliance reminders and updates.",
-      "Streamline inspection reports with digital tools.",
-      "Deliver e-learning for staff upskilling."
+      "Automated compliance document tracking.",
+      "Digital inspections and instant reporting.",
+      "E-learning for staff upskilling and training."
     ],
-    "offer": "Mention Green Hat for the launch-week optimization kit.",
+    "offer": "Mention Green Hat Consultin for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Green Hat delivers unforgettable experiences.",
-    "address": "",
+    "blurb": "Green Hat Consultin delivers unforgettable experiences.",
+    "address": "Contact us for details.",
     "email": "",
     "socials": [
       {
