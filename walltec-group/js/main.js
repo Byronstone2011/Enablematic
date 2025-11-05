@@ -1,15 +1,15 @@
 const appData = {
   "brand": {
-    "name": "Walltec Group",
-    "tagline": "Expert finishes since 2016",
-    "category": "Construction",
-    "location": "UK-based",
+    "name": "Walltec Group Ltd",
+    "tagline": "Building Finishes Experts",
+    "category": "Construction Services",
+    "location": "UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Specialists in finishes",
-    "title": "Streamlined expertise for contractors.",
-    "description": "Walltec Group delivers precision in building finishes, simplifying scheduling and communication for contractors and developers.",
+    "eyebrow": "Over 50 years of expertise",
+    "title": "Streamline your building finishes process.",
+    "description": "Walltec Group delivers specialized render, drylining, and finishes with precision, saving you time and ensuring quality results.",
     "highlights": [
       {
         "label": "Years of Expertise",
@@ -17,11 +17,11 @@ const appData = {
       },
       {
         "label": "Projects Completed",
-        "value": "1,200+"
+        "value": "2,000+"
       },
       {
-        "label": "Client Retention",
-        "value": "95%"
+        "label": "Client Satisfaction",
+        "value": "98%"
       }
     ],
     "image": "https://images.pexels.com/photos/236698/pexels-photo-236698.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Precision Craftsmanship",
-        "description": "Our team ensures flawless building finishes every time."
+        "title": "Precise Craftsmanship",
+        "description": "Our expert team ensures flawless finishes tailored to your needs."
       },
       {
-        "title": "Trusted Expertise",
-        "description": "Over 50 years of combined construction knowledge."
+        "title": "Proven Expertise",
+        "description": "Over five decades of industry knowledge in construction finishes."
       },
       {
-        "title": "Seamless Processes",
-        "description": "Simplified scheduling and clear communication guaranteed."
+        "title": "Efficient Execution",
+        "description": "We deliver on time and on budget without compromising quality."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We specialize in delivering top-tier building finishes tailored to your needs.",
+    "description": "Expert services in building finishes for contractors and developers.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Render Systems",
-        "description": "High-quality rendering solutions for durable, flawless exteriors."
+        "title": "Specialised Render",
+        "description": "Durable render solutions designed for modern construction projects."
       },
       {
-        "icon": "🏠",
-        "title": "Drylining Services",
-        "description": "Expert internal drylining for smooth and efficient walls."
+        "icon": "🛠",
+        "title": "Internal Drylining",
+        "description": "Seamless drylining services for enhanced interior aesthetics."
       },
       {
-        "icon": "⚒️",
-        "title": "Steel Framing",
-        "description": "Precision steel framing systems for structural integrity."
+        "icon": "🧱",
+        "title": "Steel Framing Systems",
+        "description": "Robust steel frames for reliable structural integrity."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Experience that builds trust",
+    "eyebrow": "Our journey so far",
+    "title": "A legacy of excellence in finishes.",
     "paragraphs": [
-      "Established in 2016, Walltec Group brings 50+ years of expertise in construction finishes. We focus on quality and reliability for contractors and developers.",
-      "Our streamlined processes and commitment to excellence ensure every project runs smoothly, meeting deadlines and exceeding expectations."
+      "Founded in 2016, Walltec Group builds on 50+ years of construction expertise. We specialize in delivering superior finishes to elevate projects.",
+      "We partner with developers and contractors, offering tailored, high-quality services that streamline operations and enhance results."
     ],
     "image": "https://images.pexels.com/photos/8487403/pexels-photo-8487403.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Client feedback",
-    "title": "What our partners say",
+    "eyebrow": "What our clients say",
+    "title": "Trusted by industry leaders.",
     "list": [
       {
-        "quote": "Walltec's attention to detail makes them our go-to subcontractor for finishes. Their team is reliable and skilled.",
-        "name": "John Davies",
+        "quote": "Walltec Group transformed our project with flawless finishes delivered on time. Their team is professional and efficient.",
+        "name": "James Carter",
         "role": "Project Manager",
         "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "From scheduling to execution, Walltec delivers. Their work always exceeds our expectations.",
-        "name": "Sarah Thompson",
-        "role": "Developer",
+        "quote": "Their expertise in drylining and renders is unmatched. They made our development stand out with top-notch finishes.",
+        "name": "Sarah Williams",
+        "role": "Construction Director",
         "avatar": "https://images.unsplash.com/photo-1730791979207-583e51851e2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMkYlMjBCdWlsZGluZyUyMGZpbmlzaGVzJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIzODM2NTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Location matters",
-    "title": "Headquartered in the UK",
-    "description": "Strategically located to serve contractors and developers across the region.",
-    "address": "",
+    "eyebrow": "Find us here",
+    "title": "Your trusted UK partner.",
+    "description": "Serving clients nationwide with precision and professionalism.",
+    "address": "UK",
     "website": "www.walltecgroup.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get in touch",
-    "title": "Ready to elevate your project?",
-    "description": "Contact us today for quotes or consultations. Let us transform your vision into reality.",
-    "consent": "We value your privacy."
+    "title": "Request a quote today.",
+    "description": "Contact us to discuss your project needs and get a tailored quote.",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Simplify with automation",
-    "description": "Boost efficiency with AI-powered tools tailored to construction needs.",
+    "title": "Smart solutions for contractors.",
+    "description": "Automation tools to simplify your operations and grow your business.",
     "bullets": [
-      "Instant quoting form for quick lead capture.",
-      "Automated CRM for repeat clients and scheduling.",
-      "Seamless invoicing and job tracking integration."
+      "Instant online quoting to save time.",
+      "CRM tools for seamless communication.",
+      "Automated scheduling and invoicing."
     ],
-    "offer": "Mention Walltec Group for the launch-week optimization kit.",
+    "offer": "Mention Walltec Group Ltd for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Walltec Group delivers unforgettable experiences.",
-    "address": "",
+    "blurb": "Walltec Group Ltd delivers unforgettable experiences.",
+    "address": "UK",
     "email": "",
     "socials": [
       {
