@@ -1,26 +1,26 @@
 const appData = {
   "brand": {
-    "name": "Freeform (Advanced 4D Modelling)",
-    "tagline": "",
-    "category": "",
-    "location": "",
+    "name": "Freeform",
+    "tagline": "Optimizing construction planning",
+    "category": "4D BIM & Consultancy",
+    "location": "Global Services",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Precision in planning",
-    "title": "Streamline Construction with 4D BIM Expertise",
-    "description": "Freeform enhances construction planning by integrating 4D BIM to optimize sequencing, reduce delays, and eliminate rework. Confident decision-making starts here.",
+    "eyebrow": "Expert 4D planning solutions",
+    "title": "Streamline construction with 4D BIM expertise",
+    "description": "Freeform reduces delays, improves decision-making, and enhances project visibility with advanced 4D BIM solutions.",
     "highlights": [
       {
-        "label": "Projects Optimized",
-        "value": "250+"
+        "label": "Projects Delivered",
+        "value": "500+"
       },
       {
         "label": "Client Satisfaction",
-        "value": "98%"
+        "value": "97%"
       },
       {
-        "label": "Years of Expertise",
+        "label": "Years of Experience",
         "value": "10+"
       }
     ],
@@ -31,101 +31,101 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "High-detail 4D Modeling",
-        "description": "We create precise 4D BIM models that visualize sequencing and logistics for maximum clarity."
+        "title": "Innovative 4D BIM Models",
+        "description": "We create precise, high-detail 4D BIM models that optimize project planning and execution."
       },
       {
         "title": "Collaborative Planning",
-        "description": "Facilitating teamwork across project teams, ensuring decisions are timely and confident."
+        "description": "Our workshops align teams and foster confident decision-making for seamless project delivery."
       },
       {
-        "title": "Seamless Data Integrati",
-        "description": "Risk, resources, and schedules integrated into actionable insights for stakeholders."
+        "title": "Expert Consultancy",
+        "description": "Tailored solutions and advice ensure every project achieves its full potential."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Empowering construction teams with advanced 4D BIM solutions for seamless project execution.",
+    "description": "Empower construction teams with cutting-edge 4D BIM solutions and tailored consultancy.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "4D BIM Modeling",
-        "description": "Detailed 4D models that enhance visibility and streamline project sequencing."
+        "title": "4D Model Building",
+        "description": "Detailed models integrate schedules and logistics for accurate planning and execution."
+      },
+      {
+        "icon": "🤝",
+        "title": "Planning Workshops",
+        "description": "Collaborative sessions align teams and improve decision-making across all stakeholders."
       },
       {
         "icon": "💼",
-        "title": "Collaborative Planning",
-        "description": "Workshops tailored to foster collaboration and solve planning challenges efficiently."
-      },
-      {
-        "icon": "🛠",
-        "title": "Risk & Resource Model",
-        "description": "Integrated tools to assess risks and allocate resources for optimal project outcomes."
+        "title": "BIM Consultancy",
+        "description": "Receive expert advice and bespoke solutions to tackle complex construction challenges."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Building clarity through innovation",
+    "eyebrow": "Our Journey",
+    "title": "Transforming construction planning",
     "paragraphs": [
-      "Freeform was founded with a mission to revolutionize construction planning by leveraging cutting-edge 4D BIM technology. Our commitment to precision helps developers and project teams overcome logistical challenges with ease.",
-      "By focusing on scalable solutions and seamless integrations, Freeform empowers clients to make confident decisions, reduce manual effort, and deliver projects successfully."
+      "Freeform was founded to revolutionize construction planning using innovative 4D BIM technology. We empower teams to work smarter and faster.",
+      "Our tailored solutions ensure accuracy, reduce delays, and foster collaboration. We partner with teams to deliver seamless project results."
     ],
     "image": "https://images.pexels.com/photos/8470779/pexels-photo-8470779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Client success stories",
-    "title": "Trusted by industry leaders",
+    "eyebrow": "What Clients Say",
+    "title": "Real results, real impact",
     "list": [
       {
-        "quote": "Freeform's 4D models saved us weeks in planning and helped avoid costly delays. Their workshops fostered invaluable collaboration.",
-        "name": "Sarah Mitchell",
-        "role": "Project Manager, Infrastructure Co.",
+        "quote": "Freeform's 4D BIM models helped us avoid costly delays and improved team coordination. Highly recommend!",
+        "name": "Sarah Johnson",
+        "role": "Project Manager",
         "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "The clarity and precision Freeform brought to our project sequencing were game-changing. Highly recommended!",
-        "name": "John Evans",
-        "role": "Construction Planner, Rail Agency",
-        "avatar": "https://images.unsplash.com/photo-1578233661684-3c3301282568?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMjg0RCUyMEJJTSUyMCUyRiUyMGNvbnN0cnVjdGlvbiUyMHBsYW5uaW5nJTIwJTI2JTIwY29uc3VsdGFuY3klMjklMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjE4NTYzMHww&ixlib=rb-4.1.0&q=80&w=1080"
+        "quote": "Their workshops streamlined decision-making and gave us clear visibility over project logistics.",
+        "name": "Tom Edwards",
+        "role": "Construction Planner",
+        "avatar": "https://images.unsplash.com/photo-1751326173578-c0269c3f1467?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMjg0RCUyMEJJTSUyMCUyRiUyMGNvbnN0cnVjdGlvbiUyMHBsYW5uaW5nJTIwJTI2JTIwY29uc3VsdGFuY3klMjklMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjM1NjM0NHww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Discover Freeform",
-    "title": "Explore our solutions",
-    "description": "Reach out to learn how Freeform’s innovative 4D BIM services can transform your construction planning.",
-    "address": "",
-    "website": "",
+    "eyebrow": "Visit Us",
+    "title": "Global reach, local impact",
+    "description": "Freeform delivers 4D BIM solutions worldwide, enhancing projects wherever you work.",
+    "address": "Contact us for details",
+    "website": "freeform3d.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Let’s connect",
+    "eyebrow": "Get Started",
     "title": "Request a consultation",
-    "description": "Contact us to discuss your project needs and explore tailored 4D BIM solutions.",
-    "consent": "By submitting, you agree to our terms and privacy policy."
+    "description": "Contact our team to discuss your project needs and explore tailored 4D BIM solutions.",
+    "consent": "We respect your privacy. Your information is secure."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate for efficiency",
-    "description": "Unlock the power of AI to simplify construction planning workflows and boost productivity.",
+    "title": "Automate your workflow",
+    "description": "Leverage AI to streamline construction planning and decision-making.",
     "bullets": [
-      "Automated 4D model updates reduce manual errors and save time.",
-      "Integrate risk and resource modeling for faster decision-making.",
-      "Generate dashboards and reports for real-time stakeholder insights."
+      "Automate model updates with BIM data feeds.",
+      "Generate risk models and comparisons instantly.",
+      "Create dashboards for progress and reporting."
     ],
-    "offer": "Mention Freeform (Advanced 4D Modelling) for the launch-week optimization kit.",
+    "offer": "Mention Freeform for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
-    "email": "byron@enablematic.com",
-    "phone": "(718) 555-0198",
+    "email": "byron@enablematic.io",
+    "phone": "+44 7776044988",
     "badgeImage": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/NDIlCPKjCtwfNkvdapOE/media/68f80d4484a9d61c1c75f24b.svg",
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Freeform (Advanced 4D Modelling) delivers unforgettable experiences.",
-    "address": "",
+    "blurb": "Freeform delivers unforgettable experiences.",
+    "address": "Contact us for details",
     "email": "",
     "socials": [
       {
