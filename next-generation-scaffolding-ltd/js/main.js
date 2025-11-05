@@ -1,26 +1,26 @@
 const appData = {
   "brand": {
     "name": "NextGen Scaffolding",
-    "tagline": "Reliable scaffolding solutions",
-    "category": "Construction Services",
-    "location": "London, Essex &",
-    "phone": ""
+    "tagline": "Safe, Reliable Solutions",
+    "category": "Scaffolding Services",
+    "location": "London, Essex, Ken",
+    "phone": "Unavailable"
   },
   "hero": {
-    "eyebrow": "Safe, expert scaffolding",
-    "title": "Streamlined scaffolding for every project",
-    "description": "We provide reliable scaffolding services for commercial and residential projects in London, Essex, and Kent. Get safe solutions fast.",
+    "eyebrow": "Expert scaffolding solutions",
+    "title": "Streamline your project with trusted scaffolding.",
+    "description": "We provide safe, expert scaffolding for homes and businesses across London, Essex, and Kent. Get a free quote today!",
     "highlights": [
       {
-        "label": "Years in Business",
+        "label": "Projects Completed",
+        "value": "2,500+"
+      },
+      {
+        "label": "Years of Experience",
         "value": "10+"
       },
       {
-        "label": "Projects Completed",
-        "value": "1,500+"
-      },
-      {
-        "label": "Client Satisfaction",
+        "label": "Customer Satisfaction",
         "value": "98%"
       }
     ],
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Certified Expertise",
-        "description": "We hold CHAS and PASMA certifications, ensuring top-tier safety and compliance on every project."
+        "title": "Regional Expertise",
+        "description": "Serving London, Essex, and Kent with tailored scaffolding solutions."
       },
       {
-        "title": "Regional Coverage",
-        "description": "Serving London, Essex, and Kent, we provide fast and efficient scaffolding solutions across the region."
+        "title": "Certified Professionals",
+        "description": "CHAS and PASMA certifications ensure industry-leading safety."
       },
       {
-        "title": "Reliable Service",
-        "description": "Count on us for on-time delivery, expert installation, and hassle-free scaffold hire."
+        "title": "Free Quotes Online",
+        "description": "Quick, hassle-free quotes to kickstart your project today."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "From scaffold hire to installation, we support commercial and residential projects with safe, reliable solutions.",
+    "description": "Expert scaffolding for residential and commercial projects.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Scaffold Installation",
-        "description": "Expert installation for commercial and residential sites, tailored to your project needs."
+        "title": "Scaffolding Installation",
+        "description": "Expert installation tailored to your project’s size and scope."
       },
       {
         "icon": "🛠",
         "title": "Scaffold Hire",
-        "description": "Flexible rental options for scaffolding equipment, available across South East England."
+        "description": "Flexible rental options for short or long-term projects."
       },
       {
         "icon": "🏠",
         "title": "Residential & Commerc",
-        "description": "Safe and durable scaffolding for property managers, contractors, and homeowners."
+        "description": "Safe scaffolding solutions for homes and businesses."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "Scaffolding built on trust",
+    "eyebrow": "Our Story",
+    "title": "Building with confidence since day one.",
     "paragraphs": [
-      "Next Generation Scaffolding Limited started with a mission to provide safe, reliable scaffolding for residential and commercial projects. Serving London, Essex, and Kent, we deliver expert solutions tailored to your needs.",
-      "With a focus on safety and efficiency, we leverage modern tools to simplify logistics and enhance service. Our regional expertise ensures every project is completed on time and within budget."
+      "Next Generation Scaffolding Limited delivers top-tier scaffolding across London, Essex, and Kent. We prioritize safety and reliability for every project.",
+      "Our efficient processes and skilled team ensure seamless service. With free quotes and expert solutions, we simplify scaffolding for all clients."
     ],
     "image": "https://images.pexels.com/photos/16488698/pexels-photo-16488698.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Customer Stories",
-    "title": "Trusted by contractors & homeowners",
+    "eyebrow": "Customer Feedback",
+    "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "NextGen made our project seamless. Their team was professional, and the scaffolding was installed perfectly.",
-        "name": "John Smith",
+        "quote": "NextGen made our project seamless with safe, reliable scaffolding. Highly recommend!",
+        "name": "Jane D.",
         "role": "Property Manager",
         "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "I was impressed by their prompt service. The scaffolding exceeded safety standards and was removed right on schedule.",
-        "name": "Sarah Williams",
+        "quote": "Their quick quotes and expert team saved us time and stress. Outstanding service!",
+        "name": "Mark S.",
         "role": "Contractor",
         "avatar": "https://images.unsplash.com/photo-1644657711115-ee46e8dd7c7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxTY2FmZm9sZGluZyUyMCUyRiUyMENvbnN0cnVjdGlvbiUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyMzU4NDM2fDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "On-Site Service",
-    "title": "Serving South East England",
-    "description": "We proudly serve London, Essex, Kent, and surrounding areas with professional scaffolding solutions.",
-    "address": "",
-    "website": "www.nxtgenscaffolding.com",
+    "eyebrow": "Visit Us",
+    "title": "Based in South East England",
+    "description": "We proudly serve London, Essex, and Kent with expert scaffolding services.",
+    "address": "Unavailable",
+    "website": "nxtgenscaffolding.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Request a Free Quote",
-    "description": "Contact us today to book scaffolding services or schedule a consultation. Quick, reliable, and hassle-free.",
-    "consent": "We respect your privacy."
+    "eyebrow": "Contact Us",
+    "title": "Get Your Free Quote",
+    "description": "Contact us today to schedule your scaffolding consultation and free quote.",
+    "consent": "We value your privacy and never share details."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automation for Scaffolding Success",
-    "description": "Streamline operations and enhance service quality with AI-driven solutions.",
+    "title": "Streamline Scaffolding Operations",
+    "description": "Save time and boost efficiency with AI-driven solutions.",
     "bullets": [
-      "Automated online quotes and bookings for faster lead capture.",
-      "Optimized crew scheduling for multi-county service areas.",
-      "Inventory tracking for scaffolding components and maintenance."
+      "Automated booking simplifies lead capture and site visits.",
+      "CRM ensures prompt follow-ups and client communication.",
+      "Optimize routes and crew schedules for multi-county projects."
     ],
     "offer": "Mention NextGen Scaffolding for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "NextGen Scaffolding delivers unforgettable experiences.",
-    "address": "",
+    "address": "Unavailable",
     "email": "",
     "socials": [
       {
