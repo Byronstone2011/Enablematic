@@ -1,23 +1,23 @@
 const appData = {
   "brand": {
     "name": "UK Site Hoarding",
-    "tagline": "Secure sites made simple",
-    "category": "Construction Solutions",
+    "tagline": "Secure Your Site Today",
+    "category": "Construction Hoarding",
     "location": "United Kingdom",
-    "phone": ""
+    "phone": "Contact Oliver Basset"
   },
   "hero": {
-    "eyebrow": "Trusted site solutions",
-    "title": "Bespoke hoarding for secure, compliant sites",
-    "description": "We deliver durable, custom hoarding to protect sites and meet regulations. Enhance security and deter intrusions with expert installation.",
+    "eyebrow": "Trusted by contractors",
+    "title": "Site security made simple.",
+    "description": "We provide durable hoarding, custom gates, and graphic printing to safeguard and transform your site.",
     "highlights": [
       {
-        "label": "Projects Secured",
-        "value": "3,000+"
+        "label": "Sites Secured",
+        "value": "1,000+"
       },
       {
-        "label": "Years of Experience",
-        "value": "10+"
+        "label": "Custom Gates Installed",
+        "value": "500+"
       },
       {
         "label": "Client Satisfaction",
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Custom Solutions",
-        "description": "Tailored hoarding designs meet unique site needs and dimensions with precision."
+        "title": "Durable Solutions",
+        "description": "Our hoarding withstands tough conditions and ensures long-lasting security."
       },
       {
-        "title": "Expert Installation",
-        "description": "Our trained team ensures durable and compliant installations every time."
+        "title": "Custom Designs",
+        "description": "Tailored dimensions and graphics meet your site’s unique needs."
       },
       {
-        "title": "Enhanced Security",
-        "description": "We protect your site from theft and vandalism with robust hoarding options."
+        "title": "Regulatory Compliance",
+        "description": "We ensure CDM compliance for safe, professional installations."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore comprehensive site hoarding and security services for construction projects.",
+    "description": "Our hoarding services protect sites and elevate their appearance.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Hoarding Installation",
-        "description": "We supply and install reinforced boards and freestanding hoarding for all projects."
+        "title": "Site Hoarding",
+        "description": "Reinforced boards and freestanding options for secure coverage."
       },
       {
         "icon": "🚪",
-        "title": "Custom Site Gates",
-        "description": "Design site gates to any dimension, including bifold options, for seamless access."
+        "title": "Custom Gates",
+        "description": "Bifold and bespoke gates tailored to your site dimensions."
       },
       {
         "icon": "🎨",
         "title": "Printed Graphics",
-        "description": "Create eye-catching hoarding designs with bespoke printed graphics for branding."
+        "description": "Eye-catching designs that elevate your site’s appearance."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Building trust and securing sites",
+    "eyebrow": "Our Story",
+    "title": "Built to Protect and Impress",
     "paragraphs": [
-      "UK Site Hoarding LTD specializes in delivering high-quality hoarding and fencing solutions. We focus on site security, durability, and compliance.",
-      "Our services address construction site challenges like theft and regulation needs. We ensure safe, customized, and efficient installations every time."
+      "UK Site Hoarding LTD specializes in durable, custom hoarding solutions. We partner with contractors to secure and enhance construction sites.",
+      "From tailored gates to graphic designs, we combine security with style. Our trusted solutions ensure safety and compliance at every site."
     ],
     "image": "https://images.pexels.com/photos/8961131/pexels-photo-8961131.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Reliable and professional service",
+    "eyebrow": "Customer Feedback",
+    "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "Their hoarding solutions kept our site secure and met all compliance needs. Highly recommend their team.",
-        "name": "John Mason",
+        "quote": "Their hoarding and gates are top-notch. Our site is secure and looks professional.",
+        "name": "Emily Clarke",
         "role": "Site Manager",
         "avatar": "https://images.pexels.com/photos/209717/pexels-photo-209717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Outstanding service! The custom gates fit perfectly, and installation was seamless.",
-        "name": "Sarah Collins",
-        "role": "Project Developer",
+        "quote": "The printed graphics made our site stand out. Great service and results!",
+        "name": "James Miller",
+        "role": "Contractor",
         "avatar": "https://images.unsplash.com/photo-1642553204922-bbbe0fe55749?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMkYlMjBTaXRlJTIwSG9hcmRpbmclMjAlMjYlMjBUZW1wb3JhcnklMjBGZW5jaW5nJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIzNTg0MTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us",
-    "title": "Your trusted UK partner",
-    "description": "We proudly serve construction sites across the UK, delivering secure solutions for every project.",
-    "address": "",
-    "website": "www.uk-sitehoarding.co.uk",
+    "eyebrow": "Visit Us",
+    "title": "Serving UK Construction",
+    "description": "We safeguard sites across the UK with expert hoarding and security solutions.",
+    "address": "Contact for details",
+    "website": "uk-sitehoarding.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started",
-    "title": "Request a quote today",
-    "description": "Contact us to discuss your site needs. We’re ready to provide tailored solutions for your project.",
-    "consent": "By submitting, you agree to our terms."
+    "eyebrow": "Get Started",
+    "title": "Request a Quote Today",
+    "description": "Contact us for custom hoarding solutions tailored to your site.",
+    "consent": "We value your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your projects",
-    "description": "Discover how automation can simplify and optimize your hoarding needs.",
+    "title": "Streamline Your Projects",
+    "description": "Leverage AI and automation to enhance efficiency and service.",
     "bullets": [
-      "Instant online quotes for custom hoarding specs.",
-      "Automated scheduling for surveys and installations.",
-      "Digital proofing for graphic designs and approvals."
+      "Instant online quoting for hoarding specs.",
+      "Automated site-survey scheduling.",
+      "Custom graphic approvals made easy."
     ],
     "offer": "Mention UK Site Hoarding for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "UK Site Hoarding delivers unforgettable experiences.",
-    "address": "",
+    "address": "Contact for details",
     "email": "",
     "socials": [
       {
