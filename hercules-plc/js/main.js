@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Hercules PLC",
-    "tagline": "",
-    "category": "",
-    "location": "",
+    "tagline": "Innovating infrastructure solutions",
+    "category": "Construction & Labour Supply",
+    "location": "United Kingdom",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Innovative construction solutio",
-    "title": "Skilled Labour Supply for Complex Projects",
-    "description": "Hercules PLC delivers certified operatives, seamless compliance tracking, and reliable workforce solutions to keep infrastructure projects on schedule and within",
+    "eyebrow": "Certified workforce experts",
+    "title": "Skilled operatives for complex projects",
+    "description": "We provide certified teams, ensuring compliance and efficiency for infrastructure projects across sectors.",
     "highlights": [
       {
-        "label": "Certified Operatives",
-        "value": "15,000+"
+        "label": "Projects Completed",
+        "value": "1,000+"
       },
       {
-        "label": "Projects Supported",
-        "value": "1,200+"
-      },
-      {
-        "label": "Safety Compliance Rate",
+        "label": "Compliance Rate",
         "value": "99.9%"
+      },
+      {
+        "label": "Years of Expertise",
+        "value": "15+"
       }
     ],
     "image": "https://images.pexels.com/photos/10321271/pexels-photo-10321271.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,101 +31,101 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expertise in Certified",
-        "description": "Our team specializes in certified operators across rail, utilities, highways, and energy sectors, ensuring"
+        "title": "Certified Specialists",
+        "description": "Our workforce is rigorously trained and certified to ensure top-tier project delivery."
       },
       {
-        "title": "Seamless Compliance Manag",
-        "description": "We streamline compliance tracking and onboarding to minimize delays and ensure project safety standards are met."
+        "title": "Safety Focused",
+        "description": "We prioritize safety with advanced compliance tracking for every operative and site."
       },
       {
-        "title": "Proven Project Reliabil",
-        "description": "With thousands of successful projects under our belt, we ensure timely delivery and unmatched quality in labour"
+        "title": "Reliable Resources",
+        "description": "We offer scalable solutions to meet the labour needs of any infrastructure project."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Our comprehensive services ensure infrastructure projects are staffed with skilled professionals and supported by reliable resources.",
+    "description": "From highways to rail, we supply certified professionals for every infrastructure need.",
     "cards": [
       {
-        "icon": "🛋️",
-        "title": "Specialist Operators",
-        "description": "Certified operatives for utilities, rail, and water sector projects, ensuring efficiency and compliance."
+        "icon": "🏗",
+        "title": "General Labour",
+        "description": "Skilled workers for construction, civils, and utilities projects across the UK."
       },
       {
-        "icon": "🛠️",
-        "title": "Suction Excavator Servi",
-        "description": "Advanced excavation solutions to streamline complex site operations safely and effectively."
+        "icon": "💧",
+        "title": "Water Sector Experts",
+        "description": "Certified operators for water treatment and utilities projects."
       },
       {
-        "icon": "🎥",
-        "title": "Health & Well-Being",
-        "description": "Dedicated resources to maintain workforce health and morale across demanding projects."
+        "icon": "🚧",
+        "title": "Highways Services",
+        "description": "Expert teams for roadworks and infrastructure upgrades."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our vision for the",
-    "title": "Building a Legacy with Hercules PLC",
+    "eyebrow": "Building a lasting",
+    "title": "Our commitment to innovation",
     "paragraphs": [
-      "At Hercules PLC, we believe in creating infrastructure that stands the test of time. With one united vision and a team of dedicated professionals, we focus on innovation and excellence to serve future generations.",
-      "Our tailored workforce solutions align with client needs, offering certified operatives and advanced compliance tracking. We provide unmatched reliability and value, ensuring ROI for infrastructure owners and contractors alike."
+      "Hercules PLC was founded with a vision to unite skilled teams and deliver innovative solutions. We strive to build infrastructure that stands the test of time.",
+      "Our certified workforce and safety-first approach ensure seamless project execution, helping our clients achieve their goals efficiently."
     ],
     "image": "https://images.pexels.com/photos/3377214/pexels-photo-3377214.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What our clients say",
-    "title": "Trusted by Industry Leaders",
+    "eyebrow": "What clients say",
+    "title": "Trusted by industry leaders",
     "list": [
       {
-        "quote": "Hercules PLC’s certified operatives and compliance solutions helped us overcome labour shortages and stay on schedule for a critical water",
-        "name": "Alex Morgan",
-        "role": "Project Manager, Utilities Sector",
+        "quote": "Hercules PLC provided certified operatives who ensured our project stayed compliant and on schedule.",
+        "name": "Mark Henderson",
+        "role": "Project Manager, Rail Sector",
         "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their seamless workforce scheduling and safety compliance tracking were game-changers for our rail project. Highly recommend their",
-        "name": "Sarah Thompson",
-        "role": "Infrastructure Director, Rail Sector",
-        "avatar": "https://images.unsplash.com/photo-1688516940599-674116306c5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMkYlMjBJbmZyYXN0cnVjdHVyZSUyMCUyRiUyMExhYm91ciUyMHN1cHBseSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYxODM2OTEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+        "quote": "Their safety tracking and skilled workforce resolved our resource shortage seamlessly.",
+        "name": "Sarah Collins",
+        "role": "Director, Utilities Company",
+        "avatar": "https://images.unsplash.com/photo-1688516940599-674116306c5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMkYlMjBJbmZyYXN0cnVjdHVyZSUyMCUyRiUyMExhYm91ciUyMHN1cHBseSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyMzU2MTM5fDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit our headquarters",
-    "title": "Connect with Hercules PLC",
-    "description": "Explore how our innovative solutions can elevate your next infrastructure project. Contact us today!",
-    "address": "",
+    "eyebrow": "Connecting communities",
+    "title": "Explore our projects",
+    "description": "Our work spans highways, rail, utilities, and energy sectors across the UK.",
+    "address": "United Kingdom",
     "website": "www.hercules-construction.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Start your project",
-    "title": "Request a Consultation",
-    "description": "Let’s discuss your labour supply needs. Contact our team to find the right solution for your project.",
-    "consent": "By submitting, you agree to our privacy policy."
+    "eyebrow": "Let’s build together",
+    "title": "Request a consultation",
+    "description": "Contact us for scalable labour solutions tailored to your project needs.",
+    "consent": "By submitting, you agree to receive updates from Hercules PLC."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Your Workforce Management",
-    "description": "AI-driven tools to simplify labour scheduling, compliance tracking, and reporting.",
+    "title": "Streamline workforce management",
+    "description": "Harness AI to simplify operations and accelerate project delivery.",
     "bullets": [
-      "Centralized scheduling for maximized efficiency.",
-      "Real-time compliance tracking across sites.",
-      "Mobile timesheets integrated with payroll systems."
+      "Automate scheduling for real-time resource allocation.",
+      "Ensure compliance with digital certification tracking.",
+      "Simplify payroll with mobile timesheet integration."
     ],
     "offer": "Mention Hercules PLC for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
-    "email": "byron@enablematic.com",
-    "phone": "(718) 555-0198",
-    "badgeImage": "https://media.licdn.com/dms/image/v2/D4E3DAQHwjHFRSZGZHA/image-scale_191_1128/B4EZk.Au0BK0Ac-/0/1757682004292/enablematic_cover?e=1760900400&v=beta&t=4qqU51xjVGEF7nRAlH4pUD_qrv6Y4buDUMQnD1pkUKg",
+    "email": "byron@enablematic.io",
+    "phone": "+44 7776044988",
+    "badgeImage": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/NDIlCPKjCtwfNkvdapOE/media/68f80d4484a9d61c1c75f24b.svg",
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
     "blurb": "Hercules PLC delivers unforgettable experiences.",
-    "address": "",
+    "address": "United Kingdom",
     "email": "",
     "socials": [
       {
