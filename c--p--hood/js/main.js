@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
-    "name": "CP Hood Mechanical",
-    "tagline": "Engineering Excellence",
+    "name": "C.P. Hood M&E",
+    "tagline": "Engineered for Excellence",
     "category": "Mechanical & Electrical Engineering",
-    "location": "",
-    "phone": ""
+    "location": "UK",
+    "phone": "Unavailable"
   },
   "hero": {
-    "eyebrow": "Trusted MEP Solutions",
-    "title": "Streamline your projects today.",
-    "description": "We deliver reliable MEP solutions with cutting-edge automation tools to enhance efficiency, safety, and quality.",
+    "eyebrow": "Trusted MEP Experts",
+    "title": "Simplifying complex engineering projects.",
+    "description": "We deliver innovative MEP solutions, streamlining workflows and ensuring top-notch HESQ compliance for every project.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "2,500+"
+        "value": "1,000+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
       },
       {
-        "label": "Years of Expertise",
-        "value": "20+"
+        "label": "Years of Experience",
+        "value": "15+"
       }
     ],
     "image": "https://images.pexels.com/photos/19895915/pexels-photo-19895915.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Reliable Expertise",
-        "description": "Our team ensures precision and quality in every engineering project."
-      },
-      {
         "title": "Innovative Solutions",
-        "description": "We leverage cutting-edge technology to optimize performance."
+        "description": "We design cutting-edge systems tailored to your needs."
       },
       {
-        "title": "Tailored Services",
-        "description": "Customized MEP solutions designed to fit your project's needs."
+        "title": "Exceptional Quality",
+        "description": "Our commitment to HESQ ensures safety and reliability."
+      },
+      {
+        "title": "Reliable Expertise",
+        "description": "15+ years of dedicated service in MEP engineering."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Our services cover all aspects of mechanical, electrical, and renewable energy engineering.",
+    "description": "Expert MEP services for commercial and public sector clients.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Mechanical Engineering",
-        "description": "Precision-driven mechanical systems for commercial spaces."
+        "description": "Efficient systems designed for lasting performance."
       },
       {
         "icon": "💡",
         "title": "Electrical Engineering",
-        "description": "Efficient electrical designs for safe and reliable power systems."
+        "description": "Safe, sustainable, and innovative energy solutions."
       },
       {
         "icon": "🌱",
         "title": "Renewable Energy",
-        "description": "Sustainable energy solutions to reduce your carbon footprint."
+        "description": "Green technologies to power the future responsibly."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Built on Trust and Innovation",
+    "title": "Leading MEP innovation across the UK.",
     "paragraphs": [
-      "C.P. HOOD MECHANICAL & ELECTRICAL was founded to deliver top-tier engineering solutions. Our team combines expertise and innovation to meet complex challenges.",
-      "We excel by leveraging advanced technology and automation to improve efficiency. Clients trust us to deliver tailored solutions with unmatched quality."
+      "C.P. Hood M&E has been delivering high-quality engineering solutions for over 15 years. We specialize in mechanical, electrical, and renewable energy services.",
+      "By automating workflows, we help clients save time and resources. Our focus on HESQ compliance sets us apart as a trusted partner in the industry."
     ],
     "image": "https://images.pexels.com/photos/9242204/pexels-photo-9242204.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Customer Praise",
+    "eyebrow": "Customer Feedback",
+    "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "C.P. Hood streamlined our workflows and improved project outcomes. Their expertise is unmatched.",
+        "quote": "C.P. Hood streamlined our project intake and delivered outstanding results on time and within budget.",
         "name": "John Smith",
-        "role": "Facility Manager",
+        "role": "Commercial Developer",
         "avatar": "https://images.pexels.com/photos/7565176/pexels-photo-7565176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their designs are innovative and reliable, enhancing efficiency for our commercial spaces.",
-        "name": "Emily Jones",
-        "role": "Architect",
+        "quote": "Their HESQ automation saved us hours of reporting and ensured full compliance effortlessly.",
+        "name": "Sarah Johnson",
+        "role": "Facility Manager",
         "avatar": "https://images.unsplash.com/photo-1686703739533-4c91fa22610f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxNZWNoYW5pY2FsJTIwJTI2JTIwRWxlY3RyaWNhbCUyMEVuZ2luZWVyaW5nJTIwJTI4TUVQJTI5JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIzODM3MzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Explore Our Services",
-    "description": "Contact us to learn how we can enhance your next project.",
-    "address": "",
+    "eyebrow": "Our Location",
+    "title": "Serving clients across the UK.",
+    "description": "We provide reliable MEP services to commercial and public sector clients nationwide.",
+    "address": "Unavailable",
     "website": "www.cphoodmechanical.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Request a Consultation",
-    "description": "Contact us today to discuss your project requirements.",
-    "consent": "We value your privacy and ensure secure communication."
+    "eyebrow": "Get in Touch",
+    "title": "Ready to start your project?",
+    "description": "Contact us today for consultations or tailored project solutions.",
+    "consent": "We respect your privacy. Your data is secure."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Your Success",
-    "description": "Leverage AI to streamline operations and enhance efficiency.",
+    "title": "AI-Powered Efficiency",
+    "description": "Transform your workflows with our automation expertise.",
     "bullets": [
-      "Automated lead capture to save time.",
-      "Digital HESQ compliance for accuracy.",
-      "SEO tools to showcase case studies effectively."
+      "Automated lead capture and qualification forms.",
+      "Streamlined project progress reporting tools.",
+      "Digital HESQ compliance and inspection processes."
     ],
-    "offer": "Mention CP Hood Mechanical for the launch-week optimization kit.",
+    "offer": "Mention C.P. Hood M&E for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "CP Hood Mechanical delivers unforgettable experiences.",
-    "address": "",
+    "blurb": "C.P. Hood M&E delivers unforgettable experiences.",
+    "address": "Unavailable",
     "email": "",
     "socials": [
       {
