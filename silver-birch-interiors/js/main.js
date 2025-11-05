@@ -4,24 +4,24 @@ const appData = {
     "tagline": "Luxury kitchens, redefined.",
     "category": "Kitchen Design & Installation",
     "location": "Scotland",
-    "phone": "+44 1234 567890"
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Bespoke kitchen solutions",
-    "title": "Luxury designs, stress-free installs.",
-    "description": "We create high-end kitchens with seamless project management, ensuring quality and customer satisfaction every step.",
+    "eyebrow": "Bespoke kitchen experts",
+    "title": "Transform your kitchen with ease.",
+    "description": "We design, install, and manage luxury kitchens, eliminating stress with trusted quality and seamless service.",
     "highlights": [
       {
+        "label": "Years Designing Kitche",
+        "value": "15+"
+      },
+      {
         "label": "Projects Completed",
-        "value": "500+"
+        "value": "1,200+"
       },
       {
         "label": "Customer Satisfaction",
         "value": "98%"
-      },
-      {
-        "label": "Years of Experience",
-        "value": "10+"
       }
     ],
     "image": "https://images.pexels.com/photos/6903217/pexels-photo-6903217.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Bespoke Luxury Designs",
-        "description": "Each kitchen is tailored to your vision, combining style and functionality."
+        "title": "Innovative Designs",
+        "description": "We craft unique, luxury kitchens tailored to your lifestyle and home."
       },
       {
-        "title": "Seamless Installations",
-        "description": "Our expert team ensures flawless renovations and stress-free results."
+        "title": "Seamless Process",
+        "description": "Our team handles every detail, ensuring a stress-free experience."
       },
       {
-        "title": "Exceptional Quality",
-        "description": "We source premium materials and appliances for lasting durability."
+        "title": "Trusted Quality",
+        "description": "We use top brands and skilled installers for stunning, lasting results."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Transform your space with our expert kitchen services.",
+    "description": "From design to installation, we deliver exceptional kitchens built for your needs.",
     "cards": [
       {
-        "icon": "✨",
-        "title": "Custom Design",
-        "description": "We design bespoke kitchens tailored to your taste and lifestyle."
+        "icon": "🎨",
+        "title": "Kitchen Design",
+        "description": "Custom luxury designs tailored to your space and preferences."
       },
       {
-        "icon": "🛠",
-        "title": "Professional Install",
-        "description": "Expert installation with precision and care for flawless results."
+        "icon": "🏗",
+        "title": "Kitchen Installation",
+        "description": "Expert installation ensures flawless results you’ll love."
       },
       {
-        "icon": "🏡",
-        "title": "Home Integration",
-        "description": "Seamlessly integrate kitchens with home extensions and layouts."
+        "icon": "🔧",
+        "title": "Project Management",
+        "description": "We handle every detail, from planning to completion, for peace of mind."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our story",
-    "title": "Inspired by innovation.",
+    "eyebrow": "Our journey",
+    "title": "Redefining bespoke kitchens.",
     "paragraphs": [
-      "Silver Birch Interiors was founded to redefine luxury kitchens. We combine style and innovation to transform homes across Scotland.",
-      "Our bespoke designs, expert installations, and seamless project management ensure every client experiences a hassle-free renovation."
+      "Silver Birch Interiors was founded to bring luxury and custom craftsmanship into every kitchen we touch. Our designs turn ordinary spaces into extraordinary ones.",
+      "With a focus on quality, innovation, and seamless execution, we’re the trusted choice for homeowners transforming their kitchens into stunning, functional spaces."
     ],
     "image": "https://images.pexels.com/photos/8102050/pexels-photo-8102050.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Customer feedback",
-    "title": "What clients are saying.",
+    "eyebrow": "What clients say",
+    "title": "Real stories, real results.",
     "list": [
       {
-        "quote": "Silver Birch made our dream kitchen a reality with zero stress. Their team is outstanding!",
-        "name": "Joanne Miller",
+        "quote": "Silver Birch Interiors made our renovation stress-free. The team’s attention to detail was incredible.",
+        "name": "John Carter",
         "role": "Homeowner",
         "avatar": "https://images.pexels.com/photos/7595889/pexels-photo-7595889.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "The design and installation were flawless. I highly recommend Alan and his team!",
-        "name": "David Taylor",
+        "quote": "Our new kitchen is breathtaking. Their designs truly stand out, and the process was smooth.",
+        "name": "Emma Taylor",
         "role": "Homeowner",
         "avatar": "https://images.unsplash.com/photo-1639036910954-27b2fe434fb1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxLaXRjaGVuJTIwZGVzaWduJTIwJTI2JTIwaW5zdGFsbGF0aW9uJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIzODM2ODF8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us",
-    "title": "Discover our kitchens.",
-    "description": "Explore our showroom and see the craftsmanship behind our luxury designs.",
-    "address": "Scotland (specific location unavaila",
+    "eyebrow": "Find us",
+    "title": "Visit our showroom.",
+    "description": "Explore our designs firsthand and meet our team to start your dream kitchen journey.",
+    "address": "",
     "website": "www.silverbirchinteriors.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get started",
-    "title": "Book your consultation.",
-    "description": "Contact us to discuss your kitchen project and begin your transformation.",
-    "consent": "By submitting, you agree to our terms."
+    "title": "Request a consultation.",
+    "description": "Contact us today to discuss your dream kitchen and receive a personalized quote.",
+    "consent": "By submitting, I agree to receive updates and offers."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your experience.",
-    "description": "Leverage AI to simplify your design journey with us.",
+    "title": "Streamline your kitchen journey.",
+    "description": "Automation tools simplify your renovation experience, saving time and effort.",
     "bullets": [
-      "Automated online quotes for fast estimates.",
-      "Appointment reminders for seamless planning.",
-      "Follow-up emails for maintenance and care."
+      "Online quoting boosts clarity and speed.",
+      "Automated follow-ups ensure top-notch aftercare.",
+      "CRM integration tracks projects from start to finish."
     ],
     "offer": "Mention Silver Birch Interi for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Silver Birch Interi delivers unforgettable experiences.",
-    "address": "Scotland (specific location unavaila",
+    "address": "",
     "email": "",
     "socials": [
       {
