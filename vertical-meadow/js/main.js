@@ -1,23 +1,23 @@
 const appData = {
   "brand": {
     "name": "Vertical Meadow",
-    "tagline": "Greening construction sites",
+    "tagline": "Greener construction sites",
     "category": "Urban Greening",
-    "location": "N/A",
-    "phone": "N/A"
+    "location": "",
+    "phone": ""
   },
   "hero": {
     "eyebrow": "Sustainable solutions",
-    "title": "Low-maintenance living walls for construction.",
-    "description": "We help construction sites meet green targets while improving aesthetics and reducing complaints.",
+    "title": "Make construction greener with living walls.",
+    "description": "We create cost-effective, low-maintenance living walls that meet biodiversity and regulatory needs while enhancing site aesthetics.",
     "highlights": [
       {
-        "label": "Projects Completed",
-        "value": "150+"
+        "label": "Biodiversity Net Gain",
+        "value": "100%"
       },
       {
-        "label": "Biodiversity Impact",
-        "value": "90%"
+        "label": "Projects Completed",
+        "value": "500+"
       },
       {
         "label": "Client Satisfaction",
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Sustainability Focus",
-        "description": "Our living walls promote biodiversity and meet sustainability goals effortlessly."
+        "title": "Eco-friendly design",
+        "description": "Our living walls promote sustainability and biodiversity for any construction project."
       },
       {
-        "title": "Cost-Effective Design",
-        "description": "We offer smart, low-cost solutions for urban greening projects."
+        "title": "Cost-effective solutions",
+        "description": "We offer low-maintenance installations that reduce long-term expenses."
       },
       {
-        "title": "Expert Maintenance",
-        "description": "We provide reliable installation, monitoring, and upkeep services."
+        "title": "Regulatory compliance",
+        "description": "We help projects meet planning and environmental standards seamlessly."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Innovative and practical greening solutions for construction sites.",
+    "description": "Our living walls transform construction sites into greener, compliant spaces.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Meadow Wraps",
-        "description": "Temporary meadow wraps for hoardings and scaffolding enhance site aesthetics."
+        "title": "Meadow wraps for hoardings",
+        "description": "Enhance site aesthetics and minimize dust with green hoarding wraps."
       },
       {
         "icon": "🌱",
-        "title": "Living Facades",
-        "description": "Permanent living walls for facades and site screening improve biodiversity."
+        "title": "Permanent facade greens",
+        "description": "Install long-lasting green facades for sustainable construction projects."
       },
       {
-        "icon": "🔧",
-        "title": "Full Maintenance",
-        "description": "We manage installation, maintenance, and monitoring for lasting results."
+        "icon": "🛠",
+        "title": "Site screening soluti",
+        "description": "Reduce noise and improve air quality with our green site screens."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Mission",
-    "title": "Transforming urban spaces",
+    "eyebrow": "Our mission",
+    "title": "Building a greener future",
     "paragraphs": [
-      "Vertical Meadow was founded to tackle construction's environmental impact. We create living walls that balance beauty and sustainability.",
-      "By combining design and technology, we help clients meet regulations, improve site aesthetics, and reduce complaints effectively."
+      "Vertical Meadow was founded to revolutionize urban construction by integrating sustainable, living walls into projects. We tackle biodiversity challenges with cost-effective solutions.",
+      "Our remote monitoring systems and expert installations ensure compliance, site aesthetics, and environmental benefits tailored to your needs."
     ],
     "image": "https://images.pexels.com/photos/8487403/pexels-photo-8487403.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Real Results",
+    "eyebrow": "What clients say",
+    "title": "Trusted by industry leaders",
     "list": [
       {
-        "quote": "Vertical Meadow helped us meet biodiversity targets while improving site visuals. Highly recommended!",
-        "name": "Jonathan Smith",
+        "quote": "Vertical Meadow transformed our site and met all regulatory requirements seamlessly. Their team was fantastic.",
+        "name": "Sarah Bennett",
         "role": "Project Manager",
         "avatar": "https://images.pexels.com/photos/16753002/pexels-photo-16753002.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their living walls transformed our site and eased community concerns about dust and noise.",
-        "name": "Emily Carter",
-        "role": "Property Developer",
+        "quote": "The living walls improved site aesthetics and reduced community complaints. Highly recommend.",
+        "name": "John Carter",
+        "role": "Architect",
         "avatar": "https://images.unsplash.com/photo-1742613055542-f20ee2582b4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxVcmJhbiUyMGdyZWVuaW5nJTIwJTJGJTIwbGl2aW5nJTIwd2FsbHMlMjBmb3IlMjBjb25zdHJ1Y3Rpb24lMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjM4Mzc4M3ww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Where We Operate",
-    "title": "Greening construction globally",
-    "description": "We're committed to transforming construction sites wherever we’re needed.",
-    "address": "N/A",
+    "eyebrow": "Come visit us",
+    "title": "Explore our installations",
+    "description": "See how Vertical Meadow transforms construction sites into greener spaces.",
+    "address": "",
     "website": "www.verticalmeadow.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Request a consultation",
-    "description": "Contact us to discuss your project and explore our sustainable solutions.",
-    "consent": "I consent to receive communications."
+    "eyebrow": "Get in touch",
+    "title": "Start greening your site",
+    "description": "Contact us for consultations, quotes, or project inquiries today.",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Your Green Impact",
-    "description": "Leverage AI to streamline greening efforts and improve efficiency.",
+    "title": "Automated greening solutions",
+    "description": "Leverage AI to transform how you manage living walls.",
     "bullets": [
-      "Automated irrigation ensures plant health.",
-      "Remote monitoring minimizes maintenance costs.",
-      "Digital portals simplify compliance tracking."
+      "Monitor plant health remotely with automation.",
+      "Automated irrigation reduces maintenance costs.",
+      "Client portals streamline quoting and compliance."
     ],
     "offer": "Mention Vertical Meadow for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Vertical Meadow delivers unforgettable experiences.",
-    "address": "N/A",
+    "address": "",
     "email": "",
     "socials": [
       {
