@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Bryn Thomas Cranes",
-    "tagline": "Precision lifting solutions",
-    "category": "Mobile crane hire",
+    "tagline": "Lifting the UK higher",
+    "category": "Mobile Crane Hire",
     "location": "Liverpool, Manches",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "UK's leading crane hire",
-    "title": "Expert crane hire for complex lifting needs",
-    "description": "We simplify crane hire and contract lifting, ensuring safety, efficiency, and compliance for every project.",
+    "eyebrow": "Trusted UK crane hire",
+    "title": "Reliable lifting solutions tailored to you",
+    "description": "We simplify complex lifting jobs with expert planning, certified operators, and quality equipment for seamless operations.",
     "highlights": [
       {
-        "label": "Years in Operation",
-        "value": "20+"
+        "label": "Years in Business",
+        "value": "15+"
       },
       {
-        "label": "Projects Completed",
-        "value": "10,000+"
+        "label": "Crane Fleet Capacity",
+        "value": "8–500t"
       },
       {
-        "label": "Fleet Capacity",
-        "value": "8t-500t"
+        "label": "Client Satisfaction",
+        "value": "98%"
       }
     ],
     "image": "https://images.pexels.com/photos/31856779/pexels-photo-31856779.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -32,89 +32,89 @@ const appData = {
     "items": [
       {
         "title": "Extensive Fleet",
-        "description": "Our fleet spans a range of capacities, meeting diverse lifting requirements with precision."
+        "description": "Our cranes range from 8t to 500t, covering diverse project needs."
       },
       {
-        "title": "Safety Compliance",
-        "description": "We prioritize safety through certified operators, detailed planning, and full documentation."
+        "title": "Expert Operators",
+        "description": "Certified operators ensure safe and efficient lifting operations."
       },
       {
-        "title": "Trusted Expertise",
-        "description": "Decades of experience ensure reliable solutions for industries like nuclear and petrochemical."
+        "title": "Seamless Logistics",
+        "description": "We handle planning, compliance, and site management with precision."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We provide top-tier crane hire and lifting services tailored to your project needs.",
+    "description": "Specializing in crane hire and contract lifting, we provide tailored solutions.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Mobile Crane Hire",
-        "description": "Hire cranes ranging from 8t to 500t for your construction and industrial projects."
+        "description": "Hire cranes from 8t–500t for any construction or industrial project."
       },
       {
-        "icon": "🛡",
+        "icon": "💼",
         "title": "Contract Lifting",
-        "description": "Leave the planning, logistics, and certified operators to us for seamless lifting operations."
+        "description": "We manage lift planning, documentation, and certified operations."
       },
       {
         "icon": "📋",
         "title": "Lift Planning",
-        "description": "We handle risk assessments, compliance, and method statements for safe, efficient lifts."
+        "description": "We provide detailed lift plans, risk assessments, and compliance paperwork."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Committed to lifting excellence",
+    "title": "Leading the UK's Crane Hire Industry",
     "paragraphs": [
-      "Founded to meet the UK's growing demand for safe crane hire, we now operate across major cities like Liverpool, Manchester, and Newcastle.",
-      "Our expertise in fleet management and compliance delivers unmatched reliability, ensuring optimal solutions for challenging projects."
+      "Bryn Thomas Cranes has built a reputation as a trusted crane hire provider. With depots in Liverpool, Manchester, and Newcastle, we serve industries nationwide.",
+      "Our large fleet and expert team ensure precision and efficiency. We solve lifting challenges with tailored solutions and unmatched reliability."
     ],
     "image": "https://images.pexels.com/photos/5922550/pexels-photo-5922550.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
     "eyebrow": "Client Feedback",
-    "title": "What our clients say",
+    "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "Bryn Thomas Cranes made complex lifts simple, providing detailed plans and flawless execution.",
-        "name": "Mark Stevens",
-        "role": "Project Manager",
+        "quote": "Bryn Thomas made our complex lift seamless. Their team handled everything expertly.",
+        "name": "Michael Harris",
+        "role": "Project Manager, Construction Co.",
         "avatar": "https://images.pexels.com/photos/18499286/pexels-photo-18499286.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their team ensured compliance and safety, saving us time and reducing costs significantly.",
-        "name": "Sarah Johnson",
-        "role": "Operations Director",
+        "quote": "Their lift planning and certified operators saved us time and ensured compliance.",
+        "name": "Sarah Davies",
+        "role": "Logistics Lead, Petrochemical Firm",
         "avatar": "https://images.unsplash.com/photo-1565164864900-73357ab75960?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxNb2JpbGUlMjBjcmFuZSUyMGhpcmUlMjAlMjYlMjBjb250cmFjdCUyMGxpZnRpbmclMjAlMjhDb25zdHJ1Y3Rpb24lMkZIZWF2eSUyMGxpZnRpbmclMjklMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjM2MjAyNnww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Where we operate",
-    "title": "Serving key UK regions",
-    "description": "With depots in Liverpool, Manchester, and Newcastle, we provide prompt, reliable service across the UK.",
-    "address": "",
+    "eyebrow": "Find Us",
+    "title": "Multiple Depots Across the UK",
+    "description": "Our locations in Liverpool, Manchester, and Newcastle offer nationwide coverage for your lifting needs.",
+    "address": "Liverpool, Manchester, Newcastle",
     "website": "www.brynthomascranes.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started",
-    "title": "Request a quote today",
-    "description": "Contact us for crane hire and contract lifting solutions tailored to your needs.",
-    "consent": "I agree to the terms and privacy policy."
+    "eyebrow": "Get Started",
+    "title": "Request a Quote Today",
+    "description": "Simplify your lifting projects with expert crane hire. Contact us now.",
+    "consent": "We respect your privacy and never share data."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your operations",
-    "description": "Harness automation to enhance efficiency and reduce lifting costs.",
+    "title": "Automated Solutions",
+    "description": "Streamline operations and save time with advanced automation tools.",
     "bullets": [
-      "Instant online quotes save time on estimation.",
-      "Digital dispatch ensures precise scheduling.",
-      "Automated compliance management simplifies paperwork."
+      "Instant online lift quoting system for fast estimates.",
+      "Digital compliance management for risk-free operations.",
+      "Fleet optimization tools to reduce travel costs and improve efficiency."
     ],
     "offer": "Mention Bryn Thomas Cranes for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Bryn Thomas Cranes delivers unforgettable experiences.",
-    "address": "",
+    "address": "Liverpool, Manchester, Newcastle",
     "email": "",
     "socials": [
       {
