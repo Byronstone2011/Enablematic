@@ -1,23 +1,23 @@
 const appData = {
   "brand": {
     "name": "RJC (uk) LTD",
-    "tagline": "Infrastructure that lasts",
-    "category": "Railway & Telecom Services",
-    "location": "National & Interna",
-    "phone": ""
+    "tagline": "Infrastructure experts",
+    "category": "Rail & Telecom Services",
+    "location": "Nationwide & Inter",
+    "phone": "Contact via email"
   },
   "hero": {
-    "eyebrow": "Trusted by industry leaders",
-    "title": "Streamlining infrastructure projects worldwide",
-    "description": "We deliver expert railway and telecom solutions, ensuring efficiency, compliance, and sustainability for every project.",
+    "eyebrow": "Trusted by major clients",
+    "title": "Streamlined infrastructure solutions.",
+    "description": "RJC (uk) LTD delivers reliable railway and telecom services backed by expertise and innovation. Trust us to simplify your operations.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "1,500+"
+        "value": "2,500+"
       },
       {
-        "label": "Years in Business",
-        "value": "10+"
+        "label": "Years of Experience",
+        "value": "15+"
       },
       {
         "label": "Client Satisfaction",
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Industry Expertise",
-        "description": "Decades of experience in rail and telecom ensure precise, reliable services every time."
+        "title": "Proven Expertise",
+        "description": "Years of experience ensure reliable service and trusted solutions for specialized industries."
       },
       {
-        "title": "Certified Excellence",
-        "description": "Accreditations guarantee compliance with public-sector standards and regulations."
+        "title": "Innovative Solutions",
+        "description": "We offer modern, sustainable approaches tailored to telecom and railway challenges."
       },
       {
-        "title": "Sustainable Solutions",
-        "description": "Eco-friendly innovations reduce environmental impact without compromising quality."
+        "title": "Comprehensive Services",
+        "description": "From maintenance to consultancy, we provide end-to-end infrastructure support."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive solutions tailored to railway and telecom infrastructure.",
+    "description": "We deliver tailored services to meet railway and telecom infrastructure needs.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Infrastructure Installatio",
-        "description": "Expert installation for railway and telecom systems, ensuring efficiency and safety."
+        "title": "Infrastructure Services",
+        "description": "Specialized installation and maintenance for railway and telecom sectors."
       },
       {
-        "icon": "🛠",
-        "title": "Maintenance Services",
-        "description": "Planned and reactive maintenance to keep your systems running smoothly."
+        "icon": "📡",
+        "title": "Telecom Solutions",
+        "description": "Tall-structure installation and facility management services for telecom networks."
       },
       {
-        "icon": "💼",
-        "title": "Consultancy & Guidanc",
-        "description": "Professional advice tailored to complex infrastructure challenges."
+        "icon": "🔍",
+        "title": "Surveying & Consultan",
+        "description": "Expert guidance and sustainable solutions tailored for your infrastructure projects."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey of excell",
-    "title": "Building trust through expertise",
+    "eyebrow": "Our journey",
+    "title": "Building a foundation of trust.",
     "paragraphs": [
-      "Since our inception, RJC (uk) LTD has been a trusted partner in railway and telecom projects globally. Our reputation is built on reliability and quality service.",
-      "We excel at streamlining complex projects, integrating sustainable practices, and maintaining compliance, providing unmatched value to our partners."
+      "RJC (uk) LTD has earned a stellar reputation in railway and telecom sectors, operating nationally and internationally with major clients.",
+      "We combine reliability, innovation, and compliance to deliver seamless solutions for complex infrastructure challenges."
     ],
     "image": "https://images.pexels.com/photos/12032974/pexels-photo-12032974.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What clients are sayin",
-    "title": "Customer success stories",
+    "eyebrow": "Happy Clients",
+    "title": "What our clients say.",
     "list": [
       {
-        "quote": "RJC made our railway upgrades seamless and efficient. Their expertise ensured compliance with ease.",
-        "name": "Alex Johnson",
-        "role": "Project Manager",
+        "quote": "RJC (uk) LTD simplified our telecom project with efficient solutions and unmatched expertise.",
+        "name": "Sarah Johnson",
+        "role": "Project Manager, Telecom Co.",
         "avatar": "https://images.pexels.com/photos/7648239/pexels-photo-7648239.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their maintenance services are top-notch. They keep our infrastructure running flawlessly.",
-        "name": "Sarah Lee",
-        "role": "Facility Manager",
+        "quote": "Their team provided seamless railway maintenance and ensured full compliance with standards.",
+        "name": "David Lee",
+        "role": "Infrastructure Coordinator",
         "avatar": "https://images.unsplash.com/photo-1707136960318-a94946542af3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxSYWlsd2F5JTIwYW5kJTIwVGVsZWNvbW11bmljYXRpb25zJTIwSW5mcmFzdHJ1Y3R1cmUlMjAlMjYlMjBNYWludGVuYW5jZSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyMzU4NDY5fDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Locations we serve",
-    "title": "National & international reach",
-    "description": "RJC (uk) LTD delivers infrastructure solutions worldwide, ensuring excellence wherever you are.",
-    "address": "Contact for details",
+    "eyebrow": "Visit Us",
+    "title": "Serving globally.",
+    "description": "Our operations extend nationwide and internationally, delivering trusted services everywhere.",
+    "address": "Contact for location details",
     "website": "www.rjcuk.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch today",
-    "title": "Schedule your consultation",
-    "description": "Contact us to discuss your railway or telecom project needs. Our team is ready to assist.",
-    "consent": "We respect your privacy and ensure data security."
+    "eyebrow": "Get Started",
+    "title": "Contact us today.",
+    "description": "Reach out to discuss your project needs with our experienced team.",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Elevate with automation",
-    "description": "Streamline operations and enhance productivity with tailored automation solutions.",
+    "title": "Automate your processes.",
+    "description": "Leverage AI for efficiency and compliance in your infrastructure projects.",
     "bullets": [
-      "Automated tender processes save time and reduce errors.",
-      "Compliance tracking ensures accreditation standards are met.",
-      "Scheduling tools optimize workforce management efficiently."
+      "Automated workforce scheduling saves time.",
+      "Real-time compliance document tracking.",
+      "CRM integration allows seamless lead capture."
     ],
     "offer": "Mention RJC (uk) LTD for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "RJC (uk) LTD delivers unforgettable experiences.",
-    "address": "Contact for details",
+    "address": "Contact for location details",
     "email": "",
     "socials": [
       {
