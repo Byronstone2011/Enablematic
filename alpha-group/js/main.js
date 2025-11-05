@@ -1,15 +1,15 @@
 const appData = {
   "brand": {
     "name": "Alpha Group",
-    "tagline": "Building Your Future",
-    "category": "Construction",
+    "tagline": "Building Excellence",
+    "category": "Construction / Home Improvements",
     "location": "Essex & Suffolk",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted property builders",
-    "title": "High-quality builds, hassle-free.",
-    "description": "Alpha Group simplifies construction with expert project management, clear communication, and reliable services for homes and businesses.",
+    "eyebrow": "Trusted Property Experts",
+    "title": "Quality construction, hassle-free.",
+    "description": "We deliver top-notch building services with seamless project management in Essex and Suffolk. Trust us for stress-free property improvements.",
     "highlights": [
       {
         "label": "Projects Completed",
@@ -17,7 +17,7 @@ const appData = {
       },
       {
         "label": "Years of Experience",
-        "value": "22+"
+        "value": "15+"
       },
       {
         "label": "Client Satisfaction",
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Experienced team",
-        "description": "Our professionals deliver exceptional results backed by decades of industry expertise."
+        "title": "Proven Track Record",
+        "description": "Over 408 projects completed with exceptional quality and results."
       },
       {
-        "title": "End-to-end service",
-        "description": "From planning to completion, we handle every detail with precision and care."
+        "title": "Wide Service Range",
+        "description": "From new builds to renovations, we handle all property needs."
       },
       {
-        "title": "Proven results",
-        "description": "With over 408 projects completed, our track record speaks for itself."
+        "title": "Local Expertise",
+        "description": "Serving Essex and Suffolk with trusted construction services."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Alpha Group offers premium construction services tailored to your needs.",
+    "description": "From extensions to flooring, Alpha Group provides a full range of building services tailored to your property needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "House Extensions",
-        "description": "Expand your living space with custom-designed house extensions built to last."
+        "description": "Expand your living space with expertly built extensions."
       },
       {
-        "icon": "🛠",
+        "icon": "🔨",
         "title": "Loft Conversions",
-        "description": "Transform unused lofts into stylish, functional spaces for your home."
+        "description": "Transform your loft into a stunning, functional area."
       },
       {
         "icon": "🚿",
         "title": "Bathroom Installation",
-        "description": "Create luxurious, modern bathrooms with flawless installations and finishes."
+        "description": "Upgrade your bathroom with modern designs and quality fittings."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Building trust in Essex & Suffolk",
+    "eyebrow": "Our Story",
+    "title": "Built on Trust and Quality",
     "paragraphs": [
-      "Since our founding, Alpha Group has been committed to delivering high-quality building services for domestic and commercial clients. Our focus is on reliability and craftsmanship.",
-      "With a comprehensive service range and a proven track record, we’re the perfect partner for homeowners and landlords seeking seamless, professional construction solutions."
+      "Founded to serve Essex and Suffolk, Alpha Group delivers high-quality domestic and commercial building services. We take pride in every project.",
+      "With unmatched local expertise and a focus on client satisfaction, our services ensure seamless property transformations tailored to your needs."
     ],
     "image": "https://images.pexels.com/photos/6474446/pexels-photo-6474446.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Customer reviews",
-    "title": "What our clients say",
+    "eyebrow": "Client Testimonials",
+    "title": "What Our Customers Say",
     "list": [
       {
-        "quote": "Alpha Group transformed our home with a stunning loft conversion. Their team was professional and efficient from start to finish.",
-        "name": "Sarah Thompson",
+        "quote": "Alpha Group managed my house extension flawlessly. Clear communication and excellent results.",
+        "name": "Sarah L.",
         "role": "Homeowner",
         "avatar": "https://images.pexels.com/photos/6474453/pexels-photo-6474453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their project management made our kitchen renovation stress-free. The results exceeded our expectations!",
-        "name": "Mark Reynolds",
+        "quote": "Their team transformed my loft into a beautiful space. Highly recommend Alpha Group!",
+        "name": "James T.",
         "role": "Landlord",
         "avatar": "https://images.unsplash.com/photo-1566821594226-cdc9cb42a4c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMkYlMjBIb21lJTIwaW1wcm92ZW1lbnRzJTIwJTI4R2VuZXJhbCUyMGJ1aWxkZXJzJTI5JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIzODM3MTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us",
-    "title": "Explore Essex & Suffolk",
-    "description": "Serving Colchester, Essex, and surrounding areas, Alpha Group is dedicated to enhancing properties across local communities.",
-    "address": "Essex & Suffolk",
+    "eyebrow": "Visit Us",
+    "title": "Serving Essex & Suffolk",
+    "description": "We proudly serve local areas with quality building services tailored to your vision.",
+    "address": "",
     "website": "www.alphagrp.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started today",
-    "title": "Request your consultation",
-    "description": "Contact us to discuss your project and receive a personalized quote. Let’s build together!",
-    "consent": "We respect your privacy."
+    "eyebrow": "Get Started Today",
+    "title": "Request a Free Quote",
+    "description": "Contact us to discuss your project and receive a personalized quote.",
+    "consent": "We respect your privacy and never share your data."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your projects",
-    "description": "Alpha Group can leverage AI tools to enhance client services and operations.",
+    "title": "Streamline Your Projects",
+    "description": "Automation transforms your experience with Alpha Group for faster, smoother service.",
     "bullets": [
-      "Add online forms for instant quote requests and lead capture.",
-      "Automate client communications and scheduling for smooth workflows.",
-      "Simplify payments with automated invoicing and deposit tracking."
+      "Online quote forms streamline inquiries and estimates.",
+      "Automated scheduling ensures timely job reminders.",
+      "CRM integration simplifies follow-ups and payment."
     ],
     "offer": "Mention Alpha Group for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Alpha Group delivers unforgettable experiences.",
-    "address": "Essex & Suffolk",
+    "address": "",
     "email": "",
     "socials": [
       {
