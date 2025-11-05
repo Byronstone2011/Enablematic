@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "T.I. Dynamic Facade",
-    "tagline": "Elevating architecture",
+    "tagline": "Innovating façades nationwide",
     "category": "Building Materials",
     "location": "United Kingdom",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Rainscreen cladding leaders",
-    "title": "Transforming façades with precision.",
-    "description": "Experts in natural stone and brick cladding, we deliver innovative solutions for architects and developers across the UK.",
+    "eyebrow": "Rainscreen cladding experts",
+    "title": "Streamline your façade solutions today.",
+    "description": "We provide top-quality stone and brick cladding plus expert support for architects and developers. Simplify projects with trusted expertise.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "3,000+"
-      },
-      {
-        "label": "Years of Expertise",
-        "value": "20+"
+        "value": "2,500+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
+      },
+      {
+        "label": "Years Experience",
+        "value": "15+"
       }
     ],
     "image": "https://images.pexels.com/photos/29944912/pexels-photo-29944912.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,47 +31,47 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Architectural Excellence",
-        "description": "Showcasing projects that blend innovation and timeless design."
+        "title": "Proven Expertise",
+        "description": "Over 15 years of experience delivering innovative façade solutions across the UK."
       },
       {
-        "title": "Certified Expertise",
-        "description": "CIAT accreditation ensures quality and compliance in every project."
+        "title": "Premium Materials",
+        "description": "Natural stone and brick cladding for durability and timeless architectural appeal."
       },
       {
-        "title": "Proven Reliability",
-        "description": "Delivering consistent results backed by client testimonials."
+        "title": "Trusted Support",
+        "description": "Technical design assistance ensures smooth project execution and superior results."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Our cladding solutions redefine building exteriors with style and durability.",
+    "description": "Our services include rainscreen cladding, external wall systems, and stone façade solutions tailored for architects and developers.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Rainscreen Cladding",
-        "description": "Enhance building performance with durable, ventilated cladding systems."
+        "description": "Weatherproof and stylish cladding systems to enhance building performance."
       },
       {
-        "icon": "🧱",
+        "icon": "🛠",
         "title": "Stone Façades",
-        "description": "Timeless natural stone designs for striking architectural beauty."
+        "description": "Elegant and durable stone façades for timeless architectural designs."
       },
       {
         "icon": "💼",
         "title": "Technical Support",
-        "description": "Expert guidance from design to installation for seamless execution."
+        "description": "Expert guidance and project collaboration for seamless integration."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "Designed for Excellence",
+    "eyebrow": "About Us",
+    "title": "Building Excellence for Over 15 Years",
     "paragraphs": [
-      "T.I. Dynamic Facades is a leading provider of rainscreen cladding and architectural solutions. We specialize in natural stone and brick façades tailored to perfection.",
-      "Our innovative approach supports architects, developers, and contractors with reliable, high-quality products and expert design assistance for standout projects."
+      "T.I. Dynamic Facades is the UK’s leading provider of architectural cladding solutions. We specialize in rainscreen systems, natural stone, and brick façades.",
+      "Our expertise helps architects, contractors, and developers achieve efficient, high-quality builds. We simplify complex projects with innovative solutions."
     ],
     "image": "https://images.pexels.com/photos/29865314/pexels-photo-29865314.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
@@ -80,41 +80,41 @@ const appData = {
     "title": "Trusted by Industry Leaders",
     "list": [
       {
-        "quote": "T.I. Dynamic Facades delivered exceptional cladding solutions that transformed our project with precision and beauty.",
-        "name": "Sarah Bennett",
+        "quote": "T.I. Dynamic Facades transformed our project with premium cladding and excellent support. Highly recommend!",
+        "name": "Sarah Jones",
         "role": "Architect",
         "avatar": "https://images.pexels.com/photos/6888778/pexels-photo-6888778.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their expertise in stone façades ensured our building's exterior stood out while meeting all technical requirements.",
-        "name": "James Carter",
-        "role": "Contractor",
+        "quote": "Their rainscreen systems are second to none. Reliable, durable, and stylish — a game changer for our builds.",
+        "name": "John Smith",
+        "role": "Developer",
         "avatar": "https://images.unsplash.com/photo-1682431021686-b3cd10626b77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxCdWlsZGluZyUyMG1hdGVyaWFscyUyMCUyRiUyMEZhJUMzJUE3YWRlJTIwJTI2JTIwY2xhZGRpbmclMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjM4MzgxNXww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Explore Our Work",
-    "title": "Visit Us in the UK",
-    "description": "Discover our innovative façade solutions in projects across the United Kingdom.",
+    "eyebrow": "Visit Us",
+    "title": "Explore Exceptional Façades",
+    "description": "Discover cutting-edge cladding solutions designed for modern architecture. Contact us to learn more.",
     "address": "United Kingdom",
-    "website": "www.tidynamicfacades.co.uk",
+    "website": "www.tidynamicfacades.com",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get Started",
-    "title": "Request a Consultation",
-    "description": "Contact us today to discuss your project and explore tailored cladding solutions.",
-    "consent": "We respect your privacy."
+    "title": "Request Your Quote Today",
+    "description": "Contact us for tailored façade solutions. We’ll provide expert advice and competitive pricing.",
+    "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline Your Workflow",
-    "description": "Harness automation to simplify operations and boost efficiency.",
+    "title": "Automate Your Workflow",
+    "description": "Bring efficiency to your cladding projects with advanced automation solutions.",
     "bullets": [
-      "Automate lead capture and quotations with ease.",
-      "Track projects and orders seamlessly with integrated systems.",
-      "Enhance client communication with automated updates."
+      "Streamline lead capture with online quoting tools.",
+      "Automate client communication with CRM systems.",
+      "Track orders and projects with real-time updates."
     ],
     "offer": "Mention T.I. Dynamic Facade for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
