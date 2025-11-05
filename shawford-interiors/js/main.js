@@ -1,15 +1,15 @@
 const appData = {
   "brand": {
-    "name": "SHAWFORD INTERIORS",
-    "tagline": "Precision. Compliance. Excellence.",
-    "category": "Construction / Interior fit-out",
+    "name": "Shawford Interiors",
+    "tagline": "Precision in every detail",
+    "category": "Interior Fit-Out Services",
     "location": "North of England",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Your fit-out experts",
-    "title": "Streamlined interior solutions for complex projects",
-    "description": "We deliver compliant, high-quality fit-outs with efficient project management. Trust us to handle timelines and regulations seamlessly.",
+    "eyebrow": "Streamlined Fit-Out Solutions",
+    "title": "Compliance and timelines made simple.",
+    "description": "We specialize in efficient, regulation-compliant interior fit-outs for residential, commercial, and more. On time, every time.",
     "highlights": [
       {
         "label": "Projects Completed",
@@ -17,11 +17,11 @@ const appData = {
       },
       {
         "label": "Compliance Rate",
-        "value": "99.9%"
+        "value": "99.8%"
       },
       {
-        "label": "Years Experience",
-        "value": "20+"
+        "label": "Years of Expertise",
+        "value": "15+"
       }
     ],
     "image": "https://images.pexels.com/photos/236698/pexels-photo-236698.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Compliance",
-        "description": "We ensure all fire and acoustic regulations are met without compromise."
+        "title": "Proven Expertise",
+        "description": "Over 15 years delivering quality interior fit-outs across industries."
       },
       {
-        "title": "Flawless Execution",
-        "description": "Our team delivers precision and quality on every fit-out project."
+        "title": "Seamless Execution",
+        "description": "We manage timelines and trades for efficient project delivery."
       },
       {
-        "title": "Seamless Management",
-        "description": "We streamline timelines and coordinate trades for stress-free results."
+        "title": "Certified Compliance",
+        "description": "Expertise in fire and acoustic systems ensures regulation adherence."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We specialize in providing tailored fit-out solutions for residential, commercial, and more.",
+    "description": "We deliver tailored fit-out solutions for diverse sectors.",
     "cards": [
-      {
-        "icon": "🔥",
-        "title": "Fire Systems",
-        "description": "Protect spaces with expertly installed fire safety systems."
-      },
       {
         "icon": "🏗",
         "title": "Partitions",
-        "description": "Create customized spaces with durable partitioning solutions."
+        "description": "Create functional spaces with durable, high-quality partitions."
+      },
+      {
+        "icon": "🔥",
+        "title": "Fire Systems",
+        "description": "Ensure safety with compliant fire system installations."
       },
       {
         "icon": "🎵",
         "title": "Acoustic Systems",
-        "description": "Reduce noise with advanced soundproofing for quiet environments."
+        "description": "Minimize noise with advanced acoustic solutions."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Building excellence through expertise",
+    "eyebrow": "Our Journey",
+    "title": "Driven by Excellence",
     "paragraphs": [
-      "SHAWFORD INTERIORS has been transforming spaces for over 20 years. We specialize in delivering high-quality fit-outs tailored to your needs.",
-      "Combining technical precision and automation, we streamline complex projects. Our expert team ensures compliance and flawless execution every time."
+      "Founded by Alex Sawford, Shawford Interiors has grown to be a trusted interior fit-out partner in the North of England. We deliver tailored solutions for every project.",
+      "By combining technical expertise with automation, we optimize workflows and ensure compliance. Our focus is on quality and efficiency for our clients."
     ],
     "image": "https://images.pexels.com/photos/1325717/pexels-photo-1325717.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Trusted by industry leaders",
+    "eyebrow": "What Our Clients Say",
+    "title": "Trusted by Industry Leaders",
     "list": [
       {
-        "quote": "SHAWFORD INTERIORS handled our project with precision and ensured compliance at every stage.",
-        "name": "John Anderson",
-        "role": "Project Manager, Main Contractor",
+        "quote": "Shawford Interiors delivered a flawless project on time and ensured every regulation was met. Highly recommend their services!",
+        "name": "John Matthews",
+        "role": "Project Manager, Commercial Sector",
         "avatar": "https://images.pexels.com/photos/17482906/pexels-photo-17482906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their seamless coordination was vital for timely delivery and high standards.",
-        "name": "Sarah Lewis",
-        "role": "Architect",
+        "quote": "Their team streamlined our project and handled everything seamlessly. The fire systems were installed perfectly.",
+        "name": "Sarah Thompson",
+        "role": "Architect, Residential Development",
         "avatar": "https://images.unsplash.com/photo-1646227655718-dd721b681d91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMkYlMjBJbnRlcmlvciUyMGZpdC1vdXQlMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjM4Mzc0M3ww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us",
-    "title": "North England's trusted fit-out experts",
-    "description": "Explore our work in residential, commercial, and leisure sectors. Contact us today.",
+    "eyebrow": "Come Visit Us",
+    "title": "Connect in the North of England",
+    "description": "Proudly serving the North of England, we are your trusted fit-out partners. Let’s build your vision together.",
     "address": "",
     "website": "www.shawfordinteriors.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Let's plan your next project",
-    "description": "Contact us for bookings, quotes, or consultations. We're ready to assist.",
-    "consent": "We value your privacy and will never share your information."
+    "eyebrow": "Get Started Today",
+    "title": "Let’s Discuss Your Project",
+    "description": "Contact us now for a consultation. We’re here to bring your project to life.",
+    "consent": "We value your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Transform fit-outs with automation",
-    "description": "Boost efficiency and compliance with AI-driven tools.",
+    "title": "Automated Fit-Out Solutions",
+    "description": "Streamline processes with AI-driven tools tailored for construction.",
     "bullets": [
-      "Speed up quotes with automated estimating tools.",
-      "Streamline scheduling and resource allocation workflows.",
+      "Speed up quoting with automated estimates.",
+      "Simplify scheduling and resource allocation.",
       "Ensure compliance with automated certification tracking."
     ],
-    "offer": "Mention SHAWFORD INTERIORS for the launch-week optimization kit.",
+    "offer": "Mention Shawford Interiors for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,7 +124,7 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "SHAWFORD INTERIORS delivers unforgettable experiences.",
+    "blurb": "Shawford Interiors delivers unforgettable experiences.",
     "address": "",
     "email": "",
     "socials": [
