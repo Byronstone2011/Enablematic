@@ -1,23 +1,23 @@
 const appData = {
   "brand": {
-    "name": "Walltec Group Ltd",
-    "tagline": "Building Finishes Experts",
-    "category": "Construction Services",
-    "location": "UK",
+    "name": "Walltec Group",
+    "tagline": "Expert Finishes, Every Time",
+    "category": "Construction",
+    "location": "United Kingdom",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Over 50 years of expertise",
-    "title": "Streamline your building finishes process.",
-    "description": "Walltec Group delivers specialized render, drylining, and finishes with precision, saving you time and ensuring quality results.",
+    "eyebrow": "50+ years of expertise",
+    "title": "Streamline your building finishes today.",
+    "description": "Walltec Group delivers precision in rendering, drylining, and more, saving you time and hassle with expert craftsmanship.",
     "highlights": [
       {
-        "label": "Years of Expertise",
-        "value": "50+"
+        "label": "Projects Completed",
+        "value": "1,000+"
       },
       {
-        "label": "Projects Completed",
-        "value": "2,000+"
+        "label": "Years of Experience",
+        "value": "50+"
       },
       {
         "label": "Client Satisfaction",
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Precise Craftsmanship",
-        "description": "Our expert team ensures flawless finishes tailored to your needs."
+        "title": "Skilled Craftsmanship",
+        "description": "Our team ensures flawless finishes for every project, big or small."
       },
       {
-        "title": "Proven Expertise",
-        "description": "Over five decades of industry knowledge in construction finishes."
+        "title": "Modern Techniques",
+        "description": "We utilize advanced methods for durability and precision results."
       },
       {
-        "title": "Efficient Execution",
-        "description": "We deliver on time and on budget without compromising quality."
+        "title": "Reliable Service",
+        "description": "Count on us for consistent quality and timely delivery every time."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Expert services in building finishes for contractors and developers.",
+    "description": "Specializing in building finishes, Walltec Group offers expert solutions tailored to your project needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Specialised Render",
-        "description": "Durable render solutions designed for modern construction projects."
+        "description": "We apply high-quality render systems suited to diverse building types."
+      },
+      {
+        "icon": "🔧",
+        "title": "Internal Drylining",
+        "description": "Achieve seamless interiors with our precise drylining expertise."
       },
       {
         "icon": "🛠",
-        "title": "Internal Drylining",
-        "description": "Seamless drylining services for enhanced interior aesthetics."
-      },
-      {
-        "icon": "🧱",
         "title": "Steel Framing Systems",
-        "description": "Robust steel frames for reliable structural integrity."
+        "description": "Durable, efficient steel framing solutions tailored to your needs."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey so far",
-    "title": "A legacy of excellence in finishes.",
+    "eyebrow": "Our Journey",
+    "title": "Built on Experience, Driven by Excellence",
     "paragraphs": [
-      "Founded in 2016, Walltec Group builds on 50+ years of construction expertise. We specialize in delivering superior finishes to elevate projects.",
-      "We partner with developers and contractors, offering tailored, high-quality services that streamline operations and enhance results."
+      "Founded in 2016, Walltec Group combines 50+ years of construction experience to deliver superior finishes for every project.",
+      "Our reputation stems from our reliability and ability to meet client needs with bespoke solutions and a commitment to excellence."
     ],
     "image": "https://images.pexels.com/photos/8487403/pexels-photo-8487403.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What our clients say",
-    "title": "Trusted by industry leaders.",
+    "eyebrow": "What Clients Say",
+    "title": "Trusted by Industry Leaders",
     "list": [
       {
-        "quote": "Walltec Group transformed our project with flawless finishes delivered on time. Their team is professional and efficient.",
+        "quote": "Walltec made my project seamless with their exceptional finishes and professionalism.",
         "name": "James Carter",
-        "role": "Project Manager",
+        "role": "Developer",
         "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their expertise in drylining and renders is unmatched. They made our development stand out with top-notch finishes.",
-        "name": "Sarah Williams",
-        "role": "Construction Director",
+        "quote": "Their attention to detail and timely delivery exceeded my expectations.",
+        "name": "Sarah Benson",
+        "role": "Main Contractor",
         "avatar": "https://images.unsplash.com/photo-1730791979207-583e51851e2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMkYlMjBCdWlsZGluZyUyMGZpbmlzaGVzJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIzODM2NTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find us here",
-    "title": "Your trusted UK partner.",
-    "description": "Serving clients nationwide with precision and professionalism.",
-    "address": "UK",
+    "eyebrow": "Where We Operate",
+    "title": "Discover Our Projects",
+    "description": "Serving clients across the UK, we bring expertise to every corner of the construction industry.",
+    "address": "",
     "website": "www.walltecgroup.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Request a quote today.",
-    "description": "Contact us to discuss your project needs and get a tailored quote.",
-    "consent": "We respect your privacy."
+    "eyebrow": "Get Started",
+    "title": "Request a Quote Today",
+    "description": "Reach out to discuss your project needs and receive a personalized quote.",
+    "consent": "By contacting us, you agree to our terms of service."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Smart solutions for contractors.",
-    "description": "Automation tools to simplify your operations and grow your business.",
+    "title": "Streamline Your Operations",
+    "description": "Leverage AI tools to enhance efficiency and client satisfaction.",
     "bullets": [
-      "Instant online quoting to save time.",
-      "CRM tools for seamless communication.",
-      "Automated scheduling and invoicing."
+      "Automated quoting forms to capture leads instantly.",
+      "CRM tools for scheduling and repeat client management.",
+      "Track project progress with automated invoicing systems."
     ],
-    "offer": "Mention Walltec Group Ltd for the launch-week optimization kit.",
+    "offer": "Mention Walltec Group for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Walltec Group Ltd delivers unforgettable experiences.",
-    "address": "UK",
+    "blurb": "Walltec Group delivers unforgettable experiences.",
+    "address": "",
     "email": "",
     "socials": [
       {
