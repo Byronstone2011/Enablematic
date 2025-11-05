@@ -1,15 +1,15 @@
 const appData = {
   "brand": {
     "name": "ON FACADES",
-    "tagline": "Precision in every detail",
+    "tagline": "Excellence in Facades",
     "category": "Construction",
-    "location": "United Kingdom",
+    "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted subcontractor",
-    "title": "Flawless facade solutions delivered on time.",
-    "description": "We specialize in curtain walling, cladding, glazing, and more. Our skilled team ensures quality, compliance, and on-schedule installations.",
+    "eyebrow": "Specialist subcontractor",
+    "title": "Solving facade installation challenges.",
+    "description": "We ensure skilled workmanship, safety compliance, and seamless scheduling for facade projects across sectors.",
     "highlights": [
       {
         "label": "Projects Completed",
@@ -20,7 +20,7 @@ const appData = {
         "value": "99.9%"
       },
       {
-        "label": "Years Experience",
+        "label": "Years of Expertise",
         "value": "15+"
       }
     ],
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Workmanship",
-        "description": "Highly trained workforce ensures flawless installations every time."
+        "title": "Skilled Workforce",
+        "description": "Certified installers ensure top-quality craftsmanship across all projects."
       },
       {
-        "title": "Safety Guaranteed",
-        "description": "We lead in HSE compliance for safe and efficient job sites."
+        "title": "Safety Compliance",
+        "description": "Proven HSE management keeps every site safe and on track."
       },
       {
-        "title": "Timely Delivery",
-        "description": "Streamlined processes keep projects on schedule and within budget."
+        "title": "Efficient Scheduling",
+        "description": "Streamlined processes reduce delays and optimize resource use."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive facade and building envelope solutions tailored to your needs.",
+    "description": "Comprehensive installation and refurbishment solutions tailored to your needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Facade Installation",
-        "description": "Curtain walling, cladding, glazing, louvers, and SFS expertly installed."
+        "description": "Expert installation of curtain walling, cladding, glazing, and louvers for any project."
       },
       {
         "icon": "🛠",
-        "title": "Labour Subcontracting",
-        "description": "Reliable installation teams for civil, rail, and commercial projects."
+        "title": "Refurbishment Services",
+        "description": "Pre-survey and refurbishment installations to modernize existing structures."
       },
       {
-        "icon": "🔍",
-        "title": "Building Refurbishmen",
-        "description": "Pre-survey and refurbishment services that reduce rework and delays."
+        "icon": "⚙️",
+        "title": "HSE Management",
+        "description": "Ensuring health, safety, and environmental compliance on every project."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Built for excellence",
+    "eyebrow": "Our Journey",
+    "title": "Building excellence, one project at a time.",
     "paragraphs": [
-      "ON FACADES specializes in high-quality building envelope solutions. With expertise in curtain walling, cladding, glazing, and more, we deliver precision craftsmanship.",
-      "Our focus on training, safety, and automation ensures every project runs smoothly. We’re committed to operational efficiency and meeting client needs."
+      "ON FACADES specializes in curtain walling, cladding, SFS, glazing, louvers, and more. We are dedicated to delivering high-quality building envelope solutions.",
+      "With a focus on training, safety, and efficiency, we align with contractors to ensure seamless project execution and consistent results."
     ],
     "image": "https://images.pexels.com/photos/21923132/pexels-photo-21923132.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Trusted by professionals",
+    "eyebrow": "What Clients Say",
+    "title": "Trusted by industry leaders.",
     "list": [
       {
-        "quote": "ON FACADES saved us time and hassle with flawless installations and unmatched compliance.",
-        "name": "John Davies",
+        "quote": "ON FACADES delivered exceptional quality and kept our project on schedule. Highly recommend their expertise.",
+        "name": "John Smith",
         "role": "Project Manager",
         "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their skilled team and dedication to safety made our refurbishment project seamless.",
-        "name": "Sarah Collins",
-        "role": "Building Owner",
+        "quote": "Their focus on safety and skilled workmanship is unmatched. A reliable partner for any facade project.",
+        "name": "Emma Taylor",
+        "role": "Construction Director",
         "avatar": "https://images.unsplash.com/photo-1641941471605-6cd88cc5be2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlRTIlODAlOTQlMjBGYWNhZGVzJTIwJTI2JTIwQnVpbGRpbmclMjBFbnZlbG9wZSUyMEluc3RhbGxhdGlvbiUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyMzgzNzczfDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us",
-    "title": "Discover our expertise",
-    "description": "We operate across the UK, delivering excellence in every project.",
+    "eyebrow": "Discover Us",
+    "title": "Partner with ON FACADES",
+    "description": "We serve projects across the UK, delivering excellence in facade installation.",
     "address": "",
-    "website": "www.onfacades.co.uk",
+    "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Discuss your project",
-    "description": "Contact us today to learn how we can support your next project.",
-    "consent": "We respect your privacy."
+    "eyebrow": "Get Started",
+    "title": "Request a Consultation",
+    "description": "Contact us today to discuss your project needs and find tailored solutions.",
+    "consent": "By submitting, you consent to our privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamlined Solutions",
-    "description": "Leverage AI and automation to enhance project efficiency and compliance.",
+    "title": "Power Your Projects with AI",
+    "description": "Streamline operations and improve efficiency with automation tools.",
     "bullets": [
-      "Automated project scheduling reduces delays and improves crew utilization.",
-      "Digital HSE checklists ensure safety compliance and issue tracking.",
-      "Training platforms track certifications and enhance workforce skills."
+      "Automated scheduling reduces delays and optimizes resources.",
+      "Digital HSE checklists ensure compliance and safety tracking.",
+      "Upskilling platforms elevate workforce competency and certifications."
     ],
     "offer": "Mention ON FACADES for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
