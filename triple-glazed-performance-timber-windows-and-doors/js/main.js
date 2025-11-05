@@ -1,15 +1,15 @@
 const appData = {
   "brand": {
     "name": "Eksalta",
-    "tagline": "Custom timber solutions",
+    "tagline": "Precision in every frame",
     "category": "Windows & Doors",
-    "location": "",
+    "location": "Unknown",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Sustainable performance",
-    "title": "Triple-glazed timber windows for energy savings.",
-    "description": "Eksalta delivers bespoke timber windows and doors that improve thermal efficiency, lower energy costs, and ensure seamless installation.",
+    "eyebrow": "Triple-glazed timber designs",
+    "title": "Bespoke windows built to perform.",
+    "description": "Eksalta delivers energy-efficient timber windows and doors for retrofits, new builds, and refurbishments. Save on energy costs today.",
     "highlights": [
       {
         "label": "Projects Completed",
@@ -17,11 +17,11 @@ const appData = {
       },
       {
         "label": "Energy Savings",
-        "value": "35%"
+        "value": "30%"
       },
       {
-        "label": "Customer Satisfaction",
-        "value": "98%"
+        "label": "Satisfied Clients",
+        "value": "97%"
       }
     ],
     "image": "https://images.pexels.com/photos/3615723/pexels-photo-3615723.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Bespoke Designs",
-        "description": "Custom-crafted timber windows and doors tailored to your project."
+        "title": "High-performance glazing",
+        "description": "We specialize in triple-glazed timber solutions for maximum efficiency."
       },
       {
-        "title": "Certified Quality",
-        "description": "Industry certifications ensure reliable performance and compliance."
+        "title": "Tailored for your needs",
+        "description": "Custom designs ensure perfect fit for new builds and retrofits."
       },
       {
-        "title": "Seamless Support",
-        "description": "Expert CAD detailing and project assistance for smooth installations."
+        "title": "Expert installation",
+        "description": "Professional teams handle supply and installation seamlessly."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We specialize in high-performance timber windows and doors for new builds, retrofits, and refurbishments.",
+    "description": "Eksalta provides premium timber windows and doors for every project.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Triple-Glazed Supply",
-        "description": "We supply premium timber windows and doors for energy-efficient projects."
-      },
-      {
-        "icon": "🛠",
-        "title": "Professional Installati",
-        "description": "Expert supply and installation services for flawless results."
+        "title": "Supply & Install",
+        "description": "We offer supply and professional installation for all projects."
       },
       {
         "icon": "📐",
         "title": "CAD Detailing",
-        "description": "Detailed CAD support for retrofits, refurbishments, and new builds."
+        "description": "Detailed CAD plans ensure precision for retrofits or new builds."
+      },
+      {
+        "icon": "🌱",
+        "title": "Energy Efficiency",
+        "description": "Triple-glazed designs reduce energy costs and enhance comfort."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Mission",
-    "title": "Sustainable fenestration excellence.",
+    "eyebrow": "Our journey",
+    "title": "Crafting sustainable solutions",
     "paragraphs": [
-      "Eksalta specializes in bespoke timber windows and doors, designed for energy efficiency and aesthetic appeal. We serve homeowners, architects, and developers.",
-      "With a focus on performance, certifications, and expert installation, we simplify complex projects and deliver exceptional results for every client."
+      "Eksalta began with a vision to redefine timber window and door performance. We are committed to energy-efficient, tailored solutions for every client.",
+      "Our expertise in retrofits, CAD detailing, and installations ensures projects meet the highest standards. Sustainability drives everything we do."
     ],
     "image": "https://images.pexels.com/photos/8776326/pexels-photo-8776326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Customer Praise",
-    "title": "Trusted by professionals.",
+    "eyebrow": "What clients say",
+    "title": "Trusted by homeowners & pros",
     "list": [
       {
-        "quote": "Eksalta's triple-glazed windows reduced my energy bills significantly. Highly recommend their expert installation team!",
-        "name": "Sarah Thompson",
+        "quote": "Eksalta transformed our retrofit! Energy bills dropped, and the windows look stunning.",
+        "name": "Sarah J.",
         "role": "Homeowner",
         "avatar": "https://images.pexels.com/photos/7109089/pexels-photo-7109089.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their CAD detailing ensured our retrofit project met all specifications. Excellent support throughout!",
-        "name": "John Miller",
+        "quote": "Their CAD support ensured compliance and seamless installation. Highly recommend.",
+        "name": "John B.",
         "role": "Architect",
         "avatar": "https://images.unsplash.com/photo-1662020737869-b3a9bc37245c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxXaW5kb3dzJTIwJTI2JTIwZG9vcnMlMjBtYW51ZmFjdHVyaW5nJTIwYW5kJTIwaW5zdGFsbGF0aW9uJTIwJTI4ZmVuZXN0cmF0aW9uJTI5JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIzODM2NjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Explore our craftsmanship.",
-    "description": "Discover the quality of our timber windows and doors at our showroom.",
-    "address": "",
-    "website": "",
+    "eyebrow": "Our location",
+    "title": "Come see our craftsmanship",
+    "description": "Explore the precision of our timber windows and doors. Visit us today.",
+    "address": "Unknown",
+    "website": "www.eksalta.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Contact Us",
-    "title": "Start your project today.",
-    "description": "Book a consultation or request a quote to begin your sustainable window and door journey.",
-    "consent": "Your privacy matters. We’ll never share your details."
+    "eyebrow": "Get in touch",
+    "title": "Request your consultation",
+    "description": "Reach out to discuss your project needs or request a quote. We're here to help.",
+    "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Smart Solutions",
-    "description": "Automation streamlines your experience with us.",
+    "title": "Streamline your projects",
+    "description": "Leverage AI to simplify your window and door projects.",
     "bullets": [
-      "Online quoting system for quick estimates.",
-      "Automated lead tracking with follow-ups.",
-      "CAD integrations for precise specifications."
+      "Automated quoting saves time and reduces errors.",
+      "Integrated CRM ensures seamless lead management.",
+      "CAD automation enhances project accuracy."
     ],
     "offer": "Mention Eksalta for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Eksalta delivers unforgettable experiences.",
-    "address": "",
+    "address": "Unknown",
     "email": "",
     "socials": [
       {
