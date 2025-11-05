@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Copperstone Project",
-    "tagline": "Crafting luxury environments",
+    "tagline": "Luxury Built to Last",
     "category": "Luxury Construction",
-    "location": "United Kingdom",
+    "location": "UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Exceptional craftsmanship",
-    "title": "Luxury builds, seamless delivery.",
-    "description": "We specialize in high-end construction, ensuring quality, budget control, and flawless project management for discerning clients.",
+    "eyebrow": "Premium craftsmanship",
+    "title": "Mastering luxury construction projects.",
+    "description": "We ensure seamless schedules, precise budgets, and flawless quality for high-end builds. Experience unmatched project transparency and excellence.",
     "highlights": [
       {
-        "label": "Completed Projects",
-        "value": "250+"
-      },
-      {
-        "label": "Years of Expertise",
-        "value": "15+"
+        "label": "Projects Delivered",
+        "value": "200+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
+      },
+      {
+        "label": "Years of Expertise",
+        "value": "15+"
       }
     ],
     "image": "https://images.pexels.com/photos/19783674/pexels-photo-19783674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Luxury Expertise",
-        "description": "We excel in creating bespoke, high-end environments tailored to your vision."
+        "title": "Exceptional Quality",
+        "description": "Our portfolio showcases meticulous craftsmanship and stunning designs."
       },
       {
-        "title": "Impeccable Quality",
-        "description": "Our team ensures every detail meets the highest craftsmanship standards."
+        "title": "Seamless Management",
+        "description": "We coordinate every detail for timely and stress-free delivery."
       },
       {
-        "title": "Seamless Process",
-        "description": "We handle complex schedules and budgets with precision and transparency."
+        "title": "Collaborative Approach",
+        "description": "Partnering with architects and designers to achieve excellence."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Specializing in luxury construction and interior transformations.",
+    "description": "From luxury construction to bespoke fit-outs, we deliver tailored solutions.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Luxury Construction",
-        "description": "Delivering sophisticated builds that blend design with precision execution."
+        "description": "Building high-end spaces with precision and timeless design."
+      },
+      {
+        "icon": "💼",
+        "title": "Project Management",
+        "description": "Streamlining schedules and subcontractor coordination for efficiency."
       },
       {
         "icon": "🛠",
-        "title": "Fit-Out Management",
-        "description": "Coordinating every detail for seamless commercial and private spaces."
-      },
-      {
-        "icon": "🏡",
-        "title": "Refurbishments",
-        "description": "Transforming interiors with meticulous high-end finishes and design."
+        "title": "Interior Fit-Outs",
+        "description": "Transforming interiors with bespoke finishes and expert detail."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Luxury construction redefined",
+    "eyebrow": "Our legacy",
+    "title": "Luxury redefined through expertise.",
     "paragraphs": [
-      "Copperstone Projects Ltd. was founded to deliver extraordinary spaces for those who demand perfection. Our focus is bespoke craftsmanship and seamless builds.",
-      "We partner with architects and designers, using advanced processes to ensure quality, transparency, and timely results for luxury brands and private clients."
+      "Copperstone Projects Ltd. specializes in luxury construction and fit-outs for discerning clients. Our reputation is built on precision, quality, and timeless design.",
+      "By partnering with architects and brands, we deliver seamless experiences. Our processes ensure transparency and elevate project standards."
     ],
     "image": "https://images.pexels.com/photos/8487403/pexels-photo-8487403.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Client feedback",
-    "title": "What our clients say",
+    "eyebrow": "What clients say",
+    "title": "Real results, flawless execution.",
     "list": [
       {
-        "quote": "Copperstone managed our complex build flawlessly, ensuring quality and timely delivery.",
-        "name": "Emily Carter",
-        "role": "Luxury Brand Manager",
+        "quote": "Copperstone delivered a stunning transformation, on time and within budget. Their attention to detail is unmatched.",
+        "name": "Sarah Williams",
+        "role": "Interior Designer",
         "avatar": "https://images.pexels.com/photos/17482906/pexels-photo-17482906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their attention to detail and transparent communication made the project stress-free.",
-        "name": "James O'Neill",
+        "quote": "Their management of specialist trades ensured flawless quality. I recommend them highly.",
+        "name": "James Carter",
         "role": "Architect",
         "avatar": "https://images.unsplash.com/photo-1646227655588-b44f246c04fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxMdXh1cnklMjBjb25zdHJ1Y3Rpb24lMjAlMjYlMjBjb21tZXJjaWFsJTIwZml0LW91dCUyMCUyRiUyMEJ1aWxkaW5nJTIwY29udHJhY3RvciUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyMzgzNzIzfDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us",
-    "title": "Experience our craftsmanship",
-    "description": "Our projects showcase refined design and precision. Contact us to explore luxury spaces tailored to you.",
-    "address": "",
+    "eyebrow": "Our location",
+    "title": "Explore timeless craftsmanship.",
+    "description": "Visit Copperstone Projects to see our luxury builds and bespoke interiors. Experience excellence firsthand.",
+    "address": "UK",
     "website": "www.copperstone.uk",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get started",
-    "title": "Book a consultation today",
-    "description": "Reach out to discuss your next luxury project. We’re here to bring your vision to life.",
+    "title": "Request your consultation today.",
+    "description": "Contact us to discuss your project needs and start building luxury spaces.",
     "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline luxury projects",
-    "description": "AI tools simplify operations for flawless delivery.",
+    "title": "Automation for precision",
+    "description": "Revolutionize project delivery with automated systems tailored to your needs.",
     "bullets": [
-      "CRM to nurture client relationships and track leads.",
-      "Automated scheduling and resource allocation for efficiency.",
-      "Client portal for real-time updates and approvals."
+      "Streamlined scheduling boosts efficiency.",
+      "Real-time updates enhance transparency.",
+      "Automated proposals save time and reduce errors."
     ],
     "offer": "Mention Copperstone Project for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Copperstone Project delivers unforgettable experiences.",
-    "address": "",
+    "address": "UK",
     "email": "",
     "socials": [
       {
