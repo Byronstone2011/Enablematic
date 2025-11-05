@@ -2,26 +2,26 @@ const appData = {
   "brand": {
     "name": "#thinkaccess",
     "tagline": "Safe solutions at any height",
-    "category": "Rope Access Experts",
-    "location": "United Kingdom",
+    "category": "Rope access experts",
+    "location": "UK-based",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "IRATA-certified experts",
-    "title": "Safe, efficient, and precise rope access solutions.",
-    "description": "We provide cost-effective, IRATA-certified services for inspection, maintenance, and installation at height. Safety is our priority.",
+    "eyebrow": "IRATA-certified services",
+    "title": "Access hard-to-reach assets safely.",
+    "description": "We specialize in rope access for inspections, maintenance, and installations. Cost-effective, safe, and professional solutions every time.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "1,500+"
+        "value": "2,000+"
       },
       {
-        "label": "Safety Compliance",
+        "label": "Compliance Rate",
         "value": "99.9%"
       },
       {
-        "label": "Years of Experience",
-        "value": "10+"
+        "label": "Years Experience",
+        "value": "15+"
       }
     ],
     "image": "https://images.pexels.com/photos/9957862/pexels-photo-9957862.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Certified Professionals",
-        "description": "Our IRATA-certified team ensures safety and compliance for every project."
+        "title": "Certified Expertise",
+        "description": "Our IRATA-certified team ensures safety and quality with every project."
       },
       {
-        "title": "Cost-Effective Access",
-        "description": "We reduce downtime with efficient solutions for hard-to-reach areas."
+        "title": "Cost Efficiency",
+        "description": "We provide affordable solutions without compromising precision or safety."
       },
       {
-        "title": "Comprehensive Services",
-        "description": "From inspection to maintenance, we cover all your height safety needs."
+        "title": "Proven Reliability",
+        "description": "Over 2,000 successful projects guarantee results you can trust."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our rope access services tailored to high-rise and industrial needs.",
+    "description": "Our rope access services cover maintenance, inspections, and installations for industrial and commercial needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Roofing & Cladding",
-        "description": "Precision installation and maintenance for roofing and cladding systems."
+        "description": "Expert installation and maintenance of high-access roofing systems."
       },
       {
         "icon": "🛡",
         "title": "Safety Netting",
-        "description": "Ensure workplace safety with expertly installed netting systems."
+        "description": "Height safety solutions to protect your team and assets effectively."
       },
       {
-        "icon": "🔥",
-        "title": "Fireproofing Applicat",
-        "description": "Protect infrastructure with specialized fireproofing solutions."
+        "icon": "⚡",
+        "title": "Electrical Services",
+        "description": "Safe and precise electrical work for hard-to-reach areas."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Precision, professionalism, and safety.",
+    "eyebrow": "Our Mission",
+    "title": "Excellence in Rope Access",
     "paragraphs": [
-      "#thinkaccess delivers expert rope access solutions across the UK. From inspections to installations, we ensure safe, cost-effective results.",
-      "With advanced tools and IRATA-certified staff, we provide the reliability and precision construction firms trust for complex height projects."
+      "#thinkaccess delivers safe, cost-effective, and professional services across the UK. Our IRATA-certified team specializes in height safety.",
+      "With over 15 years of experience, we are trusted by leading industries to access, inspect, and maintain challenging infrastructure efficiently."
     ],
     "image": "https://images.pexels.com/photos/21923132/pexels-photo-21923132.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Trusted by industry leaders.",
+    "eyebrow": "Client Feedback",
+    "title": "What our clients say",
     "list": [
       {
-        "quote": "Their rope access solutions saved us time and ensured complete compliance. Excellent service!",
-        "name": "Sarah Davies",
+        "quote": "Their team helped us safely inspect and repair critical assets. Highly reliable service!",
+        "name": "John Andrews",
         "role": "Facility Manager",
         "avatar": "https://images.pexels.com/photos/7839448/pexels-photo-7839448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Fast, professional, and safe. They handled our cladding repairs flawlessly.",
-        "name": "John Mitchell",
-        "role": "Construction Supervisor",
+        "quote": "Fast, professional, and cost-effective solutions for our high-rise maintenance needs.",
+        "name": "Sarah Mitchell",
+        "role": "Property Manager",
         "avatar": "https://images.unsplash.com/photo-1725391929874-0001b38afe7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxSb3BlJTIwYWNjZXNzJTIwJTI2JTIwaW5kdXN0cmlhbCUyMGJ1aWxkaW5nJTIwbWFpbnRlbmFuY2UlMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjM1ODQ4OXww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Where we work",
-    "title": "UK-wide service coverage",
-    "description": "We operate across the UK, providing tailored solutions for high-rise and industrial sites.",
+    "eyebrow": "Find Us",
+    "title": "Serving the UK",
+    "description": "We operate across the UK, delivering expert rope access services wherever needed.",
     "address": "",
-    "website": "www.thinkaccess.co.uk",
+    "website": "thinkaccess.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Book your consultation today.",
-    "description": "Contact us to discuss your rope access needs or schedule a free site survey.",
-    "consent": "We respect your privacy and will never spam."
+    "eyebrow": "Get Started",
+    "title": "Request a Free Quote",
+    "description": "Contact us today to discuss your project and receive a tailored solution.",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamlined with AI",
-    "description": "Simplify operations and improve workflows with automation tools.",
+    "title": "Automate Rope Access Management",
+    "description": "Boost efficiency with AI-driven tools tailored for rope access.",
     "bullets": [
-      "Automated scheduling for site surveys and consultations.",
-      "Digital inspection reporting with photo tagging and reminders.",
-      "CRM integration for seamless follow-ups and quote generation."
+      "Automated scheduling for site surveys.",
+      "Digital reporting with inspection tracking.",
+      "CRM integration for quotes and follow-ups."
     ],
     "offer": "Mention #thinkaccess for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
