@@ -1,19 +1,19 @@
 const appData = {
   "brand": {
-    "name": "Chart Construction Ltd",
-    "tagline": "",
-    "category": "",
+    "name": "Chart Construction",
+    "tagline": "Prestige construction & decor",
+    "category": "Construction / Decor",
     "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Prestige Construction & Decor",
-    "title": "Streamlining Local Projects with Excellence",
-    "description": "Chart Construction Ltd delivers top-tier construction, decor, and project management. From residential builds to commercial fit-outs, we simplify complex projects",
+    "eyebrow": "Trusted craftsmanship",
+    "title": "Streamlined construction & decor solutions.",
+    "description": "We deliver expert builds and decor while simplifying project management for homeowners and businesses.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "500+"
+        "value": "1,500+"
       },
       {
         "label": "Client Satisfaction",
@@ -21,7 +21,7 @@ const appData = {
       },
       {
         "label": "Years of Experience",
-        "value": "25+"
+        "value": "20+"
       }
     ],
     "image": "https://images.pexels.com/photos/30580529/pexels-photo-30580529.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,100 +31,100 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Exceptional Craftsmanshi",
-        "description": "We showcase stunning results through professional photography of completed projects, emphasizing our attention to"
+        "title": "Expert Craftsmanship",
+        "description": "Our builds showcase precision and quality for lasting results."
       },
       {
-        "title": "Comprehensive Services",
-        "description": "From turnkey solutions to specialist decor, we offer unmatched versatility tailored to every client’s needs."
+        "title": "Seamless Management",
+        "description": "We handle every detail, ensuring hassle-free project completion."
       },
       {
-        "title": "Proven Client Trust",
-        "description": "Authentic testimonials highlight our commitment to delivering excellence and fostering lasting relationships."
+        "title": "Proven Results",
+        "description": "Our portfolio highlights exceptional work and satisfied clients."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "From residential builds to commercial transformations, we provide tailored solutions to meet every need.",
+    "description": "Premium construction and decor services tailored to every project.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Residential Construction",
-        "description": "New builds, extensions, and renovations crafted to perfection for homeowners."
-      },
-      {
-        "icon": "💼",
         "title": "Commercial Fit-Outs",
-        "description": "Transforming business spaces with functional, stylish designs."
+        "description": "Transform workspaces with functional and stylish designs."
       },
       {
-        "icon": "🖌",
-        "title": "Specialist Decor",
-        "description": "Plastering and decorating services that add the perfect finishing touch."
+        "icon": "🏡",
+        "title": "Residential Builds",
+        "description": "Create dream homes with new builds, extensions, or renovations."
+      },
+      {
+        "icon": "🎨",
+        "title": "Plastering & Decorati",
+        "description": "Specialist finishes for stunning interiors and exteriors."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "Building Excellence in the South",
+    "eyebrow": "Our journey",
+    "title": "Building excellence in the south",
     "paragraphs": [
-      "Chart Construction Ltd has become the south’s prestige provider for construction and decor. Our team brings decades of expertise to every project, ensuring quality craftsmanship and customer satisfaction.",
-      "We simplify project management with tailored solutions, helping businesses and homeowners achieve their visions seamlessly. Trust us for excellence, efficiency, and a stress-free experience."
+      "Chart Construction Ltd has earned its reputation as the south's premier provider of construction and decor. With expert teams, we deliver tailored solutions for every project.",
+      "Our streamlined processes and client-first approach make us the perfect fit for homeowners, businesses, and charities looking for exceptional results."
     ],
     "image": "https://images.pexels.com/photos/6285155/pexels-photo-6285155.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Client Success Stories",
-    "title": "What Our Clients Say",
+    "eyebrow": "What clients say",
+    "title": "Customer voices",
     "list": [
       {
-        "quote": "Chart Construction transformed our home with exceptional craftsmanship and attention to detail. Highly recommend!",
-        "name": "Sarah Mitchell",
+        "quote": "Chart Construction transformed our home seamlessly. Their attention to detail is unmatched.",
+        "name": "Sarah T.",
         "role": "Homeowner",
         "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their turnkey project management made our office fit-out effortless. The results exceeded expectations!",
-        "name": "Mark Davies",
+        "quote": "Our office fit-out was flawless, delivered on time and within budget. Highly recommend!",
+        "name": "James W.",
         "role": "Business Owner",
-        "avatar": "https://images.unsplash.com/photo-1730791979207-583e51851e2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMkYlMjBHZW5lcmFsJTIwY29udHJhY3RpbmclMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjE4NTYxOHww&ixlib=rb-4.1.0&q=80&w=1080"
+        "avatar": "https://images.unsplash.com/photo-1730791979207-583e51851e2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMkYlMjBHZW5lcmFsJTIwY29udHJhY3RpbmclMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjM1NjE1MHww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Serving the South",
-    "description": "Located near Portsmouth, we serve Hampshire and surrounding counties, bringing local expertise to every project.",
+    "eyebrow": "Find us",
+    "title": "Serving the south",
+    "description": "We proudly serve Hampshire, West Sussex, Dorset, Surrey, and beyond. Let's build your vision together.",
     "address": "",
-    "website": "www.chartconstruction.co.uk",
+    "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Request a Quote Today",
-    "description": "Contact us for a consultation or quote. Let’s bring your vision to life.",
-    "consent": "We value your privacy and will never share your data."
+    "eyebrow": "Get started",
+    "title": "Request your quote today",
+    "description": "Contact us to discuss your project needs and schedule your consultation.",
+    "consent": "We respect your privacy. By inquiring, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamlined Project Management with AI",
-    "description": "Leverage automation to simplify construction workflows and boost client satisfaction.",
+    "title": "Simplify with AI",
+    "description": "Streamline construction management with advanced automation tools.",
     "bullets": [
-      "Easy online quoting tools capture leads instantly.",
-      "Automated scheduling keeps projects on track effortlessly.",
-      "CRM integrations enable seamless follow-ups and invoicing."
+      "Generate instant quotes for faster client decisions.",
+      "Automate updates for seamless communication.",
+      "Integrate CRM to track progress and feedback."
     ],
-    "offer": "Mention Chart Construction Ltd for the launch-week optimization kit.",
+    "offer": "Mention Chart Construction for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
-    "email": "byron@enablematic.com",
-    "phone": "(718) 555-0198",
+    "email": "byron@enablematic.io",
+    "phone": "+44 7776044988",
     "badgeImage": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/NDIlCPKjCtwfNkvdapOE/media/68f80d4484a9d61c1c75f24b.svg",
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Chart Construction Ltd delivers unforgettable experiences.",
+    "blurb": "Chart Construction delivers unforgettable experiences.",
     "address": "",
     "email": "",
     "socials": [
