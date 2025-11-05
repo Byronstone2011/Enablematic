@@ -1,15 +1,15 @@
 const appData = {
   "brand": {
     "name": "TEAM Ltd",
-    "tagline": "Roofing & Glazing Experts",
+    "tagline": "Roofing & Glazing Excellence",
     "category": "Commercial Maintenance",
     "location": "United Kingdom",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted since day one",
-    "title": "Eliminating leaks & compliance gaps.",
-    "description": "We specialize in reliable roofing and glazing services, ensuring safety, compliance, and long-term durability for commercial properties.",
+    "eyebrow": "Trusted by the industry",
+    "title": "Eliminating leaks, ensuring safety.",
+    "description": "We specialize in proactive roofing and glazing solutions to prevent leaks, comply with safety standards, and enhance facade durability.",
     "highlights": [
       {
         "label": "Projects Completed",
@@ -20,7 +20,7 @@ const appData = {
         "value": "98%"
       },
       {
-        "label": "Years Experience",
+        "label": "Years of Expertise",
         "value": "15+"
       }
     ],
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Inspections",
-        "description": "Thorough inspections identify issues before they escalate, protecting your property and investment."
+        "title": "Proven Expertise",
+        "description": "Over 15 years of industry experience ensures superior quality and reliability."
       },
       {
-        "title": "Advanced Testing",
-        "description": "We use state-of-the-art electronic roof testing for accuracy and durability assurance."
+        "title": "Clear Processes",
+        "description": "Systemized service steps provide efficiency and transparency."
       },
       {
-        "title": "Compliance Focused",
-        "description": "Our services ensure safety and compliance with industry standards and regulations."
+        "title": "Customer Focus",
+        "description": "Client satisfaction drives every project we undertake."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive roofing and glazing solutions tailored to commercial needs.",
+    "description": "Comprehensive roofing and glazing services tailored for commercial properties.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Roof Replacement",
-        "description": "Durable roof replacements that enhance property value and protect assets long-term."
+        "description": "Durable, compliant roofing systems expertly installed for lasting performance."
       },
       {
-        "icon": "🛡",
-        "title": "Facade Maintenance",
-        "description": "Keep facades safe, compliant, and visually appealing with expert care."
+        "icon": "💼",
+        "title": "Facade Inspection",
+        "description": "Assess safety, compliance, and aesthetics with detailed facade inspections."
       },
       {
-        "icon": "🕵",
-        "title": "Glazing Inspection",
-        "description": "Identify and repair glazing issues to prevent damage and ensure safety."
+        "icon": "🛠",
+        "title": "Glazing Repair",
+        "description": "Precision glazing repairs to restore safety and visual appeal."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Setting the standard in maintenance",
+    "eyebrow": "Our mission",
+    "title": "Setting industry standards.",
     "paragraphs": [
-      "TEAM Ltd was founded to redefine roofing and glazing standards. We offer solutions that protect and elevate commercial properties across the UK.",
-      "By combining expertise with innovation, we deliver high-value services tailored to client needs. Trust TEAM Ltd for reliability and excellence."
+      "TEAM Ltd is dedicated to providing top-tier roofing and glazing solutions that set the benchmark for quality and reliability in commercial building maintenance.",
+      "We focus on proactive inspections and repairs, ensuring compliance, safety, and long-term property value for our clients."
     ],
     "image": "https://images.pexels.com/photos/6196678/pexels-photo-6196678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Customer feedback",
-    "title": "What our clients say",
+    "eyebrow": "What clients say",
+    "title": "Real results delivered.",
     "list": [
       {
-        "quote": "TEAM Ltd solved our leaking roof issues quickly and professionally. Exceptional service!",
-        "name": "Sarah Collins",
-        "role": "Facility Manager",
+        "quote": "TEAM Ltd saved us from costly leaks and ensured compliance with safety standards.",
+        "name": "Sarah Johnson",
+        "role": "Facilities Manager",
         "avatar": "https://images.pexels.com/photos/30118609/pexels-photo-30118609.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their glazing inspections saved us from costly repairs. Highly recommend TEAM Ltd!",
-        "name": "Mark Davies",
-        "role": "Building Owner",
+        "quote": "Their facade inspection was thorough, identifying issues we hadn’t noticed before.",
+        "name": "Mark Thompson",
+        "role": "Property Owner",
         "avatar": "https://images.unsplash.com/photo-1722876720000-f39b65b7d4a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb21tZXJjaWFsJTIwYnVpbGRpbmclMjBtYWludGVuYW5jZSUyMCUyOHJvb2ZpbmclMjAlMjYlMjBnbGF6aW5nJTI5JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIzODM2OTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us",
-    "title": "Explore our services",
-    "description": "Based in the UK, we serve commercial properties nationwide. Protect your building today.",
-    "address": "United Kingdom",
+    "eyebrow": "Find us",
+    "title": "Serving properties nationwide.",
+    "description": "We deliver expert roofing and glazing solutions across the UK.",
+    "address": "",
     "website": "www.team-ltd.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Schedule a consultation",
-    "description": "Contact us for bookings or to learn more about our services.",
-    "consent": "By submitting, you agree to our policies."
+    "eyebrow": "Contact us",
+    "title": "Schedule your consultation.",
+    "description": "Reach out to discuss your building maintenance needs today.",
+    "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your operations",
-    "description": "Automation simplifies maintenance and boosts efficiency.",
+    "title": "Automate your processes.",
+    "description": "Leverage automation for efficiency and precision in building maintenance.",
     "bullets": [
-      "Online inspection scheduling saves time.",
-      "Instant quoting ensures quick responses.",
-      "Automated reporting keeps you informed."
+      "Automated inspection scheduling simplifies maintenance planning.",
+      "Instant quoting saves time and ensures transparency.",
+      "Electronic testing integrates reporting for actionable insights."
     ],
     "offer": "Mention TEAM Ltd for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "TEAM Ltd delivers unforgettable experiences.",
-    "address": "United Kingdom",
+    "address": "",
     "email": "",
     "socials": [
       {
