@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Intersteels Ltd",
-    "tagline": "Precision in Steel",
-    "category": "Structural Steel Supply",
+    "tagline": "Steel solutions made simple",
+    "category": "Structural steel supply",
     "location": "London & South Eas",
-    "phone": "Not available"
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted steel solutions",
-    "title": "Streamlined steel supply and fabrication.",
-    "description": "We simplify quoting, ordering, and delivery for construction firms, saving time and enhancing efficiency.",
+    "eyebrow": "Efficient steel services",
+    "title": "Streamlined steel supply for faster builds",
+    "description": "Intersteels Ltd simplifies steel fabrication, supply, and erection with quick quoting, delivery, and tracking solutions for contractors.",
     "highlights": [
       {
+        "label": "Steel Contracts Fulfil",
+        "value": "2,000+"
+      },
+      {
+        "label": "On-Time Deliveries",
+        "value": "98%"
+      },
+      {
         "label": "Years in Business",
-        "value": "20+"
-      },
-      {
-        "label": "Contracts Completed",
-        "value": "1,500+"
-      },
-      {
-        "label": "Delivery Accuracy",
-        "value": "99%"
+        "value": "15+"
       }
     ],
     "image": "https://images.pexels.com/photos/33367148/pexels-photo-33367148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,63 +31,63 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
+        "title": "Reliable Expertise",
+        "description": "Over 15 years delivering quality steel solutions for every project size."
+      },
+      {
         "title": "Fast Turnaround",
-        "description": "Next-day delivery ensures your projects stay on schedule."
+        "description": "Next-day delivery and efficient workflows save you valuable time."
       },
       {
-        "title": "Precise Fabrication",
-        "description": "Steel fabricated to exact specifications for reliability."
-      },
-      {
-        "title": "Expert Installation",
-        "description": "On-site steel erection handled by skilled professionals."
+        "title": "Tailored Solutions",
+        "description": "Custom fabrication and erection services meet your exact needs."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive steel supply and fabrication services for contractors and engineers.",
+    "description": "We provide top-tier steel supply, fabrication, and erection services.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Steel Supply",
-        "description": "We provide high-quality steel frames for projects of all sizes."
+        "title": "Steel Frames Supply",
+        "description": "High-quality steel frames delivered for projects of any scale."
       },
       {
-        "icon": "⚙️",
+        "icon": "🔧",
         "title": "Custom Fabrication",
-        "description": "Fabrication based on approved drawings for precise results."
+        "description": "Precision fabrication based on approved construction drawings."
       },
       {
         "icon": "🚚",
         "title": "On-Site Erection",
-        "description": "Efficient steel erection for large-scale contracts up to 2000 tonnes."
+        "description": "Expert steel erection services for seamless installations."
       }
     ]
   },
   "story": {
     "eyebrow": "Our journey",
-    "title": "Built on expertise and efficiency",
+    "title": "Building strong foundations",
     "paragraphs": [
-      "Intersteels Ltd has delivered top-notch structural steel solutions for over two decades. We partner with contractors, builders, and engineers in London and South East England.",
-      "Our streamlined processes and skilled team ensure fast delivery, precise fabrication, and seamless installation for projects of all sizes."
+      "Intersteels Ltd has spent 15+ years delivering steel solutions to contractors and engineers. We pride ourselves on reliability and precision in every project.",
+      "Our streamlined processes and tailored services ensure on-time delivery and project success. We’re trusted by construction leaders in London and beyond."
     ],
     "image": "https://images.pexels.com/photos/33367148/pexels-photo-33367148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
     "eyebrow": "What clients say",
-    "title": "Real feedback from professionals",
+    "title": "Trusted by industry leaders",
     "list": [
       {
-        "quote": "Intersteels transformed how we manage steel orders, saving us critical time on-site.",
-        "name": "John Edwards",
+        "quote": "Intersteels transformed our project efficiency with faster quoting and delivery. Highly recommend their services!",
+        "name": "James Carter",
         "role": "Site Manager",
         "avatar": "https://images.pexels.com/photos/33367148/pexels-photo-33367148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their precision and delivery speed kept our project on track and under budget.",
-        "name": "Sarah Thompson",
+        "quote": "Their custom fabrication and on-site erection were seamless. A reliable partner for any construction firm.",
+        "name": "Emma Wilson",
         "role": "Structural Engineer",
         "avatar": "https://images.unsplash.com/photo-1542672701-016c8230322c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxTdHJ1Y3R1cmFsJTIwc3RlZWwlMjBzdXBwbHklMjAlMjYlMjBmYWJyaWNhdGlvbiUyMCUyRiUyMENvbnN0cnVjdGlvbiUyMG1hdGVyaWFscyUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyMzgzNjcxfDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
@@ -96,25 +96,25 @@ const appData = {
   "visit": {
     "eyebrow": "Visit us",
     "title": "Serving London & South East",
-    "description": "We support construction projects across the region. Contact us for your steel needs.",
-    "address": "Not available",
+    "description": "We proudly supply steel across London and South East England, helping shape the region's skyline.",
+    "address": "",
     "website": "www.intersteels.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started",
+    "eyebrow": "Get in touch",
     "title": "Request a quote today",
-    "description": "Contact us for tailored steel solutions. Fast, reliable, and efficient service awaits.",
-    "consent": "We respect your privacy."
+    "description": "Contact us to discuss your steel needs and receive a custom quote.",
+    "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Transforming steel processes",
-    "description": "Automation tools enhance efficiency and communication across projects.",
+    "title": "Transform your operations",
+    "description": "Leverage AI tools to enhance steel procurement and delivery processes.",
     "bullets": [
-      "Online portal for instant quotes and order uploads.",
-      "Real-time delivery tracking for peace of mind.",
-      "CRM integration for seamless invoicing and updates."
+      "Automate quotes and order submissions for faster approvals.",
+      "Track deliveries in real-time to stay informed.",
+      "Integrate CRM for seamless follow-ups and invoicing."
     ],
     "offer": "Mention Intersteels Ltd for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Intersteels Ltd delivers unforgettable experiences.",
-    "address": "Not available",
+    "address": "",
     "email": "",
     "socials": [
       {
