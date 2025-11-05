@@ -1,26 +1,26 @@
 const appData = {
   "brand": {
-    "name": "JOHNSON BIM",
-    "tagline": "Connecting BIM talent with opportuni",
-    "category": "Recruitment / Staffing",
-    "location": "",
+    "name": "Johnson BIM",
+    "tagline": "BIM Talent Delivered",
+    "category": "Specialized Recruitment",
+    "location": "Global Reach",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Specialized BIM recruitment",
-    "title": "Finding top BIM talent for AEC needs",
-    "description": "With 35+ years in construction, we source specialized BIM talent to streamline hiring and grow your team.",
+    "eyebrow": "35+ years of expertise",
+    "title": "Find top BIM talent, fast.",
+    "description": "We connect BIM professionals with leading AEC employers. Streamline hiring with our specialized expertise and proven results.",
     "highlights": [
       {
-        "label": "Years of Expertise",
+        "label": "Years of Experience",
         "value": "35+"
       },
       {
-        "label": "Placements Made",
-        "value": "10,000+"
+        "label": "Placements Completed",
+        "value": "4,500+"
       },
       {
-        "label": "Client Satisfaction",
+        "label": "Employer Satisfaction",
         "value": "98%"
       }
     ],
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Industry Expertise",
-        "description": "Decades of BIM and construction knowledge ensure precise hiring solutions."
+        "title": "Specialized Focus",
+        "description": "We focus exclusively on BIM recruitment for the AEC industry."
       },
       {
-        "title": "Tailored Solutions",
-        "description": "Custom recruitment strategies meet the unique needs of your business."
+        "title": "Proven Expertise",
+        "description": "Over 35 years connecting talent with top employers in construction."
       },
       {
-        "title": "Proven Results",
-        "description": "High placement success rates drive long-term team growth and efficiency."
+        "title": "Streamlined Process",
+        "description": "Efficient systems ensure quick and accurate candidate matching."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We specialize in matching BIM professionals with employers in AEC industries.",
+    "description": "We provide tailored recruitment solutions for BIM and construction professionals.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "BIM Specialist Recruitment",
-        "description": "We connect top BIM talent with employers who value expertise in construction."
+        "title": "BIM Recruitment",
+        "description": "Connect BIM professionals with leading AEC employers, globally."
       },
       {
         "icon": "💼",
         "title": "Career Placement",
-        "description": "Helping BIM professionals secure roles that align with their skills and goals."
+        "description": "Match candidates with roles that fit their skills and goals."
       },
       {
         "icon": "🤝",
         "title": "Hiring Consultancy",
-        "description": "Providing employers with insights and strategies to attract the best talent."
+        "description": "Support employers in sourcing top BIM talent quickly and efficiently."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Building connections in BIM",
+    "title": "Built on Experience",
     "paragraphs": [
-      "With over 35 years in construction, JOHNSON BIM has become the trusted partner for recruiting BIM specialists. We bridge the gap between talent and opportunity in AEC industries.",
-      "Our expertise and tailored solutions ensure employers find the right professionals and BIM experts secure fulfilling careers. We’re driven by results and client success."
+      "For over 35 years, JOHNSON BIM has specialized in recruitment for the AEC industry. We understand the unique needs of BIM and construction professionals.",
+      "Our expertise in recruitment automation ensures seamless hiring workflows. We connect talent with employers efficiently, delivering results every time."
     ],
     "image": "https://images.pexels.com/photos/4226118/pexels-photo-4226118.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Customer Reviews",
-    "title": "What our clients say",
+    "eyebrow": "What Clients Say",
+    "title": "Trusted by Professionals",
     "list": [
       {
-        "quote": "JOHNSON BIM helped us find skilled BIM managers quickly. Their expertise is unmatched.",
-        "name": "Sarah L.",
-        "role": "HR Director, Construction Corp",
+        "quote": "Johnson BIM helped us find skilled BIM managers quickly. Their process is seamless and reliable.",
+        "name": "Sarah Thompson",
+        "role": "HR Manager, AEC Firm",
         "avatar": "https://images.pexels.com/photos/4226120/pexels-photo-4226120.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Thanks to JOHNSON BIM, I landed my dream job in BIM coordination. Highly recommend!",
-        "name": "Mike D.",
+        "quote": "I found the perfect BIM role thanks to Johnson BIM. Their support was exceptional.",
+        "name": "David Lee",
         "role": "BIM Coordinator",
         "avatar": "https://images.unsplash.com/photo-1567564404399-0987e1fb3007?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxSZWNydWl0bWVudCUyMCUyRiUyMFN0YWZmaW5nJTIwJTI4QklNJTIwJTJGJTIwQUVDJTI5JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIzNjIwMzd8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Our Location",
-    "title": "Visit Us",
-    "description": "Reach out for expert recruitment services in BIM and AEC industries.",
+    "eyebrow": "Connect with Us",
+    "title": "Global Recruitment",
+    "description": "Our reach spans globally to connect talent and employers. Contact us today.",
     "address": "",
-    "website": "",
+    "website": "www.johnsonbim.com",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get Started",
-    "title": "Contact Us Today",
-    "description": "Find top BIM talent with ease. Reach out to our team for expert recruitment solutions.",
-    "consent": "I agree to the terms and conditions."
+    "title": "Hire or Get Hired",
+    "description": "Contact us for BIM recruitment or career placement services.",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
     "title": "AI-Powered Recruitment",
-    "description": "Enhance hiring workflows with automation tailored to BIM recruitment.",
+    "description": "Leverage automation to enhance recruitment efficiency.",
     "bullets": [
-      "Automate job postings to attract top BIM candidates faster.",
-      "Use ATS systems to streamline resume parsing and workflows.",
-      "Effortlessly schedule interviews and manage candidate follow-ups."
+      "Streamline job postings across platforms.",
+      "Automate candidate tracking and workflows.",
+      "Simplify interview scheduling with smart tools."
     ],
-    "offer": "Mention JOHNSON BIM for the launch-week optimization kit.",
+    "offer": "Mention Johnson BIM for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,7 +124,7 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "JOHNSON BIM delivers unforgettable experiences.",
+    "blurb": "Johnson BIM delivers unforgettable experiences.",
     "address": "",
     "email": "",
     "socials": [
