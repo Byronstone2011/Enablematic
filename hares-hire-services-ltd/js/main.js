@@ -1,23 +1,23 @@
 const appData = {
   "brand": {
     "name": "Hares Hire",
-    "tagline": "Tools for every project",
+    "tagline": "Tools made simple.",
     "category": "Tool Hire & Rental",
-    "location": "Essex",
-    "phone": "Unavailable"
+    "location": "Essex, UK",
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Reliable tool rentals",
-    "title": "Streamline your projects today.",
-    "description": "Hares Hire Services offers convenient tool rentals with transparent inventory and hassle-free booking options for tradespeople and DIYers.",
+    "eyebrow": "Professional tool hire",
+    "title": "Fast, reliable equipment rentals.",
+    "description": "Hares Hire Services offers easy access to tools and equipment, streamlining your projects with hassle-free rentals and expert support.",
     "highlights": [
+      {
+        "label": "Years in Business",
+        "value": "10+"
+      },
       {
         "label": "Tools Available",
         "value": "500+"
-      },
-      {
-        "label": "Years of Service",
-        "value": "15+"
       },
       {
         "label": "Customer Satisfaction",
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Wide Inventory",
-        "description": "Choose from 500+ tools for tradespeople and DIY projects, all conveniently categorized."
-      },
-      {
         "title": "Trusted Expertise",
-        "description": "15+ years serving Essex, providing reliable rentals and professional support."
+        "description": "We provide top-quality tools backed by years of industry experience."
       },
       {
-        "title": "Easy Booking",
-        "description": "Enjoy hassle-free rentals with simple online booking and inventory transparency."
+        "title": "Wide Inventory",
+        "description": "Our extensive selection ensures we have what your project needs."
+      },
+      {
+        "title": "Reliable Service",
+        "description": "From booking to return, we make tool hire simple and stress-free."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Flexible tool hire options for projects of all sizes. Short-term and long-term solutions available.",
+    "description": "Simplify your projects with flexible tool hire options for tradespeople, contractors, and DIYers.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Tool Hire",
-        "description": "Rent high-quality tools for professional and DIY projects, perfect for every task."
+        "description": "Choose from a wide range of tools for construction, gardening, and more."
       },
       {
         "icon": "🔧",
         "title": "Equipment Rental",
-        "description": "Choose durable, reliable equipment tailored to your specific project needs."
+        "description": "Heavy-duty equipment for big projects, available short or long-term."
       },
       {
-        "icon": "📅",
-        "title": "Flexible Durations",
-        "description": "Hire tools short-term or long-term to match your project timeline with ease."
+        "icon": "⏳",
+        "title": "Flexible Hire",
+        "description": "Rent tools for a day, week, or longer. Tailored to your needs."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "Serving Essex for 15+ Years",
+    "eyebrow": "Our journey",
+    "title": "Built to serve your projects.",
     "paragraphs": [
-      "Founded by Daren Hare, Hares Hire Services is committed to providing exceptional tool hire solutions for tradespeople and DIYers in Essex. With over a decade of expertise, we’ve built trust through reliability and quality.",
-      "We offer seamless rental experiences with transparent inventory and an easy booking process. By embracing innovation, we help customers save time and focus on getting the job done."
+      "Hares Hire Services was founded to provide tradespeople, contractors, and DIYers with reliable access to tools and equipment. We focus on quality and convenience.",
+      "By embracing modern systems, we simplify rentals, reduce admin, and deliver top-notch service. Our goal is to empower your projects with ease."
     ],
-    "image": "https://images.pexels.com/photos/6790816/pexels-photo-6790816.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Customer Feedback",
-    "title": "What Our Clients Say",
+    "eyebrow": "Customer feedback",
+    "title": "What clients say",
     "list": [
       {
-        "quote": "Hares Hire made it easy to find the right tools for my project. Their transparent process saved me so much time!",
-        "name": "James W.",
-        "role": "Contractor",
+        "quote": "Hares Hire made my DIY project easy with quick rentals and great tools. Highly recommend!",
+        "name": "John Smith",
+        "role": "Homeowner",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "I love their flexible options and the quality of tools. Booking online was super convenient for my home project.",
-        "name": "Sarah L.",
-        "role": "DIY Enthusiast",
+        "quote": "Their service was seamless, and the equipment was top-notch. Saved us time on-site.",
+        "name": "Sarah Jones",
+        "role": "Contractor",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Experience Our Service",
-    "description": "Located in Essex, we’re proud to serve tradespeople and DIY customers locally. Stop by or book online today.",
-    "address": "Unavailable",
-    "website": "Unavailable",
+    "eyebrow": "Visit us",
+    "title": "Serving Essex",
+    "description": "Conveniently located in Essex, we’re your local choice for equipment hire. Pop by today!",
+    "address": "Essex, UK",
+    "website": "www.hareshire.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Reserve Tools Today",
-    "description": "Contact us to reserve tools for your next project. Email us at daren@hareshire.co.uk to book now!",
+    "eyebrow": "Get started",
+    "title": "Book your rental now.",
+    "description": "Contact us to reserve your tools or equipment today. Easy and hassle-free!",
     "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Simplify Your Rentals",
-    "description": "Streamline your tool hire process with innovative AI-driven solutions.",
+    "title": "Modernize your rental process.",
+    "description": "Streamline operations and improve customer experiences with AI-driven automation.",
     "bullets": [
-      "Enable online booking with real-time availability updates.",
-      "Automate inventory management for accurate rentals.",
-      "Send instant email/SMS confirmations to customers."
+      "Add online booking for convenience.",
+      "Automate inventory updates in real-time.",
+      "Send automated confirmations via email/SMS."
     ],
     "offer": "Mention Hares Hire for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Hares Hire delivers unforgettable experiences.",
-    "address": "Unavailable",
+    "address": "Essex, UK",
     "email": "",
     "socials": [
       {
