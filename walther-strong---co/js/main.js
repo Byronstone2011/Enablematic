@@ -1,23 +1,23 @@
 const appData = {
   "brand": {
     "name": "Walther Strong",
-    "tagline": "Precision tapes & adhesives",
-    "category": "Building supplies",
-    "location": "Global",
-    "phone": "Unavailable"
+    "tagline": "Building solutions that last",
+    "category": "Construction materials",
+    "location": "Global reach",
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Reliable building solutions",
-    "title": "Premium tapes to solve construction challenges",
-    "description": "We manufacture high-quality tapes and adhesives, designed to tackle industry-specific problems with efficiency and reliability.",
+    "eyebrow": "Innovative building supplies",
+    "title": "Premium tapes and adhesives for every need",
+    "description": "We create industry-specific solutions that overcome common construction challenges with unmatched quality and precision.",
     "highlights": [
       {
-        "label": "Years in Business",
-        "value": "10+"
+        "label": "Products Developed",
+        "value": "200+"
       },
       {
-        "label": "Products Delivered",
-        "value": "500,000"
+        "label": "Years of Expertise",
+        "value": "25+"
       },
       {
         "label": "Customer Satisfaction",
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Application-Specific",
-        "description": "Our tapes and adhesives are tailored to meet the unique needs of every construction project."
+        "title": "Premium Quality",
+        "description": "Our products are trusted for durability and precision in demanding projects."
       },
       {
-        "title": "Trusted Certifications",
-        "description": "All products come with quality certifications to ensure reliability and compliance."
+        "title": "Industry Expertise",
+        "description": "Decades of construction knowledge inform every product we create."
       },
       {
-        "title": "Effortless Online Shopp",
-        "description": "Our online store is designed for quick navigation and seamless ordering."
+        "title": "Customer Focus",
+        "description": "We prioritize solutions tailored to builders, contractors, and DIYers."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our premium building supplies designed for professionals and DIYers.",
+    "description": "We specialize in tapes, adhesives, decking, and online retail for building supplies.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Tapes",
-        "description": "Durable, industry-grade tapes for various applications in construction and repair."
+        "title": "Premium Tapes",
+        "description": "Engineered solutions for sealing, bonding, and construction applications."
       },
       {
-        "icon": "🛡",
+        "icon": "🛠",
         "title": "Adhesives",
-        "description": "High-performance adhesives for secure and lasting bonds in every project."
+        "description": "Strong, reliable adhesives crafted for various construction needs."
       },
       {
-        "icon": "🌳",
+        "icon": "🌿",
         "title": "Decking Supplies",
-        "description": "Premium decking materials to enhance outdoor spaces with strength and style."
+        "description": "Durable, high-quality supplies for outdoor decking projects."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our commitment to",
-    "title": "Built for the construction industry",
+    "eyebrow": "Our journey of innova",
+    "title": "Built to solve challenges",
     "paragraphs": [
-      "Walther Strong specializes in premium tapes and adhesives that address construction challenges. Our products are crafted with precision and quality in mind.",
-      "We focus on industry-specific solutions, ensuring efficiency and reliability. With trusted certifications and seamless online shopping, we deliver excellence."
+      "Walther Strong specializes in creating premium tapes and adhesives. With decades of experience, we address the toughest construction challenges.",
+      "Our commitment is to provide solutions that simplify projects, save time, and ensure quality results. Builders trust us for innovation and reliability."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What our clients say",
+    "eyebrow": "What customers say",
     "title": "Trusted by professionals",
     "list": [
       {
-        "quote": "Walther Strong's tapes are reliable and easy to use. They’ve streamlined our projects significantly.",
-        "name": "John Carter",
-        "role": "Contractor",
+        "quote": "Walther Strong's tapes are unmatched in durability, saving us time and effort on-site.",
+        "name": "James Parker",
+        "role": "Construction Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their adhesives are top-tier. We’ve seen improved durability in our builds since switching.",
+        "quote": "Their adhesives have made our projects seamless. Quality you can rely on!",
         "name": "Emily Davis",
-        "role": "Builder",
+        "role": "Contractor",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find us online",
-    "title": "Global access, local impact",
-    "description": "Our online store brings premium building supplies to your doorstep, wherever you are.",
-    "address": "Unavailable",
+    "eyebrow": "Find us globally",
+    "title": "Visit our online store",
+    "description": "Explore our full range of tapes and adhesives available worldwide. Quality delivered to your door.",
+    "address": "",
     "website": "www.waltherstrongandco.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Request product info",
-    "description": "Contact us for detailed product specifications, quotes, or trade inquiries.",
+    "eyebrow": "Get started today",
+    "title": "Request a consultation",
+    "description": "Contact us to learn more about our products or find tailored solutions for your projects.",
     "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate your supply chain",
-    "description": "Harness AI to optimize operations and boost efficiency.",
+    "title": "Streamline your operations",
+    "description": "Leverage AI-driven automation to boost efficiency and sales.",
     "bullets": [
-      "Automate inventory tracking for accurate stock management.",
-      "Send product certifications instantly to customers.",
-      "Use CRM tools for abandoned cart recovery and promotions."
+      "Automated inventory management and order tracking.",
+      "Custom marketing for abandoned carts and promotions.",
+      "Instant delivery of certificates and product datasheets."
     ],
     "offer": "Mention Walther Strong for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Walther Strong delivers unforgettable experiences.",
-    "address": "Unavailable",
+    "address": "",
     "email": "",
     "socials": [
       {
