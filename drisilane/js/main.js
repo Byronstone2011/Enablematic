@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "DriSilane",
-    "tagline": "Seamless roof repairs",
-    "category": "Roofing Repair Experts",
-    "location": "",
-    "phone": ""
+    "tagline": "Precision Roof Repairs",
+    "category": "Roofing Solutions",
+    "location": "Unknown",
+    "phone": "Unknown"
   },
   "hero": {
-    "eyebrow": "Specialist roofing experts",
-    "title": "Say goodbye to roof leaks.",
-    "description": "Our tailored three-step system solves roof deterioration and leaks with expert precision. End-to-end service ensures flawless project delivery.",
+    "eyebrow": "Seamless roof solutions",
+    "title": "Stop leaks and restore roofs fast.",
+    "description": "Our three-step system offers tailored repairs, expert management, and lasting solutions to roof deterioration challenges.",
     "highlights": [
       {
         "label": "Projects Completed",
         "value": "1,500+"
       },
       {
-        "label": "Customer Satisfaction",
-        "value": "98%"
+        "label": "Client Satisfaction",
+        "value": "99%"
       },
       {
         "label": "Years of Expertise",
-        "value": "20+"
+        "value": "10+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1681049400158-0ff6249ac315?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxSb29maW5nJTIwJTJGJTIwQ29uc3RydWN0aW9uJTIwJTJGJTIwQnVpbGRpbmclMjBtYWludGVuYW5jZSUyMCU1QiUyMlRocmVlLXN0YWdlJTIwcm9vZmluZyUyMHJlcGFpciUyMHByb2dyYW1tZSUyMiUyQyUyMlJvb2ZpbmclMjBwcm9qZWN0JTIwbWFuYWdlbWVudCUyMGFuZCUyMGVuZC10by1lbmQlMjBkZWxpdmVyeSUyMiUyQyUyMlJvb2ZpbmclMjBjb25zdWx0YW5jeSUyMGFuZCUyMHRhaWxvcmVkJTIwcmVtZWRpYXRpb24lMjBzb2x1dGlvbnMlMjIlNUR8ZW58MHx8fHwxNzYyNDM0MzIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Tailored Solutions",
-        "description": "Every project is customized to meet your specific roofing needs for superior results."
+        "title": "Tailored Programs",
+        "description": "Customized repair plans for every project ensure optimal roof performance."
       },
       {
         "title": "End-to-End Service",
-        "description": "From specification to application, we handle every detail seamlessly."
+        "description": "We handle all aspects, from specification to application seamlessly."
       },
       {
-        "title": "Industry Expertise",
-        "description": "Benefit from 20+ years of roofing repair experience and proven systems."
+        "title": "Proven Expertise",
+        "description": "Decades of industry knowledge deliver reliable, lasting results."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We specialize in tailored roofing repair systems for commercial properties.",
+    "description": "We specialize in premium roofing solutions through a proven three-step system.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Roof Repair Programmes",
-        "description": "Our three-stage system delivers effective, long-lasting roof repairs."
+        "title": "Roof Repair Programme",
+        "description": "Three-step repair plans tailored to address leaks and damages."
       },
       {
         "icon": "💼",
         "title": "Project Management",
-        "description": "We oversee every aspect of your roofing project with expert care."
+        "description": "Expert coordination ensures smooth delivery of roofing projects."
       },
       {
-        "icon": "🛠",
-        "title": "Roofing Consultancy",
-        "description": "Receive tailored remediation solutions for complex roofing challenges."
+        "icon": "🛡",
+        "title": "Consultancy Services",
+        "description": "Specialized advice for lasting roof remediation and protection."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Experience that stands the test of time",
+    "eyebrow": "Our Journey",
+    "title": "Built on innovation and trust.",
     "paragraphs": [
-      "DriSilane® specializes in a three-step repair system designed for commercial roofs. We tailor programs to meet your unique project needs and deliver seamless results.",
-      "Our approach combines industry knowledge and precision management, ensuring flawless execution. We’re trusted by asset owners across sectors for durable solutions."
+      "DriSilane Ltd created its unique three-step repair system to solve persistent roofing issues. Our tailored approach ensures every project is a success.",
+      "We combine expertise, precision, and seamless service to meet your roofing needs. Our proven solutions deliver value and peace of mind."
     ],
-    "image": "https://images.pexels.com/photos/28812511/pexels-photo-28812511.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1722876720000-f39b65b7d4a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxSb29maW5nJTIwJTJGJTIwQ29uc3RydWN0aW9uJTIwJTJGJTIwQnVpbGRpbmclMjBtYWludGVuYW5jZSUyMHByb2Zlc3Npb25hbCUyMHRlYW0lMjBhdCUyMHdvcmt8ZW58MHx8fHwxNzYyNDM0MzI3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "testimonials": {
-    "eyebrow": "What customers say",
-    "title": "Real results, real satisfaction",
+    "eyebrow": "What Clients Say",
+    "title": "Trusted by professionals.",
     "list": [
       {
-        "quote": "DriSilane solved our persistent roof leaks quickly and professionally. Highly recommend their services.",
-        "name": "Sarah Miles",
+        "quote": "DriSilane solved our recurring leaks efficiently. Their tailored plan was perfect for our building needs.",
+        "name": "John Harris",
         "role": "Facilities Manager",
         "avatar": "https://images.unsplash.com/photo-1722876720000-f39b65b7d4a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxSb29maW5nJTIwJTJGJTIwQ29uc3RydWN0aW9uJTIwJTJGJTIwQnVpbGRpbmclMjBtYWludGVuYW5jZSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNDM0MzIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
       },
       {
-        "quote": "Their end-to-end approach made managing the project stress-free. The results were excellent.",
-        "name": "John Cooper",
+        "quote": "The team delivered a seamless repair process. They managed every detail flawlessly.",
+        "name": "Sarah Collins",
         "role": "Building Manager",
         "avatar": "https://images.unsplash.com/photo-1566821594226-cdc9cb42a4c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwyfHxSb29maW5nJTIwJTJGJTIwQ29uc3RydWN0aW9uJTIwJTJGJTIwQnVpbGRpbmclMjBtYWludGVuYW5jZSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNDM0MzIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find us",
-    "title": "Serving nationwide",
-    "description": "We bring expert roofing solutions to commercial properties across the UK.",
-    "address": "",
-    "website": "",
+    "eyebrow": "Find Us",
+    "title": "Reach our experts today.",
+    "description": "Contact us to learn how DriSilane Ltd can protect your property with tailored roofing solutions.",
+    "address": "Unknown",
+    "website": "www.drisilane.com",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get Started",
-    "title": "Request a consultation",
-    "description": "Contact us today to discuss your roofing needs. Tailored solutions await.",
-    "consent": "We respect your privacy."
+    "title": "Request a consultation.",
+    "description": "Contact us to discuss your roofing challenges and discover how we can help.",
+    "consent": "Your information is safe with us."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline Your Roofing Projects",
-    "description": "Automation saves time, ensures accuracy, and improves project management.",
+    "title": "Streamline Roofing Projects",
+    "description": "Automation transforms how you manage roofing repairs and maintenance.",
     "bullets": [
-      "Capture leads with instant online forms.",
-      "Automate project scheduling and updates.",
-      "Simplify quoting with CRM integration."
+      "Automate inquiry-to-quote workflows for quick responses.",
+      "Track project schedules and updates effortlessly.",
+      "Ensure proactive roof care with reminders and alerts."
     ],
     "offer": "Mention DriSilane for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "DriSilane delivers unforgettable experiences.",
-    "address": "",
+    "address": "Unknown",
     "email": "",
     "socials": [
       {
