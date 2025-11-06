@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "EBFP",
-    "tagline": "Your fire safety partner",
+    "tagline": "Fire protection made simple",
     "category": "Fire & Security Systems",
     "location": "South Coast to Mid",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Reliable fire protection",
-    "title": "Compliance made simple and secure",
-    "description": "We design, install, and maintain systems to protect your assets and ensure regulatory compliance with ease.",
+    "eyebrow": "Trusted fire experts",
+    "title": "Secure compliance, reduce risks.",
+    "description": "We design, install, and maintain systems that keep your buildings safe and compliant with evolving standards.",
     "highlights": [
       {
-        "label": "Systems Installed",
-        "value": "1,000+"
+        "label": "Years in Business",
+        "value": "10+"
       },
       {
-        "label": "Years in Business",
-        "value": "15+"
+        "label": "Systems Maintained",
+        "value": "1,500+"
       },
       {
         "label": "Compliance Rate",
-        "value": "99.8%"
+        "value": "99.7%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,72 +31,72 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Trusted expertise",
-        "description": "Our certified team ensures your fire systems meet the highest safety standards."
+        "title": "Expert Solutions",
+        "description": "Our certified team delivers high-quality systems tailored to unique needs."
       },
       {
-        "title": "End-to-end solutions",
-        "description": "From design to maintenance, we handle every stage for seamless protection."
+        "title": "End-to-End Care",
+        "description": "From design to maintenance, we handle every step with precision."
       },
       {
-        "title": "Proven track record",
-        "description": "Over 1,000 systems installed with unmatched customer satisfaction."
+        "title": "Compliance Focus",
+        "description": "We ensure systems meet all regulations, protecting your reputation."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive fire and security services tailored to your needs.",
+    "description": "Comprehensive fire protection services for diverse industries.",
     "cards": [
       {
         "icon": "🔥",
         "title": "System Design",
-        "description": "Custom fire and security systems designed to fit your unique requirements."
+        "description": "Custom fire and security systems designed to meet regulatory standards."
       },
       {
         "icon": "🏗",
         "title": "Installation",
-        "description": "Professional installation ensuring reliability and compliance from day one."
+        "description": "Expert installation for seamless functionality and reliability."
       },
       {
         "icon": "🛡",
         "title": "Maintenance",
-        "description": "Ongoing servicing to maximize system performance and adhere to regulations."
+        "description": "Ongoing servicing to ensure system health and regulatory compliance."
       }
     ]
   },
   "story": {
     "eyebrow": "Our journey",
-    "title": "Protecting lives and assets",
+    "title": "Building safer spaces.",
     "paragraphs": [
-      "EBFP has been safeguarding businesses and properties with tailored fire protection solutions for over 15 years. Our commitment drives us to deliver excellence.",
-      "Our trusted systems and services ensure compliance, safety, and peace of mind. We leverage technology to simplify protection across distributed sites."
+      "EBFP was founded to deliver reliable fire and security solutions. We focus on safety, compliance, and customer satisfaction.",
+      "Our end-to-end services and commitment to excellence make us a trusted partner for businesses across the region."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Real results, real trust",
+    "eyebrow": "Customer feedback",
+    "title": "What our clients say",
     "list": [
       {
-        "quote": "EBFP streamlined our compliance process and gave us peace of mind. Highly recommend!",
-        "name": "John Smith",
-        "role": "Property Manager",
+        "quote": "EBFP made compliance effortless and gave us peace of mind. Highly recommended!",
+        "name": "Sarah Mitchell",
+        "role": "Facilities Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their maintenance services keep our systems running flawlessly. Exceptional team!",
-        "name": "Sarah Brown",
-        "role": "Facilities Manager",
+        "quote": "Their team is proactive, keeping our systems safe and up-to-date.",
+        "name": "John Davies",
+        "role": "Property Manager",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit us",
-    "title": "Serving England's heart",
-    "description": "We serve the South Coast to Midlands, providing expert fire protection solutions.",
+    "title": "Serving your region",
+    "description": "We proudly serve the South Coast to Midlands, offering trusted fire protection solutions.",
     "address": "",
     "website": "www.ebfp.co.uk",
     "mapEmbed": ""
@@ -104,17 +104,17 @@ const appData = {
   "inquiry": {
     "eyebrow": "Get in touch",
     "title": "Request a consultation",
-    "description": "Contact Craig Puddefoot for tailored fire protection solutions.",
+    "description": "Contact us today to discuss your fire protection needs.",
     "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate your protection",
-    "description": "Transform fire safety with AI-driven solutions that save time and reduce risks.",
+    "title": "Smarter fire protection",
+    "description": "Leverage AI to streamline your fire safety efforts.",
     "bullets": [
-      "Automated scheduling for maintenance visits.",
-      "Digital compliance reporting and storage.",
-      "Remote monitoring with real-time alerts."
+      "Automate maintenance scheduling and compliance reporting.",
+      "Monitor systems remotely for real-time alerts.",
+      "Simplify certifications with digital storage."
     ],
     "offer": "Mention EBFP for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
