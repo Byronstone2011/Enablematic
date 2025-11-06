@@ -2,25 +2,25 @@ const appData = {
   "brand": {
     "name": "ASRS Ltd",
     "tagline": "Structural repair experts",
-    "category": "Construction & Masonry",
+    "category": "Construction",
     "location": "London, South West",
     "phone": ""
   },
   "hero": {
     "eyebrow": "Helifix-approved solutions",
-    "title": "Reliable repairs for homes & businesses",
-    "description": "ASRS fixes cracks, stabilizes masonry, and offers free quotes. Trust our Helifix-approved services for lasting results.",
+    "title": "Expert structural repairs made easy",
+    "description": "We specialize in masonry repairs for homes and businesses. Get fast quotes, reliable service, and peace of mind with guaranteed solutions.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "5,000+"
+        "value": "2,500+"
       },
       {
-        "label": "Years of Experience",
+        "label": "Years in Operation",
         "value": "20+"
       },
       {
-        "label": "Customer Satisfaction",
+        "label": "Client Satisfaction",
         "value": "98%"
       }
     ],
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Solutions",
-        "description": "Helifix-approved methods ensure trusted structural repairs every time."
+        "title": "Proven Expertise",
+        "description": "20+ years delivering top-quality structural repairs across regions."
       },
       {
-        "title": "Wide Coverage",
-        "description": "Serving London, the South West, and Wales with dedicated teams."
+        "title": "Guaranteed Solutions",
+        "description": "Helifix-approved methods ensure lasting results for every project."
       },
       {
         "title": "Client Focused",
-        "description": "We prioritize precision and satisfaction for every project."
+        "description": "Fast quotes, clear communication, and tailored repair strategies."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Specialized services for structural repairs and stabilization.",
+    "description": "ASRS Ltd offers reliable structural repair solutions for homes and businesses. From crack repairs to wall stabilization, we cover your masonry needs.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Brickwork Repairs",
-        "description": "Restore damaged masonry with expert solutions tailored to your needs."
+        "title": "Structural Repairs",
+        "description": "Fix cracks, stabilize bay windows, and more for homes and businesses."
       },
       {
-        "icon": "🛡",
-        "title": "Helifix Installation",
-        "description": "Stabilize walls using Helibeam systems for lasting structural integrity."
+        "icon": "🔍",
+        "title": "Diagnosis & Specs",
+        "description": "Expert assessments and tailored repair plans to address your concerns."
       },
       {
-        "icon": "🔧",
-        "title": "Micro Piling",
-        "description": "Strengthen foundations with advanced micro piling techniques."
+        "icon": "🛠",
+        "title": "Helifix Installations",
+        "description": "Helifix systems ensure durable masonry stabilization for any project."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Built on trust and expertise",
+    "eyebrow": "Our Journey",
+    "title": "Trusted Structural Repair Experts",
     "paragraphs": [
-      "ASRS Ltd specializes in structural repairs for homes and businesses. From crack repairs to bay window stabilization, we deliver reliable solutions.",
-      "Our Helifix-approved services ensure precision. Serving London, the South West, and Wales, we simplify repairs for surveyors, insurers, and homeowners."
+      "ASRS Ltd has been repairing homes and businesses for over 20 years. We specialize in masonry stabilization, crack repairs, and tailored solutions.",
+      "Our Helifix-approved methods and focus on client satisfaction ensure reliable results. We streamline processes to deliver exceptional service every time."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Customer reviews",
-    "title": "Trusted by professionals",
+    "eyebrow": "Client Feedback",
+    "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "ASRS fixed structural cracks with precision. Their team was professional and efficient.",
-        "name": "James T.",
-        "role": "Loss Adjuster",
+        "quote": "ASRS fixed our bay window cracks quickly and professionally. Highly recommend them!",
+        "name": "Sarah M.",
+        "role": "Homeowner",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "The Helifix repairs saved our building. We highly recommend ASRS Ltd.",
-        "name": "Sarah L.",
-        "role": "Homeowner",
+        "quote": "Their diagnosis and repair plan saved us time and money. Fantastic service!",
+        "name": "John T.",
+        "role": "Surveyor",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us",
-    "title": "Find us in your region",
-    "description": "Serving London, the South West, and Wales, we provide expert repairs near you.",
-    "address": "Location details available upon",
+    "eyebrow": "Our Service Areas",
+    "title": "London & Beyond",
+    "description": "We proudly serve London, the South West, and Wales. Contact us for expert repairs near you.",
+    "address": "",
     "website": "www.asrs.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Request your free quote",
-    "description": "Contact our team today to discuss your structural repair needs.",
-    "consent": "We respect your privacy and never share your information."
+    "eyebrow": "Get Started",
+    "title": "Request a Free Quote",
+    "description": "Contact us today for a free consultation or quote on your next repair project.",
+    "consent": "We respect your privacy and never share your data."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your repair process",
-    "description": "Leverage automation to enhance efficiency and reduce manual tasks.",
+    "title": "Streamline Structural Repairs",
+    "description": "Unlock efficiency with AI-powered solutions tailored to ASRS Ltd's needs.",
     "bullets": [
-      "Simplify estimates with online requests and photo uploads.",
-      "Automate lead tracking and follow-ups with a tailored CRM.",
-      "Optimize scheduling for multi-office field teams seamlessly."
+      "Automated quote requests with photo uploads for faster estimates.",
+      "CRM tracks leads, referrers, and job stages with follow-ups.",
+      "Route-optimized scheduling for multi-office field teams."
     ],
     "offer": "Mention ASRS Ltd for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "ASRS Ltd delivers unforgettable experiences.",
-    "address": "Location details available upon",
+    "address": "",
     "email": "",
     "socials": [
       {
