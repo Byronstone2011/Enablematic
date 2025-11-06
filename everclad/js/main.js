@@ -1,22 +1,22 @@
 const appData = {
   "brand": {
     "name": "Everclad Ltd",
-    "tagline": "Fire-safe façades, redefined",
-    "category": "Façade Remediation",
+    "tagline": "Safer façades, smarter solutions",
+    "category": "Building Façades & Remediation",
     "location": "UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted by industry leaders",
-    "title": "Ensuring fire-safety compliance for buildings",
-    "description": "We specialize in façade remediation and non-combustible cladding systems. Stay compliant while minimizing disruption.",
+    "eyebrow": "Expert cladding solutions",
+    "title": "Ensure fire safety compliance today.",
+    "description": "We replace unsafe cladding with non-combustible systems that meet regulatory standards, minimizing disruption and risk.",
     "highlights": [
       {
         "label": "Years of Expertise",
         "value": "33+"
       },
       {
-        "label": "Projects Delivered",
+        "label": "Projects Completed",
         "value": "2,500+"
       },
       {
@@ -24,7 +24,7 @@ const appData = {
         "value": "99.8%"
       }
     ],
-    "image": "https://images.pexels.com/photos/258186/pexels-photo-258186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
@@ -32,89 +32,89 @@ const appData = {
     "items": [
       {
         "title": "Proven Expertise",
-        "description": "With over 33 years in cladding remediation, we deliver trusted solutions."
+        "description": "Over 33 years of experience ensures trusted, reliable cladding solutions."
       },
       {
-        "title": "Seamless Execution",
-        "description": "Our team ensures minimal disruption during complex projects."
+        "title": "Quality Assurance",
+        "description": "Our systems meet the highest safety and compliance standards."
       },
       {
-        "title": "Safety Assurance",
-        "description": "We prioritize fire-safety compliance with rigorous standards."
+        "title": "Seamless Coordination",
+        "description": "We manage complex projects efficiently to reduce disruption."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Specialized in cladding removal, fire-safe installations, and façade upgrades.",
+    "description": "Specialized façade services tailored to meet fire-safety compliance.",
     "cards": [
       {
         "icon": "🔥",
-        "title": "Cladding Removal",
-        "description": "We safely remove combustible ACM cladding to mitigate fire risks."
+        "title": "ACM Cladding Removal",
+        "description": "We safely remove combustible cladding for full regulatory compliance."
       },
       {
         "icon": "🏗",
-        "title": "Safe Installations",
-        "description": "Non-combustible cladding systems expertly installed for compliance."
+        "title": "Non-Combustible Systems",
+        "description": "Install modern, fire-safe cladding systems that ensure durability."
       },
       {
         "icon": "🛡",
         "title": "Façade Remediation",
-        "description": "Enhance safety with fire-safety upgrades tailored to your building."
+        "description": "Upgrade building exteriors to meet fire safety and aesthetic needs."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey to excell",
-    "title": "Building safer spaces for over 30 years",
+    "eyebrow": "Our Journey",
+    "title": "Building safer communities.",
     "paragraphs": [
-      "Everclad Ltd has been a trusted partner in façade remediation since its inception. We specialize in fire-safety compliance through innovative solutions.",
-      "Our commitment to automation and expertise ensures efficient projects. We help property managers and contractors meet safety regulations seamlessly."
+      "Everclad Ltd has been transforming building façades for 33+ years, specializing in fire-safe cladding systems. We’re trusted by local authorities and contractors.",
+      "Our mission is to simplify compliance while delivering quality. We use streamlined processes to protect properties and people, ensuring peace of mind."
     ],
-    "image": "https://images.pexels.com/photos/7937709/pexels-photo-7937709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Customer feedback",
-    "title": "What our clients say",
+    "eyebrow": "What Clients Say",
+    "title": "Trusted by experts.",
     "list": [
       {
-        "quote": "Everclad made complex cladding removal simple and stress-free. Highly recommended.",
-        "name": "Sarah Jenkins",
-        "role": "Property Manager",
+        "quote": "Everclad made compliance easy. Their team managed everything seamlessly. Highly recommend!",
+        "name": "Jane Smith",
+        "role": "Housing Association Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their fire-safety upgrades exceeded expectations. Compliance was achieved smoothly.",
+        "quote": "The cladding upgrade was efficient and stress-free. Our tenants feel safer now.",
         "name": "Mark Johnson",
-        "role": "Housing Association Director",
+        "role": "Property Manager",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Get in touch",
-    "title": "Connect with us today",
-    "description": "We operate across the UK, ensuring buildings meet fire-safety standards.",
-    "address": "UK-wide service",
+    "eyebrow": "Visit Us",
+    "title": "Explore our projects.",
+    "description": "Our work spans the UK, showcasing safe, modern façades trusted by communities.",
+    "address": "",
     "website": "www.everclad.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Ready to begin?",
-    "title": "Request a consultation",
-    "description": "Contact us to discuss your cladding remediation needs today.",
-    "consent": "We respect your privacy."
+    "eyebrow": "Get Started",
+    "title": "Request a consultation.",
+    "description": "Contact us for tailored cladding solutions. Transform your building today.",
+    "consent": "By submitting, you agree to our privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your projects",
-    "description": "Empower your processes with automation tailored to façade remediation.",
+    "title": "Revolutionize Your Workflow",
+    "description": "Our AI-powered solutions streamline cladding remediation processes.",
     "bullets": [
-      "Automate lead capture and follow-ups effortlessly.",
-      "Generate quotes and proposals instantly for retrofit projects.",
-      "Simplify compliance workflows with automated schedules."
+      "Automate lead capture for quick qualification.",
+      "Generate accurate quotes and proposals instantly.",
+      "Simplify compliance with automated documentation."
     ],
     "offer": "Mention Everclad Ltd for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Everclad Ltd delivers unforgettable experiences.",
-    "address": "UK-wide service",
+    "address": "",
     "email": "",
     "socials": [
       {
