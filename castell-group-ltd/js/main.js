@@ -1,15 +1,15 @@
 const appData = {
   "brand": {
     "name": "Castell Group",
-    "tagline": "Building communities, sustainably",
+    "tagline": "Building better futures",
     "category": "Social Housing Development",
-    "location": "N/A",
-    "phone": "N/A"
+    "location": "United Kingdom",
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Sustainable housing solutions",
-    "title": "Delivering EPC A-rated homes at scale.",
-    "description": "We specialize in social housing development, ensuring compliance, timely delivery, and sustainable construction for housing partners.",
+    "eyebrow": "Expert housing solutions",
+    "title": "Scaling social housing efficiently.",
+    "description": "Castell Group delivers EPC A-rated homes while managing compliance and timelines for housing bodies and funders.",
     "highlights": [
       {
         "label": "Homes Delivered",
@@ -17,104 +17,104 @@ const appData = {
       },
       {
         "label": "Compliance Rate",
-        "value": "99.8%"
+        "value": "99%"
       },
       {
         "label": "Years of Expertise",
-        "value": "10+"
+        "value": "15+"
       }
     ],
-    "image": "https://images.pexels.com/photos/20706511/pexels-photo-20706511.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Project Delivery",
-        "description": "We manage every step, ensuring smooth handovers and EPC compliance."
+        "title": "Proven Expertise",
+        "description": "Over 15 years delivering quality housing with trusted partnerships."
       },
       {
-        "title": "Trusted Partnerships",
-        "description": "Collaborating with housing bodies to achieve affordable housing goals."
+        "title": "EPC A Compliance",
+        "description": "We ensure all homes meet strict environmental standards."
       },
       {
-        "title": "Sustainable Constructio",
-        "description": "We prioritize eco-friendly building methods for lasting impact."
+        "title": "Reliable Delivery",
+        "description": "On-time project completion supported by robust workflows."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Our services empower housing providers with expert contracting and sustainable development.",
+    "description": "Castell Group specializes in social housing development and project management.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Social Housing Development",
-        "description": "We build affordable, sustainable homes tailored to community needs."
+        "title": "Social Housing",
+        "description": "We develop affordable housing tailored to community needs."
       },
       {
-        "icon": "💼",
-        "title": "EPC A-rated Homes",
-        "description": "Our homes meet the highest energy performance standards."
+        "icon": "⚡",
+        "title": "EPC A Homes",
+        "description": "Energy-efficient homes designed for sustainable living."
       },
       {
         "icon": "📋",
         "title": "Project Management",
-        "description": "From planning to handover, we guarantee seamless delivery."
+        "description": "Streamlined handover processes for seamless delivery."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Building better futures together",
+    "eyebrow": "Our Story",
+    "title": "Committed to community growth",
     "paragraphs": [
-      "Castell Group specializes in social housing development, delivering compliant, sustainable homes for communities. We partner with housing associations and funders to create impactful projects.",
-      "Our commitment to scaling delivery and maintaining EPC standards ensures every project is completed efficiently and sustainably. Castell Group is your trusted partner in affordable housing solutions."
+      "Castell Group has been a trusted developer in social housing, creating sustainable homes for over 15 years.",
+      "We combine expertise with automation to scale delivery, meeting the needs of housing bodies efficiently."
     ],
-    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
+    "image": "https://images.pexels.com/photos/8482828/pexels-photo-8482828.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Client feedback",
-    "title": "What partners say about us",
+    "eyebrow": "What Clients Say",
+    "title": "Trusted by partners",
     "list": [
       {
-        "quote": "Castell Group helped us meet our housing targets with their reliable, timely delivery.",
-        "name": "Sarah Thompson",
-        "role": "Housing Manager",
+        "quote": "Castell Group ensured our housing project met compliance and deadlines seamlessly.",
+        "name": "Sarah Williams",
+        "role": "Housing Association Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their expertise in EPC compliance made our projects seamless and cost-effective.",
-        "name": "David Green",
+        "quote": "Their EPC A-rated homes set a new standard for affordable housing.",
+        "name": "Mark Evans",
         "role": "Local Authority Officer",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Where we work",
-    "title": "Serving communities nationwide",
-    "description": "We work across the UK, delivering sustainable homes that support regional housing needs.",
-    "address": "N/A",
+    "eyebrow": "Find Us",
+    "title": "Your housing partner",
+    "description": "We work across the UK, creating homes that truly make a difference.",
+    "address": "United Kingdom",
     "website": "www.castellgroup.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started",
-    "title": "Contact us today",
-    "description": "Let’s discuss your housing project needs. Reach out for expert guidance and solutions.",
-    "consent": "Your information is safe with us."
+    "eyebrow": "Get In Touch",
+    "title": "Contact Castell Group",
+    "description": "Reach out to discuss your project needs or book a consultation today.",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "AI-driven solutions for housing",
-    "description": "Innovative automation transforms our workflows and compliance processes.",
+    "title": "Maximize Efficiency with AI",
+    "description": "Streamline operations with automation tailored to housing development.",
     "bullets": [
-      "Automated CRM simplifies partner management and referrals.",
-      "Streamlined project workflows ensure consistent delivery results.",
-      "EPC compliance tools reduce manual effort and errors."
+      "Automate compliance documentation for EPC A requirements.",
+      "Optimize project workflows for faster delivery.",
+      "Use CRM tools to enhance stakeholder collaboration."
     ],
     "offer": "Mention Castell Group for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Castell Group delivers unforgettable experiences.",
-    "address": "N/A",
+    "address": "United Kingdom",
     "email": "",
     "socials": [
       {
