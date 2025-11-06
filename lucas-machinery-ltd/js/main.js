@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Lucas Machinery",
-    "tagline": "Powering construction efficiency",
+    "tagline": "Powering Heavy Progress",
     "category": "Heavy Equipment Sales",
-    "location": "Undisclosed",
-    "phone": "N/A"
+    "location": "Global Service Rea",
+    "phone": "Contact online"
   },
   "hero": {
-    "eyebrow": "Trusted by contractors",
-    "title": "Streamline equipment sales today.",
-    "description": "Lucas Machinery makes heavy equipment sales easy with searchable inventory, e-commerce, and automated lead management tools.",
+    "eyebrow": "Effortless equipment solutions",
+    "title": "Streamlined sales for machinery needs.",
+    "description": "Lucas Machinery simplifies equipment buying with searchable catalogs, parts e-commerce, and automated lead management.",
     "highlights": [
+      {
+        "label": "Equipment Sold",
+        "value": "5,000+"
+      },
       {
         "label": "Years in Business",
         "value": "20+"
       },
       {
-        "label": "Clients Served",
-        "value": "5,000+"
-      },
-      {
-        "label": "Inventory Listings",
-        "value": "1,200+"
+        "label": "Customer Satisfaction",
+        "value": "98%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Intuitive Navigation",
-        "description": "Our organized inventory grid helps you quickly find the right equipment."
+        "title": "Organized Inventory",
+        "description": "Easily navigate machinery categories for faster decisions."
       },
       {
-        "title": "Global Identity",
-        "description": "A strong brand presence backed by expertise in the machinery sector."
+        "title": "Strong Branding",
+        "description": "Globally recognized logo builds trust and identity."
       },
       {
         "title": "Clear Contact Info",
-        "description": "Easily reach our team for inquiries and consultations anytime."
+        "description": "Direct communication simplifies inquiries and purchases."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Our services cater to construction, farming, and heavy industries.",
+    "description": "From machinery to components, we have it all.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Equipment Sales",
-        "description": "Explore our extensive range of new and used heavy machinery for all industries."
+        "title": "Heavy Equipment Sales",
+        "description": "New and used machines for construction, mining, and more."
       },
       {
         "icon": "🔧",
         "title": "Parts Supply",
-        "description": "We stock parts, components, and attachments to keep your equipment running."
+        "description": "Find essential parts for your heavy equipment needs."
       },
       {
         "icon": "⚡",
         "title": "Power Systems",
-        "description": "Get reliable power systems tailored to construction and industrial needs."
+        "description": "Reliable power systems to keep operations running smoothly."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Driven by innovation and service.",
+    "eyebrow": "A legacy of reliabili",
+    "title": "Our journey in heavy machinery.",
     "paragraphs": [
-      "Lucas Machinery was founded to simplify heavy equipment sales and support industries like construction and mining. We deliver value and reliability.",
-      "Our solutions reduce downtime and improve efficiency. From inventory visibility to automated lead management, we’re built to meet your needs."
+      "Lucas Machinery began with a vision to simplify heavy equipment sales. Over two decades, we've earned trust with quality service and innovation.",
+      "Our solutions reduce downtime and boost efficiency. With automation tools, we empower businesses to accelerate growth and maintain reliability."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client feedback",
-    "title": "What our customers say.",
+    "eyebrow": "What clients say",
+    "title": "Trusted by industry leaders",
     "list": [
       {
-        "quote": "Lucas Machinery’s searchable inventory saved us hours of work and helped us find the perfect equipment.",
-        "name": "Mark Robinson",
-        "role": "Construction Manager",
+        "quote": "Lucas Machinery's catalog made choosing equipment easy. Their team is outstanding!",
+        "name": "John Meyers",
+        "role": "Construction Contractor",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their parts ordering system is seamless, and their team always ensures fast delivery.",
-        "name": "Sarah Bennett",
-        "role": "Fleet Supervisor",
+        "quote": "Their automated parts ordering saved us time and hassle. Highly recommend!",
+        "name": "Karen Thompson",
+        "role": "Public Works Manager",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Our location",
-    "title": "Visit Lucas Machinery.",
-    "description": "Our facility is equipped with a vast inventory and expert staff ready to assist you.",
-    "address": "Undisclosed",
+    "eyebrow": "Visit us",
+    "title": "Explore our inventory",
+    "description": "Find machinery and components tailored to your needs. Contact us today!",
+    "address": "Available online",
     "website": "lucasmachinery.com",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get in touch",
-    "title": "Ready to find your solution?",
-    "description": "Contact us to book a consultation or equipment demo. We're here to help.",
-    "consent": "By submitting, you agree to our policies."
+    "title": "Start your inquiry today",
+    "description": "Contact us for sales, parts, or service. We're here to support you.",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Boost sales with automation.",
-    "description": "Our AI solutions simplify operations and increase efficiency.",
+    "title": "Automate your machinery needs",
+    "description": "Power your business with advanced automation tools.",
     "bullets": [
-      "Searchable inventory filters streamline product discovery.",
-      "E-commerce tools simplify parts ordering and inventory tracking.",
-      "CRM tools automate follow-ups and quoting for faster sales."
+      "Searchable inventory filters for quick decisions.",
+      "E-commerce for parts with real-time stock updates.",
+      "CRM integration for automated follow-ups and quotes."
     ],
     "offer": "Mention Lucas Machinery for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Lucas Machinery delivers unforgettable experiences.",
-    "address": "Undisclosed",
+    "address": "Available online",
     "email": "",
     "socials": [
       {
