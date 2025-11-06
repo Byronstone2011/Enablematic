@@ -1,120 +1,120 @@
 const appData = {
   "brand": {
     "name": "Stein Group",
-    "tagline": "Reliable MEP solutions",
+    "tagline": "Solutions Built to Last",
     "category": "Building Services",
-    "location": "Unknown",
-    "phone": "Unknown"
+    "location": "Global",
+    "phone": ""
   },
   "hero": {
     "eyebrow": "Integrated solutions",
-    "title": "Streamline safety and efficiency.",
-    "description": "We simplify MEP projects, enhance compliance, and optimize energy systems with tailored expertise.",
+    "title": "Streamline safety, energy, and security.",
+    "description": "We simplify project coordination while ensuring compliance, sustainability, and reliable system management.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "2,500+"
+        "value": "1,500+"
       },
       {
-        "label": "Customer Satisfaction",
+        "label": "Client Satisfaction",
         "value": "98%"
       },
       {
-        "label": "Years of Experience",
+        "label": "Years of Expertise",
         "value": "15+"
       }
     ],
-    "image": "https://images.pexels.com/photos/5691602/pexels-photo-5691602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "End-to-End Service",
-        "description": "We handle all MEP needs with seamless coordination across disciplines."
+        "title": "Comprehensive Services",
+        "description": "We cover electrical, mechanical, and safety solutions under one roof."
       },
       {
-        "title": "Sustainability Expertise",
-        "description": "We deliver energy-efficient solutions that meet compliance standards."
+        "title": "Sustainability Focus",
+        "description": "Our green energy solutions improve efficiency and compliance."
       },
       {
-        "title": "Advanced Safety Systems",
-        "description": "Our reliable safety and security systems offer peace of mind."
+        "title": "Reliable Expertise",
+        "description": "15+ years of experience delivering trusted results."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Our comprehensive services cover electrical, mechanical, energy, and safety needs.",
+    "description": "Stein Group delivers tailored solutions in building services, MEP, and security.",
     "cards": [
       {
-        "icon": "💡",
-        "title": "Electrical Services",
-        "description": "Expert design and installation for efficient electrical systems."
-      },
-      {
-        "icon": "🏗",
-        "title": "Mechanical Systems",
-        "description": "We install advanced HVAC and mechanical solutions for businesses."
+        "icon": "⚡",
+        "title": "Electrical Design",
+        "description": "Expert installation and design for commercial projects."
       },
       {
         "icon": "🔥",
-        "title": "Fire & Security",
-        "description": "Protect your assets with robust fire and life safety systems."
+        "title": "Safety Systems",
+        "description": "Fire and life systems that safeguard your property."
+      },
+      {
+        "icon": "🌱",
+        "title": "Green Energy",
+        "description": "Energy-efficient solutions to meet your sustainability goals."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Story",
-    "title": "Built on trust and expertise.",
+    "eyebrow": "Our History",
+    "title": "Built on trust and innovation.",
     "paragraphs": [
-      "Stein Group delivers integrated solutions for energy, safety, and communication systems. Our team is committed to excellence and reliability.",
-      "We excel in combining cutting-edge technology with personalized service. Clients trust us for compliance, safety, and seamless project delivery."
+      "Stein Group provides MEP, safety, and security solutions tailored to client needs. Our integrated approach ensures seamless execution.",
+      "We prioritize sustainability and reliability with cutting-edge technology and trusted expertise. Our clients rely on us for consistent results."
     ],
-    "image": "https://images.pexels.com/photos/19591889/pexels-photo-19591889.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Customer Feedback",
-    "title": "What clients say",
+    "eyebrow": "Client Feedback",
+    "title": "What our clients say.",
     "list": [
       {
-        "quote": "Stein Group handled our MEP project flawlessly, ensuring compliance and efficiency at every step.",
-        "name": "John Williams",
+        "quote": "Stein Group’s solutions made compliance and safety effortless across multiple sites.",
+        "name": "John Carter",
         "role": "Facility Manager",
-        "avatar": "https://images.pexels.com/photos/2345668/pexels-photo-2345668.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their fire safety systems give us confidence and peace of mind for our facilities.",
-        "name": "Sarah Collins",
-        "role": "Operations Director",
-        "avatar": "https://images.unsplash.com/photo-1745867817232-9d92c805f6d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxCdWlsZGluZyUyMHNlcnZpY2VzJTIwJTJGJTIwTUVQJTIwYW5kJTIwc2VjdXJpdHklMjBzb2x1dGlvbnMlMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjQzNDA5OXww&ixlib=rb-4.1.0&q=80&w=1080"
+        "quote": "Their green energy options helped us meet sustainability goals efficiently.",
+        "name": "Sarah Lopez",
+        "role": "Project Coordinator",
+        "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Explore our expertise.",
-    "description": "Contact us for professional MEP and security solutions tailored to your needs.",
-    "address": "Location details available upon",
-    "website": "www.elec-check.co.uk",
+    "eyebrow": "Find Us",
+    "title": "Explore our solutions.",
+    "description": "Contact us for tailored MEP, safety, and security services.",
+    "address": "Available upon request.",
+    "website": "www.steingroup.com",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get Started",
-    "title": "Request a consultation.",
-    "description": "Send us your project details, and we’ll provide tailored solutions.",
-    "consent": "I consent to receive communications."
+    "title": "Request a consultation today.",
+    "description": "Contact us to discuss your project needs and receive expert guidance.",
+    "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamlining Your Projects",
-    "description": "Automation takes your MEP solutions to the next level.",
+    "title": "Transform with AI.",
+    "description": "Optimize operations with automation tailored for MEP and safety.",
     "bullets": [
-      "Centralize communication with automated workflows.",
-      "Predict maintenance using IoT monitoring tools.",
-      "Simplify asset tracking with smart scheduling."
+      "Centralize bids and client communication with automated workflows.",
+      "Enable predictive maintenance with IoT monitoring systems.",
+      "Track assets and schedule maintenance with ease."
     ],
     "offer": "Mention Stein Group for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Stein Group delivers unforgettable experiences.",
-    "address": "Location details available upon",
+    "address": "Available upon request.",
     "email": "",
     "socials": [
       {
