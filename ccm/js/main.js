@@ -3,25 +3,25 @@ const appData = {
     "name": "CCM Interiors",
     "tagline": "Creating happy workspaces",
     "category": "Office Fit Out Specialists",
-    "location": "",
+    "location": "London, Kent, Surr",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Expert office fit-outs",
-    "title": "Transforming offices effortlessly",
-    "description": "We design, build, and deliver tailored workspaces across London, Kent, Surrey, and Sussex, turning visions into reality.",
+    "eyebrow": "Trusted by top businesses",
+    "title": "Transform your office with ease.",
+    "description": "We design, build, and deliver workspaces that inspire productivity and happiness. Serving London, Kent, Surrey, and Sussex.",
     "highlights": [
       {
-        "label": "Projects Completed",
+        "label": "Projects Delivered",
         "value": "1,000+"
-      },
-      {
-        "label": "Client Satisfaction",
-        "value": "98%"
       },
       {
         "label": "Years of Experience",
         "value": "15+"
+      },
+      {
+        "label": "Client Satisfaction",
+        "value": "98%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -32,89 +32,89 @@ const appData = {
     "items": [
       {
         "title": "Tailored Designs",
-        "description": "We craft bespoke office solutions that align with your needs and style preferences."
+        "description": "Our bespoke designs ensure every workspace reflects your unique business needs."
       },
       {
-        "title": "Seamless Delivery",
-        "description": "Our expert team ensures smooth project execution from start to finish."
+        "title": "Full Fit-Out Services",
+        "description": "We handle everything from planning to project completion with precision."
       },
       {
-        "title": "Proven Expertise",
-        "description": "With decades of experience, we guarantee quality and reliability every time."
+        "title": "Expert Team",
+        "description": "Our experienced specialists deliver seamless and professional results."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We specialize in designing and refurbishing modern office spaces tailored to your needs.",
+    "description": "We offer comprehensive office fit-out solutions tailored to your business.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Office Refurbishment",
-        "description": "Upgrade your workspace with our end-to-end refurbishment services."
+        "description": "Revitalize your workspace with modern designs and expert craftsmanship."
       },
       {
         "icon": "📐",
         "title": "Space Planning",
-        "description": "Maximize efficiency and comfort through expert space planning designs."
+        "description": "Optimize your office layout for productivity and comfort."
       },
       {
-        "icon": "🔧",
+        "icon": "🔨",
         "title": "Design & Build",
-        "description": "From concept to creation, we handle every step of your office fit-out."
+        "description": "From concept to completion, we bring your vision to life."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Building better workspaces",
+    "eyebrow": "Our Journey",
+    "title": "Building happier workspaces.",
     "paragraphs": [
-      "CCM Interiors Limited has been transforming offices across London, Kent, Surrey, and Sussex for over 15 years. We create spaces where teams thrive.",
-      "With a focus on tailored solutions and seamless delivery, we partner with clients to bring their workspace visions to life, ensuring satisfaction every time."
+      "CCM Interiors Limited specializes in creating inspiring office environments across London, Kent, Surrey, and Sussex. We deliver tailored solutions for modern workspaces.",
+      "With years of expertise, we focus on delivering seamless, stress-free projects. Our designs and builds prioritize functionality, aesthetics, and client satisfaction."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Trusted by businesses",
+    "eyebrow": "What Clients Say",
+    "title": "Trusted by businesses across the UK.",
     "list": [
       {
-        "quote": "CCM Interiors transformed our office into a vibrant and functional space. The process was smooth and hassle-free.",
-        "name": "Sarah Williams",
+        "quote": "CCM transformed our office beautifully and handled every detail expertly. Highly recommended!",
+        "name": "Sarah Thompson",
         "role": "Facilities Manager",
-        "avatar": "https://images.pexels.com/photos/8382591/pexels-photo-8382591.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their team understood our needs perfectly and delivered a stunning workspace on time and within budget.",
+        "quote": "Their team made the process seamless and delivered a workspace that exceeded expectations.",
         "name": "James Carter",
-        "role": "Corporate Occupier",
+        "role": "Building Surveyor",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us",
-    "title": "Explore our work",
-    "description": "Discover how we create inspiring office spaces across London, Kent, Surrey, and Sussex.",
-    "address": "",
+    "eyebrow": "Visit Us",
+    "title": "Discover our services locally.",
+    "description": "Operating across London, Kent, Surrey, and Sussex, we bring exceptional office fit-out solutions near you.",
+    "address": "London, Kent, Surrey, Sussex",
     "website": "www.ccminteriors.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started",
-    "title": "Request a consultation",
-    "description": "Contact us today to discuss your office refurbishment needs and get a tailored quote.",
-    "consent": "By submitting, you consent to receive communications."
+    "eyebrow": "Get Started",
+    "title": "Speak to our specialists.",
+    "description": "Contact us today to discuss your office fit-out needs and get a personalized quote.",
+    "consent": "We value your privacy and never share your details."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your projects",
-    "description": "Enhance efficiency and client acquisition with AI-driven tools.",
+    "title": "Streamline Your Projects",
+    "description": "Automation helps CCM Interiors deliver faster, smarter solutions.",
     "bullets": [
-      "Automate enquiries for instant quotes and scheduling.",
-      "Use CRM for nurturing leads and follow-ups.",
-      "Simplify project tracking with automation tools."
+      "Instant online quotes for quick lead capture.",
+      "Automated project management simplifies tasks.",
+      "CRM follow-ups improve client engagement."
     ],
     "offer": "Mention CCM Interiors for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "CCM Interiors delivers unforgettable experiences.",
-    "address": "",
+    "address": "London, Kent, Surrey, Sussex",
     "email": "",
     "socials": [
       {
