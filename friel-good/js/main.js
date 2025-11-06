@@ -1,26 +1,26 @@
 const appData = {
   "brand": {
     "name": "Friel",
-    "tagline": "PR that drives results",
-    "category": "Public relations & marketing",
-    "location": "Suffolk, UK",
+    "tagline": "Strategic PR and marketing",
+    "category": "Public Relations & Marketing",
+    "location": "Suffolk",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Multi-award-winning firm",
-    "title": "Boost visibility with expert PR solutions",
-    "description": "Friel ensures consistent media coverage, seamless event promotion, and reputation management tailored to your needs.",
+    "eyebrow": "Award-winning expertise",
+    "title": "Simplifying PR and marketing for impact",
+    "description": "We streamline your media coverage and event promotion to build your brand and save you time.",
     "highlights": [
       {
-        "label": "Successful Campaigns",
-        "value": "500+"
+        "label": "Years of Experience",
+        "value": "10+"
       },
       {
-        "label": "Event Attendance",
-        "value": "10,000+"
+        "label": "Media Placements",
+        "value": "5,000+"
       },
       {
-        "label": "Customer Satisfaction",
+        "label": "Client Retention",
         "value": "98%"
       }
     ],
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Bold Brand Presence",
-        "description": "We craft compelling campaigns that elevate your brand identity and engage audiences effectively."
+        "title": "Bold creativity",
+        "description": "Our vibrant designs ensure your brand stands out from the crowd."
       },
       {
-        "title": "Creative Strategies",
-        "description": "Our team blends creativity and expertise to deliver impactful marketing solutions."
+        "title": "Strategic focus",
+        "description": "We combine strategy with execution for measurable success."
       },
       {
-        "title": "Proven Results",
-        "description": "We deliver measurable success across PR, marketing, and event promotion efforts."
+        "title": "Credible results",
+        "description": "Proven campaigns that deliver value and drive growth."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "From media outreach to event promotion, we deliver tailored solutions for businesses.",
+    "description": "We specialize in PR, marketing communications, and event promotion for impactful results.",
     "cards": [
       {
         "icon": "📣",
-        "title": "Public Relations",
-        "description": "Enhance media coverage with targeted strategies for better visibility."
+        "title": "Public relations",
+        "description": "Elevate your reputation with consistent media outreach and coverage."
       },
       {
-        "icon": "📈",
-        "title": "Marketing Communication",
-        "description": "Engage audiences with campaigns that drive meaningful connections."
+        "icon": "💼",
+        "title": "Marketing communication",
+        "description": "Craft compelling campaigns to engage your target audience effectively."
       },
       {
         "icon": "🎉",
-        "title": "Event Promotion",
-        "description": "Host successful events with seamless planning and outreach support."
+        "title": "Event promotion",
+        "description": "Host impactful events with seamless planning and promotion."
       }
     ]
   },
   "story": {
     "eyebrow": "Our journey",
-    "title": "Friel: Shaping the future of PR",
+    "title": "Empowering brands with purpose",
     "paragraphs": [
-      "Friel specializes in public relations, marketing, and event promotion. We help brands in the construction and STEM sectors shine brightly.",
-      "With innovative strategies and automation, we streamline processes, ensuring efficiency and scalability for every project."
+      "Friel was founded to help organizations amplify their voices and connect with audiences. Our expertise spans PR, marketing, and events.",
+      "Through automation and creative strategies, we deliver tailored solutions that enhance efficiency and drive meaningful results."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
     "eyebrow": "What clients say",
-    "title": "Client stories",
+    "title": "Trusted by industry leaders",
     "list": [
       {
-        "quote": "Friel transformed our media presence, securing coverage we never imagined possible.",
-        "name": "John Smith",
-        "role": "Construction Firm Director",
+        "quote": "Friel transformed our media outreach, saving us time and boosting coverage significantly.",
+        "name": "John Turner",
+        "role": "Construction Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their event planning was flawless, making our launch a huge success.",
-        "name": "Jane Doe",
-        "role": "STEM Organization Manager",
+        "quote": "Their event promotion made our conference a huge success. Highly recommend!",
+        "name": "Sarah Jenkins",
+        "role": "STEM Educator",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit us",
-    "title": "Explore Suffolk and beyond",
-    "description": "Located in Suffolk, Friel connects local businesses with global opportunities.",
-    "address": "",
+    "title": "Based in Suffolk",
+    "description": "Friel connects local businesses and organizations to their audiences with impactful PR and marketing.",
+    "address": "Suffolk, UK",
     "website": "www.frielgood.com",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Contact us",
-    "title": "Let's start the conversation",
-    "description": "Reach out today to discuss your PR and marketing needs.",
-    "consent": "I agree to the terms and privacy policy."
+    "title": "Ready to amplify your brand?",
+    "description": "Get in touch for tailored PR, marketing, or event solutions today.",
+    "consent": "By contacting us, you consent to our privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automation for PR success",
-    "description": "Leverage AI to enhance efficiency and expand impact.",
+    "title": "Automation for efficiency",
+    "description": "Streamline your PR and marketing processes with advanced automation tools.",
     "bullets": [
-      "Automate media outreach and tracking for better results.",
-      "Streamline event registration and attendee management.",
-      "Boost social media presence with scheduling tools."
+      "Automated media outreach saves time and boosts coverage.",
+      "Simplify event registration and attendee follow-ups.",
+      "Email marketing automation nurtures leads effectively."
     ],
     "offer": "Mention Friel for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Friel delivers unforgettable experiences.",
-    "address": "",
+    "address": "Suffolk, UK",
     "email": "",
     "socials": [
       {
