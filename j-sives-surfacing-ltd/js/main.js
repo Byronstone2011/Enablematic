@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "J. Sives Surfacing",
-    "tagline": "Precision Surfacing Experts",
+    "tagline": "Precision in every layer",
     "category": "Civil Engineering",
-    "location": "Contact for detail",
-    "phone": "Contact for details"
+    "location": "UK",
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Expert surfacing solutions",
-    "title": "Streamlining surfacing projects.",
-    "description": "We deliver efficient, tailored surfacing services with seamless project management for public and commercial clients.",
+    "eyebrow": "Surfacing expertise",
+    "title": "Efficient solutions for roadways",
+    "description": "We streamline surfacing projects with expert design and delivery, saving time and costs for public and commercial clients.",
     "highlights": [
       {
-        "label": "Years of Experience",
-        "value": "20+"
-      },
-      {
-        "label": "Projects Delivered",
-        "value": "1,000+"
+        "label": "Projects Completed",
+        "value": "2,000+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
+      },
+      {
+        "label": "Years of Experience",
+        "value": "15+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Tailored Designs",
-        "description": "We create customized surfacing plans that meet each client's unique needs."
+        "title": "Expert Design",
+        "description": "Our tailored solutions ensure durable and cost-effective surfacing for every project."
       },
       {
-        "title": "Expert Project Delivery",
-        "description": "Our team ensures every project is completed on time and within budget."
+        "title": "Proven Delivery",
+        "description": "We complete projects on time with precision and unmatched attention to detail."
       },
       {
-        "title": "Proven Track Record",
-        "description": "20+ years of experience and 1,000+ successful projects speak for themselves."
+        "title": "Innovative Products",
+        "description": "We offer exclusive surfacing materials for superior performance and aesthetics."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Our services cover all civil engineering surfacing needs, from design to completion.",
+    "description": "We specialize in surfacing solutions for roads, car parks, footpaths, cycleways, and more.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Road Surfacing",
-        "description": "Durable road surfacing for public and private sectors."
+        "description": "Durable road surfacing tailored to public and commercial needs."
       },
       {
-        "icon": "🚶",
-        "title": "Footpath Surfacing",
-        "description": "Safe, attractive pathways tailored to your needs."
-      },
-      {
-        "icon": "🚴",
+        "icon": "🚲",
         "title": "Cycleway Surfacing",
-        "description": "Quality cycleways designed for comfort and safety."
+        "description": "Smooth, safe surfaces for cycleways and active travel routes."
+      },
+      {
+        "icon": "🅿",
+        "title": "Car Park Surfacing",
+        "description": "Reliable surfacing solutions for high-traffic car parks."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "Building Excellence, Every Step",
+    "eyebrow": "Our journey",
+    "title": "Built on quality and trust",
     "paragraphs": [
-      "J. Sives Surfacing Ltd has specialized in civil engineering and surfacing for over 20 years. Our commitment to quality has earned the trust of clients across sectors.",
-      "We combine innovative solutions with industry expertise to streamline projects, ensuring efficiency and satisfaction for every client."
+      "Since our founding, J. Sives Surfacing Ltd has delivered expert surfacing solutions to clients across industries. Our commitment to quality drives every project.",
+      "We combine precision design, innovative products, and efficient delivery to save our clients time and money, ensuring long-lasting results."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Trusted by Industry Leaders",
+    "eyebrow": "What clients say",
+    "title": "Trusted by industry leaders",
     "list": [
       {
-        "quote": "J. Sives made our car park project stress-free. Their team was professional and efficient.",
-        "name": "Anna Green",
-        "role": "Property Manager",
+        "quote": "J. Sives Surfacing transforms complex projects into seamless outcomes. Highly recommend!",
+        "name": "David Hughes",
+        "role": "Local Authority Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "The new cycleway is fantastic. They exceeded our expectations!",
-        "name": "Mark Peterson",
-        "role": "Local Authority Rep",
+        "quote": "Their attention to detail and innovative products are unmatched. Exceptional service!",
+        "name": "Sarah Green",
+        "role": "Private Estate Owner",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Let’s Connect",
-    "description": "Contact us for tailored solutions suited to your location and requirements.",
-    "address": "Contact for details",
-    "website": "Contact for details",
+    "eyebrow": "Visit us",
+    "title": "Explore our work",
+    "description": "See our projects in action, showcasing precise surfacing and design excellence.",
+    "address": "",
+    "website": "www.sivessurfacing.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get a Quote",
-    "title": "Start Your Project Today",
-    "description": "Reach out for a consultation or quote. Let’s bring your vision to life.",
-    "consent": "By submitting, you agree to our terms."
+    "eyebrow": "Get started",
+    "title": "Request a quote today",
+    "description": "Contact us for expert advice or a tailored quote for your next surfacing project.",
+    "consent": "I consent to receiving communication."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Smarter Surfacing Solutions",
-    "description": "Transform your processes with AI-powered tools that simplify workflows.",
+    "title": "Streamline your operations",
+    "description": "Automate and simplify your project workflows with AI-driven tools.",
     "bullets": [
-      "Instant quotes via online forms for faster lead capture.",
-      "Automated scheduling and follow-ups through a CRM system.",
-      "Efficient invoicing and workflow automation for scalability."
+      "Instant online quotes save time.",
+      "CRM automates follow-ups and invoicing.",
+      "Efficient scheduling reduces delays."
     ],
     "offer": "Mention J. Sives Surfacing for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "J. Sives Surfacing delivers unforgettable experiences.",
-    "address": "Contact for details",
+    "address": "",
     "email": "",
     "socials": [
       {
