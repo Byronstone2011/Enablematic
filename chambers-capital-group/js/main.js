@@ -1,23 +1,23 @@
 const appData = {
   "brand": {
     "name": "Chambers Capital",
-    "tagline": "Building a sustainable future",
-    "category": "Construction & Renewable Energy",
-    "location": "UK",
+    "tagline": "Building with integrity",
+    "category": "Construction & Development",
+    "location": "United Kingdom",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Engineering excellence",
-    "title": "Accountable construction solutions.",
-    "description": "We deliver reliable, efficient project results across construction, development, and renewable energy sectors.",
+    "eyebrow": "Innovative solutions, delivered",
+    "title": "Seamless project delivery, every time",
+    "description": "We simplify complex construction and development projects with expert coordination and proven results.",
     "highlights": [
       {
         "label": "Projects Delivered",
-        "value": "500+"
+        "value": "1,000+"
       },
       {
         "label": "Years of Experience",
-        "value": "25+"
+        "value": "20+"
       },
       {
         "label": "Client Satisfaction",
@@ -31,62 +31,62 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert engineers",
-        "description": "Our highly qualified team ensures precision and accountability in every project."
+        "title": "Expert Engineering",
+        "description": "Led by highly qualified engineers with a focus on accountability and results."
       },
       {
-        "title": "Proven results",
-        "description": "Over 500 successful projects showcase our commitment to client satisfaction."
+        "title": "Diverse Services",
+        "description": "From construction to renewable energy, we cover every development need."
       },
       {
-        "title": "Sustainable focus",
-        "description": "We prioritize renewable energy to build a greener tomorrow."
+        "title": "Proven Track Record",
+        "description": "Trusted by clients for delivering high-quality projects on time."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive services tailored to construction, engineering, and renewable energy needs.",
+    "description": "Comprehensive services tailored for investors, developers, and property owners.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Construction",
-        "description": "Delivering residential, industrial, and commercial builds with precision and care."
+        "description": "Expertly managed projects for residential, industrial, and commercial spaces."
       },
       {
-        "icon": "🏠",
-        "title": "Property Development",
-        "description": "Transforming spaces into thriving residential and commercial communities."
-      },
-      {
-        "icon": "🌍",
+        "icon": "🌱",
         "title": "Renewable Energy",
-        "description": "Implementing sustainable energy solutions for a greener future."
+        "description": "Sustainable energy solutions for future-ready developments."
+      },
+      {
+        "icon": "🏘",
+        "title": "Property Development",
+        "description": "Tailored solutions for building residential, industrial, and commercial properties."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "A legacy of trust and innovation",
+    "eyebrow": "Our Story",
+    "title": "Engineering trust through results",
     "paragraphs": [
-      "Chambers Capital Group was founded on the principles of integrity and accountability. Our skilled engineers lead projects with precision and results.",
-      "We partner with investors and developers to deliver sustainable construction and renewable energy solutions, ensuring excellence in every detail."
+      "Chambers Capital Group is a UK leader in construction, development, and renewable energy. Our team delivers accountability and results in every project.",
+      "With decades of expertise, we simplify complex projects for investors and developers. Our integrity and proven methods ensure success."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client feedback",
+    "eyebrow": "What Our Clients Say",
     "title": "Trusted by industry leaders",
     "list": [
       {
-        "quote": "Chambers Capital streamlined our complex project, delivering on time and beyond expectations.",
-        "name": "Sarah Jenkins",
+        "quote": "Chambers Capital turned our vision into reality. Their expertise ensured seamless project delivery.",
+        "name": "Sarah Mitchell",
         "role": "Property Developer",
-        "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their renewable energy expertise made our vision for sustainability possible.",
+        "quote": "Their team’s accountability and precision made them a trusted partner on our project.",
         "name": "James Carter",
         "role": "Investor",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
@@ -94,27 +94,27 @@ const appData = {
     ]
   },
   "visit": {
-    "eyebrow": "Find us",
-    "title": "Connecting with Chambers Capital",
-    "description": "Operating across the UK, we bring impactful solutions to your doorstep.",
-    "address": "Address unavailable",
-    "website": "chamberscapital.co.uk",
+    "eyebrow": "Visit Us",
+    "title": "Explore Our Expertise",
+    "description": "Connect with us to see how we can bring your project to life.",
+    "address": "United Kingdom",
+    "website": "www.chamberscapital.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Let's connect",
-    "title": "Start your project today",
-    "description": "Contact us for consultations or bookings and build a greener future together.",
-    "consent": "We respect your privacy."
+    "eyebrow": "Get in Touch",
+    "title": "Start Your Project Today",
+    "description": "Contact us for tailored solutions to meet your development needs.",
+    "consent": "We respect your privacy and data."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your processes",
-    "description": "Unlock efficiency with AI-driven solutions tailored to your projects.",
+    "title": "Smarter Project Management",
+    "description": "Revolutionize your processes with AI-driven automation tailored for construction and development.",
     "bullets": [
-      "Automate lead capture for investor inquiries.",
-      "Enhance project coordination with workflow automation.",
-      "Deliver real-time reporting to stakeholders with ease."
+      "Automated lead capture and nurturing for investors.",
+      "Streamlined workflows to reduce delays and improve coordination.",
+      "Client portal for real-time updates and reporting."
     ],
     "offer": "Mention Chambers Capital for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Chambers Capital delivers unforgettable experiences.",
-    "address": "Address unavailable",
+    "address": "United Kingdom",
     "email": "",
     "socials": [
       {
