@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Veritas Consulting",
-    "tagline": "Safety. Compliance. Assurance.",
+    "tagline": "Safety Made Simple",
     "category": "Health & Safety Consultancy",
-    "location": "Birmingham & Surro",
+    "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Industry-leading expertise",
-    "title": "Protect your business from risks today.",
-    "description": "We ensure compliance, reduce liabilities, and safeguard operations with tailored Health & Safety solutions.",
+    "eyebrow": "Trusted H&S Experts",
+    "title": "Protect your business, ensure compliance.",
+    "description": "We help businesses mitigate risks, avoid legal penalties, and create safe workplaces with tailored solutions.",
     "highlights": [
       {
         "label": "Years of Expertise",
         "value": "20+"
       },
       {
-        "label": "Businesses Supported",
+        "label": "Businesses Assisted",
         "value": "1,000+"
       },
       {
-        "label": "Compliance Success Rate",
-        "value": "98%"
+        "label": "Compliance Rate",
+        "value": "99.9%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
+        "title": "Expert Guidance",
+        "description": "Receive advice from certified health and safety professionals with decades of experience."
+      },
+      {
         "title": "Tailored Solutions",
-        "description": "Custom Health & Safety strategies designed for your business needs."
+        "description": "Customized policies and strategies designed to meet your business needs."
       },
       {
-        "title": "Proven Expertise",
-        "description": "20+ years of industry experience ensures reliable compliance advice."
-      },
-      {
-        "title": "Ongoing Support",
-        "description": "Continuous guidance to help you stay compliant and safe."
+        "title": "Proven Results",
+        "description": "Helping hundreds of businesses achieve compliance and risk reduction."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We provide expert health & safety support for businesses of all sizes.",
+    "description": "Comprehensive services to safeguard your business and ensure legal compliance.",
     "cards": [
       {
         "icon": "💼",
-        "title": "Consultancy Services",
-        "description": "Get expert advice on safety policies and compliance management."
+        "title": "H&S Consultancy",
+        "description": "Develop safety policies and provide expert advice for legal compliance."
       },
       {
         "icon": "🏗",
         "title": "CDM Advising",
-        "description": "Ensure construction projects meet CDM regulation standards."
+        "description": "Ensure construction projects meet Health & Safety regulations."
       },
       {
-        "icon": "🛡",
-        "title": "Risk Management",
-        "description": "Identify risks and implement measures to minimize liabilities."
+        "icon": "⚕️",
+        "title": "Risk Assessments",
+        "description": "Identify and manage risks to protect your people and assets."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Story",
-    "title": "A trusted name in safety services.",
+    "eyebrow": "Our Mission",
+    "title": "Safeguarding Businesses",
     "paragraphs": [
-      "Veritas Consulting helps businesses navigate complex safety regulations. We work to reduce risks and protect your assets and operations.",
-      "With tailored solutions and automation, we simplify compliance processes, ensuring confidence and peace of mind for our clients."
+      "Veritas Consulting was founded to address critical safety concerns in businesses, ensuring compliance and risk management.",
+      "Our proven methods and tailored advice empower businesses to operate confidently while protecting employees and assets."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
     "eyebrow": "What Clients Say",
-    "title": "Trusted by businesses everywhere.",
+    "title": "Real Results",
     "list": [
       {
-        "quote": "Veritas helped us implement a robust safety policy, saving time and avoiding fines.",
+        "quote": "Veritas helped us avoid costly penalties and ensured our team’s safety. Highly recommend!",
         "name": "Sarah Johnson",
-        "role": "Operations Manager",
+        "role": "Operations Director",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their CDM advice was invaluable for keeping our construction projects compliant.",
-        "name": "Mark Thompson",
-        "role": "Project Director",
+        "quote": "Their guidance on CDM compliance saved us time and money on our projects.",
+        "name": "Mark Stevens",
+        "role": "Construction Manager",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
     "eyebrow": "Find Us",
-    "title": "Serving Birmingham & Beyond",
-    "description": "We proudly support businesses in Birmingham and surrounding areas with expert safety guidance.",
+    "title": "Your Local Experts",
+    "description": "Serving Birmingham and surrounding areas with trusted advice and solutions.",
     "address": "",
-    "website": "",
+    "website": "www.veritas-consulting.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Book a Consultation Today",
-    "description": "Contact us now to discuss your Health & Safety needs and secure your business.",
-    "consent": "By submitting, you agree to our privacy policy."
+    "eyebrow": "Contact Us",
+    "title": "Ready to Get Started?",
+    "description": "Book a consultation today and protect your business with expert guidance.",
+    "consent": "Your privacy is our priority."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline Safety Compliance",
-    "description": "Automation ensures efficiency and reduces compliance risks.",
+    "title": "Better Compliance with AI",
+    "description": "Streamline processes and stay ahead with automation.",
     "bullets": [
-      "Automated document management saves time and prevents errors.",
-      "Incident tracking workflows ensure timely reporting and resolution.",
-      "Scheduled reminders keep audits and training on track."
+      "Automated policy management with audit trails.",
+      "Incident reporting workflows and reminders.",
+      "Scheduled training and compliance tracking tools."
     ],
     "offer": "Mention Veritas Consulting for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
