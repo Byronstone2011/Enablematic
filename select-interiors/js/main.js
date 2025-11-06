@@ -1,30 +1,30 @@
 const appData = {
   "brand": {
     "name": "Select Interiors",
-    "tagline": "Tailored spaces, seamless fit-outs",
+    "tagline": "Transforming workspaces",
     "category": "Commercial Interior Design",
     "location": "Manchester & North",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Expert interior solutions",
-    "title": "Minimize downtime with seamless fit-outs",
-    "description": "We design and deliver tailored commercial spaces with minimal disruption to your business operations.",
+    "eyebrow": "Tailored for businesses",
+    "title": "Effortless office fit-outs.",
+    "description": "We simplify workspace transformations, coordinating trades and minimizing downtime for seamless results.",
     "highlights": [
       {
-        "label": "Projects Completed",
-        "value": "1,000+"
-      },
-      {
-        "label": "Years in Industry",
-        "value": "20+"
+        "label": "Projects Delivered",
+        "value": "1,500+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
+      },
+      {
+        "label": "Years of Service",
+        "value": "20+"
       }
     ],
-    "image": "https://images.pexels.com/photos/27758874/pexels-photo-27758874.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
@@ -32,89 +32,89 @@ const appData = {
     "items": [
       {
         "title": "Custom Solutions",
-        "description": "We tailor every design to fit your unique needs and branding goals."
+        "description": "Tailored designs for offices, retail, and hospitality spaces."
       },
       {
-        "title": "Efficient Execution",
-        "description": "Our team ensures projects are completed on time and with precision."
+        "title": "Seamless Execution",
+        "description": "Expert coordination to minimize disruption and downtime."
       },
       {
-        "title": "Expert Coordination",
-        "description": "We manage all technical and trade requirements for smooth results."
+        "title": "Trusted Expertise",
+        "description": "Over 20 years of experience delivering exceptional spaces."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We transform commercial spaces into inspiring environments.",
+    "description": "Comprehensive services for workspace transformations.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Office Fit-Outs",
-        "description": "Complete office transformations designed for productivity and style."
+        "description": "From concept to completion, we deliver functional, inspiring offices."
       },
       {
-        "icon": "📐",
-        "title": "Space Planning",
-        "description": "Strategic layouts optimizing space and functionality."
+        "icon": "💼",
+        "title": "Interior Design",
+        "description": "Creative designs that reflect your brand and optimize space."
       },
       {
-        "icon": "🪑",
-        "title": "Furniture Solutions",
-        "description": "Supply and installation of furniture tailored to your needs."
+        "icon": "🛠",
+        "title": "Furniture Install",
+        "description": "High-quality furniture supply and installation for every need."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "Creating inspiring spaces for businesses",
+    "eyebrow": "Our journey",
+    "title": "Built on passion and expertise",
     "paragraphs": [
-      "Founded to revolutionize commercial interiors, we deliver bespoke designs across Manchester and the North West. Each project reflects your unique identity.",
-      "Our streamlined processes minimize downtime and disruption, ensuring your space transforms smoothly and efficiently to meet your business goals."
+      "For over 20 years, Select Interiors has transformed commercial spaces across Manchester and the North West. We specialize in tailored designs and seamless fit-outs.",
+      "Our commitment to reducing downtime and coordinating trades ensures hassle-free projects. We simplify the process and deliver exceptional results."
     ],
-    "image": "https://images.pexels.com/photos/6566810/pexels-photo-6566810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client Feedback",
-    "title": "What our clients say",
+    "eyebrow": "Client feedback",
+    "title": "What our customers say",
     "list": [
       {
-        "quote": "Select Interiors transformed our office with zero disruption. Their expertise is unmatched!",
-        "name": "Sarah Thompson",
-        "role": "Operations Manager",
-        "avatar": "https://images.pexels.com/photos/8382591/pexels-photo-8382591.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        "quote": "Select Interiors streamlined our office upgrade with zero disruption. The results are stunning!",
+        "name": "Emma Taylor",
+        "role": "Office Manager",
+        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "The team handled every detail, delivering a stunning retail space ahead of schedule.",
+        "quote": "Their attention to detail and coordination made our retail fit-out flawless.",
         "name": "James Carter",
         "role": "Store Owner",
-        "avatar": "https://images.unsplash.com/photo-1758630737361-ca7532fb5e7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb21tZXJjaWFsJTIwaW50ZXJpb3IlMjBkZXNpZ24lMjAlMkYlMjBPZmZpY2UlMjBmaXQtb3V0JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0MzQyMDB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+        "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Based in Manchester",
-    "description": "Located in the heart of Manchester, we serve businesses across the North West.",
+    "eyebrow": "Visit us",
+    "title": "Explore our services",
+    "description": "Serving Manchester and the North West, we’re here to transform your workspace.",
     "address": "Manchester, UK",
     "website": "www.select-interiors.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Book your consultation today",
-    "description": "Contact us to discuss your project and start transforming your space.",
-    "consent": "We respect your privacy and never share your details."
+    "eyebrow": "Get in touch",
+    "title": "Start your project today",
+    "description": "Contact us for a consultation or quote. Let us bring your vision to life.",
+    "consent": "We value your privacy. Your information is safe with us."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your projects with AI",
-    "description": "Automation tools simplify project management and improve efficiency.",
+    "title": "Streamline your projects",
+    "description": "AI automation improves efficiency in design and fit-out processes.",
     "bullets": [
-      "Quick online quote generation to save time.",
-      "Client portal for tracking schedules, updates, and approvals.",
-      "Automated CRM integration for seamless follow-up."
+      "Automated quotes save time and boost conversions.",
+      "Client portals simplify approvals and updates.",
+      "Integrated scheduling reduces manual coordination."
     ],
     "offer": "Mention Select Interiors for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
