@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Caxton Group",
-    "tagline": "Building excellence daily",
+    "tagline": "Building excellence together",
     "category": "Construction",
     "location": "",
     "phone": ""
   },
   "hero": {
     "eyebrow": "Trusted construction experts",
-    "title": "Delivering quality on time, every time.",
-    "description": "Caxton Group specializes in building, joinery, and façades, ensuring projects are completed on schedule and within budget.",
+    "title": "On-time delivery, every project.",
+    "description": "Caxton Group ensures timely, compliant, and budget-friendly construction solutions tailored to your needs.",
     "highlights": [
       {
-        "label": "Years in Construction",
-        "value": "15+"
-      },
-      {
         "label": "Projects Completed",
-        "value": "2,000+"
+        "value": "1,200+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
+      },
+      {
+        "label": "Years Experience",
+        "value": "15+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Dedicated teams",
-        "description": "Expert teams in builders, joinery, and façades ensure project excellence."
+        "title": "Expert Craftsmanship",
+        "description": "Dedicated teams deliver high-quality building, joinery, and façade solutions."
       },
       {
-        "title": "Proven experience",
-        "description": "Over 15 years delivering successful construction projects across the UK."
+        "title": "Proven Reliability",
+        "description": "We excel in meeting deadlines while maintaining safety and compliance."
       },
       {
-        "title": "Quality craftsmanship",
-        "description": "Precision and skill define our approach to building and joinery services."
+        "title": "Comprehensive Services",
+        "description": "From design to installation, we cover all aspects of construction needs."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Our services span builders, joinery, façades, and training. We cater to main contractors and apprentices alike.",
+    "description": "Our services span builders, joinery, and façades, meeting diverse client needs.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Construction Services",
-        "description": "Comprehensive building solutions for main contractors and bespoke projects."
-      },
-      {
-        "icon": "🪚",
-        "title": "Specialist Joinery",
-        "description": "Custom joinery and installations tailored to your project needs."
+        "title": "Builders & Contracting",
+        "description": "Experienced professionals for general contracting, ensuring quality builds."
       },
       {
         "icon": "🛠",
+        "title": "Joinery Services",
+        "description": "Custom joinery and seamless site installations for every project."
+      },
+      {
+        "icon": "🏢",
         "title": "Façades Installation",
-        "description": "Innovative designs and expert installation for modern building exteriors."
+        "description": "Innovative façade designs and precise installations tailored to demands."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Story",
-    "title": "Crafting excellence since day one.",
+    "eyebrow": "Our journey",
+    "title": "Built on expertise and trust",
     "paragraphs": [
-      "Caxton Group unites three businesses: Builders, Joinery, and Façades. Each team brings unmatched expertise to every project we take on.",
-      "With over 15 years of experience, we deliver quality, compliance, and skilled training, making us a reliable partner in construction."
+      "Caxton Group unites builders, joinery, and façades experts to provide unmatched construction services. Each division brings specialized skills to every project.",
+      "Our commitment to quality and automation ensures projects are delivered efficiently, safely, and on budget, making us the trusted choice in UK construction."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Trusted by industry leaders.",
+    "eyebrow": "What clients say",
+    "title": "Real results, happy clients",
     "list": [
       {
-        "quote": "Caxton Group delivered our project on time, within budget, and exceeded expectations.",
-        "name": "John Smith",
-        "role": "Project Manager, ABC Construction",
+        "quote": "Caxton delivered our project ahead of schedule and within budget, exceeding expectations.",
+        "name": "John Matthews",
+        "role": "Project Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their skilled teams and quality craftsmanship transformed our vision into reality.",
-        "name": "Sarah Johnson",
-        "role": "Operations Director, XYZ Developments",
+        "quote": "Their compliance and safety standards are impeccable, making them a reliable partner.",
+        "name": "Sarah Jones",
+        "role": "Main Contractor",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Explore our expertise firsthand.",
-    "description": "Connect with us to see how we bring innovative construction solutions to life.",
+    "eyebrow": "Our location",
+    "title": "Visit us today",
+    "description": "Reach out for consultations or explore our facilities to learn more about our services.",
     "address": "",
     "website": "www.caxton-group.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Let’s build something great.",
-    "description": "Contact us today to discuss your next project or apprenticeship opportunities.",
-    "consent": "By submitting, you agree to our privacy policy."
+    "eyebrow": "Get in touch",
+    "title": "Request a quote",
+    "description": "Contact us for project consultations or to learn more about our services.",
+    "consent": "We respect your privacy and ensure data protection."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline construction with AI.",
-    "description": "Transform your processes with automation tailored for construction.",
+    "title": "Streamline with AI",
+    "description": "Automation transforms construction management at Caxton Group.",
     "bullets": [
-      "CRM systems simplify client and contractor management.",
-      "Automated project tracking ensures on-time delivery.",
-      "Ensure compliance with automated accreditation tools."
+      "Track compliance and H&S records effortlessly.",
+      "Automate scheduling and progress tracking for projects.",
+      "Streamline apprentice recruiting and onboarding processes."
     ],
     "offer": "Mention Caxton Group for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
