@@ -7,17 +7,17 @@ const appData = {
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Effortless office fit-outs",
-    "title": "Transform workspaces with ease.",
-    "description": "We design, build, and deliver inspiring office environments across London and the South East. Let us make your workspace happier and more productive.",
+    "eyebrow": "Expert office fit-outs",
+    "title": "Transforming workspaces effortlessly",
+    "description": "We design, build, and deliver inspiring office environments tailored to your needs across London, Kent, Surrey, and Sussex.",
     "highlights": [
-      {
-        "label": "Years of Expertise",
-        "value": "15+"
-      },
       {
         "label": "Projects Completed",
         "value": "500+"
+      },
+      {
+        "label": "Years of Experience",
+        "value": "20+"
       },
       {
         "label": "Client Satisfaction",
@@ -32,89 +32,89 @@ const appData = {
     "items": [
       {
         "title": "Tailored Solutions",
-        "description": "We create customized fit-outs to meet your unique business needs."
+        "description": "We create bespoke workspaces that suit your business needs perfectly."
       },
       {
-        "title": "Proven Expertise",
-        "description": "Over 500 successful projects delivered across the South East."
+        "title": "Expert Craftsmanship",
+        "description": "Our team delivers high-quality fit-outs with precision and care."
       },
       {
         "title": "Seamless Delivery",
-        "description": "Our team ensures every project is completed on time and on budget."
+        "description": "We manage every detail to ensure projects are completed on time."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Our services cover every aspect of office refurbishment and fit-outs.",
+    "description": "From space planning to complete refurbishments, we offer comprehensive services.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Office Refurbishment",
-        "description": "We refresh workspaces to align with your brand and improve functionality."
-      },
-      {
-        "icon": "🛠",
-        "title": "Design & Build",
-        "description": "From concept to completion, we handle every detail for you."
+        "description": "Upgrade your workspace with our expert refurbishment services."
       },
       {
         "icon": "📐",
         "title": "Space Planning",
-        "description": "Optimize your office layout to maximize space and productivity."
+        "description": "Optimize your office layout for functionality and style."
+      },
+      {
+        "icon": "🛠",
+        "title": "Design & Build",
+        "description": "From concept to completion, we handle every aspect of your project."
       }
     ]
   },
   "story": {
     "eyebrow": "Our journey",
-    "title": "Creating better workplaces since day one.",
+    "title": "Building workspaces that inspire",
     "paragraphs": [
-      "CCM Interiors Limited specializes in transforming commercial spaces across London, Kent, Surrey, and Sussex. Our team delivers happy, productive environments tailored to your needs.",
-      "With a proven track record of over 500 projects, we are your trusted partner for seamless office fit-outs. Let us simplify your workspace transformation."
+      "CCM Interiors Limited specializes in office fit-outs across London, Kent, Surrey, and Sussex. We design and deliver environments where teams thrive.",
+      "With a focus on tailored solutions and seamless delivery, we pride ourselves on creating functional, inspiring workspaces for our clients."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "See how we make a difference.",
+    "eyebrow": "Client feedback",
+    "title": "Trusted by businesses",
     "list": [
       {
-        "quote": "CCM Interiors made our office fit-out stress-free and delivered on time. Highly recommend!",
-        "name": "Sarah Johnson",
+        "quote": "CCM transformed our office into a vibrant, functional space. Their expertise is unmatched!",
+        "name": "Sarah Taylor",
         "role": "Facilities Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "The team was professional and turned our vision into reality. Great results!",
-        "name": "Mark Edwards",
-        "role": "Operations Director",
+        "quote": "The CCM team delivered on time and exceeded expectations. Highly recommend them!",
+        "name": "James Wood",
+        "role": "Architect",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit us",
-    "title": "Find your ideal workspace solutions.",
-    "description": "Based in the South East, we proudly serve businesses across London, Kent, Surrey, and Sussex.",
+    "title": "Conveniently located",
+    "description": "Serving London, Kent, Surrey, and Sussex, we’re here to transform your workspace.",
     "address": "",
-    "website": "www.ccminteriors.co.uk",
+    "website": "ccminteriors.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Start your project today.",
-    "description": "Email us at gary@ccminteriors.co.uk to discuss your office fit-out needs.",
-    "consent": "We value your privacy. By contacting us, you consent to email follow-ups."
+    "eyebrow": "Get started",
+    "title": "Contact us today",
+    "description": "Reach out for a consultation and let’s create your ideal workspace.",
+    "consent": "We respect your privacy and never share your information."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your office projects.",
-    "description": "Automation enhances efficiency and saves time for your fit-outs.",
+    "title": "Streamline your projects",
+    "description": "Leverage automation to simplify project management and enhance efficiency.",
     "bullets": [
-      "Instant quote forms simplify inquiries.",
-      "Automated scheduling ensures seamless progress.",
-      "CRM tools nurture leads and track success."
+      "Automated enquiry forms for quick lead capture.",
+      "CRM systems for seamless client follow-ups.",
+      "Project platforms to automate scheduling and updates."
     ],
     "offer": "Mention CCM Interiors for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
