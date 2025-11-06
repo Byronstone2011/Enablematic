@@ -1,26 +1,26 @@
 const appData = {
   "brand": {
     "name": "Arcway Construction",
-    "tagline": "Reinforcing the South East",
-    "category": "Construction",
-    "location": "South East, Englan",
+    "tagline": "Steel Reinforcement Experts",
+    "category": "Construction Services",
+    "location": "South East England",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Steel Reinforcement Experts",
-    "title": "Reliable solutions to prevent delays.",
-    "description": "We deliver efficient steel reinforcement services that streamline coordination, ensure safety compliance, and keep your projects on track.",
+    "eyebrow": "Reliable steel solutions",
+    "title": "Streamlining reinforcement projects.",
+    "description": "We deliver steel fixing expertise and efficient project management, reducing delays and ensuring compliance for contractors across the South East.",
     "highlights": [
       {
-        "label": "Projects Completed",
-        "value": "150+"
+        "label": "Projects Delivered",
+        "value": "1,000+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
       },
       {
-        "label": "Years of Experience",
+        "label": "Years Experience",
         "value": "10+"
       }
     ],
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Precision Craftsmanship",
-        "description": "Expert steel fixing ensures durable and reliable concrete structures every time."
+        "title": "Industry Expertise",
+        "description": "Specialists in steel reinforcement, ensuring structural integrity for concrete projects."
       },
       {
         "title": "Proven Track Record",
-        "description": "Over 150 successfully completed projects across the South East of England."
+        "description": "Over 1,000 successful projects delivered with precision and reliability."
       },
       {
-        "title": "Compliance Guaranteed",
-        "description": "Strict adherence to safety and regulation requirements for every job."
+        "title": "Safety Compliance",
+        "description": "Strict adherence to safety standards with documented certifications ready on site."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Specialized steel reinforcement services tailored for construction projects in the South East.",
+    "description": "Arcway Construction Ltd provides expert steel reinforcement services tailored for contractors in the South East.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Steel Fixing",
-        "description": "Professional rebar installation for durable concrete structures."
+        "description": "Precise installation of rebar for durable concrete structures."
       },
       {
-        "icon": "🏢",
+        "icon": "🛠",
         "title": "Reinforcement Install",
-        "description": "Quality reinforcement solutions for complex concrete builds."
+        "description": "Expert installation for concrete reinforcement to meet project demands."
       },
       {
         "icon": "👷",
         "title": "Site Labour Supply",
-        "description": "Skilled workforce and project delivery services for contractors."
+        "description": "Reliable workforce solutions to keep projects on schedule."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our History",
-    "title": "Built on strength and reliability.",
+    "eyebrow": "Our story",
+    "title": "Building strength, one project at a time.",
     "paragraphs": [
-      "Arcway Construction Ltd specializes in steel reinforcement solutions, proudly serving the South East for over a decade. We deliver precision and durability.",
-      "Main contractors trust us for seamless coordination, safety management, and on-time delivery. We ensure every project runs efficiently from start to finish."
+      "Arcway Construction Ltd specializes in steel reinforcement solutions across the South East. Our team ensures precision and safety for concrete projects.",
+      "We focus on solving contractor challenges, from scheduling to compliance. Our tailored services streamline workflows and deliver exceptional results."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client Feedback",
-    "title": "What contractors say.",
+    "eyebrow": "What clients say",
+    "title": "Trusted by contractors and developers.",
     "list": [
       {
-        "quote": "Arcway's attention to detail and compliance gave us peace of mind. Projects finished on time and on budget.",
-        "name": "John Stevens",
+        "quote": "Arcway's team streamlined our project, ensuring compliance and timely delivery. Highly recommend them!",
+        "name": "John Taylor",
         "role": "Main Contractor",
-        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
+        "avatar": "https://images.pexels.com/photos/6154601/pexels-photo-6154601.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their skilled workforce saved us time and ensured quality standards were met. Highly recommend!",
-        "name": "Sarah Chapman",
+        "quote": "Their precision in steel fixing saved us time and ensured structural integrity. Excellent service!",
+        "name": "Sarah Mitchell",
         "role": "Developer",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Where We Operate",
-    "title": "Serving the South East",
-    "description": "Based in the South East, we specialize in delivering reinforcement services for key construction projects across the region.",
-    "address": "",
-    "website": "www.arcwayconstruction.co.uk",
+    "eyebrow": "Visit us",
+    "title": "South East England Projects",
+    "description": "Our projects span the South East, delivering reinforcement solutions where they're needed most.",
+    "address": "South East England",
+    "website": "arcwayconstruction.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started Today",
-    "title": "Request a Quote",
-    "description": "Contact us for reliable steel reinforcement services tailored to your needs.",
-    "consent": "By submitting, you agree to our terms."
+    "eyebrow": "Contact us",
+    "title": "Get a quote today.",
+    "description": "Reach out to discuss your project needs. We’re ready to reinforce your success.",
+    "consent": "I agree to be contacted by Arcway Construction Ltd."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Boost Efficiency with Automation",
-    "description": "Streamline your operations with AI-powered tools tailored to construction needs.",
+    "title": "Enhance your operations with AI.",
+    "description": "Automation transforms construction workflows for better efficiency and compliance.",
     "bullets": [
       "Online quoting simplifies lead capture and proposals.",
-      "Digital scheduling reduces project delays and optimizes resources.",
-      "Cloud storage ensures easy access to compliance documents."
+      "Digital scheduling reduces project delays and coordination errors.",
+      "Cloud storage keeps safety certificates accessible on site."
     ],
     "offer": "Mention Arcway Construction for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Arcway Construction delivers unforgettable experiences.",
-    "address": "",
+    "address": "South East England",
     "email": "",
     "socials": [
       {
