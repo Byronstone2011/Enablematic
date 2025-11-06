@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "IndiNature",
-    "tagline": "Innovating insulation naturally",
+    "tagline": "Insulate naturally, live sustainably",
     "category": "Construction Materials",
-    "location": "",
+    "location": "Unknown",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Sustainable solutions",
-    "title": "Eco-friendly insulation for your health and planet",
-    "description": "IndiNature creates bio-based insulation that reduces bills, protects health, and supports eco-conscious living. Perfect for modern construction needs.",
+    "eyebrow": "Sustainable innovation",
+    "title": "Eco-friendly insulation for healthier buildings",
+    "description": "Our natural fibre insulation reduces energy costs, enhances health, and supports sustainable construction practices.",
     "highlights": [
       {
         "label": "Energy Savings",
-        "value": "30%+"
+        "value": "30%"
       },
       {
-        "label": "Carbon Reduction",
-        "value": "90%"
+        "label": "Renewable Materials",
+        "value": "95%"
       },
       {
-        "label": "Insulation Projects",
-        "value": "1,000+"
+        "label": "Market Growth",
+        "value": "15%+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Eco-Friendly Innovation",
-        "description": "Our materials combine local crops and advanced biotech to ensure sustainability at every step."
+        "title": "Eco-friendly Materials",
+        "description": "We use hemp and biotech innovations to create sustainable insulation solutions."
       },
       {
-        "title": "Health-Conscious Design",
-        "description": "IndiNature products are safe for you and your family, free from harmful chemicals."
+        "title": "Cost Efficiency",
+        "description": "Our products lower energy bills and reduce long-term costs for homeowners and builders."
       },
       {
-        "title": "Energy Efficiency",
-        "description": "Save on heating and cooling with insulation designed to minimize energy use."
+        "title": "Health Benefits",
+        "description": "Improve indoor air quality with natural, non-toxic insulation materials."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "IndiNature provides cutting-edge bio-based insulation solutions for sustainable construction.",
+    "description": "Explore our innovative products designed for eco-conscious construction and retrofits.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Hemp Fibre Insulation",
-        "description": "IndiTherm, IndiBreathe, and IndiSilence offer premium insulation for eco-conscious projects."
+        "title": "IndiTherm & IndiBreathe",
+        "description": "High-performance hemp fibre insulation for energy savings and comfort."
       },
       {
         "icon": "🛠",
-        "title": "Insulation Boards",
-        "description": "Made from whole hemp stalks, our boards provide durable and sustainable solutions."
+        "title": "Hemp Insulation Boards",
+        "description": "Whole hemp stalk boards designed for efficient, sustainable building."
       },
       {
-        "icon": "💼",
-        "title": "Project Support",
-        "description": "We assist with product specs, certifications, and supply for construction or retrofits."
+        "icon": "📋",
+        "title": "Specification Support",
+        "description": "Expert guidance on certifications and supply for your projects."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Building better, naturally",
+    "eyebrow": "Our Mission",
+    "title": "Building a sustainable future",
     "paragraphs": [
-      "IndiNature crafts innovative insulation using natural fibers and biotech materials. Our mission is to protect the planet, your health, and your budget.",
-      "With growing demand for sustainable solutions, we empower architects, contractors, and homeowners to build responsibly and efficiently."
+      "IndiNature crafts natural insulation from hemp and biotech materials, ensuring eco-friendly and energy-efficient construction solutions.",
+      "We empower architects and contractors with innovative products, reducing environmental impact while improving building performance."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Customer feedback",
-    "title": "Hear from our clients",
+    "eyebrow": "What Clients Say",
+    "title": "Trusted by industry leaders",
     "list": [
       {
-        "quote": "IndiNature insulation helped us cut energy costs while staying eco-friendly. Highly recommend their products!",
-        "name": "Anna Stevens",
-        "role": "Homeowner",
+        "quote": "IndiNature’s products transformed our project with sustainable, high-quality insulation. Highly recommend!",
+        "name": "Sarah Thompson",
+        "role": "Architect",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their hemp boards were a game-changer for our retrofit project. Great quality and sustainable.",
-        "name": "James Carter",
+        "quote": "Their hemp boards are a game-changer for eco-conscious retrofits. Great support too!",
+        "name": "James Riley",
         "role": "Contractor",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find us",
-    "title": "Connect with IndiNature",
-    "description": "Whether you're planning a project or seeking sustainable materials, we're here to help.",
+    "eyebrow": "Find Us",
+    "title": "Innovating from our base",
+    "description": "Our products are designed to revolutionize construction wherever you are. Contact us to learn more.",
     "address": "",
     "website": "www.indinature.co",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started",
-    "title": "Request a quote today",
-    "description": "Reach out to discuss your project needs or learn more about our products.",
-    "consent": "We respect your privacy. No spam."
+    "eyebrow": "Contact Us",
+    "title": "Ready to transform your project?",
+    "description": "Reach out to learn more about our insulation solutions or request a quote.",
+    "consent": "By submitting, you agree to receive updates."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline with automation",
-    "description": "Boost efficiency and customer satisfaction with tailored automation solutions.",
+    "title": "AI for Sustainable Growth",
+    "description": "Leverage automation to scale your operations and simplify processes.",
     "bullets": [
-      "Enable B2B portals for easy ordering and quotes.",
-      "Automate CRM to nurture leads and manage installers.",
-      "Use demand forecasting for inventory optimization."
+      "Streamline B2B quotes with an online portal.",
+      "Automate lead management with CRM tools.",
+      "Optimize supply chains using AI forecasting."
     ],
     "offer": "Mention IndiNature for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
