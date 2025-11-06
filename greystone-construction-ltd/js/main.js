@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Greystone Construct",
-    "tagline": "Concrete excellence delivered",
-    "category": "Reinforced Concrete & Building",
+    "tagline": "Built to last, delivered on time",
+    "category": "Infrastructure & Construction",
     "location": "United Kingdom",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted infrastructure experts",
-    "title": "Timely concrete solutions built to last",
-    "description": "We specialize in reinforced concrete and civil construction, delivering projects on time with unmatched quality and precision.",
+    "eyebrow": "Specialists in concrete",
+    "title": "Reinforced construction, delivered fast",
+    "description": "We excel in concrete construction and timely project delivery for UK property developers and contractors.",
     "highlights": [
       {
-        "label": "Projects Delivered",
-        "value": "250+"
-      },
-      {
-        "label": "Years of Expertise",
-        "value": "20+"
+        "label": "Projects Completed",
+        "value": "500+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
+      },
+      {
+        "label": "Years of Expertise",
+        "value": "20+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Proven Expertise",
-        "description": "Decades of experience ensure flawless concrete solutions for every project."
+        "title": "Industry Expertise",
+        "description": "Decades of specialized experience in reinforced concrete construction."
       },
       {
         "title": "Timely Delivery",
-        "description": "We complete projects on time without compromising on quality."
+        "description": "Proven track record of meeting deadlines without compromising quality."
       },
       {
-        "title": "Certified Excellence",
-        "description": "Accreditations and skilled teams provide trust and reliability."
+        "title": "Trusted Partners",
+        "description": "Collaborations with leading UK contractors and developers ensure quality."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We offer specialist services for reinforced concrete and civil construction projects.",
+    "description": "We provide tailored solutions for reinforced concrete and civil construction projects.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Concrete Structures",
-        "description": "We design and build reinforced concrete structures with precision and durability."
+        "title": "Reinforced Concrete",
+        "description": "Specialist in reinforced concrete structures for durable infrastructure."
       },
       {
         "icon": "🔧",
-        "title": "Formwork Services",
-        "description": "Our formwork systems create safe and efficient frameworks for construction projects."
+        "title": "Formwork",
+        "description": "High-quality formwork solutions customized to project requirements."
       },
       {
-        "icon": "🔩",
+        "icon": "🛠",
         "title": "Re-bar Installation",
-        "description": "We provide expert re-bar installation to reinforce structures securely."
+        "description": "Precision re-bar installation ensuring structural integrity and strength."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey to excell",
-    "title": "Building a legacy in construction",
+    "eyebrow": "Our dedication, your",
+    "title": "Building the future, one project at a time",
     "paragraphs": [
-      "Greystone Construction is a leader in reinforced concrete, delivering high-quality projects with precision and reliability across the UK.",
-      "Our focus on modernization and automation ensures we meet client needs efficiently while maintaining top-tier industry standards."
+      "Greystone Construction has become a leader in UK infrastructure, specializing in reinforced concrete and civil construction.",
+      "With a commitment to quality and innovation, we deliver reliable solutions tailored to client needs and industry standards."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client feedback matter",
-    "title": "What our clients say",
+    "eyebrow": "Client reviews",
+    "title": "What our partners say",
     "list": [
       {
-        "quote": "Greystone's timely delivery and skilled team made our project seamless. Highly recommend!",
-        "name": "John Davis",
+        "quote": "Greystone delivered our project on time with exceptional quality. Highly recommend them.",
+        "name": "John Peterson",
         "role": "Property Developer",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their expertise in concrete structures exceeded expectations. A trusted partner for years!",
-        "name": "Emily Carter",
+        "quote": "Their expertise in reinforced concrete is unmatched. Always professional and reliable.",
+        "name": "Sarah Thompson",
         "role": "Civil Engineer",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Where we build",
-    "title": "Operating across the UK",
-    "description": "We serve property developers and contractors nationwide, delivering durable structures and expert services.",
-    "address": "United Kingdom",
-    "website": "www.greystoneconstructionltd.co.u",
+    "eyebrow": "Where we operate",
+    "title": "Serving across the UK",
+    "description": "We proudly serve UK developers and contractors with top-notch concrete solutions.",
+    "address": "",
+    "website": "https://greystoneconstructionltd.",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch today",
-    "title": "Request a quote or consultation",
-    "description": "Contact us for expert concrete solutions tailored to your needs.",
-    "consent": "We respect your privacy and never share your data."
+    "eyebrow": "Get in touch",
+    "title": "Let’s build together",
+    "description": "Contact us today for project consultations or quotes. We're ready to assist.",
+    "consent": "Your privacy is important to us."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your projects",
-    "description": "Modernize your construction workflow with advanced automation tools.",
+    "title": "Simplify your construction projects",
+    "description": "Leverage AI-driven tools for seamless project management and client engagement.",
     "bullets": [
-      "Capture leads online with integrated CRM forms.",
-      "Automate quoting for concrete and formwork projects.",
-      "Showcase portfolios with analytics for better visibility."
+      "Automated project quoting tool for accurate estimates.",
+      "Integrated CRM to manage leads and client communications.",
+      "Dynamic portfolio showcasing projects with analytics insights."
     ],
     "offer": "Mention Greystone Construct for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Greystone Construct delivers unforgettable experiences.",
-    "address": "United Kingdom",
+    "address": "",
     "email": "",
     "socials": [
       {
