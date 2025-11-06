@@ -1,23 +1,23 @@
 const appData = {
   "brand": {
     "name": "DVC Roofing",
-    "tagline": "Roofing Excellence Nationwide",
+    "tagline": "Roofing solutions nationwide",
     "category": "Commercial Roofing",
     "location": "Newcastle & Manche",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Nationwide Service Experts",
-    "title": "Reliable roofing solutions for businesses.",
-    "description": "We prevent leaks, maintain compliance, and offer fast repairs to protect your commercial assets nationwide.",
+    "eyebrow": "Nationwide roofing experts",
+    "title": "Reliable roofing to protect your business",
+    "description": "We prevent leaks, maintain compliance, and offer emergency repairs, keeping your operations running smoothly.",
     "highlights": [
       {
-        "label": "Years of Expertise",
-        "value": "15+"
+        "label": "Projects Completed",
+        "value": "1,200+"
       },
       {
-        "label": "Projects Completed",
-        "value": "2,500+"
+        "label": "Years of Experience",
+        "value": "20+"
       },
       {
         "label": "Client Satisfaction",
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Certified Specialists",
-        "description": "Our team holds top certifications for roofing and compliance standards."
+        "title": "Proven Expertise",
+        "description": "Decades of experience ensure quality roofing tailored to your needs."
       },
       {
-        "title": "Proven Results",
-        "description": "Over 2,500 successful projects showcase our superior craftsmanship."
+        "title": "Nationwide Service",
+        "description": "We provide comprehensive coverage across the UK for all commercial needs."
       },
       {
-        "title": "Nationwide Reach",
-        "description": "We serve businesses across the UK with tailored roofing solutions."
+        "title": "Trusted Solutions",
+        "description": "Accredited professionals delivering reliable and compliant roofing systems."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Specialized services for commercial roofs, designed for peak performance.",
+    "description": "Comprehensive roofing services designed for commercial and industrial properties.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Flat Roofing",
-        "description": "Expert installations in felt, liquid, and single-ply systems for flat roofs."
+        "description": "Felt, liquid, and single-ply systems for durable, leak-proof performance."
       },
       {
         "icon": "☀️",
         "title": "Solar PV Systems",
-        "description": "Energy-efficient solar panel systems for commercial and industrial roofs."
+        "description": "Energy-efficient solar installations for commercial flat roofs."
       },
       {
         "icon": "🔧",
-        "title": "Repairs & Maintenance",
-        "description": "Emergency repairs and scheduled maintenance to extend roof lifespans."
+        "title": "Roof Repairs",
+        "description": "Emergency repairs and planned maintenance to protect your assets."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "Building Trust Through Roofing Expertise",
+    "eyebrow": "Our journey",
+    "title": "Built on trust and expertise",
     "paragraphs": [
-      "Founded with a passion for quality, DVC Roofing serves Newcastle, Manchester, and beyond with top-tier roofing services tailored for businesses.",
-      "Our commitment to innovation ensures efficient processes and superior results. We're trusted by thousands for reliable, compliant roofing solutions."
+      "Founded in Newcastle and Manchester, DVC Roofing delivers top-notch roofing nationwide. We specialize in commercial solutions tailored to your needs.",
+      "Our team combines expertise and cutting-edge technology to ensure seamless project execution, enhancing performance and client satisfaction."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Customer Feedback",
-    "title": "What Our Clients Say",
+    "eyebrow": "What clients say",
+    "title": "Trusted by businesses nationwide",
     "list": [
       {
-        "quote": "DVC quickly repaired our leaking roof, saving us downtime. Exceptional service!",
-        "name": "John Carter",
+        "quote": "DVC Roofing saved us during an emergency. Their fast response and expertise were unmatched.",
+        "name": "John Walker",
         "role": "Facilities Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their scheduled maintenance keeps our roofs compliant and stress-free.",
-        "name": "Sarah Peterson",
+        "quote": "Their maintenance plans gave us peace of mind. No more unexpected repairs!",
+        "name": "Sarah Thompson",
         "role": "Property Owner",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Locations",
-    "title": "Serving Your Area Nationwide",
-    "description": "Based in Newcastle and Manchester, we provide expert roofing services across the UK.",
-    "address": "Nationwide Service",
+    "eyebrow": "Visit us",
+    "title": "Locations in Newcastle & Manchester",
+    "description": "Serving businesses nationwide with reliable roofing solutions.",
+    "address": "",
     "website": "www.dvcroofing.net",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Request a Quote Today",
-    "description": "Contact us for a consultation or instant roofing estimate. Your business deserves the best.",
-    "consent": "By submitting, you agree to our terms."
+    "eyebrow": "Get in touch",
+    "title": "Request a quote today",
+    "description": "Contact us for roofing services or consultations. We're here to help.",
+    "consent": "We value your privacy and never share your details."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Your Roofing Process",
-    "description": "Streamline operations with AI-powered tools for efficiency and growth.",
+    "title": "Streamlining your roofing needs",
+    "description": "AI and automation for faster, smarter roofing solutions.",
     "bullets": [
-      "Instant online quotes to capture leads faster.",
-      "Automated maintenance schedules and reminders.",
-      "CRM-integrated follow-ups and digital reporting."
+      "Instant online quoting for quick estimates.",
+      "Automated maintenance scheduling with reminders.",
+      "Digital reports and e-signatures to speed approvals."
     ],
     "offer": "Mention DVC Roofing for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "DVC Roofing delivers unforgettable experiences.",
-    "address": "Nationwide Service",
+    "address": "",
     "email": "",
     "socials": [
       {
