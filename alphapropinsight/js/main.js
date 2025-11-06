@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Alpha Property Insi",
-    "tagline": "Transforming real estate",
-    "category": "PropTech Solutions",
-    "location": "Global reach",
+    "tagline": "Transform Real Estate Digitally",
+    "category": "PropTech",
+    "location": "Global",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "PropTech made simple",
-    "title": "Revolutionize your property systems.",
-    "description": "We streamline operations, integrate platforms, and deliver data-driven insights for real estate leaders.",
+    "eyebrow": "Innovating PropTech",
+    "title": "Revolutionize property management today.",
+    "description": "We solve inefficiencies in real estate through digital transformation, automation, and data-driven strategies.",
     "highlights": [
       {
-        "label": "Platform Integrations",
-        "value": "99%"
+        "label": "Projects Completed",
+        "value": "500+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
       },
       {
-        "label": "Years of Expertise",
-        "value": "10+"
+        "label": "Years of Experience",
+        "value": "15+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Advisory",
-        "description": "We guide you through tech transformation with tailored strategies."
+        "title": "Bold Solutions",
+        "description": "We deliver innovative strategies tailored to real estate needs."
+      },
+      {
+        "title": "Data-Driven Expertise",
+        "description": "Our analytics transform property portfolios into actionable insights."
       },
       {
         "title": "Seamless Integration",
-        "description": "Our solutions unify systems for effortless management."
-      },
-      {
-        "title": "Data-Driven Success",
-        "description": "We unlock actionable insights to optimize your portfolio."
+        "description": "We connect systems for efficient, unified operations."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Innovative PropTech services for modern property management.",
+    "description": "Streamline your property operations with cutting-edge PropTech solutions.",
     "cards": [
       {
-        "icon": "💼",
+        "icon": "💻",
         "title": "Digital Strategy",
-        "description": "Crafting a roadmap for your real estate tech transformation."
-      },
-      {
-        "icon": "🏗",
-        "title": "System Migration",
-        "description": "Streamlining transitions to unified platforms and tools."
+        "description": "Create a roadmap for modernization tailored to your portfolio."
       },
       {
         "icon": "📊",
-        "title": "Data Analytics",
-        "description": "Delivering insights to enhance property portfolio performance."
+        "title": "Data & Analytics",
+        "description": "Leverage data for smarter property decisions and reporting."
+      },
+      {
+        "icon": "🏗",
+        "title": "System Integration",
+        "description": "Unify platforms for streamlined operations and tenant satisfaction."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Built to transform real estate.",
+    "eyebrow": "Our PropTech Journey",
+    "title": "Leading Digital Transformation in Real Estate",
     "paragraphs": [
-      "Alpha Property Insight was founded to solve inefficiencies in property management through technology. We specialize in data, systems, and tenant experience.",
-      "By combining industry expertise with cutting-edge solutions, we empower clients to automate workflows and gain a competitive edge in real estate."
+      "Alpha Property Insight was founded to address inefficiencies in real estate management. We empower owners with digital tools and streamlined processes.",
+      "Our expertise in PropTech and automation ensures seamless operations. We deliver solutions tailored to your business needs for maximum impact."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Customer stories",
-    "title": "Real results for real estate.",
+    "eyebrow": "What Clients Say",
+    "title": "Real Stories from Real Estate Leaders",
     "list": [
       {
-        "quote": "Alpha Property Insight helped us migrate to a seamless digital platform, reducing manual errors and improving tenant satisfaction.",
-        "name": "Sarah Mitchell",
+        "quote": "Alpha Property Insight helped us integrate systems and eliminate inefficiencies. Our workflow is now seamless and data-driven.",
+        "name": "Sarah Johnson",
         "role": "Property Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their data analytics transformed our portfolio management, unlocking insights we never had before.",
-        "name": "John Adams",
-        "role": "CRE Broker",
+        "quote": "Their digital strategy transformed how we manage portfolios. We’ve reduced costs and improved tenant satisfaction.",
+        "name": "Michael Lee",
+        "role": "Real Estate Broker",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Discover us",
-    "title": "Global innovation hub.",
-    "description": "We serve clients worldwide, bringing cutting-edge PropTech to your doorstep.",
-    "address": "",
+    "eyebrow": "Where We Operate",
+    "title": "Global Reach",
+    "description": "Alpha Property Insight serves clients worldwide, delivering tailored solutions for every market.",
+    "address": "N/A",
     "website": "www.alphapropinsight.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started",
-    "title": "Schedule a consultation.",
-    "description": "Contact us today to discuss your digital transformation needs.",
-    "consent": "We value your privacy."
+    "eyebrow": "Get Started",
+    "title": "Transform Your Property Today",
+    "description": "Contact us now to discuss your digital transformation needs.",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "AI-powered real estate.",
-    "description": "Transform your property management with automation.",
+    "title": "Automation for Real Estate",
+    "description": "Leverage AI to simplify and optimize property management.",
     "bullets": [
-      "Automate tenant onboarding and requests.",
-      "Integrate systems into a unified CRM.",
-      "Generate real-time analytics dashboards."
+      "Automate tenant onboarding and renewals.",
+      "Streamline reporting with real-time dashboards.",
+      "Integrate systems for unified workflows."
     ],
     "offer": "Mention Alpha Property Insi for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Alpha Property Insi delivers unforgettable experiences.",
-    "address": "",
+    "address": "N/A",
     "email": "",
     "socials": [
       {
