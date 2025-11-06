@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "BHR Construction",
-    "tagline": "Excellence as standard.",
+    "tagline": "Excellence on time, on budget.",
     "category": "Commercial Construction",
     "location": "Great Britain &",
-    "phone": "Not available"
+    "phone": ""
   },
   "hero": {
     "eyebrow": "On-time, on-budget delivery",
-    "title": "Seamless construction, every time.",
-    "description": "We specialize in delivering complex projects on time and within budget, backed by exceptional quality assurance.",
+    "title": "We simplify complex construction projects.",
+    "description": "From design to delivery, we ensure timely, budget-friendly solutions for every commercial project.",
     "highlights": [
       {
-        "label": "Projects Completed",
+        "label": "Projects Delivered",
         "value": "500+"
       },
       {
-        "label": "On-time Delivery Rate",
+        "label": "Client Satisfaction",
         "value": "98%"
       },
       {
-        "label": "Client Retention",
-        "value": "90%"
+        "label": "Years Experience",
+        "value": "20+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Proven Reliability",
-        "description": "We consistently deliver projects on time and budget, earning lasting trust from clients."
+        "title": "Reliable Expertise",
+        "description": "Decades of experience delivering excellence in commercial construction projects."
       },
       {
-        "title": "Quality Assurance",
-        "description": "Our rigorous inspection ensures every detail meets the highest standards."
+        "title": "Proven Results",
+        "description": "98% client satisfaction rate showcases our commitment to quality and reliability."
       },
       {
-        "title": "Sector Expertise",
-        "description": "Experience across education, healthcare, retail, and more."
+        "title": "Comprehensive Services",
+        "description": "From design to delivery, we handle every aspect of your commercial project."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "From design to delivery, we handle all aspects of commercial construction.",
+    "description": "Tailored commercial construction services for diverse industries.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Building & Fit-Out",
-        "description": "We build and fit-out spaces for offices, retail, healthcare, and education."
+        "description": "We construct and customize offices, retail spaces, warehouses, and more."
       },
       {
         "icon": "📋",
         "title": "Project Management",
-        "description": "Expert coordination of schedules, budgets, and logistics ensures smooth delivery."
+        "description": "Efficient coordination of schedules, contractors, and compliance requirements."
       },
       {
-        "icon": "🛠",
-        "title": "Design & Development",
-        "description": "We manage design coordination and construction delivery at every stage."
+        "icon": "🎨",
+        "title": "Design & Delivery",
+        "description": "Seamless integration of design, development, and construction processes."
       }
     ]
   },
   "story": {
     "eyebrow": "Our journey to excell",
-    "title": "Building success, brick by brick.",
+    "title": "Building trust, one project at a time.",
     "paragraphs": [
-      "BHR Commercial Construction has built a reputation for delivering superior projects on time and budget. Excellence drives every decision we make.",
-      "Our multi-sector expertise and commitment to client satisfaction make us the trusted choice for commercial construction across Great Britain and Ireland."
+      "BHR has earned a stellar reputation for delivering on-time and on-budget projects. Excellence is our standard in every sector we serve.",
+      "With multi-sector expertise and repeat clients, we are trusted for reliable, efficient construction solutions tailored to your needs."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What our clients say",
-    "title": "Real results, real trust.",
+    "eyebrow": "What clients say",
+    "title": "Trusted by industry leaders",
     "list": [
       {
-        "quote": "BHR kept everything on track and within budget, even with tight deadlines. Truly exceptional service.",
-        "name": "James Carter",
-        "role": "Property Developer",
+        "quote": "BHR kept our project on track and budget, making a complex build stress-free.",
+        "name": "Sarah Thompson",
+        "role": "Facility Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their meticulous attention to quality gave us peace of mind. They delivered exactly as promised.",
-        "name": "Laura Benson",
-        "role": "Facility Manager",
+        "quote": "Their attention to detail and communication ensured a flawless delivery.",
+        "name": "Mark Evans",
+        "role": "Property Developer",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Where we operate",
+    "eyebrow": "Location and accessibi",
     "title": "Serving Great Britain & Ireland",
-    "description": "We bring construction expertise to diverse sectors across Great Britain and Ireland.",
-    "address": "Not available",
+    "description": "We bring expertise to projects nationwide, ensuring local support and efficient service.",
+    "address": "",
     "website": "www.bhrconstruction.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch today",
-    "title": "Discuss your next project",
-    "description": "Contact us for consultations and bookings. We’re here to bring your vision to life.",
-    "consent": "We value your privacy and secure your data."
+    "eyebrow": "Ready to get started?",
+    "title": "Let’s build your vision.",
+    "description": "Contact us today to discuss your project or request a consultation.",
+    "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your projects",
-    "description": "Leverage AI-powered tools to enhance efficiency and reduce risks.",
+    "title": "Streamline your projects with AI",
+    "description": "Automation enhances efficiency and precision in commercial construction.",
     "bullets": [
-      "Automated project scheduling ensures deadlines are met.",
-      "Digital workflows simplify compliance and documentation.",
-      "Client portals provide real-time updates and approvals."
+      "CRM tools track leads and follow-ups seamlessly.",
+      "Automated scheduling keeps timelines on track.",
+      "Digital workflows simplify compliance and QA."
     ],
     "offer": "Mention BHR Construction for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "BHR Construction delivers unforgettable experiences.",
-    "address": "Not available",
+    "address": "",
     "email": "",
     "socials": [
       {
