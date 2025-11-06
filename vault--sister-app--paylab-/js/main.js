@@ -1,120 +1,120 @@
 const appData = {
   "brand": {
     "name": "asBuilt",
-    "tagline": "Interactive insights for constructio",
+    "tagline": "Smarter construction tech",
     "category": "Construction Technology",
-    "location": "",
+    "location": "Global",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Streamlining construction",
-    "title": "Turn data into actionable insights.",
-    "description": "Simplify complex processes with asBuilt's Digital Twin solution for optimal performance and collaboration.",
+    "eyebrow": "Optimizing the built world",
+    "title": "Eliminate inefficiencies with AI-powered insights",
+    "description": "asBuilt transforms static data into real-time insights, connecting stakeholders and optimizing project workflows for better performance.",
     "highlights": [
       {
         "label": "Projects Optimized",
         "value": "1,000+"
       },
       {
-        "label": "Operational Efficiency",
-        "value": "30%+"
+        "label": "Real-Time Insights",
+        "value": "24/7"
       },
       {
-        "label": "Stakeholder Satisfaction",
-        "value": "95%"
+        "label": "Compliance Rate",
+        "value": "99.8%"
       }
     ],
-    "image": "https://images.pexels.com/photos/8294561/pexels-photo-8294561.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Unified Technology",
-        "description": "Integrates BIM, IoT, and AI into one seamless data platform."
+        "title": "Unified Data Platform",
+        "description": "Combine BIM, IoT, and AI into one seamless, interactive system."
       },
       {
-        "title": "Real-Time Insights",
-        "description": "Provides dashboards for proactive project management and decision-making."
+        "title": "Real-Time Dashboards",
+        "description": "Access dynamic insights across design, construction, and operations instantly."
       },
       {
         "title": "Workflow Automation",
-        "description": "Streamlines payment claims and compliance processes through automation."
+        "description": "Streamline processes and reduce approval bottlenecks with automated tools."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Transform the built environment with digital tools for better collaboration and performance.",
+    "description": "asBuilt delivers advanced solutions to optimize design, build, and operations workflows.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Digital Twin Platform",
-        "description": "Unify BIM, IoT, and AI for live, interactive visual models of your projects."
+        "title": "Unified Data Platform",
+        "description": "Integrate BIM, IoT, and AI to visualize and manage projects in real time."
       },
       {
         "icon": "📊",
         "title": "Real-Time Dashboards",
-        "description": "Gain actionable insights across design, construction, and operations."
+        "description": "Track design, construction, and operations with actionable insights."
       },
       {
-        "icon": "⚙️",
-        "title": "Payment Automation",
-        "description": "Digitize and streamline payment-claim processes with PayLab."
+        "icon": "🤖",
+        "title": "PayLab Automation",
+        "description": "Simplify payment claims with digitized workflows and compliance tracking."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our mission",
-    "title": "Building better with technology.",
+    "eyebrow": "About asBuilt",
+    "title": "Transforming construction workflows",
     "paragraphs": [
-      "asBuilt transforms static data into dynamic Digital Twin insights for seamless collaboration and optimized performance in the built environment.",
-      "By integrating BIM, IoT, and AI, we simplify workflows, enhance transparency, and drive efficiency for construction and operations teams worldwide."
+      "asBuilt connects fragmented data sources to create a unified platform for real-time collaboration. Our Digital Twin solution enhances visibility and performance.",
+      "We help clients automate workflows, reduce bottlenecks, and drive compliance, ensuring seamless multi-stakeholder collaboration in construction and operations."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What our clients say",
-    "title": "Proven results in construction tech",
+    "eyebrow": "What clients say",
+    "title": "Trusted by industry leaders",
     "list": [
       {
-        "quote": "asBuilt's Digital Twin platform saved us time and improved visibility across our projects.",
-        "name": "Sarah M.",
+        "quote": "asBuilt’s real-time dashboards transformed how we track project progress and compliance. Highly recommend!",
+        "name": "Sarah Lee",
         "role": "Project Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Workflow automation made compliance faster and reduced approval delays significantly.",
-        "name": "John D.",
+        "quote": "PayLab eliminated our manual payment delays and improved transparency with stakeholders.",
+        "name": "John Carter",
         "role": "General Contractor",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Discover our solutions",
-    "title": "Connect with us today.",
-    "description": "Explore how asBuilt transforms the way you plan, build, and operate.",
-    "address": "",
-    "website": "",
+    "eyebrow": "Visit us",
+    "title": "Global presence, local impact",
+    "description": "asBuilt serves construction teams worldwide, optimizing projects for success.",
+    "address": "Contact us for office locations.",
+    "website": "www.asbuiltdigital.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Start optimizing your projects.",
-    "description": "Contact us for consultations and demos tailored to your needs.",
-    "consent": "We respect your privacy."
+    "eyebrow": "Get started",
+    "title": "Book your consultation",
+    "description": "Discover how asBuilt can transform your workflows. Contact us today.",
+    "consent": "We value your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "AI-powered construction solutions",
-    "description": "Automate workflows and optimize operations with asBuilt’s advanced tools.",
+    "title": "Powerful automation tools",
+    "description": "Streamline construction workflows with AI-driven automation.",
     "bullets": [
-      "Automate payment-claims for faster approvals.",
-      "Integrate BIM and IoT for real-time alerts.",
-      "Streamline compliance and audit processes."
+      "Digitize payment-claim processes to reduce delays.",
+      "Automate compliance reporting for faster audits.",
+      "Trigger alerts and notifications for proactive management."
     ],
     "offer": "Mention asBuilt for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "asBuilt delivers unforgettable experiences.",
-    "address": "",
+    "address": "Contact us for office locations.",
     "email": "",
     "socials": [
       {
