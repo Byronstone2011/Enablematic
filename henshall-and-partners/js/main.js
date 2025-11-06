@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Henshall & Partners",
-    "tagline": "Maximising Property Value",
+    "tagline": "Maximise property value.",
     "category": "Real Estate Consultancy",
-    "location": "United Kingdom",
+    "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Expert property consultancy",
-    "title": "Optimised property sales strategies for maximum value.",
-    "description": "We create tailored strategies to maximise sale prices, enhance marketing, and streamline the sales process for property owners and developers.",
+    "eyebrow": "Expert property consultants",
+    "title": "Achieve higher sale prices today.",
+    "description": "We create bespoke strategies to optimise listings and maximise property value for landlords, owners, and developers.",
     "highlights": [
       {
+        "label": "Years of Expertise",
+        "value": "10+"
+      },
+      {
         "label": "Properties Sold",
-        "value": "1,000+"
+        "value": "1,200+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
-      },
-      {
-        "label": "Years in Business",
-        "value": "10+"
       }
     ],
     "image": "https://images.unsplash.com/flagged/photo-1558954157-aa76c0d246c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxSZWFsJTIwZXN0YXRlJTIwJTJGJTIwcHJvcGVydHklMjBzYWxlcyUyMGNvbnN1bHRhbmN5JTIwJTVCJTIyQmVzcG9rZSUyMHNhbGVzJTIwc3RyYXRlZ3klMjBmb3IlMjBwcm9wZXJ0eSUyMG93bmVycyUyMiUyQyUyMlByb3BlcnR5JTIwbWFya2V0aW5nJTIwYW5kJTIwbGlzdGluZyUyMG9wdGltaXNhdGlvbiUyMiUyQyUyMkNvbnN1bHRhdGlvbiUyMHRvJTIwbWF4aW1pc2UlMjBwcm9wZXJ0eSUyMHZhbHVlJTIyJTVEfGVufDB8fHx8MTc2MjQzNDMzM3ww&ixlib=rb-4.1.0&q=80&w=1080"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Tailored Strategies",
-        "description": "We design bespoke strategies that meet your unique property goals."
+        "title": "Tailored Sales Solutions",
+        "description": "Every property strategy is customised to meet your unique needs and goals."
       },
       {
-        "title": "Exceptional Marketing",
-        "description": "Professional photography and listings ensure maximum exposure."
+        "title": "Premium Marketing Tools",
+        "description": "Leveraging professional photography and optimised listings to attract buyers."
       },
       {
-        "title": "Proven Expertise",
-        "description": "Over a decade of experience delivering outstanding results."
+        "title": "Proven Value Maximisati",
+        "description": "Our strategies ensure the highest possible sale price for your property."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Our services help property owners unlock the full potential of their assets.",
+    "description": "We specialise in consultancy and marketing to help property owners achieve their sales goals.",
     "cards": [
       {
         "icon": "💼",
-        "title": "Sales Strategy",
-        "description": "Developing customised strategies to maximise property sale prices."
+        "title": "Bespoke Sales Strategy",
+        "description": "We craft tailored strategies to ensure your property achieves its full potential."
       },
       {
-        "icon": "📸",
+        "icon": "📈",
         "title": "Marketing Optimisation",
-        "description": "Creating impactful property listings with professional visuals."
+        "description": "Professional marketing to make your property stand out and attract buyers."
       },
       {
         "icon": "🏗",
         "title": "Value Consultation",
-        "description": "Expert advice to maximise the value of residential or commercial properties."
+        "description": "Expert advice to maximise your property's value before listing."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Committed to your success",
+    "eyebrow": "Our Journey",
+    "title": "Building success in property sales.",
     "paragraphs": [
-      "Henshall & Partners was founded to empower property owners with expert advice and tailored solutions. We specialise in maximising property value through strategic sales and marketing.",
-      "Our consultancy approach ensures every client benefits from proven expertise, cutting-edge tools, and personalised strategies. We help you achieve outstanding results with ease."
+      "Henshall & Partners was founded to help property owners unlock the true potential of their assets. With bespoke strategies and premium marketing, we deliver results.",
+      "Our tailored approach ensures every client benefits from exceptional service, optimised processes, and maximised property value. Trust us to elevate your sales experience."
     ],
-    "image": "https://images.unsplash.com/photo-1565688527174-775059ac429c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxSZWFsJTIwZXN0YXRlJTIwJTJGJTIwcHJvcGVydHklMjBzYWxlcyUyMGNvbnN1bHRhbmN5JTIwcHJvZmVzc2lvbmFsJTIwdGVhbSUyMGF0JTIwd29ya3xlbnwwfHx8fDE3NjI0MzQzMzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "image": "https://images.pexels.com/photos/7641825/pexels-photo-7641825.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Real results, real reviews",
+    "eyebrow": "Client Feedback",
+    "title": "What our clients say",
     "list": [
       {
-        "quote": "Henshall & Partners transformed my property sale with their expert strategy and marketing. I achieved a higher sale price than expected.",
-        "name": "Sarah Bennett",
+        "quote": "Henshall & Partners helped me achieve a record-breaking sale. Their bespoke strategy was a game-changer.",
+        "name": "Sarah L.",
         "role": "Property Owner",
         "avatar": "https://images.unsplash.com/flagged/photo-1558954157-aa76c0d246c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxSZWFsJTIwZXN0YXRlJTIwJTJGJTIwcHJvcGVydHklMjBzYWxlcyUyMGNvbnN1bHRhbmN5JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0MzQzMzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
       },
       {
-        "quote": "Thanks to their consultation, I unlocked the full potential of my commercial property. Highly recommend their services.",
-        "name": "James Mitchell",
+        "quote": "The marketing tools and consultation added significant value to my property listing. Highly recommend.",
+        "name": "John D.",
         "role": "Developer",
         "avatar": "https://images.unsplash.com/photo-1760802136542-0cefb143f1f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwyfHxSZWFsJTIwZXN0YXRlJTIwJTJGJTIwcHJvcGVydHklMjBzYWxlcyUyMGNvbnN1bHRhbmN5JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0MzQzMzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us",
-    "title": "Connect with our team",
-    "description": "We work across the UK, helping property owners achieve their goals. Contact us to learn more about our services.",
-    "address": "United Kingdom",
-    "website": "henshallandpartners.co.uk",
+    "eyebrow": "Explore Our Expertise",
+    "title": "Connect with us today.",
+    "description": "Contact us for tailored strategies and expert property consultancy services.",
+    "address": "",
+    "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started",
-    "title": "Book a consultation",
-    "description": "Contact us today to discuss your property needs. Let us help you maximise value and streamline your sales process.",
-    "consent": "By submitting, you agree to our privacy policy."
+    "eyebrow": "Get Started",
+    "title": "Schedule your consultation.",
+    "description": "Reach out to us for expert advice on maximising your property's potential.",
+    "consent": "By submitting, I agree to the privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Smarter tools for better results",
-    "description": "Leverage AI to streamline processes and maximise efficiency.",
+    "title": "Unlock Efficiency with AI",
+    "description": "Streamline processes and improve leads with automation solutions tailored to property sales.",
     "bullets": [
-      "Automated lead nurturing boosts conversions.",
-      "Integrated appointment booking saves time.",
-      "Performance tracking optimises marketing efforts."
+      "Automated lead nurturing boosts conversions effortlessly.",
+      "Online booking simplifies client consultations.",
+      "Listing performance tracking ensures optimal results."
     ],
     "offer": "Mention Henshall & Partners for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Henshall & Partners delivers unforgettable experiences.",
-    "address": "United Kingdom",
+    "address": "",
     "email": "",
     "socials": [
       {
