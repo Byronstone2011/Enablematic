@@ -1,26 +1,26 @@
 const appData = {
   "brand": {
-    "name": "EPC Consultants",
-    "tagline": "Reducing risk and cost",
+    "name": "EPC Construction",
+    "tagline": "Experts in cost control",
     "category": "Construction Consultancy",
-    "location": "UK",
-    "phone": "N/A"
+    "location": "",
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Expert project guidance",
-    "title": "We cut costs, risks, and delays.",
-    "description": "Our multi-disciplinary team ensures effective cost management, precise surveying, and streamlined tendering for your projects.",
+    "eyebrow": "Trusted construction advisors",
+    "title": "Reduce risk, cost, and delays today.",
+    "description": "Our expert team helps you control costs, streamline procurement, and deliver projects on time and within budget.",
     "highlights": [
       {
-        "label": "Projects Completed",
+        "label": "Projects Delivered",
         "value": "500+"
       },
       {
         "label": "Client Satisfaction",
-        "value": "98%"
+        "value": "97%"
       },
       {
-        "label": "Years Experience",
+        "label": "Years of Expertise",
         "value": "15+"
       }
     ],
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Precise Cost Control",
-        "description": "Our cost consultancy minimizes overruns and ensures budgets stay on track."
+        "title": "Cost Efficiency",
+        "description": "We help you maximize ROI with precise cost control strategies."
       },
       {
-        "title": "Streamlined Tendering",
-        "description": "We simplify complex procurement to save you time and effort."
+        "title": "Expert Guidance",
+        "description": "Our seasoned consultants simplify complex construction challenges."
       },
       {
-        "title": "Specialist Expertise",
-        "description": "Experienced quantity surveyors deliver accurate, reliable insights."
+        "title": "Proven Results",
+        "description": "500+ successful projects reflect our trusted expertise."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive services to enhance construction project performance.",
+    "description": "Tailored consulting services for every stage of construction projects.",
     "cards": [
       {
         "icon": "💼",
         "title": "Cost Consultancy",
-        "description": "Expert guidance to control budgets and maximize ROI for your projects."
+        "description": "Expert advice to ensure budgets are realistic and achievable."
       },
       {
         "icon": "🏗",
-        "title": "Quantity Surveying",
-        "description": "Detailed assessments to provide precise cost estimates and project insights."
+        "title": "Tendering Support",
+        "description": "Streamline procurement and secure competitive bids with confidence."
       },
       {
-        "icon": "🛠",
-        "title": "Tendering Support",
-        "description": "We streamline procurement processes for efficient, transparent tendering."
+        "icon": "📊",
+        "title": "Quantity Surveying",
+        "description": "Accurate cost tracking to avoid overruns and delays."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "Shaping better projects",
+    "eyebrow": "Our journey",
+    "title": "Delivering trusted solutions for 15+ years.",
     "paragraphs": [
-      "EPC Construction Consultants is a flexible, multi-disciplinary firm focused on reducing costs, risks, and delays for UK developers and contractors.",
-      "Our expertise and automated solutions deliver measurable ROI, ensuring every project achieves efficiency and success."
+      "EPC Construction Consultants was founded to help developers and contractors navigate complex projects with ease. We reduce costs and risks effectively.",
+      "Our proven approach combines industry expertise, cutting-edge tools, and a commitment to measurable ROI for every client."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client Success",
-    "title": "What they say",
+    "eyebrow": "What clients say",
+    "title": "Real results, real partnerships.",
     "list": [
       {
-        "quote": "EPC saved us from significant overruns, delivering accurate cost tracking and real-time insights.",
-        "name": "James Carter",
+        "quote": "EPC saved us millions by keeping our project on budget. Their expertise is unmatched.",
+        "name": "James Wright",
         "role": "Developer",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their tendering support simplified a complex process, saving us time and boosting transparency.",
-        "name": "Sarah Green",
+        "quote": "Their team streamlined procurement, saving us weeks of work. Highly recommended.",
+        "name": "Sarah Mitchell",
         "role": "Contractor",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find Us",
-    "title": "Located in the UK",
-    "description": "We serve clients nationwide, offering precise consultancy tailored to your needs.",
-    "address": "N/A",
-    "website": "epcconstruction.co.uk",
+    "eyebrow": "Find us",
+    "title": "Your trusted partner, always nearby.",
+    "description": "EPC Construction Consultants proudly serves clients across the UK. Let us support your next project.",
+    "address": "",
+    "website": "www.epcconstruction.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Reach Out",
-    "title": "Let’s get started",
-    "description": "Contact us for a consultation and see how we can improve your project outcomes.",
-    "consent": "Your information is safe with us."
+    "eyebrow": "Get started",
+    "title": "Contact us today.",
+    "description": "Discuss your project or request a consultation with our experts.",
+    "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automation Advantages",
-    "description": "AI tools optimize construction consultancy processes for better results.",
+    "title": "Streamline your processes",
+    "description": "Leverage automation to save time and cut costs.",
     "bullets": [
-      "Automated cost tracking saves time and prevents overruns.",
-      "Digital tendering simplifies procurement workflows.",
-      "Real-time project dashboards provide instant insights."
+      "Track budgets with automated cost-estimating tools.",
+      "Simplify tendering with digital procurement platforms.",
+      "Get real-time project updates via automated dashboards."
     ],
-    "offer": "Mention EPC Consultants for the launch-week optimization kit.",
+    "offer": "Mention EPC Construction for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "EPC Consultants delivers unforgettable experiences.",
-    "address": "N/A",
+    "blurb": "EPC Construction delivers unforgettable experiences.",
+    "address": "",
     "email": "",
     "socials": [
       {
