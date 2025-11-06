@@ -1,23 +1,23 @@
 const appData = {
   "brand": {
-    "name": "UK Roofing Ltd",
-    "tagline": "Reliable Commercial Roofing",
-    "category": "Commercial Construction",
-    "location": "",
+    "name": "UK Commercial Roofi",
+    "tagline": "Reliable roof solutions",
+    "category": "Commercial Roofing",
+    "location": "West Midlands, UK",
     "phone": ""
   },
   "hero": {
     "eyebrow": "Trusted roofing experts",
-    "title": "Stop leaks with expert repairs fast.",
-    "description": "We specialize in commercial roofing solutions to fix leaks, reseal gutters, and prevent future damage across the West Midlands.",
+    "title": "Protect your property from leaks.",
+    "description": "We provide expert roofing repairs, maintenance, and replacements tailored to commercial properties across the West Midlands.",
     "highlights": [
       {
-        "label": "Projects Completed",
-        "value": "3,000+"
+        "label": "Years in Business",
+        "value": "15+"
       },
       {
-        "label": "Years in Service",
-        "value": "15+"
+        "label": "Projects Completed",
+        "value": "2,500+"
       },
       {
         "label": "Client Satisfaction",
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Accredited Professionals",
-        "description": "Our team is fully certified with CHAS, ROSPA, and Constructionline for guaranteed quality."
+        "title": "Certified Expertise",
+        "description": "Accredited by CHAS, Constructionline, and ROSPA for trusted quality and safety."
       },
       {
-        "title": "Proven Expertise",
-        "description": "We deliver tailored solutions backed by years of experience in commercial roofing."
+        "title": "Specialized Services",
+        "description": "Offering tailored roofing solutions like EPDM, cladding, and gutter repairs."
       },
       {
-        "title": "Comprehensive Services",
-        "description": "From inspections to repairs, we handle every aspect of your roofing needs."
+        "title": "Proven Results",
+        "description": "Thousands of successful projects and satisfied clients across the region."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We provide top-notch roofing services tailored to commercial properties.",
+    "description": "Comprehensive commercial roofing services designed for durability and efficiency.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Roof Repairs",
-        "description": "Fix leaks, reseal gutters, and repair joints to protect your property."
+        "description": "Expert fixes for leaks, deterioration, and damaged roofs to protect your business."
       },
       {
-        "icon": "🛠",
-        "title": "Flat Roofs",
-        "description": "Install and maintain EPDM and felt flat roofs for durability and efficiency."
-      },
-      {
-        "icon": "🌧",
+        "icon": "🛡",
         "title": "Gutter Services",
-        "description": "Clean, reline, and reseal gutters to prevent blockages and water damage."
+        "description": "Relining, resealing, cleaning, and repairs for valley gutters and downpipes."
+      },
+      {
+        "icon": "💡",
+        "title": "Rooflights",
+        "description": "Safe installation of Fix-safe rooflights to enhance your property’s natural lighting."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Mission",
-    "title": "Built on trust and reliability.",
+    "eyebrow": "Our roofing journey",
+    "title": "Built on trust and quality.",
     "paragraphs": [
-      "UK Commercial Roofing Limited serves the West Midlands, offering expert solutions for valley gutters, roof repairs, and cleaning services.",
-      "We combine expertise with advanced technology, ensuring every client receives reliable and efficient service tailored to their needs."
+      "UK Commercial Roofing Limited has been serving businesses across the West Midlands, Staffordshire, and Shropshire for over 15 years. We specialize in commercial roofing repairs, installations, and gutter services.",
+      "Our accredited team delivers reliable solutions with a focus on safety, durability, and tailored designs. We are committed to solving your roofing challenges with efficiency and care."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Trusted by businesses like yours.",
+    "eyebrow": "Customer feedback",
+    "title": "What clients say about us.",
     "list": [
       {
-        "quote": "They fixed our leaking gutters quickly and professionally. Highly recommend their services!",
-        "name": "Sarah Thompson",
-        "role": "Facilities Manager",
+        "quote": "Their team quickly fixed our leaking roof, saving us from costly damage. Highly recommend!",
+        "name": "Jane Smith",
+        "role": "Facility Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their preventative maintenance saved us from costly roof repairs. Excellent service!",
-        "name": "James Carter",
+        "quote": "The gutter repair was seamless, and the team was professional from start to finish.",
+        "name": "Mark Johnson",
         "role": "Property Owner",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Serving West Midlands & Beyond",
-    "description": "We bring expert roofing services to the West Midlands, Staffordshire, and Shropshire.",
+    "eyebrow": "Our service areas",
+    "title": "Roofing across the region.",
+    "description": "Serving West Midlands, Staffordshire, and Shropshire with expert roofing solutions.",
     "address": "",
     "website": "www.ukcommercialroofing.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get a Quote",
-    "title": "Contact our roofing experts.",
-    "description": "Reach out today for a free site survey and personalized roofing solutions.",
-    "consent": "We respect your privacy. Your information is secure."
+    "eyebrow": "Get a free survey",
+    "title": "Book your inspection today.",
+    "description": "Request a free site survey or consultation to get started on your roofing project.",
+    "consent": "By submitting, you agree to our privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Boost Efficiency with AI",
-    "description": "Streamline your roofing project with automation tools.",
+    "title": "Smarter roofing services",
+    "description": "Harness AI and automation to streamline roofing inquiries and scheduling.",
     "bullets": [
-      "Schedule surveys online easily.",
-      "Automate lead capture and follow-ups.",
-      "Generate instant quotes with AI tools."
+      "Automated online booking for surveys and inspections.",
+      "Lead capture and automated follow-ups via CRM integration.",
+      "Messenger chatbot for instant customer support and quotes."
     ],
-    "offer": "Mention UK Roofing Ltd for the launch-week optimization kit.",
+    "offer": "Mention UK Commercial Roofi for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,7 +124,7 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "UK Roofing Ltd delivers unforgettable experiences.",
+    "blurb": "UK Commercial Roofi delivers unforgettable experiences.",
     "address": "",
     "email": "",
     "socials": [
