@@ -1,23 +1,23 @@
 const appData = {
   "brand": {
     "name": "Powercor Ltd.",
-    "tagline": "Efficiency through innovation",
-    "category": "Electrical Engineering",
+    "tagline": "Innovative energy solutions",
+    "category": "Electrical engineering",
     "location": "Surrey, UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Energy solutions experts",
-    "title": "Cut energy costs with solar & LED.",
-    "description": "Powercor Ltd. delivers innovative electrical solutions to reduce energy costs, improve safety, and upgrade infrastructure with cutting-edge technology.",
+    "eyebrow": "Energy efficiency experts",
+    "title": "Cut energy costs with smart solutions",
+    "description": "We deliver solar, LED lighting, and power upgrades to optimize efficiency and reduce expenses.",
     "highlights": [
       {
-        "label": "Years in Business",
+        "label": "Years of Expertise",
         "value": "25+"
       },
       {
         "label": "Projects Completed",
-        "value": "3,000+"
+        "value": "3,500+"
       },
       {
         "label": "Client Satisfaction",
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Trusted Expertise",
-        "description": "With 25+ years of experience, we deliver reliable energy solutions tailored to your needs."
+        "title": "Expertise You Trust",
+        "description": "25+ years of electrical engineering excellence ensures reliable solutions."
       },
       {
         "title": "Innovative Technology",
-        "description": "We use advanced tools like remote monitoring and infrared scanning for precision and efficiency."
+        "description": "We use cutting-edge systems to maximize energy savings and performance."
       },
       {
-        "title": "Sustainable Solutions",
-        "description": "Our solar and LED lighting services help you achieve energy efficiency and sustainability goals."
+        "title": "Commitment to Quality",
+        "description": "Our team delivers high standards for lighting and power infrastructure projects."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Powercor Ltd. specializes in energy-efficient solutions for commercial, public, and residential sectors.",
+    "description": "Powercor Ltd. provides tailored electrical solutions for commercial, public, and residential projects.",
     "cards": [
       {
         "icon": "☀️",
         "title": "Solar & Battery Storage",
-        "description": "Harness renewable energy with solar panels and battery storage for long-term savings."
+        "description": "Harness the sun's energy with advanced solar panels and battery systems."
       },
       {
         "icon": "💡",
         "title": "LED Lighting & Controls",
-        "description": "Upgrade to efficient LED lighting with smart controls for better performance and lower costs."
+        "description": "Upgrade to energy-efficient LED lighting with smart control systems."
       },
       {
-        "icon": "🚨",
-        "title": "Emergency Lighting",
-        "description": "Ensure safety with emergency lighting systems featuring remote monitoring capabilities."
+        "icon": "🛠",
+        "title": "Power Infrastructure",
+        "description": "Transform your power systems with underground cabling and maintenance."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "Powercor's Story",
+    "eyebrow": "Our journey",
+    "title": "Leading the way in energy efficiency",
     "paragraphs": [
-      "Founded in Surrey, Powercor Ltd. has been a leader in electrical engineering for 25+ years. We specialize in innovative solar and LED solutions for energy savings.",
-      "Our expertise helps businesses and institutions reduce costs, improve compliance, and embrace sustainable practices through cutting-edge technologies."
+      "Founded in Surrey, Powercor Ltd. has been transforming energy systems for over 25 years. We specialize in solar and LED lighting solutions.",
+      "Our innovative approach ensures cost-effective, compliant systems tailored to your needs. We are your trusted partner in energy efficiency."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Customer Feedback",
+    "eyebrow": "Hear from our clients",
+    "title": "Trusted by top organizations",
     "list": [
       {
-        "quote": "Powercor's solar solutions reduced our energy bills by 40%. Highly recommend their expertise!",
-        "name": "John Stevens",
+        "quote": "Powercor's LED upgrades cut our energy costs by 40%. Their expertise is unmatched.",
+        "name": "Emily Johnson",
         "role": "Facilities Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their LED upgrade transformed our lighting while lowering costs. Exceptional service!",
-        "name": "Emma Clarke",
+        "quote": "Their solar installation was seamless and saved us thousands annually. Highly recommend!",
+        "name": "James Wilson",
         "role": "Operations Director",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Discover Powercor",
-    "description": "Located in Surrey, we service commercial, public, and residential clients across the UK.",
-    "address": "",
+    "eyebrow": "Find us in Surrey",
+    "title": "Discover our location",
+    "description": "Based in Surrey, we serve commercial, public, and residential clients across the UK.",
+    "address": "Surrey, UK",
     "website": "www.powercor.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Request a Consultation",
-    "description": "Contact us today to discuss your project and energy-saving goals. Let’s transform your power systems.",
-    "consent": "I agree to receive updates from Powercor Ltd."
+    "eyebrow": "Contact us today",
+    "title": "Book a consultation",
+    "description": "Reach out for customized energy solutions and site surveys.",
+    "consent": "We value your privacy. Let’s discuss your project securely."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Smarter Energy Solutions",
-    "description": "Leverage AI and automation to streamline energy management and improve efficiency.",
+    "title": "Streamline with automation",
+    "description": "Leverage AI to enhance energy management and operations.",
     "bullets": [
-      "Automate maintenance scheduling with predictive tools.",
-      "Integrate energy monitoring dashboards for real-time insights.",
-      "Simplify lead capture with online booking systems."
+      "Automate site surveys and installation bookings effortlessly.",
+      "Monitor energy and lighting systems with real-time dashboards.",
+      "Schedule predictive maintenance using infrared scan data."
     ],
     "offer": "Mention Powercor Ltd. for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Powercor Ltd. delivers unforgettable experiences.",
-    "address": "",
+    "address": "Surrey, UK",
     "email": "",
     "socials": [
       {
