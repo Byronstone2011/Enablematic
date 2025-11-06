@@ -1,30 +1,30 @@
 const appData = {
   "brand": {
-    "name": "Krol Corlett",
-    "tagline": "Exceeding expectations always",
+    "name": "KROL CORLETT GROUP",
+    "tagline": "Building excellence.",
     "category": "Construction Contractor",
-    "location": "",
+    "location": "England & North",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted construction leader",
-    "title": "Streamlining projects with precision and expertise",
-    "description": "We simplify framework compliance and deliver exceptional results on time and within budget, every project guaranteed.",
+    "eyebrow": "Trusted construction partner",
+    "title": "Delivering precision and compliance.",
+    "description": "With 50 years of expertise, we streamline procurement, meet frameworks, and deliver projects flawlessly.",
     "highlights": [
       {
-        "label": "Years in Business",
+        "label": "Years of Experience",
         "value": "50+"
       },
       {
         "label": "Projects Completed",
-        "value": "2,500+"
+        "value": "1,000+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
       }
     ],
-    "image": "https://images.pexels.com/photos/6473982/pexels-photo-6473982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
@@ -32,91 +32,91 @@ const appData = {
     "items": [
       {
         "title": "Proven Expertise",
-        "description": "Our five decades of experience ensure excellence in every project we deliver."
+        "description": "Five decades of experience ensure reliable and high-quality construction services."
       },
       {
         "title": "On-Time Delivery",
-        "description": "We consistently meet deadlines without compromising quality or budget."
+        "description": "We consistently meet deadlines and budgets, exceeding client expectations."
       },
       {
-        "title": "Tailored Solutions",
-        "description": "We adapt to public and private sector needs with customized construction approaches."
+        "title": "Strong Portfolio",
+        "description": "Our work spans education, healthcare, residential, and heritage sectors."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We specialize in diverse sectors, delivering innovative solutions across industries.",
+    "description": "We provide tailored construction solutions across diverse sectors.",
     "cards": [
       {
         "icon": "🏗",
         "title": "General Construction",
-        "description": "From concept to completion, we build durable, impactful structures."
+        "description": "Comprehensive services for public and private sector projects."
       },
       {
         "icon": "⚕️",
         "title": "Healthcare Construction",
-        "description": "Creating state-of-the-art facilities tailored to healthcare needs."
+        "description": "Specialized builds for hospitals and healthcare facilities."
       },
       {
-        "icon": "🏛",
+        "icon": "🏘",
         "title": "Heritage Restoration",
-        "description": "Preserving historical landmarks with precision and care."
+        "description": "Preserving and restoring historic buildings with precision."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey of excell",
-    "title": "Dedication that builds trust",
+    "eyebrow": "Our journey",
+    "title": "A legacy of excellence.",
     "paragraphs": [
-      "Since our founding, we’ve set benchmarks in construction by delivering projects that merge quality, timeliness, and budget precision.",
-      "Our innovative practices and tailored solutions make us the partner of choice for public and private sector clients in diverse industries."
+      "For over 50 years, Krol Corlett has been a trusted name in construction. We deliver projects with precision and care across England and North Wales.",
+      "Our expertise in diverse sectors and commitment to innovation ensure seamless experiences for clients in education, healthcare, and beyond."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client Success Stories",
-    "title": "What our partners say",
+    "eyebrow": "What clients say",
+    "title": "Client success stories.",
     "list": [
       {
-        "quote": "Krol Corlett made compliance seamless for our public-sector project, delivering on time and within budget.",
-        "name": "Sarah Hughes",
-        "role": "Public Sector Client",
+        "quote": "Krol Corlett simplified procurement for us, delivering on time and on budget. Highly recommended.",
+        "name": "Sarah James",
+        "role": "Public Sector Commissioner",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their expertise in healthcare construction exceeded expectations, creating an exceptional facility for our patients.",
-        "name": "James Lee",
-        "role": "Healthcare Administrator",
+        "quote": "Their expertise in healthcare builds is unmatched. A seamless process from start to finish.",
+        "name": "Mark Thompson",
+        "role": "Healthcare Project Manager",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find us here",
-    "title": "Locations across England & Wales",
-    "description": "We proudly serve communities throughout England and North Wales with accessible, tailored construction services.",
+    "eyebrow": "Our locations",
+    "title": "Serving England & North Wales.",
+    "description": "We provide top-tier construction services across England and North Wales, supporting diverse sectors.",
     "address": "",
-    "website": "",
+    "website": "www.krolcorlett.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Let’s work together",
-    "title": "Get your project started today",
-    "description": "Contact us for consultations or to discuss your construction needs.",
-    "consent": "I agree to the terms and privacy policy."
+    "eyebrow": "Get in touch",
+    "title": "Start your project today.",
+    "description": "Contact us for consultations, bookings, or detailed project inquiries.",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automation for smarter workflows",
-    "description": "Transform construction management with AI-driven tools that save time and reduce errors.",
+    "title": "Enhance efficiency with AI.",
+    "description": "Streamline workflows and improve communication with automation.",
     "bullets": [
-      "Automate lead nurturing with CRM integration.",
-      "Streamline tender tracking and bid workflows.",
-      "Reduce manual inquiries with client portals."
+      "Automate tender tracking and document management.",
+      "Integrate CRM for seamless lead capture and nurture.",
+      "Provide clients with real-time project updates via portals."
     ],
-    "offer": "Mention Krol Corlett for the launch-week optimization kit.",
+    "offer": "Mention KROL CORLETT GROUP for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,7 +124,7 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Krol Corlett delivers unforgettable experiences.",
+    "blurb": "KROL CORLETT GROUP delivers unforgettable experiences.",
     "address": "",
     "email": "",
     "socials": [
