@@ -1,26 +1,26 @@
 const appData = {
   "brand": {
     "name": "Straightline Consul",
-    "tagline": "Precision in commissioning",
+    "tagline": "Streamlining commissioning",
     "category": "Property & Construction",
     "location": "UK & International",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted industry partner",
-    "title": "Streamlining commissioning processes.",
-    "description": "We simplify complex coordination, ensure regulatory compliance, and deliver quality results on every project.",
+    "eyebrow": "Expert commissioning services",
+    "title": "We simplify complex construction projects.",
+    "description": "Straightline Consulting ensures smooth project delivery, regulatory compliance, and quality results for every build.",
     "highlights": [
       {
         "label": "Projects Delivered",
         "value": "46+"
       },
       {
-        "label": "Square Footage Managed",
+        "label": "Square Feet Managed",
         "value": "2M+"
       },
       {
-        "label": "Energy Capacity Commission",
+        "label": "Energy Capacity",
         "value": "322MW"
       }
     ],
@@ -32,89 +32,89 @@ const appData = {
     "items": [
       {
         "title": "Proven Expertise",
-        "description": "Decades of experience in commissioning management for top-tier projects."
+        "description": "Backed by decades of experience, we deliver trusted commissioning solutions globally."
       },
       {
-        "title": "Seamless Coordination",
-        "description": "Streamlined processes for efficient scheduling and execution."
+        "title": "Streamlined Processes",
+        "description": "Our efficient workflows ensure timely delivery without compromising on quality."
       },
       {
         "title": "Global Reach",
-        "description": "Delivering solutions across the UK and internationally."
+        "description": "We support projects across the UK and international markets with tailored solutions."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive services tailored to property and construction needs.",
+    "description": "Comprehensive commissioning services to ensure successful project handovers.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Commissioning Management",
-        "description": "End-to-end management ensuring smooth project delivery and compliance."
+        "description": "We oversee commissioning schedules to ensure seamless coordination across teams."
       },
       {
         "icon": "💼",
         "title": "Agent Services",
-        "description": "Expert representation to protect interests and achieve project goals."
+        "description": "We act as your liaison, ensuring every detail is managed efficiently and effectively."
       },
       {
-        "icon": "🛠",
+        "icon": "📋",
         "title": "Consultancy Services",
-        "description": "Specialized advice for commissioning and seamless building handover."
+        "description": "Expert advice for building handovers, ensuring compliance and smooth transitions."
       }
     ]
   },
   "story": {
     "eyebrow": "Our journey",
-    "title": "Built on precision and trust",
+    "title": "Delivering excellence in commissioning",
     "paragraphs": [
-      "Straightline Consulting was founded to solve the toughest commissioning challenges in construction. We deliver tailored solutions with unmatched precision.",
-      "Our process-driven approach ensures measurable success, helping clients streamline workflows and achieve compliance every time."
+      "Straightline Consulting was founded to simplify commissioning management for property and construction projects. We provide expert solutions tailored to client needs.",
+      "With a focus on process-driven efficiency, we help clients achieve regulatory compliance, reduce delays, and ensure quality results every time."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client feedback",
-    "title": "What our partners say",
+    "eyebrow": "What clients say",
+    "title": "Trusted by industry leaders",
     "list": [
       {
-        "quote": "Straightline simplified our commissioning process, saving us time and ensuring compliance every step of the way.",
+        "quote": "Straightline streamlined our commissioning process, saving us time and ensuring compliance across the board.",
         "name": "John Smith",
         "role": "Project Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their expert team helped us avoid delays and delivered a seamless handover on a major project.",
-        "name": "Sarah Johnson",
-        "role": "Property Developer",
+        "quote": "Their expertise in building handovers is unmatched. They made a complex process feel effortless.",
+        "name": "Sarah Brown",
+        "role": "Facilities Manager",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find us",
-    "title": "Where we operate",
-    "description": "Serving clients across the UK and internationally with reliable commissioning solutions.",
+    "eyebrow": "Connect with us",
+    "title": "Your commissioning experts",
+    "description": "We serve clients across the UK and internationally, bringing precision and expertise to every project.",
     "address": "",
     "website": "www.straightlineconsulting.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get in touch",
-    "title": "Schedule a consultation",
-    "description": "Contact us today to discuss your commissioning needs and project goals.",
-    "consent": "We respect your privacy."
+    "title": "Request a consultation",
+    "description": "Contact us today to discuss your commissioning needs and streamline your project delivery.",
+    "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate your commissioning",
-    "description": "Streamline workflows with AI-driven solutions tailored to your business.",
+    "title": "Enhance efficiency with AI",
+    "description": "Automation solutions tailored to commissioning management.",
     "bullets": [
-      "Digital checklists for efficient workflows.",
-      "Automated scheduling to avoid delays.",
-      "Centralized portals for easy handovers."
+      "Digital workflows for seamless coordination.",
+      "Centralized portals for document access.",
+      "Automated compliance reporting and analytics."
     ],
     "offer": "Mention Straightline Consul for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
