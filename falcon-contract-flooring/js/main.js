@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Falcon Flooring",
-    "tagline": "Precision in every step",
+    "tagline": "Commercial Flooring Experts",
     "category": "Contract Flooring",
     "location": "United Kingdom",
-    "phone": "N/A"
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted commercial flooring",
-    "title": "Seamless solutions for flooring needs",
-    "description": "Expert contract flooring services for businesses. We ensure quality installations, maintenance, and repairs tailored to your needs.",
+    "eyebrow": "Trusted by businesses",
+    "title": "Seamless flooring solutions for all.",
+    "description": "We specialize in supply, installation, and maintenance, ensuring quality flooring tailored to your needs.",
     "highlights": [
       {
-        "label": "Projects Completed",
-        "value": "3,500+"
+        "label": "Floors Installed",
+        "value": "2,500+"
       },
       {
-        "label": "Years of Expertise",
-        "value": "25+"
+        "label": "Years of Experience",
+        "value": "15+"
       },
       {
-        "label": "Client Satisfaction",
-        "value": "99%"
+        "label": "Customer Satisfaction",
+        "value": "98%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,62 +31,62 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
+        "title": "Premium Materials",
+        "description": "We use top-grade materials for durable and stylish flooring solutions."
+      },
+      {
         "title": "Expert Craftsmanship",
-        "description": "Decades of expertise in commercial flooring ensure flawless results."
+        "description": "Skilled professionals ensure precision in every installation."
       },
       {
-        "title": "Visual Impact",
-        "description": "High-quality aerial photography showcases our stunning work."
-      },
-      {
-        "title": "Modern Approach",
-        "description": "Innovative designs paired with advanced installation techniques."
+        "title": "Reliable Service",
+        "description": "We deliver on time and exceed expectations every step of the way."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We specialize in commercial flooring services to suit your needs.",
+    "description": "Comprehensive flooring services tailored for businesses.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Floor Installation",
-        "description": "Precision installation of durable, commercial-grade flooring."
+        "title": "Flooring Supply",
+        "description": "Providing top-quality materials for commercial spaces."
       },
       {
         "icon": "🔧",
-        "title": "Maintenance & Repairs",
-        "description": "Reliable upkeep and quick repairs to extend floor life."
+        "title": "Installation",
+        "description": "Precision installation for a flawless finish."
       },
       {
-        "icon": "📦",
-        "title": "Flooring Supply",
-        "description": "Top-quality materials sourced for commercial projects."
+        "icon": "🛠",
+        "title": "Repairs & Maintenance",
+        "description": "Keeping your floors in perfect condition year-round."
       }
     ]
   },
   "story": {
     "eyebrow": "Our journey",
-    "title": "Delivering flooring excellence",
+    "title": "Crafting excellence in flooring.",
     "paragraphs": [
-      "Falcon Contract Flooring Sales Ltd has over 25 years of experience providing tailored flooring solutions to businesses across the UK.",
-      "We combine expertise with modern technology to deliver seamless, durable flooring that meets your needs and exceeds expectations."
+      "Falcon Contract Flooring Sales Ltd has been a trusted name in commercial flooring for over 15 years. Our dedication to quality and precision sets us apart.",
+      "We partner with businesses to provide seamless flooring services. Our expertise and customer focus drive lasting solutions tailored to your needs."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What our clients say",
-    "title": "Trusted by businesses",
+    "eyebrow": "Client experiences",
+    "title": "What our clients say",
     "list": [
       {
-        "quote": "Falcon transformed our office floors with professional precision. Highly recommend!",
-        "name": "Amanda Knight",
+        "quote": "Falcon transformed our office space with stunning flooring. The team was professional and efficient throughout.",
+        "name": "Sarah Thompson",
         "role": "Office Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Outstanding service from supply to installation. Reliable and efficient.",
+        "quote": "Their maintenance service is excellent. Our floors look new even years after installation.",
         "name": "James Carter",
         "role": "Building Contractor",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
@@ -94,27 +94,27 @@ const appData = {
     ]
   },
   "visit": {
-    "eyebrow": "Find us",
-    "title": "Your flooring partner in the UK",
-    "description": "Serving UK businesses with quality flooring solutions. Reach out for tailored services.",
-    "address": "N/A",
+    "eyebrow": "Visit us",
+    "title": "Discover quality flooring",
+    "description": "Explore our offerings and find the perfect solution for your commercial space.",
+    "address": "United Kingdom",
     "website": "www.falconcontractflooring.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Work with us",
-    "title": "Request your flooring quote today",
-    "description": "Contact us for a consultation or quote. Let’s discuss your project.",
-    "consent": "By submitting, you agree to our privacy policy."
+    "eyebrow": "Get started",
+    "title": "Request your quote today",
+    "description": "Contact us for a free consultation or quote. Let’s create the perfect floor for your space.",
+    "consent": "I agree to receive updates and offers."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
     "title": "Streamlined solutions",
-    "description": "Enhance efficiency with AI-powered tools for your flooring business.",
+    "description": "Automation boosts efficiency and captures more leads.",
     "bullets": [
-      "Automated online quotes save time and boost leads.",
-      "CRM integration ensures seamless communication.",
-      "Email automation enhances customer engagement."
+      "Lead forms simplify inquiries and quotes.",
+      "CRM integration automates follow-ups.",
+      "Scheduling tools save time and effort."
     ],
     "offer": "Mention Falcon Flooring for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Falcon Flooring delivers unforgettable experiences.",
-    "address": "N/A",
+    "address": "United Kingdom",
     "email": "",
     "socials": [
       {
