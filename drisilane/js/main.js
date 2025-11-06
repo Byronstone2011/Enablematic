@@ -1,19 +1,19 @@
 const appData = {
   "brand": {
-    "name": "DriSilane Ltd",
-    "tagline": "Roofing Repairs Perfected",
-    "category": "Roofing & Construction",
+    "name": "DriSilane®",
+    "tagline": "Roofing repairs redefined",
+    "category": "Roofing / Construction",
     "location": "Unknown",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Expert roof repair solutions",
-    "title": "Stop leaks and restore your roof.",
-    "description": "Our tailored three-step system repairs, manages, and protects roofs with seamless precision, reducing downtime and costs.",
+    "eyebrow": "Expert roofing solutions",
+    "title": "End roof leaks with tailored repairs.",
+    "description": "Our three-step system ensures expert repair, seamless delivery, and lasting solutions for any roofing project.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "1,000+"
+        "value": "1,500+"
       },
       {
         "label": "Client Satisfaction",
@@ -21,7 +21,7 @@ const appData = {
       },
       {
         "label": "Years of Expertise",
-        "value": "15+"
+        "value": "10+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1681049400158-0ff6249ac315?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxSb29maW5nJTIwJTJGJTIwQ29uc3RydWN0aW9uJTIwJTJGJTIwQnVpbGRpbmclMjBtYWludGVuYW5jZSUyMCU1QiUyMlRocmVlLXN0YWdlJTIwcm9vZmluZyUyMHJlcGFpciUyMHByb2dyYW1tZSUyMiUyQyUyMlJvb2ZpbmclMjBwcm9qZWN0JTIwbWFuYWdlbWVudCUyMGFuZCUyMGVuZC10by1lbmQlMjBkZWxpdmVyeSUyMiUyQyUyMlJvb2ZpbmclMjBjb25zdWx0YW5jeSUyMGFuZCUyMHRhaWxvcmVkJTIwcmVtZWRpYXRpb24lMjBzb2x1dGlvbnMlMjIlNUR8ZW58MHx8fHwxNzYyNDM0MzIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Tailored Solutions",
-        "description": "Custom repair plans ensure your roof gets precisely what it needs."
+        "title": "Tailored Programs",
+        "description": "We create bespoke repair solutions for unique project needs."
       },
       {
-        "title": "Seamless Delivery",
-        "description": "Our three-step system ensures precision from start to finish."
+        "title": "End-to-End Service",
+        "description": "From consultation to application, we handle every detail."
       },
       {
-        "title": "Industry Expertise",
-        "description": "15+ years of roofing expertise trusted by professionals."
+        "title": "Proven Expertise",
+        "description": "Our team delivers industry-leading repair results."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Expert roofing services tailored to your needs.",
+    "description": "Specialized roofing repair services designed for commercial needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Three-step Repairs",
-        "description": "A proven approach to fix and protect your roof long-term."
+        "description": "Seamless repair process for durable roofing solutions."
       },
       {
         "icon": "💼",
         "title": "Project Management",
-        "description": "End-to-end delivery for smooth project execution."
+        "description": "Complete oversight from specification to delivery."
       },
       {
         "icon": "🛠",
         "title": "Roofing Consultancy",
-        "description": "Tailored advice for complex roofing challenges."
+        "description": "Expert advice tailored to your roofing challenges."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey to excell",
-    "title": "Precision, passion, and proven results",
+    "eyebrow": "Our Journey",
+    "title": "From problem to solution.",
     "paragraphs": [
-      "DriSilane Ltd specializes in a unique three-step roofing repair system. We deliver tailored, end-to-end solutions that meet every project’s needs.",
-      "With automation and expert-led management, we simplify complex roofing repairs, ensuring quality work and client satisfaction every time."
+      "DriSilane® specializes in bespoke roofing repair solutions. Our seamless three-step system ensures every project benefits from expert care.",
+      "With automation and expertise, we simplify complex repairs, ensuring high-quality results for commercial clients nationwide."
     ],
     "image": "https://images.unsplash.com/photo-1722876720000-f39b65b7d4a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxSb29maW5nJTIwJTJGJTIwQ29uc3RydWN0aW9uJTIwJTJGJTIwQnVpbGRpbmclMjBtYWludGVuYW5jZSUyMHByb2Zlc3Npb25hbCUyMHRlYW0lMjBhdCUyMHdvcmt8ZW58MHx8fHwxNzYyNDM0MzI3fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Real results, lasting impact",
+    "eyebrow": "What Clients Say",
+    "title": "Proven results, happy clients.",
     "list": [
       {
-        "quote": "DriSilane saved us from endless leaks. Their process was seamless and efficient.",
-        "name": "Sarah Thompson",
+        "quote": "DriSilane solved persistent leaks with precision and care. Excellent service!",
+        "name": "John Fields",
         "role": "Facilities Manager",
         "avatar": "https://images.unsplash.com/photo-1722876720000-f39b65b7d4a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxSb29maW5nJTIwJTJGJTIwQ29uc3RydWN0aW9uJTIwJTJGJTIwQnVpbGRpbmclMjBtYWludGVuYW5jZSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNDM0MzIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
       },
       {
-        "quote": "Their tailored repair plan transformed our aging roof. I highly recommend them.",
-        "name": "Mark Evans",
-        "role": "Property Owner",
+        "quote": "Their tailored program made our roof repairs effortless and effective.",
+        "name": "Sarah Connor",
+        "role": "Building Owner",
         "avatar": "https://images.unsplash.com/photo-1566821594226-cdc9cb42a4c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwyfHxSb29maW5nJTIwJTJGJTIwQ29uc3RydWN0aW9uJTIwJTJGJTIwQnVpbGRpbmclMjBtYWludGVuYW5jZSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNDM0MzIxfDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Discover our expertise",
-    "title": "Your trusted roofing partner",
-    "description": "Contact us to learn how we can restore your roof with precision and care.",
-    "address": "Unknown",
-    "website": "www.drisilane.com",
+    "eyebrow": "Find Us",
+    "title": "Explore our services.",
+    "description": "Contact us today to learn how we can solve your roofing challenges.",
+    "address": "Not available",
+    "website": "drisilane.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Let’s get started",
-    "title": "Request a consultation today!",
-    "description": "Reach out for a tailored roofing solution that fits your needs.",
-    "consent": "We value your privacy and data security."
+    "eyebrow": "Get Started",
+    "title": "Request a consultation.",
+    "description": "Contact us for tailored roofing repair solutions today.",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Simplify roof repair",
-    "description": "Automation transforms your roofing projects.",
+    "title": "Streamline Your Roofing Projects",
+    "description": "Leverage automation to simplify roofing repairs.",
     "bullets": [
-      "Instant quotes via automated workflows.",
-      "Effortless scheduling and updates.",
-      "CRM integration for seamless communication."
+      "Capture leads and send quotes instantly.",
+      "Automate project updates and communication.",
+      "Schedule repairs efficiently with AI tools."
     ],
-    "offer": "Mention DriSilane Ltd for the launch-week optimization kit.",
+    "offer": "Mention DriSilane® for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "DriSilane Ltd delivers unforgettable experiences.",
-    "address": "Unknown",
+    "blurb": "DriSilane® delivers unforgettable experiences.",
+    "address": "Not available",
     "email": "",
     "socials": [
       {
