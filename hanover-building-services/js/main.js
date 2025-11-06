@@ -1,120 +1,120 @@
 const appData = {
   "brand": {
     "name": "Hanover Building",
-    "tagline": "MEP solutions that deliver",
-    "category": "MEP Contractor",
-    "location": "London, UK",
+    "tagline": "Building systems experts",
+    "category": "MEP Contracting",
+    "location": "London & Home Coun",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Award-winning contractor",
-    "title": "Integrated MEP services for complex projects",
-    "description": "We streamline mechanical, electrical, and plumbing systems for seamless construction and energy-efficient solutions.",
+    "eyebrow": "Award-winning services",
+    "title": "Seamless MEP solutions for every project.",
+    "description": "We integrate mechanical, electrical, and plumbing systems with precision to meet complex project demands.",
     "highlights": [
       {
-        "label": "Years in Business",
-        "value": "10+"
-      },
-      {
-        "label": "Projects Completed",
-        "value": "500+"
+        "label": "Projects Delivered",
+        "value": "1,000+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
+      },
+      {
+        "label": "Years of Experience",
+        "value": "25+"
       }
     ],
-    "image": "https://images.pexels.com/photos/8470036/pexels-photo-8470036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Coordination",
-        "description": "We ensure flawless integration of MEP systems across diverse projects, avoiding costly delays."
+        "title": "Comprehensive Expertise",
+        "description": "We handle every aspect of MEP from design to construction for seamless integration."
       },
       {
-        "title": "Skilled Workforce",
-        "description": "Our team delivers precision and quality through decades of industry experience and training programs."
+        "title": "Proven Quality",
+        "description": "Award-winning service trusted by developers across London and the South East."
       },
       {
-        "title": "Client Focus",
-        "description": "We prioritize transparent communication and tailored solutions to exceed client expectations."
+        "title": "Client Commitment",
+        "description": "Dedicated to delivering on time and exceeding expectations every time."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We provide leading MEP services tailored for commercial developments in London and the South East.",
+    "description": "We deliver tailored MEP contracting solutions for diverse developments.",
     "cards": [
       {
-        "icon": "⚡",
-        "title": "Electrical Contracting",
-        "description": "Expert electrical installations, ensuring safety and efficiency for all building types."
+        "icon": "💡",
+        "title": "Electrical Installation",
+        "description": "Expert electrical contracting for efficient and safe system integration."
       },
       {
-        "icon": "🔥",
+        "icon": "🔧",
         "title": "Mechanical Systems",
-        "description": "Seamless mechanical installations, including heating, ventilation, and cooling systems."
+        "description": "Design and installation of advanced mechanical systems for buildings."
       },
       {
         "icon": "🌱",
         "title": "Renewable Energy",
-        "description": "Integration of sustainable energy systems for greener, future-ready developments."
+        "description": "Integration of sustainable energy systems to reduce environmental impact."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Building smarter MEP solutions",
+    "eyebrow": "Our Journey",
+    "title": "Shaping London's Infrastructure",
     "paragraphs": [
-      "Hanover Building Services has been delivering award-winning MEP solutions across London and the home counties. Our team combines innovation and expertise to transform developments.",
-      "We excel in integrating mechanical, electrical, and renewable systems. With a client-first approach, we streamline construction workflows and enhance project outcomes."
+      "Hanover Building Services has delivered award-winning MEP solutions for over 25 years. We serve commercial developers, consultants, and construction clients.",
+      "Our focus on quality, workforce development, and seamless coordination ensures successful projects tailored to each client's unique needs."
     ],
-    "image": "https://images.pexels.com/photos/6196225/pexels-photo-6196225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client feedback",
-    "title": "What our clients say",
+    "eyebrow": "Client Reviews",
+    "title": "Trusted by Industry Leaders",
     "list": [
       {
-        "quote": "Hanover's coordination of MEP systems saved us time and reduced project complexities. Highly recommend!",
-        "name": "Emily Carter",
+        "quote": "Hanover's coordination across systems was flawless, saving time and costs on our project.",
+        "name": "James H.",
         "role": "Property Developer",
-        "avatar": "https://images.pexels.com/photos/8774503/pexels-photo-8774503.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their expertise in renewable energy integration helped us achieve sustainability goals effortlessly.",
-        "name": "James Turner",
+        "quote": "Their expertise in renewable energy integration was key to meeting sustainability goals.",
+        "name": "Sophie L.",
         "role": "Construction Consultant",
-        "avatar": "https://images.unsplash.com/photo-1646227655718-dd721b681d91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxNRVAlMjAlMjhNZWNoYW5pY2FsJTJDJTIwRWxlY3RyaWNhbCUyQyUyMFBsdW1iaW5nJTI5JTIwY29udHJhY3RpbmclMjAlMkYlMjBCdWlsZGluZyUyMHNlcnZpY2VzJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0MzQyMzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+        "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find us",
-    "title": "Serving London & Home Counties",
-    "description": "We proudly deliver MEP services across London and the South East, ensuring high-quality results in every project.",
+    "eyebrow": "Visit Us",
+    "title": "Serving London & Beyond",
+    "description": "We proudly serve developments across London and the surrounding home counties.",
     "address": "London, UK",
-    "website": "www.hanoverbuilding.co.uk",
+    "website": "www.hanoverelectrical.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started",
-    "title": "Request a consultation",
-    "description": "Contact us today to discuss your project needs. Let's create efficient, sustainable solutions together!",
+    "eyebrow": "Get Started",
+    "title": "Request a Consultation",
+    "description": "Contact us today to discuss your project needs and receive a tailored proposal.",
     "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Smart automation for MEP success",
-    "description": "Unlock efficiency with AI tools tailored to MEP contracting.",
+    "title": "Streamline Project Success",
+    "description": "Leverage automation to optimize every stage of your MEP project with Hanover.",
     "bullets": [
-      "Streamline estimates and proposals for faster client responses.",
-      "Automate project tracking for real-time updates and transparency.",
-      "Optimize workforce scheduling to maximize productivity."
+      "Automated CRM to nurture leads and manage inquiries.",
+      "Real-time project updates through client portals.",
+      "Efficient workforce scheduling and training tracking."
     ],
     "offer": "Mention Hanover Building for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
