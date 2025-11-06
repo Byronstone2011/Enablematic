@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Structis",
-    "tagline": "Premium building solutions.",
+    "tagline": "Building success together",
     "category": "Construction Services",
-    "location": "Location unavailab",
-    "phone": "Phone unavailable"
+    "location": "Unknown",
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Reliable construction services",
-    "title": "End delays with expert coordination.",
-    "description": "Structis streamlines projects with premium solutions, ensuring compliance and timely installations for lasting results.",
+    "eyebrow": "Seamless construction solutions",
+    "title": "Eliminate delays and ensure compliance.",
+    "description": "Structis simplifies complex projects with trusted fireproofing, waterproofing, and durable flooring solutions tailored to your needs.",
     "highlights": [
       {
-        "label": "Years of Expertise",
-        "value": "15+"
-      },
-      {
         "label": "Projects Completed",
-        "value": "2,500+"
+        "value": "1,500+"
       },
       {
         "label": "Compliance Rate",
-        "value": "99%"
+        "value": "99.9%"
+      },
+      {
+        "label": "Years of Experience",
+        "value": "20+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Comprehensive Solutions",
-        "description": "We offer a full range of services to simplify your construction needs."
+        "title": "Comprehensive Services",
+        "description": "We cover all essential construction needs, from insulation to flooring, under one roof."
       },
       {
-        "title": "Proven Experience",
-        "description": "Over 15 years delivering top-quality building solutions."
+        "title": "Proven Expertise",
+        "description": "Decades of experience delivering premium solutions for multifamily and commercial projects."
       },
       {
-        "title": "Reliable Compliance",
-        "description": "We ensure installations meet safety and building standards."
+        "title": "Trusted Compliance",
+        "description": "Our installations meet strict fireproofing and waterproofing standards every time."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our premium construction services designed for multifamily and commercial projects.",
+    "description": "Explore our range of specialized services designed for multifamily and commercial projects.",
     "cards": [
-      {
-        "icon": "🏗",
-        "title": "Concrete Services",
-        "description": "From underlayment to elevated installs, we handle concrete projects efficiently."
-      },
       {
         "icon": "🔥",
         "title": "Fireproofing",
-        "description": "Ensure safety with advanced fireproofing solutions that comply with regulations."
+        "description": "Ensure safety with expert fireproofing solutions that comply with industry standards."
       },
       {
         "icon": "💧",
         "title": "Waterproofing",
-        "description": "Protect structures with durable waterproofing to prevent damage and leaks."
+        "description": "Protect structures with reliable waterproofing to prevent costly damage."
+      },
+      {
+        "icon": "🏗",
+        "title": "Finished Flooring",
+        "description": "Install durable flooring for multifamily and commercial spaces with precision."
       }
     ]
   },
   "story": {
-    "eyebrow": "Built on excellence",
-    "title": "Our journey to trusted solutions",
+    "eyebrow": "Our mission and visio",
+    "title": "Building premium solutions for success",
     "paragraphs": [
-      "Structis began with a mission to simplify construction processes. Today, we lead in providing premium building solutions across industries.",
-      "Our expertise and commitment to quality ensure projects are completed efficiently, on time, and with compliance to all regulations."
+      "Structis has been a trusted partner in construction, offering insulation, fireproofing, and waterproofing solutions that ensure the success of every project.",
+      "We deliver efficiency and compliance through tailored services, helping builders and property managers overcome challenges and achieve excellence."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Trusted by industry leaders",
+    "eyebrow": "What our clients say",
+    "title": "Customer feedback",
     "list": [
       {
-        "quote": "Structis saved our project timeline with seamless coordination. Their fireproofing was flawless.",
-        "name": "Jessica R.",
-        "role": "Project Manager",
+        "quote": "Structis saved us time and costs by managing fireproofing and flooring under one contract.",
+        "name": "Mark Thompson",
+        "role": "General Contractor",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their waterproofing expertise is unmatched. We trust Structis for all our projects.",
-        "name": "Michael T.",
-        "role": "Developer",
+        "quote": "Their waterproofing solutions ensured compliance and long-term protection for our building.",
+        "name": "Sarah Lopez",
+        "role": "Property Manager",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us",
+    "eyebrow": "Visit us today",
     "title": "Find Structis near you",
-    "description": "Our locations support builders wherever they need expert solutions. Contact us for details.",
-    "address": "Address unavailable",
-    "website": "Website unavailable",
+    "description": "Experience our expertise firsthand. Contact us to discuss your project needs.",
+    "address": "Unknown",
+    "website": "www.structis.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started today",
-    "title": "Request your consultation",
-    "description": "Contact us to schedule a consultation or request a quote for your project.",
+    "eyebrow": "Start your project",
+    "title": "Request a consultation",
+    "description": "Contact us to schedule your consultation and explore tailored solutions for your build.",
     "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your projects",
-    "description": "Boost efficiency with automation tailored to construction needs.",
+    "title": "Efficiency through automation",
+    "description": "Leverage AI to streamline operations and enhance project management.",
     "bullets": [
-      "Generate quotes instantly with online tools.",
-      "Simplify scheduling with automated crew dispatch.",
-      "Track milestones via a project dashboard."
+      "Generate quotes instantly with automated tools.",
+      "Simplify scheduling with AI-driven dashboards.",
+      "Deliver real-time updates to clients seamlessly."
     ],
     "offer": "Mention Structis for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Structis delivers unforgettable experiences.",
-    "address": "Address unavailable",
+    "address": "Unknown",
     "email": "",
     "socials": [
       {
