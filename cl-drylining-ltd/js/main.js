@@ -7,13 +7,13 @@ const appData = {
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted drylining experts",
-    "title": "Effortless drylining solutions for all projects",
-    "description": "We streamline drylining, plastering, and finishing services with precision and efficiency, saving you time and hassle.",
+    "eyebrow": "Expert drylining services",
+    "title": "Streamlining drywall solutions for every project",
+    "description": "We deliver reliable drylining, plastering, and finishing services tailored to commercial and residential needs. Trusted results every time.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "1,000+"
+        "value": "1,500+"
       },
       {
         "label": "Client Satisfaction",
@@ -21,7 +21,7 @@ const appData = {
       },
       {
         "label": "Years of Experience",
-        "value": "15+"
+        "value": "20+"
       }
     ],
     "image": "https://images.pexels.com/photos/6474123/pexels-photo-6474123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Craftsmanship",
-        "description": "Our team delivers high-quality finishes that meet industry standards and exceed expectations."
+        "title": "Proven Expertise",
+        "description": "Decades of industry experience ensure precise execution and top-quality results."
       },
       {
-        "title": "Streamlined Processes",
-        "description": "We simplify scheduling, quoting, and execution for faster, more efficient results."
+        "title": "Tailored Solutions",
+        "description": "Customized drylining and finishing services for all project scales."
       },
       {
-        "title": "Versatile Services",
-        "description": "From plastering to insulation, we handle diverse needs for residential and commercial projects."
+        "title": "Flawless Finish",
+        "description": "We prioritize attention to detail for seamless, professional outcomes."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We offer comprehensive drylining, plastering, and finishing services tailored to your needs.",
+    "description": "Comprehensive drylining and finishing services for diverse needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Drylining Systems",
-        "description": "Dot-and-dab, screw fixings, and wall lining tailored to your project requirements."
+        "description": "Dot-and-dab, screw fixings, and independent wall lining tailored to specifications."
       },
       {
         "icon": "🎨",
         "title": "Painting Services",
-        "description": "Professional decorators providing flawless finishes for all spaces."
+        "description": "Professional decorators and finishes for a polished, lasting look."
       },
       {
         "icon": "🛠",
-        "title": "Plastering Services",
-        "description": "Float & set and skimming systems for smooth, durable surfaces."
+        "title": "Plastering",
+        "description": "Float & set and skimming systems for smooth surfaces and durability."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Built on precision and reliability",
+    "eyebrow": "Our Journey",
+    "title": "Built on trust and excellence",
     "paragraphs": [
-      "CL Drylining Ltd was founded to deliver exceptional drylining and finishing services. Our commitment to quality has earned us loyal clients across sectors.",
-      "We simplify workflows with expert teams and efficient processes, ensuring projects are completed on time and to the highest standards."
+      "CL Drylining Ltd began with a commitment to delivering reliable, high-quality drylining solutions. Our team’s expertise drives flawless project execution.",
+      "By integrating tailored services with modern tools, we ensure efficient workflows and exceptional results for our clients, no matter the project size."
     ],
     "image": "https://images.pexels.com/photos/416405/pexels-photo-416405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Customer feedback that speaks volumes",
+    "eyebrow": "What Clients Say",
+    "title": "Real results, real feedback",
     "list": [
       {
-        "quote": "CL Drylining Ltd transformed our space with flawless finishes and timely service. Highly recommend!",
-        "name": "Sarah Johnson",
-        "role": "Property Developer",
+        "quote": "CL Drylining transformed our space with precision and efficiency. Truly outstanding service.",
+        "name": "Sarah T.",
+        "role": "Commercial Developer",
         "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their streamlined approach saved us time and effort. The results exceeded our expectations!",
-        "name": "David Lee",
+        "quote": "Their attention to detail and professionalism exceeded expectations. Highly recommend.",
+        "name": "James R.",
         "role": "Facilities Manager",
         "avatar": "https://images.unsplash.com/photo-1729627511349-4c1b0644a8e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMkYlMjBEcnlsaW5pbmclMjAlMjhkcnl3YWxsJTI5JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0MzQyOTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us",
-    "title": "Your trusted drylining partner",
-    "description": "Reach out to us for expert drylining and finishing solutions tailored to your needs.",
+    "eyebrow": "Visit Us",
+    "title": "See our work in action",
+    "description": "Explore our services and connect with us to learn how we can transform your space.",
     "address": "",
-    "website": "",
+    "website": "cldryliningltd.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get a quote",
-    "title": "Request your consultation today",
-    "description": "Contact us for tailored solutions to your drylining and finishing needs.",
-    "consent": "We respect your privacy and never share your information."
+    "eyebrow": "Get in Touch",
+    "title": "Request a Quote Today",
+    "description": "Contact us for customized drylining solutions. Let's bring your project to life.",
+    "consent": "We respect your privacy. No spam."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Revolutionize your operations",
-    "description": "Streamline your business with our AI-powered solutions for drylining services.",
+    "title": "Streamline your operations",
+    "description": "Leverage AI and automation to enhance efficiency and simplify workflows.",
     "bullets": [
-      "Automated quote and booking tools to capture leads effortlessly.",
-      "CRM integration to manage clients and follow-ups efficiently.",
-      "Scheduling automation with reminders for seamless coordination."
+      "Online quote and booking tools for faster conversions.",
+      "CRM integration for seamless client management.",
+      "Automated invoicing and payment links to speed up cashflow."
     ],
     "offer": "Mention CL Drylining Ltd for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
