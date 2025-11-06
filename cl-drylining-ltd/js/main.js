@@ -1,19 +1,19 @@
 const appData = {
   "brand": {
     "name": "CL Drylining Ltd",
-    "tagline": "Precision in every detail",
+    "tagline": "Precision in every layer",
     "category": "Construction / Drylining",
     "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Expert drylining services",
-    "title": "Streamlining drywall solutions for every project",
-    "description": "We deliver reliable drylining, plastering, and finishing services tailored to commercial and residential needs. Trusted results every time.",
+    "eyebrow": "Reliable construction solutions",
+    "title": "Streamlined drylining services for every project",
+    "description": "We deliver expert drylining, plastering, and finishes with precision, saving time and ensuring quality for commercial and residential projects.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "1,500+"
+        "value": "1,000+"
       },
       {
         "label": "Client Satisfaction",
@@ -21,100 +21,100 @@ const appData = {
       },
       {
         "label": "Years of Experience",
-        "value": "20+"
+        "value": "15+"
       }
     ],
-    "image": "https://images.pexels.com/photos/6474123/pexels-photo-6474123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Proven Expertise",
-        "description": "Decades of industry experience ensure precise execution and top-quality results."
+        "title": "Expert Craftsmanship",
+        "description": "Our team ensures perfect execution for every project, big or small."
       },
       {
-        "title": "Tailored Solutions",
-        "description": "Customized drylining and finishing services for all project scales."
+        "title": "Reliable Scheduling",
+        "description": "We prioritize timely delivery to meet construction deadlines."
       },
       {
-        "title": "Flawless Finish",
-        "description": "We prioritize attention to detail for seamless, professional outcomes."
+        "title": "End-to-End Service",
+        "description": "From drylining to finishes, we offer complete interior solutions."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive drylining and finishing services for diverse needs.",
+    "description": "CL Drylining Ltd specializes in interior construction services tailored to meet the needs of diverse projects.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Drylining Systems",
-        "description": "Dot-and-dab, screw fixings, and independent wall lining tailored to specifications."
+        "description": "Dot-and-dab, screw fixings, and independent wall lining for robust interiors."
       },
       {
         "icon": "🎨",
-        "title": "Painting Services",
-        "description": "Professional decorators and finishes for a polished, lasting look."
+        "title": "Painting & Finishes",
+        "description": "Professional painting and decorating services for flawless results."
       },
       {
         "icon": "🛠",
-        "title": "Plastering",
-        "description": "Float & set and skimming systems for smooth surfaces and durability."
+        "title": "Plastering Services",
+        "description": "Float and set, skimming systems, and tape & jointing for smooth surfaces."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "Built on trust and excellence",
+    "eyebrow": "Our journey in constr",
+    "title": "Building trust with every project",
     "paragraphs": [
-      "CL Drylining Ltd began with a commitment to delivering reliable, high-quality drylining solutions. Our team’s expertise drives flawless project execution.",
-      "By integrating tailored services with modern tools, we ensure efficient workflows and exceptional results for our clients, no matter the project size."
+      "Founded by Chris Loynes, CL Drylining Ltd has built a reputation for precision and reliability in drylining, plastering, and finishing services.",
+      "We serve commercial and residential clients, optimizing workflows and delivering quality through innovative solutions tailored to every need."
     ],
-    "image": "https://images.pexels.com/photos/416405/pexels-photo-416405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Real results, real feedback",
+    "eyebrow": "Customer feedback",
+    "title": "What our clients say",
     "list": [
       {
-        "quote": "CL Drylining transformed our space with precision and efficiency. Truly outstanding service.",
-        "name": "Sarah T.",
-        "role": "Commercial Developer",
-        "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        "quote": "CL Drylining transformed our interiors with perfect finishes and met every deadline. Highly recommend their services!",
+        "name": "Sarah Thompson",
+        "role": "Facilities Manager",
+        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their attention to detail and professionalism exceeded expectations. Highly recommend.",
-        "name": "James R.",
-        "role": "Facilities Manager",
-        "avatar": "https://images.unsplash.com/photo-1729627511349-4c1b0644a8e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMkYlMjBEcnlsaW5pbmclMjAlMjhkcnl3YWxsJTI5JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0MzQyOTd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+        "quote": "Their drylining expertise and reliable scheduling made our project seamless from start to finish.",
+        "name": "John Williams",
+        "role": "Property Developer",
+        "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "See our work in action",
-    "description": "Explore our services and connect with us to learn how we can transform your space.",
+    "eyebrow": "Our service areas",
+    "title": "Where we work",
+    "description": "We serve commercial and residential projects across the UK, delivering reliable construction solutions tailored to location needs.",
     "address": "",
-    "website": "cldryliningltd.co.uk",
+    "website": "www.cldryliningltd.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in Touch",
-    "title": "Request a Quote Today",
-    "description": "Contact us for customized drylining solutions. Let's bring your project to life.",
-    "consent": "We respect your privacy. No spam."
+    "eyebrow": "Get started today",
+    "title": "Request a quote or consultation",
+    "description": "Contact us to discuss your project needs. We'll provide expert guidance and a tailored quote.",
+    "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your operations",
-    "description": "Leverage AI and automation to enhance efficiency and simplify workflows.",
+    "title": "Automate your construction workflows",
+    "description": "Maximize efficiency and win more projects with AI-powered solutions.",
     "bullets": [
-      "Online quote and booking tools for faster conversions.",
-      "CRM integration for seamless client management.",
-      "Automated invoicing and payment links to speed up cashflow."
+      "Automated quote calculators for instant client estimates.",
+      "CRM tools to manage leads, follow-ups, and scheduling.",
+      "Streamlined invoicing for faster payments and project completion."
     ],
     "offer": "Mention CL Drylining Ltd for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
