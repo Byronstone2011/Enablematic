@@ -1,15 +1,15 @@
 const appData = {
   "brand": {
     "name": "Wilkinson Construct",
-    "tagline": "Building control made simple",
-    "category": "Building Control Services",
-    "location": "Serving UK",
+    "tagline": "Building compliance experts",
+    "category": "Building Inspection",
+    "location": "UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted UK experts",
-    "title": "Fast, compliant building inspections.",
-    "description": "We streamline building control, ensuring compliance and avoiding costly delays. Reliable service for commercial and domestic projects.",
+    "eyebrow": "Trusted UK Building Inspectors",
+    "title": "Streamline compliance, avoid delays.",
+    "description": "Expert inspections ensure efficient approvals and compliance with Building Regulations across the UK.",
     "highlights": [
       {
         "label": "Years of Expertise",
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Proven Expertise",
-        "description": "15+ years of trusted building control services across the UK."
+        "title": "Trusted Expertise",
+        "description": "Our inspectors bring decades of experience in building control services."
       },
       {
-        "title": "Streamlined Process",
-        "description": "Efficient approvals minimize delays and keep projects on track."
+        "title": "Efficient Processes",
+        "description": "We streamline approvals to save you time and money."
       },
       {
-        "title": "Client-Centric Tools",
-        "description": "Modern systems for seamless scheduling and compliance tracking."
+        "title": "Client-Focused Tools",
+        "description": "Our systems simplify document uploads and status tracking."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Expert building control services tailored to commercial and domestic needs.",
+    "description": "We provide tailored building inspections to meet all project needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Commercial Inspections",
-        "description": "Comprehensive inspections for industrial, healthcare, offices, and leisure buildings."
+        "description": "Expert inspections for offices, industrial, healthcare, and leisure spaces."
       },
       {
         "icon": "🏠",
         "title": "Domestic Inspections",
-        "description": "Expert evaluations for extensions, basements, garages, and home offices."
+        "description": "Comprehensive checks for extensions, basements, garages, and home offices."
       },
       {
-        "icon": "💼",
+        "icon": "🛠",
         "title": "Site Consultations",
-        "description": "On-site inspections and consultations to ensure regulatory compliance."
+        "description": "On-site consultations ensure compliance and smooth project execution."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Building trust through experience",
+    "eyebrow": "Our Journey",
+    "title": "Building trust, ensuring compliance.",
     "paragraphs": [
-      "Wilkinson Construction Consultants ensures UK building projects meet regulations. With over 15 years of expertise, we’re trusted by developers and homeowners alike.",
-      "Our client-focused approach and efficient systems save time and costs. Accredited and reliable, we deliver seamless building control services nationwide."
+      "Wilkinson Construction Consultants Limited has provided expert building control services for over 15 years. We serve London, Kent, and the South East, ensuring projects meet regulations.",
+      "Our client-first approach, backed by automation, makes approvals seamless. We help developers, architects, and homeowners stay compliant efficiently."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
     "eyebrow": "What clients say",
-    "title": "Hear from satisfied customers",
+    "title": "Trusted by developers and homeowners.",
     "list": [
       {
-        "quote": "Wilkinson helped us navigate building regulations smoothly. Highly recommend their efficient and expert services.",
-        "name": "Sarah J.",
-        "role": "Architect",
-        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
+        "quote": "Wilkinson saved us time and kept our project on track. Their expertise is unmatched.",
+        "name": "John D.",
+        "role": "Commercial Developer",
+        "avatar": "https://images.pexels.com/photos/8960993/pexels-photo-8960993.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their team made inspections stress-free, avoiding costly delays. Great service and clear communication throughout.",
-        "name": "John T.",
-        "role": "Project Manager",
+        "quote": "Their inspections were thorough and hassle-free. Highly recommended!",
+        "name": "Sarah T.",
+        "role": "Homeowner",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Connect with us",
-    "title": "Serving London & beyond",
-    "description": "From Kent to London and across the UK, Wilkinson delivers trusted building control services.",
+    "eyebrow": "Ready to visit?",
+    "title": "Serving London and the South East",
+    "description": "We proudly support projects across London, Kent, and beyond.",
     "address": "",
-    "website": "www.thebuildinginspector.org",
+    "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started today",
-    "title": "Book your consultation now",
-    "description": "Contact us for expert building inspections and approvals. Fast, reliable service starts here.",
-    "consent": "Your data is safe with us."
+    "eyebrow": "Contact us today",
+    "title": "Book an inspection now",
+    "description": "Email geoff@thebuildinginspector.org to schedule your consultation.",
+    "consent": "We value your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Smarter building control",
-    "description": "Transform your building control process with cutting-edge automation.",
+    "title": "Automation for building control",
+    "description": "Streamline processes with AI-powered solutions.",
     "bullets": [
-      "Automated booking and inspection scheduling.",
-      "Client portal for real-time document tracking.",
-      "Instant quotes and streamlined invoicing."
+      "Automate booking and inspections.",
+      "Track project status in real-time.",
+      "Simplify invoicing and CRM follow-ups."
     ],
     "offer": "Mention Wilkinson Construct for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
