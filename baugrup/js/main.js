@@ -1,23 +1,23 @@
 const appData = {
   "brand": {
     "name": "BAUGRUP",
-    "tagline": "Innovating building solutions",
+    "tagline": "Innovating façades worldwide",
     "category": "Construction Materials",
-    "location": "Global Expertise",
-    "phone": "Contact via email"
+    "location": "Global",
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Industry-leading expertise",
-    "title": "Efficient insulation for modern buildings",
-    "description": "We deliver cost-effective, compliant façade solutions that simplify installation and reduce energy consumption.",
+    "eyebrow": "Leader in construction tech",
+    "title": "Efficient solutions for compliance & costs",
+    "description": "We produce innovative façade materials and machinery, optimizing energy compliance and reducing installation expenses worldwide.",
     "highlights": [
       {
-        "label": "Years of Innovation",
-        "value": "20+"
+        "label": "Years of Expertise",
+        "value": "15+"
       },
       {
-        "label": "Projects Completed",
-        "value": "3,000+"
+        "label": "Projects Delivered",
+        "value": "2,500+"
       },
       {
         "label": "Client Satisfaction",
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Advanced Technology",
-        "description": "We use cutting-edge machinery and materials for superior performance."
+        "title": "Innovative Materials",
+        "description": "We design cutting-edge thermal insulation materials for energy-efficient buildings."
       },
       {
-        "title": "Global Reach",
-        "description": "Our products and services are trusted worldwide, across all climates."
+        "title": "Advanced Machinery",
+        "description": "Our CNC cutting and EPS coating machines boost production efficiency and precision."
       },
       {
-        "title": "Custom Solutions",
-        "description": "Tailored systems meet unique project needs and regulatory standards."
+        "title": "Global Support",
+        "description": "We provide factory setups, training, and ongoing help to franchisees worldwide."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "BAUGRUP delivers innovative materials and machinery for efficient building solutions.",
+    "description": "BAUGRUP offers premium façade materials and machinery for diverse construction needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Thermal Insulation",
-        "description": "BAUCLAD offers energy-efficient façade materials for modern buildings."
+        "description": "Durable façade materials like BAUCLAD ensure top-notch energy compliance."
       },
       {
-        "icon": "💼",
-        "title": "EPS Coatings",
-        "description": "BAUCOAT provides meshless technology for durable and decorative finishes."
+        "icon": "🔧",
+        "title": "EPS Machinery",
+        "description": "Our CNC technology enables precise foam cutting and efficient coating solutions."
       },
       {
-        "icon": "⚙️",
-        "title": "Machinery Setup",
-        "description": "We offer CNC cutting machines and factory setup for production scalability."
+        "icon": "🌍",
+        "title": "Franchise Setup",
+        "description": "We help entrepreneurs establish production facilities with training and licensing."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Building smarter, more sustainable futures",
+    "title": "Shaping the future of façades",
     "paragraphs": [
-      "Founded by Emine Aydin, BAUGRUP leads in thermal insulation and façade technology. Our products ensure energy efficiency and modern aesthetics.",
-      "We empower architects and builders with tailored solutions, innovative machinery, and dedicated support for scalable growth."
+      "BAUGRUP is a pioneer in thermal insulating façade materials and CNC machinery. Our solutions redefine energy compliance and reduce labor costs globally.",
+      "We empower building professionals and entrepreneurs with innovative tools and training, ensuring efficient production and seamless installations."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Customer Feedback",
-    "title": "Trusted by industry experts",
+    "eyebrow": "Customer Voices",
+    "title": "What our clients say",
     "list": [
       {
-        "quote": "BAUGRUP's materials helped us meet strict energy regulations without sacrificing design quality.",
+        "quote": "BAUGRUP’s materials helped us meet energy regulations and cut installation costs significantly.",
         "name": "John Smith",
         "role": "Architect",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their machinery and training streamlined our production and reduced costs significantly.",
-        "name": "Linda Carter",
-        "role": "Factory Manager",
+        "quote": "Their franchise setup service was a game-changer for my local production business.",
+        "name": "Alice Nguyen",
+        "role": "Entrepreneur",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit Us",
-    "title": "Connect with BAUGRUP",
-    "description": "Explore our innovative solutions and discover how we can enhance your projects.",
-    "address": "Contact via email",
-    "website": "bau-grup.com",
+    "title": "Global Reach",
+    "description": "We provide services worldwide, supporting projects across diverse regions.",
+    "address": "Global",
+    "website": "www.bau-grup.com",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get Started",
-    "title": "Reach Out Today",
-    "description": "Contact us for tailored solutions or to book a consultation.",
-    "consent": "We respect your privacy."
+    "title": "Contact BAUGRUP today",
+    "description": "Reach out for quotes, consultations, or franchise inquiries via email or WhatsApp.",
+    "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automating Construction Excellence",
-    "description": "Revolutionize how you manage leads, production, and customer experiences.",
+    "title": "Smart Automation Solutions",
+    "description": "Transform your operations with BAUGRUP's automation services.",
     "bullets": [
-      "Instant quotes via online configurators.",
-      "Automated production scheduling and inventory tracking.",
-      "Franchise portals with training and performance tools."
+      "Automated lead capture and follow-ups via CRM integration.",
+      "E-commerce platform for instant quotes and product configuration.",
+      "Franchise portal with training, contracts, and performance tracking."
     ],
     "offer": "Mention BAUGRUP for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "BAUGRUP delivers unforgettable experiences.",
-    "address": "Contact via email",
+    "address": "Global",
     "email": "",
     "socials": [
       {
