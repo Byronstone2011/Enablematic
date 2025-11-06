@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
-    "name": "DMS Property Mainte",
-    "tagline": "Reliable property care experts",
-    "category": "Facilities Management",
-    "location": "Kent and Sussex",
+    "name": "DMS Property Maint.",
+    "tagline": "Reliable care for properties",
+    "category": "Property Maintenance",
+    "location": "Kent & Sussex",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted by local clients",
-    "title": "Effortless property maintenance solutions",
-    "description": "We simplify property care with expert services, efficient scheduling, and consistent results for landlords and businesses.",
+    "eyebrow": "Trusted property experts",
+    "title": "Streamline property upkeep effortlessly.",
+    "description": "We simplify maintenance with expert care, efficient scheduling, and tailored solutions for landlords and businesses.",
     "highlights": [
-      {
-        "label": "Years in Business",
-        "value": "10+"
-      },
       {
         "label": "Properties Managed",
         "value": "500+"
       },
       {
+        "label": "Years in Business",
+        "value": "10+"
+      },
+      {
         "label": "Client Satisfaction",
-        "value": "96%"
+        "value": "98%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Property Care",
-        "description": "Our experienced team delivers tailored services to meet every property need."
+        "title": "Comprehensive Services",
+        "description": "From cleaning to repairs, we handle every aspect of property care efficiently."
       },
       {
-        "title": "Streamlined Efficiency",
-        "description": "Automated systems ensure fast quotes, scheduling, and job tracking."
+        "title": "Tailored Solutions",
+        "description": "Our services are customized to meet the unique needs of each client."
       },
       {
         "title": "Local Expertise",
-        "description": "Serving Kent and Sussex with deep knowledge of regional needs."
+        "description": "We bring deep knowledge of Kent and Sussex properties to every project."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive services for property maintenance, cleaning, and care tailored to your needs.",
+    "description": "We provide full-service property maintenance for landlords, businesses, and local authorities.",
     "cards": [
       {
         "icon": "🧹",
         "title": "Cleaning Services",
-        "description": "High-quality cleaning for residential and commercial spaces."
+        "description": "Expert cleaning solutions for commercial and private properties."
       },
       {
         "icon": "🏗",
         "title": "Property Repairs",
-        "description": "Reliable repairs to keep your property in top condition."
+        "description": "Fast, reliable repair services to keep properties in top condition."
       },
       {
         "icon": "🌳",
         "title": "Grounds Care",
-        "description": "Expert groundskeeping for beautiful and functional outdoor spaces."
+        "description": "Professional grounds maintenance tailored to your property needs."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Local expertise, modern solutions",
+    "title": "Dedicated to excellence in property care",
     "paragraphs": [
-      "Founded in Kent and Sussex, DMS Property Maintenance Ltd. has built trust through reliable property care services for over a decade.",
-      "We prioritize technology and efficiency, ensuring landlords and businesses benefit from streamlined management and outstanding results."
+      "Founded with a passion for quality, DMS Property Maintenance Ltd. has grown to serve Kent and Sussex with reliable property solutions. Our team ensures every project is handled with care and attention.",
+      "Investing in technology and expertise, we simplify property maintenance for landlords, businesses, and local authorities, delivering efficient and dependable results every time."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client Success Stories",
-    "title": "See what our clients say",
+    "eyebrow": "Client Feedback",
+    "title": "What our clients say",
     "list": [
       {
-        "quote": "DMS transformed our scheduling process. Their efficient systems saved us time and hassle!",
-        "name": "Sarah Thompson",
-        "role": "Local Authority Manager",
-        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
+        "quote": "DMS transformed our property management process. Their scheduling and maintenance services are outstanding.",
+        "name": "John Peters",
+        "role": "Private Landlord",
+        "avatar": "https://images.pexels.com/photos/8353832/pexels-photo-8353832.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their grounds care services are unmatched. Our property has never looked better!",
-        "name": "John Walker",
-        "role": "Private Landlord",
+        "quote": "Their tailored solutions truly meet our needs. The team is professional and always reliable.",
+        "name": "Sarah Collins",
+        "role": "Local Authority Manager",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Serving Your Area",
-    "title": "Kent and Sussex locations",
-    "description": "We proudly serve clients across Kent and Sussex, delivering exceptional property care tailored to local needs.",
+    "eyebrow": "Come Visit",
+    "title": "Serving Kent and Sussex",
+    "description": "Our services are rooted in the heart of Kent and Sussex, offering local expertise and personalized care.",
     "address": "",
     "website": "www.dmspm.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started Today",
-    "title": "Contact us for a consultation",
-    "description": "Reach out now to discuss your property needs or schedule a service.",
+    "eyebrow": "Get Started",
+    "title": "Request a consultation today",
+    "description": "Contact us to discuss your property needs. We'll create a solution just for you.",
     "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Your Property Care",
-    "description": "Harness AI to simplify property management processes.",
+    "title": "Streamline Your Processes",
+    "description": "Harness AI to simplify property management and operations.",
     "bullets": [
-      "Instant online booking and quote generation.",
-      "Automated scheduling and dispatching tools.",
-      "Streamlined invoicing and payment systems."
+      "Instant online booking for services.",
+      "Automated scheduling and dispatching.",
+      "Effortless invoicing and payments."
     ],
-    "offer": "Mention DMS Property Mainte for the launch-week optimization kit.",
+    "offer": "Mention DMS Property Maint. for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,7 +124,7 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "DMS Property Mainte delivers unforgettable experiences.",
+    "blurb": "DMS Property Maint. delivers unforgettable experiences.",
     "address": "",
     "email": "",
     "socials": [
