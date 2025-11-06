@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Tufcoat",
-    "tagline": "Shrink-wrap solutions",
+    "tagline": "Shrink-wrap perfection",
     "category": "Construction Materials",
-    "location": "",
+    "location": "United Kingdom",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted by industries",
-    "title": "Protect your site and assets.",
-    "description": "Tufcoat offers shrink-wrap solutions for weatherproofing and containment, ensuring safety and compliance on every project.",
+    "eyebrow": "Reliable protection solutions",
+    "title": "Weatherproof and protect your assets.",
+    "description": "Tufcoat delivers shrink-wrap solutions for environmental containment and weatherproofing, protecting sites, workers, and goods.",
     "highlights": [
       {
-        "label": "Years of Expertise",
-        "value": "15+"
-      },
-      {
         "label": "Projects Completed",
-        "value": "2,500+"
+        "value": "10,000+"
       },
       {
-        "label": "Client Satisfaction",
+        "label": "Delivery Success Rate",
         "value": "98%"
+      },
+      {
+        "label": "Years of Expertise",
+        "value": "20+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Durable Materials",
-        "description": "Our shrink-wrap is built to withstand harsh weather and tough conditions."
-      },
-      {
-        "title": "Expert Installation",
-        "description": "Experienced professionals ensure seamless application on every project."
+        "title": "Proven Expertise",
+        "description": "20+ years of industry experience ensures trusted, reliable service."
       },
       {
         "title": "Fast Delivery",
-        "description": "Next-day delivery keeps projects on schedule and running smoothly."
+        "description": "Next-day delivery guarantees your materials arrive on time."
+      },
+      {
+        "title": "Custom Solutions",
+        "description": "Tailored weatherproofing for construction, marine, and industry."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Tufcoat provides tailored shrink-wrap solutions for protection and compliance.",
+    "description": "Comprehensive shrink-wrap services tailored to diverse industries.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Shrink-Wrap Materials",
-        "description": "High-quality sheeting, rolls, and accessories available for purchase online."
+        "title": "Shrink-wrap Supply",
+        "description": "High-quality shrink-wrap materials and accessories delivered fast."
       },
       {
-        "icon": "🛡",
-        "title": "Shrink-Wrap Installatio",
-        "description": "Complete service for scaffold, modular, marine, and construction projects."
+        "icon": "🛠",
+        "title": "Installation Support",
+        "description": "Expert installation for scaffolds, modular units, and more."
       },
       {
-        "icon": "🚚",
-        "title": "Fast Logistics Suppor",
-        "description": "Reliable next-day delivery for all shrink-wrap products and consumables."
+        "icon": "🌦",
+        "title": "Custom Containment",
+        "description": "Weatherproof and environmentally secure site-specific solutions."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Mission",
-    "title": "Reliable Protection and Containment",
+    "eyebrow": "Our Legacy",
+    "title": "The Tufcoat journey",
     "paragraphs": [
-      "Tufcoat specializes in shrink-wrap solutions for protecting sites, assets, and workers from environmental risks and weather damage.",
-      "With 15+ years of expertise, we deliver tailored solutions and support to ensure compliance, safety, and project efficiency."
+      "At Tufcoat, we specialize in shrink-wrap solutions that protect assets, workers, and the environment. Trusted for over 20 years, we deliver consistent quality.",
+      "Our tailored approach ensures we meet the needs of construction, marine, and industrial sectors. We innovate to solve your challenges effectively."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Proven Results",
+    "eyebrow": "Customer Stories",
+    "title": "Trusted by professionals",
     "list": [
       {
-        "quote": "Tufcoat's shrink-wrap kept our site safe through extreme weather. Highly recommend!",
-        "name": "James Carter",
+        "quote": "Tufcoat's shrink-wrap saved our project from weather delays. Exceptional service!",
+        "name": "John Miller",
         "role": "Site Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their fast delivery and expert installation saved us time and hassle.",
-        "name": "Sarah Taylor",
-        "role": "Project Coordinator",
+        "quote": "Their custom containment solution met all regulations and was installed quickly.",
+        "name": "Sarah Collins",
+        "role": "Project Engineer",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit Us",
-    "title": "Explore Tufcoat Solutions",
-    "description": "Discover how Tufcoat can protect your site and assets with industry-leading shrink-wrap solutions.",
+    "title": "Explore our solutions",
+    "description": "Contact us today to learn how Tufcoat can protect your projects and assets.",
     "address": "",
-    "website": "",
+    "website": "www.tufcoat.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Request Support",
-    "title": "Get a Quote Today",
-    "description": "Contact us to discuss your project needs or schedule a consultation with our team.",
-    "consent": "We respect your privacy and never share your data."
+    "eyebrow": "Get in Touch",
+    "title": "Request a Consultation",
+    "description": "Contact Tufcoat for expert advice and tailored shrink-wrap solutions.",
+    "consent": "I agree to receive communication."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automation Benefits",
-    "description": "Boost efficiency with smart automation tailored to your workflow.",
+    "title": "AI-Powered Innovations",
+    "description": "Leverage automation to enhance efficiency and service.",
     "bullets": [
-      "Streamline e-commerce order processing and inventory management.",
-      "Automate shipping updates for next-day delivery tracking.",
-      "Qualify leads and generate instant quotes with custom forms."
+      "Automate order processing for faster delivery.",
+      "Streamline quotes and site survey scheduling.",
+      "Optimize inventory and shipping workflows."
     ],
     "offer": "Mention Tufcoat for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
