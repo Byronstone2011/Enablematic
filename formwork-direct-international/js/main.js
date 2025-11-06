@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Formwork Direct",
-    "tagline": "Reliable formwork solutions",
+    "tagline": "Solutions built to last",
     "category": "Construction",
-    "location": "United Kingdom",
+    "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Expert formwork services",
-    "title": "Streamline your project today.",
-    "description": "We provide high-quality formwork hire, sales, and engineering solutions tailored to your project needs and budget.",
+    "eyebrow": "Reliable project support",
+    "title": "Streamlined formwork hire for any project",
+    "description": "Expert solutions tailored to your budget and timeline. Simplifying formwork rentals and purchases for construction excellence.",
     "highlights": [
       {
         "label": "Projects Supported",
-        "value": "1,000+"
+        "value": "5,000+"
+      },
+      {
+        "label": "Years of Experience",
+        "value": "20+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
-      },
-      {
-        "label": "Years of Expertise",
-        "value": "15+"
       }
     ],
     "image": "https://images.pexels.com/photos/7937680/pexels-photo-7937680.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -32,89 +32,89 @@ const appData = {
     "items": [
       {
         "title": "Tailored Solutions",
-        "description": "Custom options for projects of any size or budget."
+        "description": "Custom designs ensure each project is completed with precision and efficiency."
       },
       {
-        "title": "Expert Engineering",
-        "description": "In-house design with technical precision."
+        "title": "Expert Support",
+        "description": "Our team delivers detailed engineering and consultancy to meet your needs."
       },
       {
-        "title": "Reliable Support",
-        "description": "Comprehensive consultancy for seamless execution."
+        "title": "Seamless Rentals",
+        "description": "Effortless rental processes save time and keep projects on schedule."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "From hire to engineering, we offer end-to-end solutions.",
+    "description": "Formwork Direct International offers rental, sales, and technical expertise for construction projects.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Formwork Hire",
-        "description": "Flexible formwork rental for commercial and civil projects."
+        "description": "High-quality formwork systems available for short or long-term rental."
       },
       {
         "icon": "💼",
-        "title": "Engineering Design",
-        "description": "Technical drawings and calculations for precise builds."
+        "title": "Project Consultancy",
+        "description": "Expert guidance and support for safe, efficient construction projects."
       },
       {
-        "icon": "🛡",
-        "title": "Safety Systems",
-        "description": "Access and safety systems for hire and sale."
+        "icon": "📐",
+        "title": "Engineering Design",
+        "description": "In-house technical drawings and calculations tailored to your build."
       }
     ]
   },
   "story": {
     "eyebrow": "Our journey",
-    "title": "Built on quality and trust",
+    "title": "Built on expertise",
     "paragraphs": [
-      "Formwork Direct International specializes in formwork and falsework hire, sales, and engineering solutions tailored to any budget or project size.",
-      "With expert technical support and consultancy, we simplify construction processes, ensuring faster project execution and consistent reliability."
+      "Formwork Direct International specializes in providing tailored solutions for construction projects of all sizes and budgets. From rentals to engineering, we deliver excellence.",
+      "By integrating engineering with rental and sales, we simplify construction workflows. Our expertise ensures efficiency, safety, and precision for every project."
     ],
     "image": "https://images.pexels.com/photos/4487449/pexels-photo-4487449.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What our clients say",
-    "title": "Trusted by industry leaders",
+    "eyebrow": "What clients say",
+    "title": "Trusted by professionals",
     "list": [
       {
-        "quote": "Formwork Direct provided seamless solutions that saved us time and money. Highly recommended.",
-        "name": "James Carter",
+        "quote": "Their design expertise saved us weeks of planning. Highly recommend their services!",
+        "name": "John Smith",
         "role": "Project Manager",
         "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their engineering precision and reliable support make them our top choice for every project.",
-        "name": "Emma Wright",
-        "role": "Civil Engineer",
+        "quote": "Reliable rentals and excellent support—Formwork Direct is our go-to partner.",
+        "name": "Sarah Jones",
+        "role": "Site Manager",
         "avatar": "https://images.unsplash.com/photo-1629010336114-8206b071be71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlRTIlODAlOTQlMjBmb3Jtd29yayUyMGFuZCUyMGZhbHNld29yayUyMHN1cHBseSUyMCUyNiUyMHJlbnRhbCUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNDM0MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find us",
-    "title": "Your trusted partner in construction",
-    "description": "We serve construction professionals across the UK with innovative formwork solutions.",
-    "address": "United Kingdom",
-    "website": "formworkdirect.co.uk",
+    "eyebrow": "See us in action",
+    "title": "Explore our offerings",
+    "description": "Visit us to discover reliable solutions for formwork and falsework. Experience quality service firsthand.",
+    "address": "",
+    "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Request your quote today!",
-    "description": "Contact us for expert advice and tailored project solutions.",
-    "consent": "We respect your privacy."
+    "eyebrow": "Get started",
+    "title": "Request a quote today",
+    "description": "Contact us to book rentals or explore custom design options for your next project.",
+    "consent": "By submitting, you agree to our privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
     "title": "Revolutionize your workflow",
-    "description": "Our automated systems simplify operations and boost efficiency.",
+    "description": "Automate processes to save time and maximize efficiency.",
     "bullets": [
-      "Online quoting for faster estimates.",
-      "Automated inventory tracking for availability.",
-      "CRM integration for seamless follow-ups."
+      "Streamline quotes with online booking systems.",
+      "Track inventory with automated scheduling tools.",
+      "Enhance lead generation with CRM integrations."
     ],
     "offer": "Mention Formwork Direct for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Formwork Direct delivers unforgettable experiences.",
-    "address": "United Kingdom",
+    "address": "",
     "email": "",
     "socials": [
       {
