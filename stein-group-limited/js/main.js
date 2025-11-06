@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Stein Group",
-    "tagline": "Innovative Building Solutions",
+    "tagline": "Reliable MEP solutions",
     "category": "Building Services",
-    "location": "Global Expertise",
-    "phone": ""
+    "location": "Unknown",
+    "phone": "Unknown"
   },
   "hero": {
-    "eyebrow": "Integrated MEP Solutions",
-    "title": "Streamline projects with expert coordination",
-    "description": "Stein Group simplifies building services, ensuring compliance, sustainability, and seamless management across disciplines.",
+    "eyebrow": "Integrated solutions",
+    "title": "Streamline safety and efficiency.",
+    "description": "We simplify MEP projects, enhance compliance, and optimize energy systems with tailored expertise.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "2,000+"
+        "value": "2,500+"
       },
       {
-        "label": "Compliance Rate",
-        "value": "99.9%"
+        "label": "Customer Satisfaction",
+        "value": "98%"
       },
       {
-        "label": "Years of Expertise",
-        "value": "20+"
+        "label": "Years of Experience",
+        "value": "15+"
       }
     ],
     "image": "https://images.pexels.com/photos/5691602/pexels-photo-5691602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Coordination",
-        "description": "We seamlessly manage electrical, mechanical, and safety systems for your projects."
+        "title": "End-to-End Service",
+        "description": "We handle all MEP needs with seamless coordination across disciplines."
       },
       {
-        "title": "Sustainable Solutions",
-        "description": "Our green energy services help meet sustainability goals and compliance standards."
+        "title": "Sustainability Expertise",
+        "description": "We deliver energy-efficient solutions that meet compliance standards."
       },
       {
-        "title": "Reliable Performance",
-        "description": "Advanced systems ensure safety, security, and efficiency for your facilities."
+        "title": "Advanced Safety Systems",
+        "description": "Our reliable safety and security systems offer peace of mind."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our comprehensive services tailored for commercial and public buildings.",
+    "description": "Our comprehensive services cover electrical, mechanical, energy, and safety needs.",
     "cards": [
       {
         "icon": "💡",
         "title": "Electrical Services",
-        "description": "Innovative design and installation for efficient power systems."
+        "description": "Expert design and installation for efficient electrical systems."
       },
       {
-        "icon": "♻️",
-        "title": "Green Energy",
-        "description": "Energy-efficient solutions to support sustainability efforts."
+        "icon": "🏗",
+        "title": "Mechanical Systems",
+        "description": "We install advanced HVAC and mechanical solutions for businesses."
       },
       {
         "icon": "🔥",
-        "title": "Safety Systems",
-        "description": "Fire and life safety systems to protect people and assets."
+        "title": "Fire & Security",
+        "description": "Protect your assets with robust fire and life safety systems."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our History",
-    "title": "Building trust through expertise",
+    "eyebrow": "Our Story",
+    "title": "Built on trust and expertise.",
     "paragraphs": [
-      "Stein Group delivers innovative solutions in MEP, security, and safety systems. We prioritize seamless integration and long-term reliability.",
-      "With a focus on sustainability, compliance, and client satisfaction, we tailor every project to meet unique needs and exceed expectations."
+      "Stein Group delivers integrated solutions for energy, safety, and communication systems. Our team is committed to excellence and reliability.",
+      "We excel in combining cutting-edge technology with personalized service. Clients trust us for compliance, safety, and seamless project delivery."
     ],
     "image": "https://images.pexels.com/photos/19591889/pexels-photo-19591889.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
     "eyebrow": "Customer Feedback",
-    "title": "What Clients Say",
+    "title": "What clients say",
     "list": [
       {
-        "quote": "Stein Group simplified our project with seamless coordination and reliable systems.",
-        "name": "Sarah Johnson",
+        "quote": "Stein Group handled our MEP project flawlessly, ensuring compliance and efficiency at every step.",
+        "name": "John Williams",
         "role": "Facility Manager",
         "avatar": "https://images.pexels.com/photos/2345668/pexels-photo-2345668.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their expertise in green energy helped us achieve compliance effortlessly.",
-        "name": "James Lee",
-        "role": "Commercial Builder",
+        "quote": "Their fire safety systems give us confidence and peace of mind for our facilities.",
+        "name": "Sarah Collins",
+        "role": "Operations Director",
         "avatar": "https://images.unsplash.com/photo-1745867817232-9d92c805f6d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxCdWlsZGluZyUyMHNlcnZpY2VzJTIwJTJGJTIwTUVQJTIwYW5kJTIwc2VjdXJpdHklMjBzb2x1dGlvbnMlMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjQzNDA5OXww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit Us",
-    "title": "Global Presence",
-    "description": "Reach out to discover how Stein Group can transform your building projects.",
-    "address": "Contact Billy Stein via email.",
-    "website": "",
+    "title": "Explore our expertise.",
+    "description": "Contact us for professional MEP and security solutions tailored to your needs.",
+    "address": "Location details available upon",
+    "website": "www.elec-check.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get Started",
-    "title": "Request a Consultation",
-    "description": "Contact us today to discuss your project needs and goals.",
-    "consent": "We respect your privacy and data."
+    "title": "Request a consultation.",
+    "description": "Send us your project details, and we’ll provide tailored solutions.",
+    "consent": "I consent to receive communications."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Smart Automation Solutions",
-    "description": "Enhance efficiency and reliability with AI-driven tools.",
+    "title": "Streamlining Your Projects",
+    "description": "Automation takes your MEP solutions to the next level.",
     "bullets": [
-      "Centralize client communication with CRM automation.",
-      "Monitor systems remotely for predictive maintenance.",
-      "Automated scheduling and reporting improve operations."
+      "Centralize communication with automated workflows.",
+      "Predict maintenance using IoT monitoring tools.",
+      "Simplify asset tracking with smart scheduling."
     ],
     "offer": "Mention Stein Group for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Stein Group delivers unforgettable experiences.",
-    "address": "Contact Billy Stein via email.",
+    "address": "Location details available upon",
     "email": "",
     "socials": [
       {
