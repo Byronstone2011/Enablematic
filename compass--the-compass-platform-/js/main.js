@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Compass Talent Pool",
-    "tagline": "Smart hiring, simplified",
+    "tagline": "Smart hiring solutions",
     "category": "Recruitment Technology",
-    "location": "Global",
+    "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "AI-driven recruitment tools",
-    "title": "Streamline hiring with precision matching",
-    "description": "Discover top talent in property and facilities management with AI-powered solutions for better employer-candidate fit.",
+    "eyebrow": "Effortless recruitment",
+    "title": "Find the perfect fit faster.",
+    "description": "Our platform streamlines hiring, matching top talent with niche roles in property and facilities industries. Save time and hire smarter.",
     "highlights": [
       {
-        "label": "Roles Filled",
-        "value": "5,000+"
-      },
-      {
-        "label": "Candidate Matches",
-        "value": "98%"
+        "label": "Roles Matched",
+        "value": "10,000+"
       },
       {
         "label": "Time Saved",
-        "value": "80%"
+        "value": "30%+"
+      },
+      {
+        "label": "User Satisfaction",
+        "value": "95%"
       }
     ],
     "image": "https://images.pexels.com/photos/5922534/pexels-photo-5922534.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Advanced Matching",
-        "description": "Our algorithms ensure candidates are tailored to employer needs, saving time and boosting quality."
+        "title": "Smart Algorithms",
+        "description": "Advanced matching ensures precision hiring for niche roles."
       },
       {
-        "title": "Industry Expertise",
-        "description": "Specialized in property and facilities roles, we understand niche hiring challenges."
+        "title": "Seamless Workflow",
+        "description": "Integrations optimize your hiring process end-to-end."
       },
       {
-        "title": "Seamless Automation",
-        "description": "Streamline workflows with integrated tools for CRM, ATS, and scheduling automation."
+        "title": "Targeted Talent",
+        "description": "Engage active and passive candidates effectively."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Optimized recruitment solutions for property and facilities management hiring teams.",
+    "description": "Recruitment solutions tailored to property and facilities industries.",
     "cards": [
       {
         "icon": "💼",
         "title": "Talent Matching",
-        "description": "AI-powered matching connects employers with top candidates efficiently."
+        "description": "Precise job recommendations to connect employers and candidates."
       },
       {
-        "icon": "🤝",
-        "title": "Engagement Tools",
-        "description": "Activate passive talent pools with personalized outreach strategies."
+        "icon": "🏗",
+        "title": "Employer Pools",
+        "description": "Manage candidate sourcing and build strong talent pipelines."
       },
       {
-        "icon": "📊",
-        "title": "Employer Tools",
-        "description": "Manage talent pools and sourcing with intuitive dashboards and analytics."
+        "icon": "🤖",
+        "title": "Passive Activation",
+        "description": "Engage passive talent and keep pools refreshed automatically."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Built for smarter recruitment",
+    "eyebrow": "Our Journey",
+    "title": "Empowering smarter recruitment",
     "paragraphs": [
-      "Compass Talent Pool was created using Softr to transform recruitment workflows with smart, data-driven tools tailored to niche industries.",
-      "With a focus on property and facilities management, we empower hiring teams to find perfect matches and improve efficiency through automation."
+      "Compass Talent Pool was built to simplify hiring for property and facilities sectors. Made with Softr, our platform turns data into actionable insights.",
+      "With smart algorithms and seamless automation, we help employers find top talent while saving time. Our focus ensures a perfect candidate-employer fit."
     ],
     "image": "https://images.pexels.com/photos/5989932/pexels-photo-5989932.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Customer stories",
-    "title": "Trusted by hiring teams",
+    "eyebrow": "Customer Success",
+    "title": "What clients are saying",
     "list": [
       {
-        "quote": "Compass Talent Pool helped us fill niche roles quickly and efficiently with spot-on candidate matches.",
-        "name": "Sarah Johnson",
+        "quote": "Compass Talent Pool helped us find skilled candidates in record time. Highly recommend this platform!",
+        "name": "Sarah M.",
         "role": "HR Manager",
         "avatar": "https://images.pexels.com/photos/5583988/pexels-photo-5583988.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their automation tools saved us countless hours in screening and scheduling interviews.",
-        "name": "Mark Evans",
-        "role": "Talent Acquisition Lead",
+        "quote": "Engaging passive candidates was a challenge until we used Compass. Their automation is a game-changer.",
+        "name": "James T.",
+        "role": "Recruitment Lead",
         "avatar": "https://images.unsplash.com/photo-1730851357916-3802b6405271?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxSZWNydWl0bWVudCUyMCUyRiUyMEhSJTIwdGVjaG5vbG9neSUyMGZvciUyMHByb3BlcnR5JTJDJTIwYnVpbGRpbmclMjBzZXJ2aWNlcyUyMCUyNiUyMGZhY2lsaXRpZXMlMjBtYW5hZ2VtZW50JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0MzQxMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find us",
-    "title": "Global recruitment solutions",
-    "description": "Wherever you are, Compass Talent Pool supports your hiring goals with innovative tools.",
-    "address": "Online platform",
-    "website": "www.compasstalentpool.com",
+    "eyebrow": "Discover Us",
+    "title": "Join Compass Talent Pool",
+    "description": "Connect with top talent and transform your hiring process. Experience recruitment done right.",
+    "address": "",
+    "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started",
-    "title": "Contact us today",
-    "description": "Book a demo or consultation to see how Compass Talent Pool can transform your hiring process.",
-    "consent": "By submitting, you agree to our terms."
+    "eyebrow": "Get Started",
+    "title": "Request a Demo Today",
+    "description": "Contact Bobby Kankam at bobby@compassplatform.net to explore our platform.",
+    "consent": "We value your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "AI boosts your hiring success",
-    "description": "Leverage automation to find better candidates faster.",
+    "title": "AI-Powered Recruitment",
+    "description": "Boost efficiency and precision with automation tailored for hiring.",
     "bullets": [
-      "Automated screening reduces review time.",
-      "Engage passive candidates with drip campaigns.",
-      "Integrated tools sync ATS and CRM data seamlessly."
+      "Automated candidate screening saves hours.",
+      "Calendar integrations simplify scheduling.",
+      "CRM automations engage passive talent."
     ],
     "offer": "Mention Compass Talent Pool for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Compass Talent Pool delivers unforgettable experiences.",
-    "address": "Online platform",
+    "address": "",
     "email": "",
     "socials": [
       {
