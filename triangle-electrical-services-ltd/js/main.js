@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Triangle Electrical",
-    "tagline": "Safety. Compliance. Trust.",
-    "category": "Electrical Contracting",
+    "tagline": "Precision. Reliability.",
+    "category": "Electrical Contractor",
     "location": "London, UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Compliance you can trust",
-    "title": "Simplifying safety system solutions.",
-    "description": "We design, install, and maintain life safety systems for seamless compliance and peace of mind across the UK.",
+    "eyebrow": "Trusted compliance experts",
+    "title": "Simplifying safety and compliance.",
+    "description": "We deliver dependable electrical services, ensuring compliance and efficiency for large-scale projects across the UK.",
     "highlights": [
       {
+        "label": "Years in Business",
+        "value": "15+"
+      },
+      {
         "label": "Projects Completed",
-        "value": "1,500+"
+        "value": "2,500+"
       },
       {
         "label": "Compliance Rate",
         "value": "99.8%"
-      },
-      {
-        "label": "Years in Business",
-        "value": "15+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Proven Expertise",
-        "description": "Over 15 years delivering reliable safety systems across sectors."
+        "title": "Proven expertise",
+        "description": "15+ years of experience ensures flawless execution and compliance in every project."
       },
       {
-        "title": "Certified Professionals",
-        "description": "Extensively trained and certified technicians ensure quality."
+        "title": "Certified team",
+        "description": "Our accredited technicians are trusted by leading contractors and institutions."
       },
       {
-        "title": "Seamless Integration",
-        "description": "Efficient systems designed for compliance and reliability."
+        "title": "Transparent systems",
+        "description": "We provide clear documentation and audit trails for peace of mind."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive safety system services tailored to your needs.",
+    "description": "Our services ensure safety and compliance for diverse industries throughout the UK.",
     "cards": [
       {
         "icon": "🔥",
-        "title": "Fire Detection Systems",
-        "description": "We install advanced fire detection systems for ultimate safety."
+        "title": "Life Safety Systems",
+        "description": "Design and install systems like smoke ventilation and fire detection to protect lives."
       },
       {
         "icon": "💡",
         "title": "Emergency Lighting",
-        "description": "Compliance-ready lighting systems designed for reliability."
+        "description": "We install and maintain lighting systems that meet rigorous safety standards."
       },
       {
-        "icon": "🏗",
-        "title": "Smoke Ventilation",
-        "description": "Efficient smoke ventilation systems for safe evacuation."
+        "icon": "📋",
+        "title": "Compliance Inspection",
+        "description": "Planned maintenance ensures your facilities meet all regulatory requirements."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "A legacy of reliability and trust.",
+    "eyebrow": "About Us",
+    "title": "Our commitment to safety.",
     "paragraphs": [
-      "Founded in London, Triangle Electrical Services has spent 15+ years serving the UK. From schools to hospitals, we ensure safety and compliance.",
-      "We specialize in life safety systems tailored for institutions. Our expertise delivers efficient solutions and peace of mind for every client."
+      "Founded in London, Triangle Electrical Services provides expert electrical solutions across the UK. We specialize in life-safety systems and compliance-driven maintenance.",
+      "Our efficient processes and proven track record make us the trusted choice for institutions requiring reliable safety systems and seamless compliance."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Trusted by industry leaders.",
+    "eyebrow": "Customer Feedback",
+    "title": "What our clients say.",
     "list": [
       {
-        "quote": "Triangle Electrical keeps our compliance seamless. Their team is reliable and efficient.",
-        "name": "John Andrews",
+        "quote": "Triangle keeps our compliance documentation up to date and easy to audit. Highly reliable team!",
+        "name": "Sarah Johnson",
         "role": "Facilities Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their systems and reporting make audits stress-free. Highly recommend.",
-        "name": "Sarah Collins",
+        "quote": "Their streamlined maintenance scheduling has saved us countless hours. Excellent service!",
+        "name": "James Turner",
         "role": "Property Manager",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find us",
-    "title": "Serving the UK from London",
-    "description": "Our London-based team delivers expert electrical services across the UK.",
+    "eyebrow": "Our Location",
+    "title": "Serving the UK from London.",
+    "description": "Based in London, we proudly serve Tier 1 contractors, schools, and healthcare facilities nationwide.",
     "address": "London, UK",
     "website": "triangleelectrical.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started today",
-    "title": "Request a consultation now.",
-    "description": "Contact us for tailored safety solutions and expert advice.",
-    "consent": "We respect your privacy. Your information is secure."
+    "eyebrow": "Get in Touch",
+    "title": "Request a consultation.",
+    "description": "Contact us today for expert electrical services designed to meet your unique needs.",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your operations.",
-    "description": "AI-powered solutions for better compliance and efficiency.",
+    "title": "Smart Solutions for Safety.",
+    "description": "AI-powered tools ensure efficiency and compliance for life-safety systems.",
     "bullets": [
-      "Automated compliance reporting and storage.",
-      "Maintenance scheduling with technician workflows.",
-      "CRM for leads, tenders, and client onboarding."
+      "Automated compliance reporting and audit trails.",
+      "Mobile workflows for maintenance scheduling and reminders.",
+      "CRM for lead capture, quoting, and onboarding."
     ],
     "offer": "Mention Triangle Electrical for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
