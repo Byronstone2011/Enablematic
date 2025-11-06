@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "PPAC Solutions",
-    "tagline": "Streamlined Compliance",
+    "tagline": "Simplifying Compliance",
     "category": "Workforce Compliance",
     "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Effortless ID Checks",
-    "title": "Simplify workforce compliance now.",
-    "description": "PPAC Solutions automates ID checks, RTW verifications, and compliance tracking for seamless site management and risk reduction.",
+    "eyebrow": "Tailored ID verification",
+    "title": "Streamline compliance, reduce risks.",
+    "description": "PPAC Solutions automates verification, ensuring real-time compliance and secure operations across your workforce and contractors.",
     "highlights": [
       {
         "label": "Compliance Rate",
-        "value": "99.8%"
+        "value": "99.9%"
       },
       {
         "label": "Checks Completed",
         "value": "10,000+"
       },
       {
-        "label": "Years of Expertise",
-        "value": "10+"
+        "label": "Audits Passed",
+        "value": "98%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Real-Time Dashboards",
-        "description": "Track compliance across sites with instant alerts and updates."
+        "title": "Real-time Visibility",
+        "description": "Get instant updates on workforce compliance with automated dashboards."
       },
       {
         "title": "Seamless Integration",
-        "description": "Connect with HR systems for automated onboarding workflows."
+        "description": "Integrates with HR and procurement systems for efficiency."
       },
       {
         "title": "Tailored Solutions",
-        "description": "Custom tools designed for construction and site managers."
+        "description": "Custom workflows designed to meet your business needs."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive workforce compliance services tailored for physical sites.",
+    "description": "PPAC Solutions offers tailored compliance services to simplify digital identity management.",
     "cards": [
       {
         "icon": "🛡",
         "title": "ID Checks",
-        "description": "Validate worker identities securely and efficiently."
+        "description": "Automated digital identity verification ensures compliance quickly."
       },
       {
         "icon": "🏗",
-        "title": "RTW Checks",
-        "description": "Ensure workers meet legal right-to-work requirements."
+        "title": "Site Sweep",
+        "description": "One-time audits to verify site compliance and contractor credentials."
       },
       {
         "icon": "📋",
-        "title": "Skill Card Checks",
-        "description": "Verify certifications to match site-specific needs."
+        "title": "RTW Checks",
+        "description": "Verify right-to-work eligibility seamlessly with automated processes."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Mission",
-    "title": "How PPAC Solutions Leads Compliance",
+    "title": "Empowering compliance for all.",
     "paragraphs": [
-      "PPAC Solutions was founded to simplify digital identity and compliance workflows. We empower businesses to manage workforce risks efficiently.",
-      "By integrating automation and real-time tracking, we reduce manual processes, mitigate risks, and enable effortless compliance management for physical sites."
+      "PPAC Solutions was founded to simplify digital identity verification and compliance management for modern industries. We tailor solutions to meet unique needs.",
+      "By leveraging automation and real-time tools, we help clients reduce risks, save time, and achieve compliance effortlessly across their workforce and sites."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
     "eyebrow": "What Clients Say",
-    "title": "Trusted by Leading Teams",
+    "title": "Trusted by industry leaders.",
     "list": [
       {
-        "quote": "PPAC Solutions saved us hours on ID checks while improving compliance visibility across sites.",
-        "name": "Sarah Jennings",
+        "quote": "PPAC streamlined our worker verification process, saving us hours each week. Compliance has never been easier.",
+        "name": "James Carter",
         "role": "Site Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their RTW verification tools are a game-changer for our HR processes.",
-        "name": "Michael Hayes",
+        "quote": "Their real-time dashboards keep us informed and compliant across all sites. Highly recommend!",
+        "name": "Sarah Evans",
         "role": "HR Director",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Your Compliance Partner",
-    "description": "Connect with PPAC Solutions to enhance compliance management for your workforce.",
+    "eyebrow": "Find Us",
+    "title": "Your compliance partner.",
+    "description": "PPAC Solutions is committed to helping businesses achieve seamless workforce compliance wherever they operate.",
     "address": "",
-    "website": "",
+    "website": "www.ppac-id.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get Started",
-    "title": "Book a Consultation",
-    "description": "Contact us today for tailored compliance solutions.",
-    "consent": "I agree to receive updates via email."
+    "title": "Request a consultation today.",
+    "description": "Contact us for tailored compliance solutions that fit your needs.",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Why Automate Compliance?",
-    "description": "Automation transforms manual compliance processes into efficient workflows.",
+    "title": "Automate Compliance Effortlessly",
+    "description": "PPAC Solutions uses AI to revolutionize workforce verification and compliance.",
     "bullets": [
-      "Instant ID and RTW checks with auto-validation.",
-      "Real-time dashboard for compliance tracking.",
-      "Automated audit reporting for inspections."
+      "Instant digital ID checks with automated workflows.",
+      "Real-time dashboards for compliance tracking and alerts.",
+      "Custom integrations for streamlined operations."
     ],
     "offer": "Mention PPAC Solutions for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
