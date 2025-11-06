@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "EthosEQ",
-    "tagline": "Saving time, cutting costs",
+    "tagline": "Building smarter projects",
     "category": "Construction Consultancy",
-    "location": "",
-    "phone": ""
+    "location": "Unknown",
+    "phone": "Unknown"
   },
   "hero": {
     "eyebrow": "Trusted construction advisors",
-    "title": "Reduce costs and risks with expert project oversight",
-    "description": "EthosEQ ensures seamless project success with cost control, monitoring, and commercial assurance, saving you time and money.",
+    "title": "Save costs, ensure seamless success.",
+    "description": "EthosEQ streamlines construction with expert cost consultancy, project management, and quantity surveying for budget control and smooth delivery.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "1,000+"
+        "value": "500+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
       },
       {
-        "label": "Years of Expertise",
-        "value": "15+"
+        "label": "Years of Experience",
+        "value": "25+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Proven Expertise",
-        "description": "Our team delivers decades of industry knowledge for precise cost management and project success."
+        "title": "Expert Guidance",
+        "description": "Decades of expertise ensure your projects are cost-efficient and stress-free."
       },
       {
-        "title": "Transparent Processes",
-        "description": "We provide clear reporting and monitoring to ensure every stakeholder is informed and confident."
+        "title": "Trusted Processes",
+        "description": "Proven methodologies deliver transparency and reliable outcomes every time."
       },
       {
-        "title": "Tailored Solutions",
-        "description": "Customized strategies meet unique client needs, ensuring optimal outcomes every time."
+        "title": "Accredited Excellence",
+        "description": "RICS-accredited services guarantee industry-leading standards."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Specialized services to streamline construction projects and maximize value.",
+    "description": "Comprehensive construction consultancy for successful projects.",
     "cards": [
       {
-        "icon": "🏗",
+        "icon": "💼",
         "title": "Project Set-Up",
-        "description": "Front-end consultancy to plan, structure, and align your project for success from day one."
+        "description": "Front-end consultancy to establish project goals and scope efficiently."
       },
       {
-        "icon": "💼",
+        "icon": "🏗",
         "title": "Cost Management",
-        "description": "Expert estimating and cost control to minimize overruns and maximize efficiency."
+        "description": "Precise estimating and cost control to prevent budget overruns."
       },
       {
         "icon": "🛡",
         "title": "Commercial Assurance",
-        "description": "Independent oversight to reduce disputes and ensure smooth collaboration across teams."
+        "description": "Ensure contracts and oversight align with your objectives."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Delivering value through trusted consultancy",
+    "eyebrow": "Our Journey",
+    "title": "Why EthosEQ?",
     "paragraphs": [
-      "EthosEQ was founded to provide reliable, expert guidance in construction cost consultancy and project management. We help clients save time and money while ensuring seamless execution.",
-      "Our tailored solutions and innovative tools ensure transparency, confidence, and success for every project. We’re committed to delivering measurable results for our clients."
+      "EthosEQ was founded to simplify construction projects. Our team of experts uses proven strategies to save time and money for clients worldwide.",
+      "We specialize in cost consultancy and project monitoring, leveraging automation for transparency. Our focus is on delivering trust and excellence."
     ],
-    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
+    "image": "https://images.pexels.com/photos/8470039/pexels-photo-8470039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Real results shared by our clients",
+    "eyebrow": "Client Feedback",
+    "title": "What Clients Say",
     "list": [
       {
-        "quote": "EthosEQ kept our project on budget and provided invaluable cost insights. Their expertise is unmatched.",
-        "name": "Sarah R.",
-        "role": "Real Estate Manager",
+        "quote": "EthosEQ saved us from budget overruns and kept our project on track. Their team is exceptional.",
+        "name": "Sarah Johnson",
+        "role": "Corporate Real Estate Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their monitoring and reporting gave us confidence at every stage. Highly recommend EthosEQ.",
-        "name": "James T.",
-        "role": "Investment Director",
+        "quote": "Their cost management tools are game-changing. We now have real-time insights into every project.",
+        "name": "David Lee",
+        "role": "Investor Relations Director",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Explore our solutions",
-    "title": "Reach out to our team",
-    "description": "Contact us for expert guidance and tailored solutions to meet your construction needs.",
-    "address": "",
-    "website": "ethoseq.co.uk",
+    "eyebrow": "Visit Us",
+    "title": "Explore EthosEQ",
+    "description": "EthosEQ serves clients across the UK and beyond. Contact us to discuss your next project.",
+    "address": "Unknown",
+    "website": "Unknown",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started today",
-    "title": "Schedule a consultation",
-    "description": "Contact Colin Wood to discuss your project needs and learn how EthosEQ can help.",
-    "consent": "By submitting, you agree to our terms."
+    "eyebrow": "Get Started",
+    "title": "Contact EthosEQ",
+    "description": "Reach out to discuss your project needs. Let us help you save time and money.",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline Your Projects",
-    "description": "Leverage AI tools to save time, minimize costs, and ensure transparency across your projects.",
+    "title": "Automation for Efficiency",
+    "description": "Streamline construction with automation tailored to your needs.",
     "bullets": [
-      "Automated cost tracking with real-time alerts",
-      "Contract workflows for efficient administration",
-      "Dynamic dashboards for instant reporting"
+      "Real-time cost tracking and variance alerts.",
+      "Contract workflows for seamless administration.",
+      "Automated reporting for funders and tenants."
     ],
     "offer": "Mention EthosEQ for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "EthosEQ delivers unforgettable experiences.",
-    "address": "",
+    "address": "Unknown",
     "email": "",
     "socials": [
       {
