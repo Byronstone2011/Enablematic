@@ -1,22 +1,22 @@
 const appData = {
   "brand": {
     "name": "Q2WLtd",
-    "tagline": "Training built for success",
+    "tagline": "Quality Assured Training",
     "category": "Construction Certification",
-    "location": "",
+    "location": "United Kingdom",
     "phone": ""
   },
   "hero": {
     "eyebrow": "Trusted for 20+ years",
-    "title": "Streamlined certification for construction pros",
-    "description": "We simplify NVQs, CSCS cards, and more, saving time and reducing admin. Get certified faster and focus on your work.",
+    "title": "Streamline certifications effortlessly.",
+    "description": "Q2WLtd simplifies NVQs, CSCS cards, and assessments, saving time and reducing admin for construction professionals.",
     "highlights": [
       {
         "label": "Years in Business",
         "value": "20+"
       },
       {
-        "label": "Certifications Awarded",
+        "label": "Qualifications Awarded",
         "value": "10,000+"
       },
       {
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Industry Expertise",
-        "description": "20+ years of experience ensures reliable certification and training tailored for construction professionals."
+        "title": "Approved Certifications",
+        "description": "We offer accredited NVQs and industry cards trusted by construction professionals."
       },
       {
-        "title": "Seamless Process",
-        "description": "We simplify assessments and card processing, reducing admin burdens for clients and employers."
+        "title": "Seamless Processes",
+        "description": "Our online tools simplify applications, renewals, and assessments."
       },
       {
-        "title": "Client Focus",
-        "description": "Our user-friendly portal and expert support prioritize your success and satisfaction every step of the way."
+        "title": "Expert Support",
+        "description": "Receive guidance every step of the way, from grants to qualifications."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We provide industry-leading certifications and services to support construction professionals and businesses.",
+    "description": "We provide tailored training and certification solutions for the construction industry.",
     "cards": [
       {
         "icon": "🏗",
         "title": "NVQ Assessments",
-        "description": "Level 2-7 NVQs assessed on-site or online, tailored to your role and skill level."
+        "description": "Level 2-7 NVQs assessed on-site or online for construction professionals."
       },
       {
-        "icon": "💳",
-        "title": "CSCS & CPCS Cards",
-        "description": "Fast, reliable processing for CSCS, CPCS, CCDO, and NPORS cards to meet industry standards."
+        "icon": "🛡",
+        "title": "CSCS Card Processing",
+        "description": "Quick and reliable CSCS card applications and renewals."
       },
       {
         "icon": "💼",
-        "title": "Grant Applications",
-        "description": "Support for CITB grant processing, saving time and maximizing funding for employers."
+        "title": "CITB Grants",
+        "description": "We streamline CITB grant applications for employers and workers."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Built to empower the construction industry",
+    "title": "Building trust in construction.",
     "paragraphs": [
-      "Q2W has been a trusted certification body for over 20 years. We help construction professionals achieve qualifications efficiently and confidently.",
-      "Our streamlined processes and expert support make certification stress-free. Employers and workers rely on us for reliable, scalable solutions."
+      "For over 20 years, Q2WLtd has delivered quality NVQs and certifications to construction workers and businesses. We simplify training to empower the industry.",
+      "Our seamless processes and expert support reduce admin and speed up certifications, ensuring construction professionals stay compliant and confident."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Trusted by professiona",
-    "title": "What our clients say",
+    "eyebrow": "What Clients Say",
+    "title": "Real success stories.",
     "list": [
       {
-        "quote": "Q2W made my NVQ process seamless. Their team handled everything with ease and kept me informed throughout.",
+        "quote": "Thanks to Q2WLtd, my team completed NVQs quickly and hassle-free. Their support is unmatched.",
         "name": "John Smith",
-        "role": "Construction Worker",
+        "role": "Construction Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Our team relies on Q2W for certifications. They save us time and ensure compliance effortlessly.",
+        "quote": "Getting my CSCS card was simple and fast. Highly recommend their services!",
         "name": "Jane Doe",
-        "role": "HR Manager",
+        "role": "Demolition Specialist",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find us",
-    "title": "Certifications wherever you need them",
-    "description": "Whether on-site or online, we deliver certifications tailored to your needs and location.",
+    "eyebrow": "Find Us",
+    "title": "Visit Q2WLtd online.",
+    "description": "Access certifications and training solutions through our online portal anytime.",
     "address": "",
     "website": "www.q2w.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started",
-    "title": "Ready to certify?",
-    "description": "Contact us today to book assessments or process certifications. We're here to help.",
-    "consent": "Your details are safe with us."
+    "eyebrow": "Get Started",
+    "title": "Request your assessment.",
+    "description": "Contact us today to book NVQs, cards, or grant processing for your team.",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Certification Processes",
-    "description": "Streamline workflows with AI-driven solutions designed for the construction industry.",
+    "title": "Automation Advantages",
+    "description": "AI-powered tools simplify certification processes for professionals.",
     "bullets": [
-      "Enable online booking and payment for assessments and cards.",
-      "Automate reminders, card expirations, and renewals seamlessly.",
-      "Integrate CRM to speed up CITB grant processing and sales."
+      "Automate card renewals and reminders.",
+      "Streamline online payments and bookings.",
+      "Integrate workflows to save time."
     ],
     "offer": "Mention Q2WLtd for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
