@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
-    "name": "EZiRENT",
-    "tagline": "Hire made hassle-free",
-    "category": "Construction Equipment Hire",
+    "name": "EZiRENT Ltd",
+    "tagline": "Nationwide equipment hire",
+    "category": "Construction equipment hire",
     "location": "Essex, UK",
-    "phone": ""
+    "phone": "Contact for details"
   },
   "hero": {
-    "eyebrow": "Nationwide equipment hire",
-    "title": "Streamline your construction needs today.",
-    "description": "Hire top-quality tools and plant equipment with ease. Same-day service available nationwide for contractors and DIY projects.",
+    "eyebrow": "Fast, reliable service",
+    "title": "Simplify equipment hiring today.",
+    "description": "EZiRENT offers nationwide hire of tools, plant, and more with same-day service. Hassle-free solutions for your projects.",
     "highlights": [
       {
-        "label": "Equipment Available",
-        "value": "10,000+"
-      },
-      {
         "label": "Years in Business",
-        "value": "15+"
+        "value": "10+"
       },
       {
-        "label": "Customer Satisfaction",
-        "value": "98%"
+        "label": "Equipment Available",
+        "value": "1,000+"
+      },
+      {
+        "label": "Nationwide Coverage",
+        "value": "100%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -32,62 +32,62 @@ const appData = {
     "items": [
       {
         "title": "Extensive Inventory",
-        "description": "Choose from thousands of tools, plant, and site welfare items for every project need."
+        "description": "Choose from a vast selection of tools, plant, and site equipment for any project need."
       },
       {
         "title": "Same-Day Service",
-        "description": "We deliver equipment fast, ensuring your projects stay on track."
+        "description": "Get equipment delivered quickly to keep your projects on track without delays."
       },
       {
         "title": "Nationwide Reach",
-        "description": "Based in Essex, we serve contractors and individuals across the UK."
+        "description": "Serving customers across the UK with reliable solutions tailored to your location."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our range of hire services tailored for construction professionals and DIYers.",
+    "description": "EZiRENT provides tools, plant, and site solutions for professional contractors and DIYers.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Tool Hire",
-        "description": "Access a huge selection of tools for construction, renovation, and repairs."
+        "title": "Tool & Plant Hire",
+        "description": "Hire high-quality tools, plant, and machinery to complete your project efficiently."
       },
       {
-        "icon": "🚧",
-        "title": "Plant Hire",
-        "description": "Hire heavy-duty equipment to handle major construction projects efficiently."
+        "icon": "🚛",
+        "title": "Waste Services",
+        "description": "Skip and waste management services to keep your site clean and compliant."
       },
       {
-        "icon": "🛠",
-        "title": "Training",
-        "description": "Get certified with expert training programs like IPAF and CPCS courses."
+        "icon": "📚",
+        "title": "Training Programs",
+        "description": "Get IPAF, CPCS, and NPORS certifications to stay ahead in the industry."
       }
     ]
   },
   "story": {
     "eyebrow": "Our journey",
-    "title": "Built for construction success",
+    "title": "Built for efficiency and reliability",
     "paragraphs": [
-      "EZiRENT Ltd was founded in Essex to simplify equipment hire. We offer diverse tools and plant equipment with seamless booking options.",
-      "Our same-day service and vast inventory ensure your projects run smoothly. Serving nationwide, we aim to deliver reliability every time."
+      "Founded in Essex, EZiRENT began with a mission to simplify equipment hire for construction professionals. We now serve clients nationwide with same-day delivery options.",
+      "Combining expertise with technology, we deliver fast service and diverse inventory for contractors and tradespeople, helping projects run smoothly every time."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
     "eyebrow": "What clients say",
-    "title": "Trusted by contractors nationwide",
+    "title": "Real experiences, real results",
     "list": [
       {
-        "quote": "EZiRENT's fast service saved us days on site delays. Their equipment is always top-notch.",
-        "name": "Mark Thompson",
+        "quote": "EZiRENT's same-day service saved us from delays and kept our project on track. Highly recommend!",
+        "name": "James Carter",
         "role": "Construction Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "I needed tools urgently, and EZiRENT delivered the same day. Highly recommend!",
-        "name": "Sarah Blake",
+        "quote": "Booking equipment online was so easy and efficient. I'll definitely use them again!",
+        "name": "Rebecca Wilson",
         "role": "DIY Enthusiast",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
@@ -95,28 +95,28 @@ const appData = {
   },
   "visit": {
     "eyebrow": "Visit us",
-    "title": "Serving nationwide from Essex",
-    "description": "Our Essex base allows fast delivery across the UK. Perfect for contractors and individuals.",
-    "address": "Essex, United Kingdom",
+    "title": "Located in Essex, serving UK",
+    "description": "Based in Essex, we proudly serve clients nationwide. Contact us for reliable equipment hire.",
+    "address": "Essex, UK",
     "website": "www.ezirent.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get started",
     "title": "Request a quote today",
-    "description": "Contact us to book tools and equipment or to learn more about our services.",
-    "consent": "We respect your privacy."
+    "description": "Contact us for equipment hire or a personalized consultation. Same-day service available.",
+    "consent": "We value your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Boost operations with AI",
-    "description": "Leverage automation to streamline quoting, booking, and fleet management.",
+    "title": "Automate your workflow",
+    "description": "Streamline your equipment hire and improve efficiency with AI-powered solutions.",
     "bullets": [
-      "Instant online quotes for faster bookings.",
-      "Automated fleet scheduling and reminders.",
-      "Capture leads and follow up seamlessly."
+      "Instant online quotes and bookings.",
+      "Automated fleet and maintenance tracking.",
+      "CRM for lead capture and follow-ups."
     ],
-    "offer": "Mention EZiRENT for the launch-week optimization kit.",
+    "offer": "Mention EZiRENT Ltd for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "EZiRENT delivers unforgettable experiences.",
-    "address": "Essex, United Kingdom",
+    "blurb": "EZiRENT Ltd delivers unforgettable experiences.",
+    "address": "Essex, UK",
     "email": "",
     "socials": [
       {
