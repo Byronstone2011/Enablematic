@@ -1,26 +1,26 @@
 const appData = {
   "brand": {
-    "name": "CJB Scaffolding",
-    "tagline": "Reliable scaffolding access",
-    "category": "Scaffolding / Construction",
+    "name": "CJB Scaffolding Ltd",
+    "tagline": "Access Made Easy",
+    "category": "Scaffolding Services",
     "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted access solutions",
-    "title": "Safe, professional scaffolding services.",
-    "description": "CJB Scaffolding Ltd delivers secure residential, commercial, and industrial scaffolding access tailored to your needs.",
+    "eyebrow": "Safe, reliable scaffolding",
+    "title": "Effortless access for every project.",
+    "description": "CJB Scaffolding Ltd provides residential, commercial, and industrial scaffolding solutions that ensure safety and efficiency.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "5,000+"
+        "value": "1,500+"
       },
       {
-        "label": "Customer Satisfaction",
+        "label": "Client Satisfaction",
         "value": "98%"
       },
       {
-        "label": "Years of Expertise",
+        "label": "Years Experience",
         "value": "10+"
       }
     ],
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expertise You Trust",
-        "description": "Over a decade of scaffolding experience ensures reliability and safety for every project."
+        "title": "Focused Expertise",
+        "description": "We specialize in tailored scaffolding solutions for every project size."
       },
       {
-        "title": "Tailored Solutions",
-        "description": "Customized scaffolding setups meet residential, commercial, and industrial needs."
+        "title": "Safety Standards",
+        "description": "Our setups are built to meet stringent safety regulations."
       },
       {
-        "title": "Client-Centric Service",
-        "description": "We prioritize customer satisfaction with smooth, hassle-free execution."
+        "title": "Efficient Service",
+        "description": "We deliver timely, hassle-free installations for all clients."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We provide secure scaffolding for homes, businesses, and industrial projects.",
+    "description": "We provide reliable scaffolding solutions across residential, commercial, and industrial sectors.",
     "cards": [
       {
         "icon": "🏠",
         "title": "Residential Scaffolding",
-        "description": "Safe and efficient scaffolding access for homes and renovations."
+        "description": "Secure access for home renovations, roofing, or extensions."
+      },
+      {
+        "icon": "🏢",
+        "title": "Commercial Scaffolding",
+        "description": "Safe, scalable scaffolding for commercial buildings and offices."
       },
       {
         "icon": "🏗",
-        "title": "Commercial Scaffolding",
-        "description": "Reliable scaffolding solutions for offices, retail spaces, and more."
-      },
-      {
-        "icon": "🏭",
         "title": "Industrial Scaffoldin",
-        "description": "Robust scaffolding for factories and large-scale industrial sites."
+        "description": "Heavy-duty setups for factories and industrial facilities."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Building access with integrity",
+    "eyebrow": "Our Journey",
+    "title": "Building Access, Building Trust",
     "paragraphs": [
-      "Since our founding, CJB Scaffolding Ltd has focused on delivering high-quality scaffolding solutions. We are committed to safety and precision in every project.",
-      "Our expertise and tailored services ensure client satisfaction. We aim to simplify access while enhancing reliability and efficiency for every job."
+      "CJB Scaffolding Ltd was founded to provide safe, efficient access solutions for construction projects of all sizes. We prioritize reliability and customer satisfaction.",
+      "With expert installations and responsive service, we empower homeowners, contractors, and industrial managers to deliver seamless results."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Customer-approved service",
+    "eyebrow": "What Clients Say",
+    "title": "Trusted by Professionals",
     "list": [
       {
-        "quote": "CJB Scaffolding made our renovation seamless. Their team was professional and reliable.",
-        "name": "Sarah Mitchell",
+        "quote": "CJB Scaffolding made my home renovation stress-free with secure access and fast setup.",
+        "name": "Sarah Thompson",
         "role": "Homeowner",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Dependable scaffolding for our factory. Great service and attention to safety.",
-        "name": "Mark Taylor",
+        "quote": "Their industrial scaffolding exceeded our safety expectations. Highly recommend!",
+        "name": "James Carter",
         "role": "Facility Manager",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find us",
-    "title": "Serving your scaffolding needs",
-    "description": "Contact us to discuss your next scaffolding project. We're here to help.",
+    "eyebrow": "Where We Operate",
+    "title": "Find Us Near You",
+    "description": "Serving local communities with reliable scaffolding solutions tailored to your needs.",
     "address": "",
     "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Request your free quote today",
-    "description": "Contact us for scaffolding solutions tailored to your project needs.",
-    "consent": "By submitting, you consent to contact."
+    "eyebrow": "Get Started Today",
+    "title": "Request a Free Quote",
+    "description": "Contact us now to discuss your scaffolding needs or schedule a consultation.",
+    "consent": "Your information is safe with us."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Boost efficiency with automation",
-    "description": "Streamline scaffolding inquiries using AI-driven tools.",
+    "title": "Smarter Solutions for Growth",
+    "description": "Integrate AI-driven tools to boost leads, streamline operations, and enhance visibility.",
     "bullets": [
-      "Automate quoting and scheduling for faster service.",
-      "Capture leads with integrated CRM follow-ups.",
-      "Enhance visibility with automated SEO and reviews."
+      "Automate client follow-ups with CRM integration.",
+      "Enable online quoting and booking for convenience.",
+      "Increase visibility with automated local SEO tools."
     ],
-    "offer": "Mention CJB Scaffolding for the launch-week optimization kit.",
+    "offer": "Mention CJB Scaffolding Ltd for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,7 +124,7 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "CJB Scaffolding delivers unforgettable experiences.",
+    "blurb": "CJB Scaffolding Ltd delivers unforgettable experiences.",
     "address": "",
     "email": "",
     "socials": [
