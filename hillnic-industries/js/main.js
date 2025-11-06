@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Hillnic",
-    "tagline": "Sustainable modular housing",
+    "tagline": "Sustainable modular living",
     "category": "Construction Technologies",
-    "location": "",
-    "phone": ""
+    "location": "N/A",
+    "phone": "N/A"
   },
   "hero": {
-    "eyebrow": "Innovating construction",
-    "title": "Faster, smarter, sustainable homes.",
-    "description": "Hillnic creates factory-built modular homes that reduce delays, lower costs, and simplify logistics for large-scale projects.",
+    "eyebrow": "Innovative housing solutions",
+    "title": "Efficient, scalable modular homes",
+    "description": "Hillnic delivers factory-built homes to reduce delays, control costs, and streamline project delivery for developers and investors.",
     "highlights": [
       {
-        "label": "Homes Delivered",
-        "value": "1,200+"
+        "label": "Projects Delivered",
+        "value": "500+"
       },
       {
-        "label": "Assembly Efficiency",
-        "value": "50% fas"
+        "label": "Assembly Time Savings",
+        "value": "50%"
       },
       {
-        "label": "Client Satisfaction",
-        "value": "95%"
+        "label": "Customer Satisfaction",
+        "value": "98%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Sustainable Design",
-        "description": "Our modular homes prioritize eco-friendly materials and energy efficiency."
+        "title": "Sustainable Designs",
+        "description": "Our homes combine eco-friendly materials with energy-efficient solutions."
       },
       {
-        "title": "Streamlined Process",
-        "description": "Factory production and rapid assembly ensure faster project delivery."
+        "title": "Factory Precision",
+        "description": "Advanced manufacturing ensures consistent quality and reliability."
       },
       {
-        "title": "Scalable Solutions",
-        "description": "We enable cost-effective housing solutions for large-scale developments."
+        "title": "Rapid Assembly",
+        "description": "Streamlined processes speed up on-site installation and delivery."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We specialize in modular housing manufacturing, design, and on-site assembly.",
+    "description": "Hillnic specializes in modular housing, offering innovative solutions for diverse projects.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Modular Manufacturing",
-        "description": "Factory-built homes designed for consistency and quality production."
+        "description": "Factory-built homes designed for precision and scalability."
       },
       {
         "icon": "📐",
         "title": "Design & Engineering",
-        "description": "Custom prefabricated home designs optimized for efficiency and sustainability."
+        "description": "Custom prefabricated housing tailored to client needs."
       },
       {
         "icon": "🚚",
         "title": "Rapid Assembly",
-        "description": "Quick on-site installation to meet tight project timelines."
+        "description": "On-site installation completed efficiently and on schedule."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our mission",
-    "title": "Building homes for a sustainable future.",
+    "eyebrow": "Our journey",
+    "title": "Redefining construction innovation",
     "paragraphs": [
-      "Hillnic was founded to revolutionize construction with modular homes that are sustainable and efficient. Our innovative processes redefine housing delivery.",
-      "By aligning factory production with on-site assembly, we reduce costs, improve scalability, and deliver faster results for developers and housing providers."
+      "Hillnic was founded to revolutionize housing with sustainable, modular solutions. Our factory-built homes reduce delays and deliver precision.",
+      "Through innovation, Hillnic integrates design, manufacturing, and assembly to maximize scalability and efficiency for every project."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What our clients say",
-    "title": "Trusted by developers worldwide.",
+    "eyebrow": "What clients say",
+    "title": "Industry-leading results",
     "list": [
       {
-        "quote": "Hillnic streamlined our housing project, cutting assembly time by half and saving costs. Truly game-changing!",
+        "quote": "Hillnic's modular homes saved us months of construction time and reduced costs dramatically.",
         "name": "Sarah Thompson",
         "role": "Real Estate Developer",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their modular homes are sustainable, affordable, and perfectly tailored to our needs. Highly recommend Hillnic.",
-        "name": "Mark Jacobs",
-        "role": "Affordable Housing Program Director",
+        "quote": "Their precision-built homes and rapid assembly were a game-changer for our housing project.",
+        "name": "Mark Williams",
+        "role": "Project Manager",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Explore Hillnic",
-    "title": "Visit us to learn more!",
-    "description": "Contact us to discover how our modular solutions can transform your housing projects.",
-    "address": "",
-    "website": "www.hillnic.com",
+    "eyebrow": "Visit us",
+    "title": "Explore our solutions",
+    "description": "Learn more about Hillnic’s modular housing innovations and sustainable designs.",
+    "address": "Contact for details",
+    "website": "hillnic.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Let’s build together.",
-    "description": "Reach out for consultations, quotes, or project inquiries today.",
+    "eyebrow": "Get started now",
+    "title": "Request a consultation",
+    "description": "Contact us today to discuss your housing project needs and get a tailored solution.",
     "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Smarter housing solutions",
-    "description": "Hillnic leverages AI to streamline housing delivery processes.",
+    "title": "AI-driven efficiency",
+    "description": "Leverage automation to streamline processes and scale delivery.",
     "bullets": [
-      "Automated CRM tools for faster lead follow-ups.",
-      "Instant quoting and design configurators for clients.",
-      "Sync factory production with on-site assembly schedules."
+      "Automated CRM to manage leads and follow-ups.",
+      "Instant quotes via our online configurator.",
+      "Production scheduling that syncs with assembly."
     ],
     "offer": "Mention Hillnic for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Hillnic delivers unforgettable experiences.",
-    "address": "",
+    "address": "Contact for details",
     "email": "",
     "socials": [
       {
