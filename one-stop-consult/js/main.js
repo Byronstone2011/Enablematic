@@ -1,20 +1,16 @@
 const appData = {
   "brand": {
     "name": "One Stop Consult",
-    "tagline": "Streamline Construction",
+    "tagline": "Streamline Construction Services",
     "category": "Construction Consultancy",
-    "location": "UK",
-    "phone": ""
+    "location": "UK-Based",
+    "phone": "Contact via email"
   },
   "hero": {
-    "eyebrow": "Trusted industry experts",
-    "title": "Simplifying compliance, saving time.",
-    "description": "We streamline construction processes, ensuring compliance, reducing delays, and cutting costs. Let us handle the complexities for you.",
+    "eyebrow": "Your Construction Partner",
+    "title": "Simplify compliance and save time.",
+    "description": "We streamline building projects, ensuring compliance and reducing delays for property developers and homeowners.",
     "highlights": [
-      {
-        "label": "Years in Business",
-        "value": "10+"
-      },
       {
         "label": "Projects Completed",
         "value": "1,500+"
@@ -22,6 +18,10 @@ const appData = {
       {
         "label": "Client Satisfaction",
         "value": "98%"
+      },
+      {
+        "label": "Years of Expertise",
+        "value": "10+"
       }
     ],
     "image": "https://images.pexels.com/photos/8293667/pexels-photo-8293667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -32,89 +32,89 @@ const appData = {
     "items": [
       {
         "title": "Comprehensive Services",
-        "description": "We offer end-to-end solutions for all construction needs."
+        "description": "We cover every aspect of construction consultancy, from design to certification."
       },
       {
-        "title": "Expert Compliance Support",
-        "description": "Navigating regulations is effortless with our expertise."
+        "title": "Trusted Expertise",
+        "description": "Backed by years of experience and strong client relationships."
       },
       {
-        "title": "Streamlined Processes",
-        "description": "We optimize workflows to save time and reduce costs."
+        "title": "Efficiency Delivered",
+        "description": "We reduce manual work and speed up project timelines seamlessly."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Our services cover every stage of residential development.",
+    "description": "Streamlined solutions for construction projects, from design to certification.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Design & Concept",
-        "description": "We craft tailored plans for new builds and conversions."
+        "title": "New-Build Housing",
+        "description": "Concept and design services tailored for residential developments."
       },
       {
-        "icon": "🛡",
+        "icon": "🏠",
+        "title": "Conversions & Refurbs",
+        "description": "Transform flats, barns, and homes with expert planning and execution."
+      },
+      {
+        "icon": "📜",
         "title": "Building Control",
-        "description": "We handle inspections, certifications, and compliance."
-      },
-      {
-        "icon": "💧",
-        "title": "Site Investigations",
-        "description": "Drainage, flood risk, and ground analysis made easy."
+        "description": "Inspections, certifications, and compliance support for your project."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Built on trust and efficiency.",
+    "eyebrow": "Our Journey",
+    "title": "Built on Expertise and Trust",
     "paragraphs": [
-      "One Stop Consult Ltd was founded to simplify construction. We deliver seamless services for residential projects and conversions.",
-      "With strong client relationships, we ensure compliance and efficiency using streamlined processes tailored to industry needs."
+      "One Stop Consult Ltd was founded to simplify construction processes. We help clients navigate regulations and streamline workflows.",
+      "Clients choose us for reliability and efficiency. Our tailored solutions ensure smooth project delivery every time."
     ],
     "image": "https://images.pexels.com/photos/13146337/pexels-photo-13146337.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Trusted by developers.",
+    "eyebrow": "What Clients Say",
+    "title": "Trusted by Developers",
     "list": [
       {
-        "quote": "Their expertise saved us time and ensured compliance effortlessly. Highly recommend!",
-        "name": "John Smith",
-        "role": "Architect",
+        "quote": "One Stop Consult made compliance simple, saving us time and stress on our housing project.",
+        "name": "Sarah Brown",
+        "role": "Project Manager",
         "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "One Stop Consult made complex regulations simple. Their support was invaluable.",
-        "name": "Sarah Brown",
-        "role": "Project Manager",
+        "quote": "Their expertise helped us avoid delays and keep our renovation on budget.",
+        "name": "James Evans",
+        "role": "Architect",
         "avatar": "https://images.unsplash.com/photo-1489515229412-1f3a8f08dc34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjBjb25zdWx0YW5jeSUyMCUyRiUyMEJ1aWx0JTIwZW52aXJvbm1lbnQlMjBzZXJ2aWNlcyUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNDM0MDY5fDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us",
-    "title": "Discover streamlined solutions.",
-    "description": "Learn more about how we transform construction projects. Contact us for personalized consultations.",
-    "address": "",
-    "website": "www.onestopconsult.co.uk",
+    "eyebrow": "Visit Us",
+    "title": "Discover Our Solutions",
+    "description": "Contact us to learn how we streamline your construction project.",
+    "address": "UK-Based",
+    "website": "onestopconsult.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started",
-    "title": "Request a consultation.",
-    "description": "Contact us to streamline your next project. We’re here to help.",
-    "consent": "By submitting, I agree to the privacy terms."
+    "eyebrow": "Get Started",
+    "title": "Request a Consultation",
+    "description": "Contact us today to discuss your project needs and goals.",
+    "consent": "We value your privacy and comply with GDPR."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "AI-driven efficiency",
-    "description": "Transform your workflows with automation.",
+    "title": "AI-Powered Efficiency",
+    "description": "Transform construction workflows with automation.",
     "bullets": [
-      "Automated compliance reporting and certificates.",
-      "Online scheduling for inspections and bookings.",
-      "CRM tools for seamless client management."
+      "Automated compliance reporting and certification.",
+      "Streamline client onboarding and document generation.",
+      "Schedule inspections and reminders effortlessly."
     ],
     "offer": "Mention One Stop Consult for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "One Stop Consult delivers unforgettable experiences.",
-    "address": "",
+    "address": "UK-Based",
     "email": "",
     "socials": [
       {
