@@ -1,18 +1,18 @@
 const appData = {
   "brand": {
-    "name": "DK Lift Services",
-    "tagline": "Access Made Easy",
+    "name": "D.K Lift Services",
+    "tagline": "Lift solutions you trust",
     "category": "Elevators & Accessibility",
     "location": "London & Kent",
     "phone": "0203 633 8129"
   },
   "hero": {
-    "eyebrow": "Trusted Lift Experts",
-    "title": "Reliable lift solutions for every need.",
-    "description": "We install and maintain DDA-compliant lifts to keep your home or business accessible, safe, and fully operational.",
+    "eyebrow": "Trusted lift specialists",
+    "title": "DDA-compliant lifts for all spaces",
+    "description": "We provide reliable lift installations and maintenance services, ensuring accessibility and compliance with every project.",
     "highlights": [
       {
-        "label": "Projects Completed",
+        "label": "Installations Complete",
         "value": "3,000+"
       },
       {
@@ -20,103 +20,103 @@ const appData = {
         "value": "15+"
       },
       {
-        "label": "Satisfaction Rate",
+        "label": "Client Satisfaction",
         "value": "98%"
       }
     ],
-    "image": "https://images.pexels.com/photos/34048291/pexels-photo-34048291.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Proven Expertise",
-        "description": "Over 15 years of experience in lift installations and services."
+        "title": "Expert Installation",
+        "description": "Seamlessly installed lifts tailored to your needs with top-quality craftsmanship."
       },
       {
-        "title": "Comprehensive Care",
-        "description": "From installation to 24/7 maintenance, we’ve got you covered."
+        "title": "24/7 Maintenance",
+        "description": "Rapid response for lift repairs and upkeep, ensuring reliability at all times."
       },
       {
-        "title": "Guaranteed Compliance",
-        "description": "All lifts meet DDA standards and insurance requirements."
+        "title": "Regulatory Compliance",
+        "description": "DDA-compliant solutions with insurance-recommended documentation provided."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We specialize in accessible and service lift installations, maintenance, and upgrades.",
+    "description": "Comprehensive lift solutions for homes, public spaces, and businesses.",
     "cards": [
       {
         "icon": "🏠",
-        "title": "Home Lift Installations",
-        "description": "Luxury home lifts customized for accessibility and design."
+        "title": "Home Lift Services",
+        "description": "Luxury home lifts and stairlifts for improved accessibility and comfort."
+      },
+      {
+        "icon": "🏗",
+        "title": "Service Lift Installati",
+        "description": "Reliable goods and public access lifts with maintenance support."
       },
       {
         "icon": "🛠",
-        "title": "Service Lift Repairs",
-        "description": "Fast repairs and 24/7 call-out services for service lifts."
-      },
-      {
-        "icon": "📦",
-        "title": "Dumbwaiter Installati",
-        "description": "Efficient dumbwaiters for hospitality and commercial use."
+        "title": "Lift Modernisation",
+        "description": "Upgrade aging lifts with modern features and compliance adjustments."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "Building Accessible Futures",
+    "eyebrow": "Our journey",
+    "title": "Building accessible spaces",
     "paragraphs": [
-      "Established with a mission to provide reliable and accessible lift solutions, we serve homes and businesses across London and Kent.",
-      "Our team ensures compliance, rapid service, and tailored installations to meet every customer’s unique needs."
+      "D.K Lift Services Ltd specializes in creating accessible environments with reliable lift installations. Trusted by homeowners and businesses alike.",
+      "We combine expertise with innovative solutions, ensuring every client receives regulatory-compliant services tailored to their needs."
     ],
     "image": "https://images.pexels.com/photos/8453028/pexels-photo-8453028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Real Feedback from Customers",
+    "eyebrow": "What clients say",
+    "title": "Real feedback from our clients",
     "list": [
       {
-        "quote": "DK Lift Services installed a stairlift that restored my independence at home. Fantastic service!",
-        "name": "Jane Peterson",
+        "quote": "The team installed a stairlift that transformed my home. Their service was quick and professional.",
+        "name": "John M.",
         "role": "Homeowner",
-        "avatar": "https://images.pexels.com/photos/6249432/pexels-photo-6249432.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their quick response to our lift breakdown saved us from disruption. Highly recommend!",
-        "name": "Mark Taylor",
-        "role": "Hotel Manager",
+        "quote": "Our business relies on their service lifts. They’re always responsive and reliable.",
+        "name": "Sarah T.",
+        "role": "Facility Manager",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Showroom in London & Kent",
-    "description": "Explore our lifts in person and consult with our experts to find the perfect solution.",
-    "address": "Contact us for more details.",
+    "eyebrow": "Find us locally",
+    "title": "Serving London & Kent",
+    "description": "We proudly serve homeowners and businesses across London and Kent with expert lift solutions.",
+    "address": "London & Kent, UK",
     "website": "www.dkliftservices.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Schedule Your Free Survey",
-    "description": "Contact us today for a free lift consultation and fixed-price quote.",
-    "consent": "Your information is safe with us."
+    "eyebrow": "Get in touch",
+    "title": "Request your free quote",
+    "description": "Contact us today for a free site survey or to schedule your lift installation.",
+    "consent": "We value your privacy. Your data is secure."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Smart Automation Benefits",
-    "description": "Streamline operations and enhance customer experience with AI-powered tools.",
+    "title": "AI-powered solutions",
+    "description": "Transform lift services with automation for seamless processes.",
     "bullets": [
-      "Automatic booking confirmations and reminders save time.",
-      "Quote builder simplifies pricing and compliance documentation.",
-      "CRM tools improve lead tracking and service contract management."
+      "Automated booking with SMS/email reminders.",
+      "Streamlined quote builder and e-signatures.",
+      "CRM for lead tracking and maintenance alerts."
     ],
-    "offer": "Mention DK Lift Services for the launch-week optimization kit.",
+    "offer": "Mention D.K Lift Services for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "DK Lift Services delivers unforgettable experiences.",
-    "address": "Contact us for more details.",
+    "blurb": "D.K Lift Services delivers unforgettable experiences.",
+    "address": "London & Kent, UK",
     "email": "",
     "socials": [
       {
