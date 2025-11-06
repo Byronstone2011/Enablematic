@@ -1,23 +1,23 @@
 const appData = {
   "brand": {
     "name": "Interclass",
-    "tagline": "Excellence in construction",
+    "tagline": "Building for the future",
     "category": "Construction & Engineering",
     "location": "Midlands, UK",
     "phone": ""
   },
   "hero": {
     "eyebrow": "Midlands construction experts",
-    "title": "Streamlining projects for success",
-    "description": "Interclass delivers high-quality construction, surfacing, and civil engineering solutions with efficient processes and expert management.",
+    "title": "Innovating construction processes",
+    "description": "Interclass streamlines your projects with expert design, quality builds, and sustainable engineering solutions.",
     "highlights": [
       {
-        "label": "Years in Business",
-        "value": "20+"
+        "label": "Projects Completed",
+        "value": "1,000+"
       },
       {
-        "label": "Projects Completed",
-        "value": "500+"
+        "label": "Years Experience",
+        "value": "35+"
       },
       {
         "label": "Client Satisfaction",
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Team",
-        "description": "Our professionals ensure precise execution and exceptional results across all projects."
+        "title": "Proven Expertise",
+        "description": "Over 35 years bringing precision to construction and engineering projects."
       },
       {
-        "title": "Diverse Services",
-        "description": "We offer tailored solutions in construction, surfacing, and civil engineering."
+        "title": "Sustainable Solutions",
+        "description": "Committed to reducing carbon impact and achieving Zero-Carbon goals."
       },
       {
-        "title": "Efficient Processes",
-        "description": "Streamlined workflows reduce delays and ensure project success."
+        "title": "Client-Centric Service",
+        "description": "Tailored projects with seamless communication and delivery."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Interclass specializes in construction, surfacing, and civil engineering projects for public and private sectors.",
+    "description": "Specializing in construction, civil engineering, and surfacing for public and private sectors.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Construction",
-        "description": "New builds, design & build projects, extensions, and refurbishments up to £10m."
+        "description": "New builds, designs, extensions, and refurbishments up to £10m."
       },
       {
-        "icon": "🚧",
+        "icon": "🛣",
         "title": "Surfacing",
-        "description": "Asphalt and macadam surfacing for car parks, roads, playgrounds, and courts."
+        "description": "Asphalt and macadam surfacing for roads, car parks, and courts."
       },
       {
-        "icon": "🛠",
+        "icon": "⚙️",
         "title": "Civil Engineering",
-        "description": "Reinforced concrete structures, machine foundations, piling, and more up to £3m."
+        "description": "Reinforced concrete structures, piling, and press pits up to £3m."
       }
     ]
   },
   "story": {
-    "eyebrow": "A legacy of excellenc",
-    "title": "Our journey to build better spaces",
+    "eyebrow": "Our journey",
+    "title": "Built on trust and innovation",
     "paragraphs": [
-      "Interclass has been a trusted name in the Midlands, offering expert construction, surfacing, and civil engineering services for over two decades.",
-      "We combine industry experience with innovation to deliver tailored solutions that meet client needs and sustainability goals."
+      "Interclass has served the Midlands for over 35 years, delivering construction, surfacing, and civil engineering excellence.",
+      "Our tailored approach ensures each project meets quality, sustainability, and client-specific needs with innovative solutions."
     ],
-    "image": "https://images.pexels.com/photos/416405/pexels-photo-416405.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
     "eyebrow": "What clients say",
-    "title": "Client satisfaction guaranteed",
+    "title": "Proven results, trusted by clients",
     "list": [
       {
-        "quote": "Interclass made our school extension seamless and delivered on time. Their expertise is unmatched.",
-        "name": "Sarah Hughes",
+        "quote": "Interclass exceeded expectations with a seamless design-build process for our new school project.",
+        "name": "Sarah Mitchell",
         "role": "Headteacher",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Our car park resurfacing was completed quickly and professionally. Highly recommend Interclass.",
-        "name": "John Adams",
+        "quote": "Their surfacing team transformed our car park fast without any disruptions.",
+        "name": "James Rowley",
         "role": "Facilities Manager",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Where we work",
-    "title": "Serving the Midlands and beyond",
-    "description": "Based in the Midlands, we deliver projects across the UK with a focus on quality and reliability.",
+    "eyebrow": "Come visit us",
+    "title": "Located in the Midlands",
+    "description": "Serving clients across the Midlands and UK-wide with convenient access to major regions.",
     "address": "",
-    "website": "www.interclass.co.uk",
+    "website": "https://www.interclass.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started today",
-    "title": "Contact us for your next project",
-    "description": "Reach out to discuss your construction, surfacing, or engineering needs.",
-    "consent": "We value your privacy and data protection."
+    "eyebrow": "Get started",
+    "title": "Let’s build your vision",
+    "description": "Contact us to discuss your project or request a consultation today.",
+    "consent": "By submitting, you agree to our privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automating success",
-    "description": "AI and automation improve efficiency in construction management and operations.",
+    "title": "Smarter construction solutions",
+    "description": "AI and automation streamline processes to save time and resources.",
     "bullets": [
-      "Streamline lead capture and qualification with automated forms.",
-      "Automate tender generation and e-signature processes.",
-      "Track sustainability data with AI-powered dashboards."
+      "Automate tender generation and client onboarding for faster bidding.",
+      "Track sustainability data with dashboards for Zero-Carbon goals.",
+      "Integrate scheduling and client updates seamlessly."
     ],
     "offer": "Mention Interclass for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
