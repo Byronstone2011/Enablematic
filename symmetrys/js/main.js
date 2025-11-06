@@ -1,23 +1,23 @@
 const appData = {
   "brand": {
     "name": "Symmetrys Engineers",
-    "tagline": "Precision in every project",
+    "tagline": "Precision in every design",
     "category": "Structural & Civil Engineering",
-    "location": "UK & International",
+    "location": "UK and overseas",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Innovative engineering solution",
-    "title": "Streamlined design for complex projects",
-    "description": "We specialize in engineering structures that balance innovation and cost efficiency, backed by expert consultation.",
+    "eyebrow": "Trusted engineering experts",
+    "title": "Innovative solutions for complex projects",
+    "description": "Symmetrys specializes in delivering tailored structural and civil engineering services with precision and expertise, ensuring client satisfaction.",
     "highlights": [
       {
-        "label": "Projects Completed",
-        "value": "500+"
+        "label": "Years of Expertise",
+        "value": "15+"
       },
       {
-        "label": "Years of Expertise",
-        "value": "20+"
+        "label": "Projects Delivered",
+        "value": "750+"
       },
       {
         "label": "Client Satisfaction",
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Design",
-        "description": "Our designs integrate creativity with technical precision for lasting solutions."
+        "title": "Innovative Designs",
+        "description": "We create cutting-edge structural and civil engineering designs that exceed expectations."
       },
       {
         "title": "Global Reach",
-        "description": "We handle projects across the UK and internationally with proven success."
+        "description": "Our expertise spans projects across the UK and international markets."
       },
       {
-        "title": "Client Focus",
-        "description": "We prioritize client goals to deliver tailored engineering solutions."
+        "title": "Client-Centric Approach",
+        "description": "We prioritize client needs, delivering bespoke engineering solutions every time."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We provide high-quality engineering design and consultancy services for diverse projects.",
+    "description": "Symmetrys delivers specialized engineering services tailored to diverse project needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Structural Design",
-        "description": "Innovative structural solutions for small, medium, and large-scale projects."
+        "description": "We create robust, innovative designs for small to large-scale structures."
       },
       {
         "icon": "💼",
         "title": "Civil Consultancy",
-        "description": "Comprehensive civil engineering advice for complex developments."
+        "description": "Our expert consultancy ensures seamless project execution and efficiency."
       },
       {
         "icon": "📐",
         "title": "Value Engineering",
-        "description": "Optimized technical designs to enhance project efficiency and cost savings."
+        "description": "We optimize designs to deliver cost-effective, high-quality solutions."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Engineering excellence since day one",
+    "eyebrow": "Our journey of excell",
+    "title": "Engineering tailored for success",
     "paragraphs": [
-      "Symmetrys specializes in creating innovative engineering designs for diverse structures. With UK and global projects, we deliver precision every time.",
-      "Our tailored solutions meet client needs through expert knowledge and efficient workflows, ensuring success in every consultation and design."
+      "Symmetrys specializes in designing structures of all sizes, serving clients in the UK and internationally. Our team delivers innovative, reliable solutions for every project.",
+      "Focused on collaboration and precision, we meet the unique needs of developers, architects, and contractors, ensuring every design achieves unparalleled excellence."
     ],
-    "image": "https://images.pexels.com/photos/31019528/pexels-photo-31019528.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Customer success stori",
-    "title": "What our clients say",
+    "eyebrow": "What clients say",
+    "title": "Trusted by industry leaders",
     "list": [
       {
-        "quote": "Symmetrys delivered exceptional designs that balanced creativity and cost efficiency. Highly recommend their expertise!",
+        "quote": "Symmetrys transformed our vision into reality with their innovative designs and exceptional support.",
         "name": "Sarah Johnson",
         "role": "Architect",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their consultancy transformed our project with innovative solutions. The team is truly professional and reliable.",
-        "name": "Mark Evans",
+        "quote": "Their expertise in value engineering saved us time and money without compromising quality.",
+        "name": "Tom Williams",
         "role": "Property Developer",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us",
-    "title": "Connect with Symmetrys",
-    "description": "We serve clients across the UK and globally, offering expert engineering solutions tailored to your needs.",
-    "address": "UK & International",
+    "eyebrow": "Visit our headquarters",
+    "title": "Exceptional engineering services",
+    "description": "Explore our portfolio and consult with our engineering experts to bring your project to life.",
+    "address": "Contact us for location details",
     "website": "www.symmetrys.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started",
+    "eyebrow": "Get in touch",
     "title": "Request a consultation",
-    "description": "Contact us today to discuss your project and get expert advice from our team.",
-    "consent": "We respect your privacy. Your information will remain secure."
+    "description": "Contact Symmetrys to discuss your project needs and discover tailored solutions.",
+    "consent": "We respect your privacy and will never share your information."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate your workflow",
-    "description": "Streamline your processes with advanced AI tools tailored for engineering firms.",
+    "title": "Streamlining engineering processes",
+    "description": "Discover how automation tools enhance your projects.",
     "bullets": [
-      "Enable instant quote requests via online forms.",
-      "Automate proposal generation and follow-ups.",
-      "Simplify booking consultations with scheduling tools."
+      "Instant online enquiry forms simplify lead capture.",
+      "Automated proposals ensure quick client response.",
+      "Integrated scheduling streamlines consultations."
     ],
     "offer": "Mention Symmetrys Engineers for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Symmetrys Engineers delivers unforgettable experiences.",
-    "address": "UK & International",
+    "address": "Contact us for location details",
     "email": "",
     "socials": [
       {
