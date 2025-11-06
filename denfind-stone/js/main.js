@@ -1,15 +1,15 @@
 const appData = {
   "brand": {
     "name": "Denfind Stone",
-    "tagline": "Natural stone, perfected.",
-    "category": "Building materials",
-    "location": "Angus, Scotland",
+    "tagline": "Natural stone excellence",
+    "category": "Building Materials",
+    "location": "Scotland, UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Sustainable stone solutions",
-    "title": "Effortless bespoke stone sourcing.",
-    "description": "We simplify custom stone orders with Angus sandstone and automated quoting. Quality and sustainability guaranteed.",
+    "eyebrow": "Sustainable stone supply",
+    "title": "Streamlined bespoke stone solutions.",
+    "description": "We supply Angus sandstone and natural stone, offering tailored solutions and efficient processes to meet your project needs.",
     "highlights": [
       {
         "label": "Years in Business",
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Premium stone supply",
-        "description": "High-quality Angus sandstone tailored to your specifications."
+        "title": "Exceptional Quality",
+        "description": "Our sandstone is sourced and processed with precision for unmatched durability."
       },
       {
-        "title": "Sustainable practices",
-        "description": "Ethical quarrying and processing for a greener future."
+        "title": "Tailored Solutions",
+        "description": "We craft bespoke stone products that meet unique client specifications."
       },
       {
-        "title": "Expert craftsmanship",
-        "description": "Bespoke solutions delivered to precision standards."
+        "title": "Sustainable Practices",
+        "description": "Our quarrying methods prioritize environmental responsibility."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Denfind Stone provides top-tier natural stone products for residential, commercial, and heritage projects.",
+    "description": "We specialize in natural stone sourcing, bespoke solutions, and sustainable production.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Stone Supply",
-        "description": "Angus sandstone and natural stone for all construction needs."
+        "title": "Angus Sandstone",
+        "description": "Premium sandstone for structural and decorative applications."
       },
       {
-        "icon": "🛠",
+        "icon": "🔧",
         "title": "Bespoke Solutions",
-        "description": "Custom stone designs tailored to your vision and project specs."
+        "description": "Custom stone designs tailored to your project needs."
       },
       {
-        "icon": "🌿",
-        "title": "Sustainable Productio",
-        "description": "Environmentally friendly quarrying and processing techniques."
+        "icon": "🌱",
+        "title": "Sustainable Stone",
+        "description": "Ethically sourced and environmentally friendly stone production."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our legacy in stone",
-    "title": "Rooted in craftsmanship and sustainability.",
+    "eyebrow": "Our legacy",
+    "title": "Crafting natural excellence since day one.",
     "paragraphs": [
-      "Denfind Stone supplies premium Angus sandstone and natural stone. We focus on quality, sustainability, and bespoke solutions for diverse projects.",
-      "Our expert team ensures seamless sourcing and custom designs. With automation, we simplify quoting and ordering for any scale project."
+      "Denfind Stone has built a reputation for supplying high-quality Angus sandstone and other natural stone. We cater to residential and commercial projects with precision and care.",
+      "Our commitment to sustainability and bespoke solutions sets us apart, ensuring every project achieves beauty, durability, and environmental responsibility."
     ],
     "image": "https://images.unsplash.com/photo-1642702614835-4e2e8058edcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxCdWlsZGluZyUyMG1hdGVyaWFscyUyMCUyRiUyME5hdHVyYWwlMjBzdG9uZSUyMHN1cHBsaWVyJTIwcHJvZmVzc2lvbmFsJTIwdGVhbSUyMGF0JTIwd29ya3xlbnwwfHx8fDE3NjI0MzQzNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "testimonials": {
-    "eyebrow": "Client stories",
-    "title": "Success in stone sourcing.",
+    "eyebrow": "Customer voices",
+    "title": "Trusted by builders and developers.",
     "list": [
       {
-        "quote": "Denfind Stone made sourcing bespoke sandstone effortless. Their team exceeded expectations in quality and service.",
-        "name": "Jane Smith",
-        "role": "Residential Owner",
+        "quote": "Denfind Stone streamlined our stone sourcing process, saving time and delivering quality products.",
+        "name": "Mark Stevenson",
+        "role": "Construction Manager",
         "avatar": "https://images.unsplash.com/photo-1642702614835-4e2e8058edcc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxCdWlsZGluZyUyMG1hdGVyaWFscyUyMCUyRiUyME5hdHVyYWwlMjBzdG9uZSUyMHN1cHBsaWVyJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0MzQzNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
       },
       {
-        "quote": "Their sustainable practices align perfectly with our values. Custom orders were processed quickly and accurately.",
-        "name": "John Doe",
-        "role": "Commercial Developer",
+        "quote": "Their bespoke solutions were perfect for our historic restoration project. Highly recommend!",
+        "name": "Emma Carter",
+        "role": "Heritage Consultant",
         "avatar": "https://images.unsplash.com/photo-1734514415860-f0c08a0e5175?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwyfHxCdWlsZGluZyUyMG1hdGVyaWFscyUyMCUyRiUyME5hdHVyYWwlMjBzdG9uZSUyMHN1cHBsaWVyJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0MzQzNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit us",
-    "title": "Discover Denfind Stone.",
-    "description": "Located in the heart of Angus, Scotland, we welcome you to explore our local stone expertise.",
-    "address": "Angus, Scotland",
+    "title": "Experience natural stone craftsmanship.",
+    "description": "Discover our quarry and see the beauty of Angus sandstone up close.",
+    "address": "Scotland, UK",
     "website": "www.denfindstone.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Contact us",
-    "title": "Get your custom quote today.",
-    "description": "Reach out for bespoke stone solutions or to discuss your project needs.",
-    "consent": "By submitting, you agree to our privacy terms."
+    "eyebrow": "Request a quote",
+    "title": "Start your project today.",
+    "description": "Contact us for bespoke stone solutions and sustainable materials.",
+    "consent": "We respect your privacy. Opt-out anytime."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline stone sourcing.",
-    "description": "AI-powered tools simplify ordering and quoting for premium natural stone.",
+    "title": "AI-powered efficiency",
+    "description": "Leverage automation to enhance customer experience and streamline operations.",
     "bullets": [
-      "Searchable product catalog with specs.",
-      "Automated lead capture for projects.",
-      "Instant quotes for bespoke stone orders."
+      "Automated quoting for faster estimates.",
+      "Searchable stone catalog with specs.",
+      "CRM integration for lead management."
     ],
     "offer": "Mention Denfind Stone for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Denfind Stone delivers unforgettable experiences.",
-    "address": "Angus, Scotland",
+    "address": "Scotland, UK",
     "email": "",
     "socials": [
       {
