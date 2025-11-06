@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
-    "name": "ZClad",
-    "tagline": "Durable stone solutions",
+    "name": "ZClad Stone Claddin",
+    "tagline": "Natural beauty, built to last",
     "category": "Building Materials",
     "location": "Woodstock, UK",
-    "phone": "Contact for info"
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Nationwide supply",
-    "title": "Effortless stone cladding for every project",
-    "description": "We provide high-quality ZClad™ panels with quick delivery and expert support for contractors, designers, and architects nationwide.",
+    "eyebrow": "Nationwide suppliers",
+    "title": "Effortless stone cladding solutions.",
+    "description": "We supply premium ZClad™ stone nationwide, ensuring reliable service, quality materials, and expert support for your projects.",
     "highlights": [
       {
-        "label": "Projects Supported",
-        "value": "1,500+"
-      },
-      {
-        "label": "Years in Business",
-        "value": "10+"
+        "label": "Projects Supplied",
+        "value": "2,500+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
+      },
+      {
+        "label": "Years Serving",
+        "value": "10+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Premium Quality Panels",
-        "description": "Our ZClad™ panels are crafted for durability and exceptional aesthetics in all applications."
-      },
-      {
-        "title": "Nationwide Distribution",
-        "description": "We ensure fast and reliable delivery to contractors, designers, and architects across the UK."
+        "title": "Premium Materials",
+        "description": "We deliver high-quality natural stone cladding for lasting results."
       },
       {
         "title": "Expert Support",
-        "description": "We offer guidance on product selection and installation for flawless results every time."
+        "description": "Receive tailored advice for seamless project implementation."
+      },
+      {
+        "title": "Nationwide Reach",
+        "description": "Serving contractors and architects across the UK with ease."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Discover versatile solutions for interior and exterior stone cladding projects.",
+    "description": "We specialize in supplying and supporting ZClad™ stone cladding solutions nationwide.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "ZClad™ Panels",
-        "description": "Durable stone slips designed for interior and exterior applications."
+        "title": "Stone Cladding Panels",
+        "description": "Top-quality ZClad™ stone slips for interior and exterior designs."
       },
       {
-        "icon": "🚚",
-        "title": "Wholesale Supply",
-        "description": "Nationwide distribution for contractors and designers with quick turnaround."
+        "icon": "📦",
+        "title": "Wholesale Distribution",
+        "description": "Efficient supply for contractors, designers, and architects."
       },
       {
         "icon": "🛠",
-        "title": "Installation Support",
-        "description": "Expert guidance to ensure perfect installation and long-lasting results."
+        "title": "Project Support",
+        "description": "Expert advice on installation and product selection."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Mission",
-    "title": "Bringing quality stone cladding to the UK",
+    "eyebrow": "Our journey",
+    "title": "Delivering excellence in stone cladding.",
     "paragraphs": [
-      "Founded in Woodstock, ZClad Natural Stone Cladding Ltd supplies premium panels nationwide. We collaborate with contractors, designers, and architects.",
-      "With a focus on efficiency and quality, we ensure seamless delivery and expert support to meet the unique needs of every project."
+      "Founded in Woodstock, ZClad Natural Stone Cladding Ltd supplies premium stone cladding nationwide, working closely with contractors and architects.",
+      "We focus on quality, reliability, and efficiency, ensuring smooth project execution while providing expert advice for interior and exterior applications."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Customer Success",
-    "title": "What our clients say",
+    "eyebrow": "What clients say",
+    "title": "Trusted nationwide",
     "list": [
       {
-        "quote": "ZClad’s quick delivery and top-notch panels saved our project timeline. Highly recommend!",
-        "name": "James Carter",
-        "role": "Contractor",
+        "quote": "ZClad’s stone cladding transformed our project. Reliable supply and expert advice made all the difference.",
+        "name": "James Mitchell",
+        "role": "Architect",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "The guidance from ZClad’s team ensured flawless installation. Exceptional service!",
+        "quote": "Exceptional quality and fast delivery. ZClad is our go-to for stone cladding panels.",
         "name": "Laura Bennett",
-        "role": "Designer",
+        "role": "Contractor",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Our Location",
-    "title": "Headquartered in Woodstock",
-    "description": "We supply stone cladding nationwide, ensuring accessibility and convenience for UK projects.",
+    "eyebrow": "Visit us",
+    "title": "Explore our offerings",
+    "description": "Based in Woodstock, we supply nationwide, making quality stone cladding accessible across the UK.",
     "address": "Woodstock, UK",
     "website": "www.zclad.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Request a Quote Today",
-    "description": "Contact us for pricing, delivery details, or expert advice. Let's make your project a success!",
+    "eyebrow": "Get in touch",
+    "title": "Request a quote today",
+    "description": "Contact us to learn more or request a quote for your project.",
     "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline Your Stone Cladding Needs",
-    "description": "Leverage AI automation to simplify ordering, quoting, and project management.",
+    "title": "Streamline your process",
+    "description": "Enhance efficiency with AI-powered solutions tailored to your business needs.",
     "bullets": [
-      "Quick online quoting for busy contractors.",
-      "Automated lead capture to streamline communication.",
-      "Integrated e-commerce for effortless ordering."
+      "Online ordering with instant shipping estimates.",
+      "Automated quoting for faster client responses.",
+      "CRM integration to track and manage leads easily."
     ],
-    "offer": "Mention ZClad for the launch-week optimization kit.",
+    "offer": "Mention ZClad Stone Claddin for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,7 +124,7 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "ZClad delivers unforgettable experiences.",
+    "blurb": "ZClad Stone Claddin delivers unforgettable experiences.",
     "address": "Woodstock, UK",
     "email": "",
     "socials": [
