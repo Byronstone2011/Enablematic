@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "McGoff Construction",
-    "tagline": "Building futures, together",
+    "tagline": "Building for better living",
     "category": "Construction",
-    "location": "UK",
+    "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Specialist care builders",
-    "title": "Streamlined builds for care homes.",
-    "description": "We optimize healthcare and residential projects with efficient planning, self-delivery, and expert execution. Experience seamless construction solutions.",
+    "eyebrow": "Your trusted partner",
+    "title": "Streamlined construction solutions for care homes.",
+    "description": "We simplify care home builds with efficient planning, seamless delivery, and expert craftsmanship to meet your needs.",
     "highlights": [
       {
-        "label": "Projects Delivered",
-        "value": "500+"
+        "label": "Years in Operation",
+        "value": "15+"
       },
       {
-        "label": "Years of Experience",
-        "value": "20+"
+        "label": "Projects Completed",
+        "value": "300+"
       },
       {
-        "label": "Repeat Clients",
-        "value": "85%"
+        "label": "Client Satisfaction",
+        "value": "98%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Exceptional craftsmanshi",
-        "description": "Showcasing quality builds through high-end photography of completed projects."
+        "title": "Expert Craftsmanship",
+        "description": "Our skilled in-house trades ensure superior build quality every time."
       },
       {
-        "title": "Client-focused approach",
-        "description": "Our team photos emphasize trust and personalized service."
+        "title": "Efficient Delivery",
+        "description": "We manage every step to deliver projects on schedule and within budget."
       },
       {
-        "title": "Organized execution",
-        "description": "Clean layouts and planning ensure smooth project delivery every time."
+        "title": "Specialist Experience",
+        "description": "Decades of expertise in healthcare and residential construction."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Expert construction services for care homes and residential developments.",
+    "description": "Tailored construction services for healthcare and residential projects.",
     "cards": [
       {
         "icon": "🏗",
+        "title": "Principal Contracting",
+        "description": "Comprehensive construction management for seamless project execution."
+      },
+      {
+        "icon": "📐",
         "title": "Design & Construction",
-        "description": "Integrated design and build solutions tailored to your needs."
+        "description": "Integrated design and build solutions that ensure quality results."
       },
       {
-        "icon": "🛠",
-        "title": "Specialist Packages",
-        "description": "Self-delivery of in-house trades ensures quality control."
-      },
-      {
-        "icon": "📄",
-        "title": "Site Acquisition",
-        "description": "Expert guidance from planning to project completion."
+        "icon": "📜",
+        "title": "Planning & Site Prep",
+        "description": "Expert site acquisition and planning discharge services."
       }
     ]
   },
   "story": {
     "eyebrow": "Our journey",
-    "title": "Leading care construction.",
+    "title": "Building communities, transforming lives",
     "paragraphs": [
-      "McGoff Construction has earned a reputation for delivering exceptional healthcare and residential projects. Our focus is on quality and efficiency.",
-      "We partner with care providers to create spaces that meet their unique needs. Our repeat clients trust us for seamless program execution."
+      "McGoff Construction has been creating exceptional care homes and residential spaces for over 15 years. We combine innovation and expertise to deliver tailored solutions.",
+      "With a focus on quality and efficiency, we partner with clients to bring their visions to life. Our trusted approach ensures enduring success in every project."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
     "eyebrow": "Client feedback",
-    "title": "What clients say",
+    "title": "What our partners say",
     "list": [
       {
-        "quote": "McGoff's planning and execution made our care home build stress-free and efficient.",
-        "name": "Emma Carter",
+        "quote": "McGoff Construction delivered our care home on time and exceeded our expectations. Their professionalism is unmatched.",
+        "name": "Sarah Thompson",
         "role": "Care Home Director",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their self-delivered trades ensured quality and consistency throughout the project.",
-        "name": "James Hill",
-        "role": "Healthcare Developer",
+        "quote": "Their team made the entire process seamless, from planning to completion. We’ll definitely work with them again.",
+        "name": "Mark Andrews",
+        "role": "Residential Developer",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Our location",
-    "title": "Find us in the UK",
-    "description": "Based in the UK, we serve nationwide clients in healthcare and residential construction.",
-    "address": "Contact us for details",
-    "website": "www.mcgoffgroup.com",
+    "eyebrow": "Come see us",
+    "title": "Visit our office",
+    "description": "Discuss your project in person with our experienced team. Let’s build together.",
+    "address": "",
+    "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get in touch",
     "title": "Start your project today",
-    "description": "Contact us for consultations or quotes. Let us help build your vision.",
-    "consent": "We value your privacy."
+    "description": "Contact us now to discuss your construction needs. We’re ready to help.",
+    "consent": "We respect your privacy and data."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Boost efficiency with AI",
-    "description": "Revolutionize your construction process with automation.",
+    "title": "Transform your processes with AI",
+    "description": "Unlock efficiency with AI-driven tools tailored for construction.",
     "bullets": [
-      "Streamline lead capture with CRM tools.",
-      "Centralize project management workflows.",
-      "Automate compliance and progress reporting."
+      "Streamline lead capture with automated CRM systems.",
+      "Centralize project data for better collaboration.",
+      "Automate workflows for compliance and reporting."
     ],
     "offer": "Mention McGoff Construction for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "McGoff Construction delivers unforgettable experiences.",
-    "address": "Contact us for details",
+    "address": "",
     "email": "",
     "socials": [
       {
