@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "TIS (NGA) Ltd",
-    "tagline": "Excellence in industrial services",
+    "tagline": "North East Industrial Experts",
     "category": "Industrial Services",
     "location": "North East, UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted by leading industries",
-    "title": "Integrated solutions for asset protection.",
-    "description": "We streamline maintenance, prevent degradation, and ensure safety compliance for industrial projects.",
+    "eyebrow": "Trusted Maintenance Partner",
+    "title": "Streamline industrial upkeep today.",
+    "description": "We simplify multi-discipline projects and ensure compliance while protecting assets and reducing downtime.",
     "highlights": [
       {
         "label": "Years of Expertise",
-        "value": "15+"
+        "value": "20+"
       },
       {
-        "label": "Projects Completed",
-        "value": "2,000+"
+        "label": "Industries Served",
+        "value": "10+"
       },
       {
-        "label": "Compliance Rate",
-        "value": "99.9%"
+        "label": "Client Satisfaction",
+        "value": "98%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Certified Expertise",
-        "description": "ISO-certified services guarantee safety and reliability in every project."
+        "title": "Certified Solutions",
+        "description": "ISO certifications ensure quality and safety compliance in all services."
       },
       {
-        "title": "Multi-discipline Solution",
-        "description": "From scaffolding to coatings, we handle diverse industrial needs seamlessly."
+        "title": "Multi-discipline Expertis",
+        "description": "We offer scaffolding, rope access, coatings, and insulation under one roof."
       },
       {
-        "title": "Client-Centric Approach",
-        "description": "Our focus is on tailored solutions that meet your project's unique demands."
+        "title": "Tailored Services",
+        "description": "Custom solutions designed for diverse industrial challenges."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "From scaffolding to confined space rescue, we deliver reliable industrial solutions.",
+    "description": "Specialized services for industrial maintenance and access.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Scaffolding Services",
-        "description": "Tube & fitting, system scaffold, and custom designs for industrial projects."
+        "title": "Scaffolding",
+        "description": "Innovative system and tube scaffolding for safe access and maintenance."
       },
       {
         "icon": "🛡",
         "title": "Protective Coatings",
-        "description": "Surface preparation and coatings to protect against corrosion and wear."
+        "description": "Surface preparation and coatings to prevent corrosion and wear."
       },
       {
         "icon": "⚙️",
         "title": "Rope Access",
-        "description": "IRATA-certified operatives for safe and efficient high-access tasks."
+        "description": "Expert IRATA operatives for safe and efficient high-access tasks."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Delivering trust and expertise",
+    "eyebrow": "Our Legacy",
+    "title": "Built on Excellence",
     "paragraphs": [
-      "Founded in the North East, TIS (NGA) Ltd delivers top-notch industrial services. Our team specializes in scaffolding, rope access, coatings, and insulation.",
-      "We’re trusted by industries like oil & gas and manufacturing, providing tailored solutions with measurable ROI and safety compliance."
+      "Based in the North East, TIS (NGA) Ltd provides essential services like scaffolding, rope access, and coatings. We serve industries across oil, gas, and energy.",
+      "Our tailored, certified solutions simplify complex projects, ensuring safety, compliance, and operational efficiency for high-value assets."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Trusted by industry leaders",
+    "eyebrow": "What Clients Say",
+    "title": "Real Results, Real Feedback",
     "list": [
       {
-        "quote": "TIS streamlined our maintenance schedule and ensured safety compliance effortlessly.",
-        "name": "John Smith",
-        "role": "Operations Manager",
+        "quote": "TIS streamlined our shutdown with expert coordination and compliance management.",
+        "name": "Jane Doe",
+        "role": "Operations Manager, Oil & Gas",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their protective coatings saved us from costly asset degradation.",
-        "name": "Sarah Johnson",
-        "role": "Project Engineer",
+        "quote": "Their coatings saved us from costly corrosion damage. Highly recommend!",
+        "name": "John Smith",
+        "role": "Asset Integrity Specialist",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find us",
-    "title": "Located in the North East",
-    "description": "Serving industries across the UK with reliable industrial solutions.",
-    "address": "",
-    "website": "www.teessideindustrial.co.uk",
+    "eyebrow": "Find Us",
+    "title": "North East Location",
+    "description": "Located in the North East, we’re perfectly positioned for industrial hubs.",
+    "address": "North East, UK",
+    "website": "teessideindustrial.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started",
-    "title": "Request a consultation",
-    "description": "Contact us for tailored industrial services and expert advice.",
-    "consent": "By submitting, you agree to our terms."
+    "eyebrow": "Get in Touch",
+    "title": "Request a Quote Today",
+    "description": "Contact us for bookings or consultations tailored to your needs.",
+    "consent": "We respect your privacy and comply with GDPR."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Enhance your operations with AI",
-    "description": "Streamline maintenance and compliance using automation.",
+    "title": "AI-Powered Efficiency",
+    "description": "Automation drives seamless scheduling and compliance.",
     "bullets": [
-      "Automated lead capture and instant quoting.",
-      "Efficient scheduling with calendar integration.",
-      "CRM integration for client portals and safety docs."
+      "Instant quotes for tenders and lead capture.",
+      "Automated resource allocation with calendar tools.",
+      "Integrated CRM for safety certificates and client portals."
     ],
     "offer": "Mention TIS (NGA) Ltd for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "TIS (NGA) Ltd delivers unforgettable experiences.",
-    "address": "",
+    "address": "North East, UK",
     "email": "",
     "socials": [
       {
