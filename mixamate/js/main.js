@@ -1,23 +1,23 @@
 const appData = {
   "brand": {
-    "name": "Mixamate",
-    "tagline": "Concrete, Screed Delivered",
-    "category": "Construction Supply",
+    "name": "Mixamate Concrete",
+    "tagline": "Concrete, Screed, Delivered.",
+    "category": "Construction Services",
     "location": "London, UK",
     "phone": "Unavailable"
   },
   "hero": {
-    "eyebrow": "Concrete delivery made easy",
-    "title": "Fast, reliable concrete in London",
-    "description": "Mixamate delivers ready mix, volumetric, and screed concrete directly to your site. Get quality and efficiency every time.",
+    "eyebrow": "London's Concrete Experts",
+    "title": "Effortless concrete delivery, every time.",
+    "description": "Mixamate offers ready mix and screed delivery with expert support. Simplify site management and get top-quality materials fast.",
     "highlights": [
       {
-        "label": "Projects Completed",
-        "value": "5,000+"
+        "label": "Years Serving London",
+        "value": "15+"
       },
       {
-        "label": "Years in Operation",
-        "value": "20+"
+        "label": "Projects Delivered",
+        "value": "2,500+"
       },
       {
         "label": "Customer Satisfaction",
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "All-in-One Trucks",
-        "description": "Pump and mix trucks streamline delivery for faster results."
+        "title": "All-in-one Trucks",
+        "description": "Our pump trucks simplify mixing, pumping, and delivery in one seamless process."
       },
       {
-        "title": "Quality Guarantee",
-        "description": "Each mix meets strict construction standards."
+        "title": "Expert Support",
+        "description": "Free calculators and on-site technical guidance ensure precision every time."
       },
       {
-        "title": "Smart Support Tools",
-        "description": "Free calculator app simplifies your order process."
+        "title": "Fast, Reliable Service",
+        "description": "We deliver efficiently, reducing downtime and keeping your projects on track."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We specialize in efficient concrete delivery solutions designed for busy construction sites.",
+    "description": "We specialize in mix-on-site concrete, screed pumping, and straight pours tailored to your needs.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Mix-on-Site Delivery",
-        "description": "Get volumetric concrete mixed directly on site, ensuring zero waste and maximum efficiency."
+        "title": "Mix-on-site Concrete",
+        "description": "Volumetric trucks ensure the exact mix you need, reducing waste and saving costs."
       },
       {
-        "icon": "🚛",
+        "icon": "🚚",
         "title": "Concrete Pumping",
-        "description": "Our pump trucks deliver concrete with precision, saving time and labor costs."
+        "description": "All-in-one pump trucks streamline delivery with no hassle or delays."
       },
       {
-        "icon": "🏢",
+        "icon": "🏠",
         "title": "Screed Pumping",
-        "description": "Deliver screed quickly with pump trucks designed for construction jobs."
+        "description": "High-quality screed delivered and pumped directly for smooth flooring applications."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "Built for Builders",
+    "eyebrow": "Built for Constructio",
+    "title": "Our Commitment to Quality",
     "paragraphs": [
-      "Mixamate has been delivering top-quality concrete and screed across London for over 20 years. Our efficient services simplify construction projects.",
-      "We combine expert knowledge with advanced tools to ensure reliability. Builders trust us for seamless delivery and unmatched support."
+      "Mixamate has been London’s trusted concrete and screed supplier for over 15 years. We focus on delivering quality materials tailored to every site’s needs.",
+      "As specialists in volumetric mixing and pumping, we offer unmatched efficiency and precision. Our solutions save time and ensure reliability for construction teams."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Trusted by Builders",
+    "eyebrow": "Trusted by Builders",
+    "title": "Hear from Our Clients",
     "list": [
       {
-        "quote": "Mixamate’s pump trucks saved us hours on-site. Delivery was quick and efficient.",
-        "name": "James Turner",
+        "quote": "Mixamate’s efficient delivery saved us hours on-site. Their pump trucks are game changers!",
+        "name": "John Doe",
         "role": "Site Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their volumetric mixing eliminates waste. Fantastic service every time.",
-        "name": "Sarah Collins",
+        "quote": "The concrete mix was perfect every time. Their team’s expertise is unbeatable!",
+        "name": "Sarah Lee",
         "role": "Contractor",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Proudly Serving London",
-    "description": "Mixamate operates across London, delivering quality concrete to local sites with speed and reliability.",
+    "eyebrow": "Serving London",
+    "title": "Your Local Supplier",
+    "description": "We deliver concrete and screed across London, ensuring projects run smoothly and on schedule.",
     "address": "Unavailable",
-    "website": "mixamate.co.uk",
+    "website": "Unavailable",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get a Quote",
-    "title": "Request Your Delivery",
-    "description": "Contact us today for fast, reliable concrete delivery. Your project deserves the best.",
-    "consent": "By submitting, you agree to our terms."
+    "title": "Ready to Order?",
+    "description": "Contact us today to book your delivery or request a quote for your project.",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Smarter Delivery Solutions",
-    "description": "AI tools improve efficiency and streamline operations for Mixamate.",
+    "title": "Automate Your Efficiency",
+    "description": "AI solutions simplify operations and boost customer satisfaction for concrete suppliers.",
     "bullets": [
-      "Instant quoting tied to real-time truck availability.",
-      "Route optimization reduces costs and delivery delays.",
-      "Automated CRM turns inquiries into repeat business."
+      "Real-time booking tied to truck availability.",
+      "Optimize dispatch and routing to cut costs.",
+      "Capture leads and automate follow-ups for repeat business."
     ],
-    "offer": "Mention Mixamate for the launch-week optimization kit.",
+    "offer": "Mention Mixamate Concrete for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,7 +124,7 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Mixamate delivers unforgettable experiences.",
+    "blurb": "Mixamate Concrete delivers unforgettable experiences.",
     "address": "Unavailable",
     "email": "",
     "socials": [
