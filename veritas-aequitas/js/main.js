@@ -2,17 +2,17 @@ const appData = {
   "brand": {
     "name": "Veritas Aequitas",
     "tagline": "Precision in Estimating",
-    "category": "Construction Consulting",
+    "category": "Construction Services",
     "location": "Scotland",
-    "phone": ""
+    "phone": "N/A"
   },
   "hero": {
-    "eyebrow": "Trusted estimating experts",
-    "title": "Accurate estimates, every time.",
-    "description": "We provide precise electrical estimates and pre-construction services that save time and prevent costly errors.",
+    "eyebrow": "Expert consulting services",
+    "title": "Accurate estimates for project success",
+    "description": "We deliver reliable electrical estimates and consultancy, helping clients avoid costly errors and achieve optimal outcomes.",
     "highlights": [
       {
-        "label": "Projects Completed",
+        "label": "Projects Supported",
         "value": "500+"
       },
       {
@@ -20,101 +20,101 @@ const appData = {
         "value": "98%"
       },
       {
-        "label": "Years of Expertise",
+        "label": "Years in Industry",
         "value": "10+"
       }
     ],
-    "image": "https://images.pexels.com/photos/6474296/pexels-photo-6474296.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Insights",
-        "description": "We bring deep industry knowledge to every project for optimal outcomes."
+        "title": "Unmatched Expertise",
+        "description": "Our team provides industry-leading knowledge in electrical estimating and pre-construction planning."
+      },
+      {
+        "title": "Proven Accuracy",
+        "description": "We ensure precise cost calculations, minimizing risks and maximizing project efficiency."
       },
       {
         "title": "Tailored Solutions",
-        "description": "Custom approaches ensure your goals are met with accuracy and efficiency."
-      },
-      {
-        "title": "Proven Results",
-        "description": "Our track record of successful projects speaks for itself."
+        "description": "Customized strategies meet your specific project needs and drive exceptional outcomes."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive electrical estimating and pre-construction services designed to streamline your projects.",
+    "description": "We specialize in electrical estimating and pre-construction services for commercial and industrial projects.",
     "cards": [
       {
-        "icon": "🏗",
-        "title": "Electrical Estimating",
-        "description": "Detailed estimates and tender preparation for precise project budgeting."
-      },
-      {
         "icon": "💼",
-        "title": "Pre-Construction Planni",
-        "description": "Cost planning, value engineering, and procurement support tailored to your needs."
+        "title": "Estimating Services",
+        "description": "Detailed estimates, tender preparation, and material take-offs to support your projects."
       },
       {
-        "icon": "📊",
-        "title": "Training Services",
-        "description": "Bespoke training for contract engineers to enhance project success."
+        "icon": "🏗",
+        "title": "Cost Planning",
+        "description": "Pre-construction cost planning and value engineering to optimize budgets."
+      },
+      {
+        "icon": "📚",
+        "title": "Bespoke Training",
+        "description": "Customized training programs for contracts engineers to elevate skills."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "Built on trust and precision.",
+    "eyebrow": "Our journey",
+    "title": "Building success through precision",
     "paragraphs": [
-      "Veritas Aequitas Consulting was founded to deliver reliable estimating and consultancy services in the construction industry. We focus on precision and quality.",
-      "Our tailored solutions help clients streamline tendering, reduce risks, and achieve consistent results. We are committed to your success."
+      "Founded on a commitment to quality, Veritas Aequitas Consulting excels in electrical estimating and pre-construction services.",
+      "Our solutions empower clients with accurate, efficient processes that save time and money while driving project success."
     ],
-    "image": "https://images.pexels.com/photos/6195874/pexels-photo-6195874.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
     "eyebrow": "Client Feedback",
-    "title": "What our clients say",
+    "title": "What clients say",
     "list": [
       {
-        "quote": "Their detailed estimates saved us time and prevented errors during a critical tender period.",
-        "name": "John Smith",
-        "role": "Quantity Surveyor",
-        "avatar": "https://images.pexels.com/photos/6474460/pexels-photo-6474460.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        "quote": "Veritas Aequitas saved us hours during a critical bidding phase. Their accuracy is unmatched.",
+        "name": "Sarah Thompson",
+        "role": "Project Manager, Construction Firm",
+        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Veritas Aequitas helped us secure bids with accurate cost planning and expert advice.",
-        "name": "Sarah Peters",
-        "role": "Project Manager",
-        "avatar": "https://images.unsplash.com/photo-1631171992385-784ae02b1acb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlRTIlODAlOTQlMjBFbGVjdHJpY2FsJTIwZXN0aW1hdGluZyUyMCUyNiUyMHByZS1jb25zdHJ1Y3Rpb24lMjBzZXJ2aWNlcyUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNDM0MTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+        "quote": "Their estimates helped us secure a major contract without cost overruns. Highly recommend.",
+        "name": "John Carter",
+        "role": "Director, Electrical Contractor",
+        "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Where to find us",
-    "title": "Headquartered in Scotland",
-    "description": "We proudly serve clients nationwide from our base in Scotland. Contact us for expert support.",
-    "address": "",
-    "website": "",
+    "eyebrow": "Visit Us",
+    "title": "Located in Scotland",
+    "description": "Our office is conveniently located to serve clients across the UK. Contact us for inquiries.",
+    "address": "N/A",
+    "website": "www.bmes-scotland.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in Touch",
-    "title": "Request a consultation",
-    "description": "Contact us today to discuss how we can support your project needs with precision and expertise.",
-    "consent": "We respect your privacy."
+    "eyebrow": "Get Started",
+    "title": "Request a Consultation",
+    "description": "Contact us today to discuss your project needs and explore how we can assist you.",
+    "consent": "We respect your privacy. Your data is safe."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Estimating Today",
-    "description": "Boost efficiency and accuracy with AI-driven estimating tools.",
+    "title": "Streamline Your Workflow",
+    "description": "Leverage AI-driven automation to enhance estimating and project planning accuracy.",
     "bullets": [
-      "Speed up material and labor take-offs with digital software.",
-      "Centralize pricing with integrated estimate templates.",
-      "Track bids and deadlines with automated workflows."
+      "Digitize quantity take-offs for faster results.",
+      "Centralize pricing and integrate tools seamlessly.",
+      "Automate tender tracking and submissions."
     ],
     "offer": "Mention Veritas Aequitas for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Veritas Aequitas delivers unforgettable experiences.",
-    "address": "",
+    "address": "N/A",
     "email": "",
     "socials": [
       {
