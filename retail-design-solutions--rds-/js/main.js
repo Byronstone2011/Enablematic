@@ -1,15 +1,15 @@
 const appData = {
   "brand": {
-    "name": "Retail Design",
-    "tagline": "Transforming spaces",
+    "name": "Retail Design Solut",
+    "tagline": "Transforming retail spaces",
     "category": "Commercial Interior Design",
     "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Retail design experts",
-    "title": "Streamlined store rollouts, delivered.",
-    "description": "We simplify retail design with seamless workflows, precise planning, and automated solutions tailored for your brand's success.",
+    "eyebrow": "Your retail design partner",
+    "title": "Streamline store rollouts globally.",
+    "description": "We simplify retail design, rollout, and asset management for consistent brand experiences. Save time and improve efficiency with our expert solutions.",
     "highlights": [
       {
         "label": "Projects Delivered",
@@ -20,8 +20,8 @@ const appData = {
         "value": "98%"
       },
       {
-        "label": "Years of Expertise",
-        "value": "15+"
+        "label": "Years of Experience",
+        "value": "10+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Precise Planning",
-        "description": "We specialize in accurate planning for nationwide retail spaces."
+        "title": "Expert Design Support",
+        "description": "Our team delivers seamless designs tailored to retail needs."
       },
       {
-        "title": "Seamless Workflows",
-        "description": "Streamlined processes ensure efficient project delivery every time."
+        "title": "Advanced BIM Solutions",
+        "description": "We leverage BIM for efficient asset and data management workflows."
       },
       {
-        "title": "Innovative Tools",
-        "description": "Our cutting-edge tech enhances design and project management."
+        "title": "Global Brand Consistenc",
+        "description": "We ensure consistent store designs across all locations."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Our services cover design, planning, surveying, and rollout management.",
+    "description": "Innovative retail design solutions that enhance customer experiences.",
     "cards": [
       {
-        "icon": "📐",
-        "title": "Store Planning",
-        "description": "Optimize layouts with expert store and space planning services."
-      },
-      {
         "icon": "🏗",
-        "title": "BIM Modeling",
-        "description": "Accurate scan-to-BIM modeling for seamless construction workflows."
+        "title": "Store Planning",
+        "description": "Optimize layouts and spaces with our expert store planning services."
       },
       {
-        "icon": "🎨",
-        "title": "Brand Design",
-        "description": "Create standout retail concepts with unique branding strategies."
+        "icon": "🖥",
+        "title": "3D Visualizations",
+        "description": "Bring your concepts to life with VR and 3D rendering technology."
+      },
+      {
+        "icon": "📐",
+        "title": "Surveying & BIM",
+        "description": "Precision surveying and BIM integration for streamlined workflows."
       }
     ]
   },
   "story": {
     "eyebrow": "Our journey",
-    "title": "Innovating retail design.",
+    "title": "Innovating retail design solutions",
     "paragraphs": [
-      "Retail Design Solutions was founded to revolutionize commercial interior design, delivering tailored, scalable solutions for retail brands worldwide.",
-      "With advanced technology and seamless workflows, we empower brands to achieve consistent, efficient rollouts across every location."
+      "Retail Design Solutions was founded to revolutionize the retail design process. Our team combines creativity and technology to deliver cutting-edge store designs.",
+      "We collaborate with brands globally, ensuring seamless rollouts and consistent experiences. Our innovative tools and workflows set us apart in the industry."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Customer feedback",
-    "title": "What clients say",
+    "eyebrow": "Client feedback",
+    "title": "What our clients say",
     "list": [
       {
-        "quote": "Thanks to RDS, our store rollouts are faster and more consistent than ever before.",
-        "name": "Sarah Johnson",
-        "role": "Brand Operations Manager",
+        "quote": "Retail Design Solutions made our store rollout easy and stress-free. Their innovative workflows saved us time and effort.",
+        "name": "Sarah Green",
+        "role": "Brand Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their BIM tools saved us time and ensured precision in every project.",
-        "name": "Michael Harris",
-        "role": "Property Developer",
+        "quote": "Their BIM expertise helped us streamline asset management and improve planning efficiency across all locations.",
+        "name": "James Miller",
+        "role": "Facilities Manager",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find us",
-    "title": "Visit our office",
-    "description": "Collaborate with us in our state-of-the-art design studio.",
+    "eyebrow": "Discover us",
+    "title": "Visit our headquarters",
+    "description": "Connect with us to explore how we can transform your retail spaces. We are ready to bring your vision to life.",
     "address": "",
     "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get started",
-    "title": "Request a consultation",
-    "description": "Contact us today to discuss your design and rollout needs.",
+    "title": "Contact us today",
+    "description": "Reach out for a consultation and see how we can elevate your retail design.",
     "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Powerful automation tools",
-    "description": "Leverage AI to streamline workflows, improve accuracy, and deliver faster results.",
+    "title": "Automating retail design",
+    "description": "Leverage AI and automation to streamline processes and enhance efficiency.",
     "bullets": [
-      "Automated scan-to-BIM processing for efficiency.",
-      "Real-time project tracking via client portals.",
-      "Streamlined EDMS workflows for document approvals."
+      "Automate survey and scan-to-BIM workflows for accuracy.",
+      "Implement EDMS for seamless document management.",
+      "Track project progress with automated scheduling tools."
     ],
-    "offer": "Mention Retail Design for the launch-week optimization kit.",
+    "offer": "Mention Retail Design Solut for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,7 +124,7 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Retail Design delivers unforgettable experiences.",
+    "blurb": "Retail Design Solut delivers unforgettable experiences.",
     "address": "",
     "email": "",
     "socials": [
