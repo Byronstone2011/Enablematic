@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Rhinox Group",
-    "tagline": "Xtreme performance buckets",
+    "tagline": "Built for extreme durability",
     "category": "Construction Equipment",
-    "location": "Global Reach",
+    "location": "UK, Europe, Middle",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Precision-built tools",
-    "title": "Durable attachments for any job",
-    "description": "Reduce downtime with OEM-approved, high-performance buckets and rapid dispatch. Built to last, delivered fast.",
+    "eyebrow": "Lifetime guarantees included",
+    "title": "Reduce downtime with durable buckets.",
+    "description": "Rhinox Group provides OEM-approved attachments with rapid dispatch and lifetime guarantees for seamless operations worldwide.",
     "highlights": [
       {
         "label": "Years in Business",
-        "value": "15+"
+        "value": "10+"
       },
       {
-        "label": "Products Delivered",
-        "value": "10,000+"
+        "label": "Attachments Delivered",
+        "value": "20,000+"
       },
       {
-        "label": "Customer Satisfaction",
-        "value": "98%"
+        "label": "Dispatch Success Rate",
+        "value": "99%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Lifetime Guarantees",
-        "description": "Our products are backed by trusted lifetime guarantees for peace of mind."
-      },
-      {
         "title": "Rapid Dispatch",
-        "description": "Same-day dispatch ensures you get what you need quickly, minimizing downtime."
+        "description": "Same-day shipping ensures next-day delivery for urgent needs."
       },
       {
-        "title": "OEM Compatibility",
-        "description": "Our products meet OEM standards for seamless performance and reliability."
+        "title": "Lifetime Guarantees",
+        "description": "OEM-approved products backed by trusted guarantees."
+      },
+      {
+        "title": "Global Reach",
+        "description": "Serving OEMs and operators across four continents."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Rhinox Group manufactures top-quality buckets and attachments for construction equipment worldwide.",
+    "description": "High-performance attachments designed for durability and efficiency.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Mini Digger Buckets",
-        "description": "High-performance buckets designed for durability and precision in tough conditions."
+        "title": "Excavator Buckets",
+        "description": "OEM-grade digging and grading buckets for smooth operations."
       },
       {
         "icon": "🛠",
-        "title": "Excavator Attachments",
-        "description": "OEM-approved excavator attachments built to handle extreme workloads."
+        "title": "Telehandler Buckets",
+        "description": "Heavy-duty attachments for versatile telehandler use."
       },
       {
-        "icon": "🚜",
-        "title": "Telehandler Buckets",
-        "description": "Versatile telehandler buckets for efficient material handling and grading."
+        "icon": "🚚",
+        "title": "Rapid Stock Delivery",
+        "description": "Large inventory ensures quick dispatch and reliability."
       }
     ]
   },
   "story": {
-    "eyebrow": "Built for performance",
-    "title": "Our journey of innovation",
+    "eyebrow": "Our journey of innova",
+    "title": "Built to last, trusted globally",
     "paragraphs": [
-      "Rhinox Group specializes in manufacturing robust digging and grading buckets. Our products are trusted by OEMs and operators worldwide.",
-      "With a focus on rapid dispatch and lifetime guarantees, we ensure reliable solutions that minimize downtime for our customers."
+      "Rhinox Group specializes in manufacturing durable attachments like excavator and telehandler buckets. We prioritize quality and performance worldwide.",
+      "With rapid dispatch, OEM partnerships, and lifetime guarantees, we ensure operators minimize downtime and maximize efficiency across industries."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Customer feedback",
-    "title": "What our clients say",
+    "eyebrow": "What our clients say",
+    "title": "Trusted by industry leaders",
     "list": [
       {
-        "quote": "Rhinox buckets saved us hours of downtime with their fast delivery and unmatched durability.",
-        "name": "Paul Jenkins",
-        "role": "Owner-Operator",
+        "quote": "Rhinox buckets are a lifesaver. Their rapid shipping keeps our projects running smoothly.",
+        "name": "James Turner",
+        "role": "Plant Hire Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their OEM-approved attachments fit perfectly and perform under tough conditions every time.",
-        "name": "Sarah Mitchell",
-        "role": "Dealer Manager",
+        "quote": "Their durable, OEM-approved products give us peace of mind every time.",
+        "name": "Sarah Edwards",
+        "role": "OEM Dealer",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Global service",
-    "title": "Worldwide delivery",
-    "description": "Serving customers across the UK, Europe, Middle East, and Australia with rapid delivery.",
+    "eyebrow": "Global operations",
+    "title": "Serving industries worldwide",
+    "description": "From the UK to Australia, Rhinox delivers reliable attachments for diverse needs.",
     "address": "",
     "website": "www.rhinox-group.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Request a quote today",
-    "description": "Contact us for expert advice, pricing, or product availability.",
-    "consent": "We value your privacy."
+    "eyebrow": "Ready to connect?",
+    "title": "Get a quote today",
+    "description": "Contact us to discuss your attachment needs or request a consultation.",
+    "consent": "By submitting, I agree to the terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate your workflow",
-    "description": "Enhance efficiency with AI-driven systems tailored for construction equipment.",
+    "title": "Streamline with AI solutions",
+    "description": "Optimize inventory and ordering with automated workflows.",
     "bullets": [
-      "Real-time inventory visibility for faster ordering.",
-      "Automated dispatch and delivery notifications.",
-      "CRM integration to streamline warranty tracking."
+      "Real-time stock visibility for quicker ordering.",
+      "Automated dispatch notifications for clients.",
+      "Warranty tracking with CRM automation."
     ],
     "offer": "Mention Rhinox Group for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
