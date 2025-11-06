@@ -1,20 +1,16 @@
 const appData = {
   "brand": {
     "name": "BIMBox",
-    "tagline": "Digital construction excellence",
+    "tagline": "Digital construction experts",
     "category": "BIM Consultancy",
     "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Streamline your projects",
-    "title": "Transform construction with BIM expertise.",
-    "description": "BIMBox simplifies data management, integrates tools, and unlocks digital transformation for efficient project delivery.",
+    "eyebrow": "Streamlining workflows",
+    "title": "Transforming digital construction delivery.",
+    "description": "We simplify BIM processes, improve collaboration, and ensure data integration for seamless project outcomes.",
     "highlights": [
-      {
-        "label": "Years of Experience",
-        "value": "10+"
-      },
       {
         "label": "Projects Delivered",
         "value": "500+"
@@ -22,6 +18,10 @@ const appData = {
       {
         "label": "Client Satisfaction",
         "value": "98%"
+      },
+      {
+        "label": "Years of Expertise",
+        "value": "10+"
       }
     ],
     "image": "https://images.pexels.com/photos/19901522/pexels-photo-19901522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -32,89 +32,89 @@ const appData = {
     "items": [
       {
         "title": "Expert BIM Solutions",
-        "description": "Our team delivers tailored strategies for seamless project execution."
+        "description": "We provide tailored strategies for effective digital construction workflows."
       },
       {
-        "title": "Data Integration",
-        "description": "We connect tools and systems for unified workflows and insights."
+        "title": "Data Integration Mastery",
+        "description": "Seamless integration across tools for unified project data management."
       },
       {
-        "title": "Cutting-edge Research",
-        "description": "We pioneer new techniques to drive innovation in construction."
+        "title": "Proven Excellence",
+        "description": "Trusted by top consultants and contractors for efficient delivery."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "BIMBox empowers estates, contractors, and consultants with these services:",
+    "description": "We offer cutting-edge services to optimize your digital construction processes.",
     "cards": [
       {
-        "icon": "💼",
+        "icon": "💻",
         "title": "Information Management",
-        "description": "Structured data ensures compliance and clarity across projects."
+        "description": "Structured data for improved accuracy and compliance across projects."
       },
       {
         "icon": "🏗",
         "title": "3D Modelling",
-        "description": "Accurate models bring designs to life and improve decision-making."
+        "description": "Detailed 3D models for enhanced visualization and planning."
       },
       {
         "icon": "📊",
         "title": "Reality Capture",
-        "description": "Advanced scanning creates precise digital replicas of spaces."
+        "description": "Advanced capture tools to map and analyze built environments effectively."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Built to transform construction.",
+    "eyebrow": "Our Purpose",
+    "title": "Driving digital transformation in construction.",
     "paragraphs": [
-      "Since its inception, BIMBox has been a leader in digital construction, empowering clients to work smarter and achieve results faster.",
-      "With deep expertise, we simplify workflows and reduce risks, helping stakeholders navigate digital transformation with confidence."
+      "BIMBox is a leader in digital construction, empowering stakeholders with innovative tools and strategies to streamline delivery.",
+      "Our expertise ensures effective solutions that reduce risks, enhance efficiency, and drive success in complex projects."
     ],
     "image": "https://images.pexels.com/photos/6930597/pexels-photo-6930597.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Real results from BIMBox",
+    "eyebrow": "Client Feedback",
+    "title": "Trusted by industry leaders.",
     "list": [
       {
-        "quote": "BIMBox streamlined our workflows and improved project delivery tenfold.",
-        "name": "Sarah Johnson",
+        "quote": "BIMBox transformed our workflows, making data management effortless and projects more efficient.",
+        "name": "Sarah Thompson",
         "role": "Estate Manager",
         "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their expertise in data integration transformed our operations entirely.",
-        "name": "Michael Brown",
+        "quote": "Their tools and insights streamlined collaboration across our teams, saving both time and costs.",
+        "name": "Michael Carter",
         "role": "Contractor",
         "avatar": "https://images.unsplash.com/photo-1759361935821-52bcc4d81bba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxEaWdpdGFsJTIwY29uc3RydWN0aW9uJTIwJTJGJTIwQklNJTIwY29uc3VsdGFuY3klMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjQzNDI3M3ww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Where to find us",
-    "title": "Let’s connect",
-    "description": "Contact us to learn more about our solutions and start transforming your projects.",
+    "eyebrow": "Connect with Us",
+    "title": "Discover BIMBox expertise.",
+    "description": "Explore how we can enhance your digital construction projects. Contact us today.",
     "address": "",
     "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Talk to our experts",
-    "description": "Contact BIMBox today for personalized strategies and efficient solutions.",
-    "consent": "Your information is safe with us."
+    "eyebrow": "Get Started",
+    "title": "Request a consultation.",
+    "description": "Contact us for expert advice on optimizing your BIM processes and projects.",
+    "consent": "We respect your privacy and will never share your information."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "AI-driven transformation",
-    "description": "Automation optimizes workflows and boosts efficiency.",
+    "title": "Automating Success",
+    "description": "Harness the power of AI to optimize workflows and improve project outcomes.",
     "bullets": [
-      "Validate BIM data and ensure compliance automatically.",
-      "Streamline client onboarding with automated workflows.",
-      "Generate real-time dashboards for project KPIs."
+      "Automate BIM data validation for accuracy.",
+      "Create real-time dashboards for key KPIs.",
+      "Streamline client onboarding and workflows."
     ],
     "offer": "Mention BIMBox for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
