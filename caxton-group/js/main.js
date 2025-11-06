@@ -1,120 +1,120 @@
 const appData = {
   "brand": {
     "name": "Caxton Group",
-    "tagline": "Crafting excellence in construction",
-    "category": "Construction Services",
-    "location": "United Kingdom",
+    "tagline": "Building excellence daily",
+    "category": "Construction",
+    "location": "",
     "phone": ""
   },
   "hero": {
     "eyebrow": "Trusted construction experts",
-    "title": "Delivering quality on time and on budget.",
-    "description": "Caxton Group streamlines projects with expert teams in building, joinery, and façades. We ensure compliance, safety, and skilled delivery.",
+    "title": "Delivering quality on time, every time.",
+    "description": "Caxton Group specializes in building, joinery, and façades, ensuring projects are completed on schedule and within budget.",
     "highlights": [
       {
-        "label": "Years of Experience",
-        "value": "20+"
+        "label": "Years in Construction",
+        "value": "15+"
       },
       {
         "label": "Projects Completed",
-        "value": "1,500+"
+        "value": "2,000+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
       }
     ],
-    "image": "https://images.pexels.com/photos/6473973/pexels-photo-6473973.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Multi-division expertise",
-        "description": "Dedicated teams bring specialized skills in building, joinery, and façades for seamless results."
+        "title": "Dedicated teams",
+        "description": "Expert teams in builders, joinery, and façades ensure project excellence."
       },
       {
-        "title": "Quality assurance focus",
-        "description": "We prioritize compliance, safety, and accreditation to meet the highest standards."
+        "title": "Proven experience",
+        "description": "Over 15 years delivering successful construction projects across the UK."
       },
       {
-        "title": "Skilled workforce train",
-        "description": "Our Caxton Academy develops the next generation of skilled construction professionals."
+        "title": "Quality craftsmanship",
+        "description": "Precision and skill define our approach to building and joinery services."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "From construction to training, we deliver tailored solutions for contractors and apprentices.",
+    "description": "Our services span builders, joinery, façades, and training. We cater to main contractors and apprentices alike.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Builders & Contracting",
-        "description": "Expert builders delivering general contracting and project management services."
+        "title": "Construction Services",
+        "description": "Comprehensive building solutions for main contractors and bespoke projects."
+      },
+      {
+        "icon": "🪚",
+        "title": "Specialist Joinery",
+        "description": "Custom joinery and installations tailored to your project needs."
       },
       {
         "icon": "🛠",
         "title": "Façades Installation",
-        "description": "Design and install modern façades with precision and efficiency."
-      },
-      {
-        "icon": "📚",
-        "title": "Apprenticeship Academ",
-        "description": "Training apprentices to ensure a skilled workforce for the future of construction."
+        "description": "Innovative designs and expert installation for modern building exteriors."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey of excell",
-    "title": "Building trust through expertise",
+    "eyebrow": "Our Story",
+    "title": "Crafting excellence since day one.",
     "paragraphs": [
-      "Caxton Group consists of Caxton Builders, Joinery, and Façades. Each division operates with skilled teams committed to quality and innovation.",
-      "By combining decades of experience and cutting-edge techniques, we deliver exceptional results tailored to client needs."
+      "Caxton Group unites three businesses: Builders, Joinery, and Façades. Each team brings unmatched expertise to every project we take on.",
+      "With over 15 years of experience, we deliver quality, compliance, and skilled training, making us a reliable partner in construction."
     ],
-    "image": "https://images.pexels.com/photos/8487403/pexels-photo-8487403.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Hear from our clients",
-    "title": "What people say about us",
+    "eyebrow": "What Clients Say",
+    "title": "Trusted by industry leaders.",
     "list": [
       {
         "quote": "Caxton Group delivered our project on time, within budget, and exceeded expectations.",
-        "name": "John Matthews",
-        "role": "Project Manager",
-        "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        "name": "John Smith",
+        "role": "Project Manager, ABC Construction",
+        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their apprenticeship academy is invaluable for training skilled workers in construction.",
-        "name": "Sarah Thompson",
-        "role": "HR Director",
-        "avatar": "https://images.unsplash.com/photo-1644657711115-ee46e8dd7c7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMjhCdWlsZGVycyUyQyUyMEpvaW5lcnklMkMlMjBGYSVDMyVBN2FkZXMlMjklMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjQzNDI4NXww&ixlib=rb-4.1.0&q=80&w=1080"
+        "quote": "Their skilled teams and quality craftsmanship transformed our vision into reality.",
+        "name": "Sarah Johnson",
+        "role": "Operations Director, XYZ Developments",
+        "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Come see us in action",
-    "title": "Our UK headquarters",
-    "description": "Located in the UK, our offices are the hub for quality construction and innovation.",
-    "address": "Address not provided",
+    "eyebrow": "Visit Us",
+    "title": "Explore our expertise firsthand.",
+    "description": "Connect with us to see how we bring innovative construction solutions to life.",
+    "address": "",
     "website": "www.caxton-group.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch today",
-    "title": "Start your project now",
-    "description": "Contact us for bespoke solutions tailored to your construction needs.",
-    "consent": "By submitting, you agree to our terms."
+    "eyebrow": "Get Started",
+    "title": "Let’s build something great.",
+    "description": "Contact us today to discuss your next project or apprenticeship opportunities.",
+    "consent": "By submitting, you agree to our privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your projects",
-    "description": "AI and automation drive efficiency in construction management and training.",
+    "title": "Streamline construction with AI.",
+    "description": "Transform your processes with automation tailored for construction.",
     "bullets": [
-      "Automate compliance tracking to ensure safety and accreditation.",
-      "Streamline bid management with CRM tools for client precision.",
-      "Enhance scheduling and workforce coordination with AI systems."
+      "CRM systems simplify client and contractor management.",
+      "Automated project tracking ensures on-time delivery.",
+      "Ensure compliance with automated accreditation tools."
     ],
     "offer": "Mention Caxton Group for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Caxton Group delivers unforgettable experiences.",
-    "address": "Address not provided",
+    "address": "",
     "email": "",
     "socials": [
       {
