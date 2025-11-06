@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Ashbys Consulting",
-    "tagline": "Building connections that last",
-    "category": "Construction Recruitment",
-    "location": "London, UK",
+    "tagline": "Construction recruitment experts",
+    "category": "Recruitment",
+    "location": "London & Southeast",
     "phone": ""
   },
   "hero": {
     "eyebrow": "Award-winning recruitment",
-    "title": "Connecting top talent with leading firms",
-    "description": "We specialize in MEP and sustainability recruitment, solving hiring pain points with tailored solutions for employers and candidates.",
+    "title": "Finding niche MEP talent made simple.",
+    "description": "We streamline hiring for construction firms, connecting top professionals with the right roles. Trust our expertise and market insight.",
     "highlights": [
       {
-        "label": "Placements Made",
-        "value": "3,000+"
+        "label": "Years of Expertise",
+        "value": "10+"
+      },
+      {
+        "label": "Candidates Placed",
+        "value": "5,000+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
-      },
-      {
-        "label": "Years of Expertise",
-        "value": "10+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Industry Specialists",
-        "description": "We focus on niche sectors to deliver unmatched recruitment expertise."
+        "title": "Market Specialists",
+        "description": "We focus on MEP and sustainability roles, ensuring precise matches for clients and candidates."
       },
       {
-        "title": "Tailored Solutions",
-        "description": "We provide personalized support for both clients and candidates."
+        "title": "Proven Results",
+        "description": "Thousands of successful placements and glowing client feedback showcase our impact."
       },
       {
-        "title": "Trusted Insight",
-        "description": "Our market knowledge ensures informed hiring decisions every time."
+        "title": "Industry Insight",
+        "description": "We provide valuable advice and updates based on deep knowledge of the sector."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Expert recruitment services tailored for MEP and building services roles.",
+    "description": "Recruitment solutions tailored for construction firms and professionals in MEP and sustainability.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Permanent Recruitment",
-        "description": "We match top MEP and sustainability talent with leading firms."
+        "description": "We connect skilled MEP professionals with construction firms for long-term roles."
       },
       {
         "icon": "💼",
-        "title": "Employer Support",
-        "description": "We help construction firms find skilled professionals efficiently."
+        "title": "Employer Services",
+        "description": "Streamlined hiring support for construction businesses seeking top talent."
       },
       {
         "icon": "📩",
         "title": "Job Alerts",
-        "description": "Candidates receive personalized alerts for their ideal roles."
+        "description": "Personalized alerts for candidates seeking opportunities in MEP and sustainability."
       }
     ]
   },
   "story": {
     "eyebrow": "Our journey",
-    "title": "Dedicated to recruitment excellence",
+    "title": "Building partnerships in recruitment",
     "paragraphs": [
-      "Ashbys Consulting excels in construction recruitment across London and nearby counties. We specialize in MEP and sustainability roles to offer unmatched service.",
-      "Our focused approach and deep industry knowledge make us the go-to experts for niche talent sourcing. We bridge the gap between firms and professionals."
+      "Ashbys Consulting specializes in construction recruitment across London and Southeast UK. Our focus on niche sectors ensures unmatched quality.",
+      "We align with client goals to deliver tailored solutions. Automation and expertise drive efficiency in hiring for MEP roles."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
     "eyebrow": "What clients say",
-    "title": "Success stories from our network",
+    "title": "Success stories from clients",
     "list": [
       {
-        "quote": "Ashbys helped us find top engineering talent fast. Their service is exceptional.",
-        "name": "Jessica Martin",
-        "role": "Hiring Manager, Construction Co.",
+        "quote": "Ashbys Consulting helped us find top MEP talent quickly. Their market knowledge is unmatched.",
+        "name": "John Smith",
+        "role": "Construction Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their insights and job alerts landed me my dream role. Highly recommend!",
-        "name": "Daniel Hughes",
-        "role": "MEP Specialist",
+        "quote": "Their recruitment process is seamless and efficient. Highly recommend for niche roles.",
+        "name": "Emma Brown",
+        "role": "HR Director",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Come see us",
-    "title": "Your recruitment partner in London",
-    "description": "We serve London and surrounding counties. Let’s connect to discuss your needs.",
-    "address": "London, UK",
-    "website": "www.ashbysconsulting.co.uk",
+    "eyebrow": "Our locations",
+    "title": "Serving London & Southeast UK",
+    "description": "We recruit across London, Berkshire, Kent, and surrounding areas, connecting professionals to opportunities.",
+    "address": "London & Southeast UK",
+    "website": "ashbysconsulting.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get in touch",
-    "title": "Ready to hire or find your next role?",
-    "description": "Contact us today for expert recruitment solutions tailored to you.",
-    "consent": "By submitting, you agree to our terms."
+    "title": "Ready to hire or find a role?",
+    "description": "Contact us today for tailored recruitment solutions. Let us connect you with the best opportunities.",
+    "consent": "I agree to the terms and conditions."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Simplify recruitment with AI",
-    "description": "Leverage automation to streamline hiring and job matching workflows.",
+    "title": "Streamline recruitment with AI",
+    "description": "Automation transforms hiring processes for efficiency and precision.",
     "bullets": [
-      "Automated job distribution for broader reach.",
-      "ATS integration for seamless candidate tracking.",
-      "Custom job alerts for faster placements."
+      "Automated job listings and alerts save time.",
+      "ATS integration ensures seamless workflows.",
+      "AI-driven candidate matching improves results."
     ],
     "offer": "Mention Ashbys Consulting for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Ashbys Consulting delivers unforgettable experiences.",
-    "address": "London, UK",
+    "address": "London & Southeast UK",
     "email": "",
     "socials": [
       {
