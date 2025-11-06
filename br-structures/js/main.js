@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "BR Structures",
-    "tagline": "Innovative construction solutions",
+    "tagline": "Building with precision",
     "category": "Construction",
     "location": "Unknown",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Dynamic construction partner",
-    "title": "Streamlined projects, effortless results.",
-    "description": "From site setup to RC frames, we optimize every stage with precision and expertise for seamless delivery.",
+    "eyebrow": "Innovative construction",
+    "title": "Streamlining projects, delivering results.",
+    "description": "BR Structures simplifies construction with expert services and efficient workflows. From setup to RC frames, we ensure quality at every stage.",
     "highlights": [
       {
         "label": "Projects Completed",
         "value": "500+"
       },
       {
-        "label": "Years of Experience",
-        "value": "10+"
-      },
-      {
         "label": "Client Satisfaction",
         "value": "98%"
+      },
+      {
+        "label": "Years of Expertise",
+        "value": "10+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Bold visuals",
-        "description": "Our high-contrast branding ensures memorable impact and visibility across projects."
+        "title": "Dynamic Approach",
+        "description": "We adapt to unique project needs with innovative solutions."
       },
       {
-        "title": "Expert photography",
-        "description": "Professional imagery enhances trust and showcases our construction expertise."
+        "title": "Skilled Team",
+        "description": "Our team delivers precision and expertise at every step."
       },
       {
-        "title": "Clear services",
-        "description": "Categorized offerings make it simple to find the perfect solution for your needs."
+        "title": "Efficient Workflow",
+        "description": "Streamlined processes ensure timely, quality results."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Tailored solutions for commercial, residential, and bespoke construction projects.",
+    "description": "Comprehensive services for commercial and residential construction projects.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Site Set Up",
-        "description": "We handle hoarding and site setup to ensure safe and efficient project starts."
+        "description": "Expert setup and hoarding to prepare your site for success."
       },
       {
         "icon": "🛠",
         "title": "Groundworks",
-        "description": "From excavation to drainage, we create a strong foundation for success."
+        "description": "Solid foundations with expert groundworks services."
       },
       {
-        "icon": "🏢",
+        "icon": "🔩",
         "title": "RC Frames",
-        "description": "Specializing in reinforced concrete frames for durable, scalable builds."
+        "description": "Durable reinforced concrete frames built with precision."
       }
     ]
   },
   "story": {
     "eyebrow": "Our journey",
-    "title": "Building a foundation of trust",
+    "title": "Building structures, building trust.",
     "paragraphs": [
-      "BR Structures is committed to innovation and quality. We cater to diverse needs, delivering tailored services like basements and enabling works.",
-      "Our dynamic approach transforms construction challenges into streamlined solutions, ensuring efficiency for contractors and developers."
+      "BR Structures was founded to provide innovative construction solutions. Our services cater to diverse needs, ensuring every project is a success.",
+      "We streamline workflows and integrate automation to save time and costs. Our skilled team ensures quality in every aspect of construction."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client feedback",
+    "eyebrow": "What clients say",
     "title": "Trusted by industry leaders",
     "list": [
       {
-        "quote": "BR Structures streamlined our project from setup to completion. Their expertise saved us time and money.",
-        "name": "Michael Carter",
+        "quote": "BR Structures made our project seamless with their expertise and efficient processes.",
+        "name": "Alex Morgan",
         "role": "Project Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their attention to detail and efficiency exceeded expectations. A reliable, innovative partner.",
-        "name": "Sarah Bennett",
+        "quote": "Their attention to detail and innovative solutions exceeded our expectations.",
+        "name": "Sophia Clarke",
         "role": "Developer",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us",
-    "title": "Reach out for tailored solutions",
-    "description": "Contact us to discuss your construction needs and see how we deliver excellence.",
+    "eyebrow": "Come visit us",
+    "title": "Explore our capabilities",
+    "description": "BR Structures operates wherever construction demands expertise and precision. Contact us for location details.",
     "address": "",
     "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Let's collaborate",
-    "title": "Request your consultation",
-    "description": "Connect with our team to explore customized solutions for your next project.",
+    "eyebrow": "Get started",
+    "title": "Request a consultation today",
+    "description": "Contact us to discuss your project needs and receive a tailored solution.",
     "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Optimize your construction process",
-    "description": "Leverage cutting-edge AI solutions to enhance efficiency and precision.",
+    "title": "Transform with AI",
+    "description": "Streamline construction workflows with automation tools.",
     "bullets": [
-      "Automate lead capture to secure more projects.",
-      "Streamline quoting with online tools.",
-      "Schedule and manage tasks effortlessly."
+      "Capture leads with integrated forms.",
+      "Automate quotes for faster bids.",
+      "Simplify scheduling with smart tools."
     ],
     "offer": "Mention BR Structures for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
