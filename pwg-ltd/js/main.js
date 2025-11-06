@@ -1,120 +1,120 @@
 const appData = {
   "brand": {
     "name": "Pro Witness Group",
-    "tagline": "Securing your assets.",
-    "category": "Private Security",
-    "location": "UK",
+    "tagline": "Safety Redefined",
+    "category": "Private Security Services",
+    "location": "",
     "phone": ""
   },
   "hero": {
     "eyebrow": "Trusted security experts",
-    "title": "Protecting assets, ensuring safety.",
-    "description": "We deliver tailored security solutions to protect assets, reduce risks, and respond promptly to incidents. Safety is our priority.",
+    "title": "Protecting assets, reducing risks.",
+    "description": "We defend against theft, anti-social behavior, and ensure 24/7 incident response for total peace of mind.",
     "highlights": [
       {
-        "label": "Years in Business",
+        "label": "Years of Experience",
         "value": "10+"
       },
       {
-        "label": "Incidents Responded",
+        "label": "Incidents Resolved",
         "value": "5,000+"
       },
       {
-        "label": "Client Satisfaction",
+        "label": "Client Retention Rate",
         "value": "98%"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
+    "image": "https://images.pexels.com/photos/10464464/pexels-photo-10464464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Security Team",
-        "description": "Highly trained professionals ensure comprehensive protection and quick response."
+        "title": "Proven Expertise",
+        "description": "Decades of combined security experience ensure unmatched reliability."
+      },
+      {
+        "title": "24/7 Protection",
+        "description": "Round-the-clock services safeguard assets and respond swiftly."
       },
       {
         "title": "Tailored Solutions",
-        "description": "Custom strategies for councils, property managers, and logistics firms."
-      },
-      {
-        "title": "24/7 Availability",
-        "description": "Round-the-clock services to safeguard assets and respond to emergencies."
+        "description": "Custom security plans address specific industry needs effectively."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive security services for businesses, properties, and logistics.",
+    "description": "Comprehensive private security solutions tailored to your needs.",
     "cards": [
       {
         "icon": "🛡",
-        "title": "Asset Protection",
-        "description": "Guard services and monitoring to secure valuable assets and properties."
+        "title": "Manned Guarding",
+        "description": "On-site security to deter threats and ensure property safety."
       },
       {
-        "icon": "🚚",
+        "icon": "📦",
+        "title": "Asset Monitoring",
+        "description": "Track and protect high-value assets with cutting-edge systems."
+      },
+      {
+        "icon": "🚔",
         "title": "Escort Services",
-        "description": "Sensitive road movement escorts for secure transportation."
-      },
-      {
-        "icon": "📊",
-        "title": "Risk Audits",
-        "description": "Detailed audits to identify and mitigate security risks effectively."
+        "description": "Secure sensitive road movements with expert escort teams."
       }
     ]
   },
   "story": {
-    "eyebrow": "Dedicated to security",
-    "title": "Our commitment to protection.",
+    "eyebrow": "Our Story",
+    "title": "Securing What Matters Most",
     "paragraphs": [
-      "Professional Witnesses Group Limited specializes in tailored security services for councils, logistics firms, and property managers. We prioritize safety and efficiency.",
-      "Our solutions address organized crime risks, anti-social behavior, and asset protection needs. We deliver reliable services backed by automation and expertise."
+      "Founded to combat growing security concerns, we specialize in protecting assets and people with advanced strategies.",
+      "We partner with councils, logistics firms, and businesses to deliver reliable, tailored security solutions."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Real feedback from customers.",
+    "eyebrow": "What Our Clients Say",
+    "title": "Trusted by Industry Leaders",
     "list": [
       {
-        "quote": "PWG's quick response and tailored strategies have kept our assets safe. Highly recommend!",
-        "name": "Laura Bennett",
-        "role": "Council Manager",
+        "quote": "PWG's response time is unmatched. They’ve prevented countless incidents for our properties.",
+        "name": "Sarah Thompson",
+        "role": "Housing Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their escort service ensured secure delivery of sensitive shipments. Excellent job!",
-        "name": "James Carter",
+        "quote": "Their escort services are precise and professional. Our cargo always arrives safely.",
+        "name": "James Reed",
         "role": "Logistics Coordinator",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Secure your area",
-    "title": "Find us in the UK.",
-    "description": "Serving businesses nationwide with reliable, professional security solutions.",
+    "eyebrow": "Visit Us",
+    "title": "Connect With Us",
+    "description": "Professional Witnesses Group is here to secure your assets and peace of mind.",
     "address": "",
     "website": "www.pwg.uk.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Ready to protect?",
-    "title": "Get a security quote.",
-    "description": "Contact us to discuss tailored security solutions for your business or property.",
-    "consent": "Your privacy matters. We respect your data."
+    "eyebrow": "Get In Touch",
+    "title": "Request a Consultation",
+    "description": "Contact us today to discuss your security needs and receive a customized plan.",
+    "consent": "We respect your privacy and won’t share your details."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automation for security",
-    "description": "Streamline operations with AI-driven tools.",
+    "title": "Streamline Security Operations",
+    "description": "Leverage AI to enhance efficiency and response times.",
     "bullets": [
-      "Automate guard scheduling and dispatch for efficiency.",
-      "Use tracking dashboards for real-time asset monitoring.",
-      "Enable client portals for updates, reports, and invoicing."
+      "Automated scheduling for guards and escorts.",
+      "Real-time asset tracking and alerts.",
+      "Client portal for updates, reports, and billing."
     ],
     "offer": "Mention Pro Witness Group for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
