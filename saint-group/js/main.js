@@ -1,26 +1,26 @@
 const appData = {
   "brand": {
-    "name": "Saint Group Ltd.",
-    "tagline": "Exceptional Interiors",
-    "category": "Flooring & Design",
-    "location": "United Kingdom",
+    "name": "Saint Group Ltd",
+    "tagline": "Flooring, seamlessly done",
+    "category": "Floor Finishing & Interiors",
+    "location": "UK",
     "phone": ""
   },
   "hero": {
     "eyebrow": "Trusted by housebuilders",
-    "title": "Streamlined flooring solutions.",
-    "description": "Simplify project schedules, ensure quality, and enhance communication for every build.",
+    "title": "Effortless flooring and interiors.",
+    "description": "We simplify floor finishing and interior design with expert project management and seamless coordination.",
     "highlights": [
       {
         "label": "Plots Completed",
         "value": "12,000+"
       },
       {
-        "label": "Floor Installed",
+        "label": "Floor Space Covered",
         "value": "1M+ m²"
       },
       {
-        "label": "Customer Satisfaction",
+        "label": "Client Satisfaction",
         "value": "98%"
       }
     ],
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Reliable Expertise",
-        "description": "Over a decade of trusted service in flooring and interiors for housebuilders."
+        "title": "Proven expertise",
+        "description": "Over 12,000 plots completed with unmatched quality and precision."
       },
       {
-        "title": "Precise Coordination",
-        "description": "Streamlined supplier and installer collaboration ensures timely delivery."
+        "title": "Seamless coordination",
+        "description": "We streamline supplier and site schedules for housebuilders."
       },
       {
-        "title": "End-to-End Support",
-        "description": "From planning to aftercare, we deliver unmatched customer service."
+        "title": "Customer-focused care",
+        "description": "Dedicated support before, during, and after project completion."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive flooring and interior solutions tailored to your project needs.",
+    "description": "From floor finishing to interior design, we deliver tailored solutions.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Floor Finishing",
-        "description": "Delivering high-quality, durable floor finishes for residential projects."
+        "description": "Expert flooring solutions that enhance residential spaces."
       },
       {
-        "icon": "🎨",
+        "icon": "🖼",
         "title": "Interior Design",
-        "description": "Custom design solutions that elevate every space with style."
+        "description": "Creative designs that bring style and functionality together."
       },
       {
-        "icon": "💼",
+        "icon": "📋",
         "title": "Project Management",
-        "description": "Seamless coordination of installations and supplier schedules."
+        "description": "Efficient coordination of suppliers, schedules, and installations."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "Built on excellence.",
+    "eyebrow": "Our journey",
+    "title": "Where expertise meets innovation",
     "paragraphs": [
-      "Saint Group Limited has been a trusted partner for UK housebuilders, delivering exceptional flooring and interiors tailored to client needs.",
-      "Through precision and innovation, we ensure quality, efficiency, and seamless collaboration at every stage of your project."
+      "Saint Group Limited specializes in floor finishing and interiors for UK housebuilders. Our team ensures quality and precision in every project.",
+      "We streamline processes, reduce delays, and deliver exceptional results. Trust us to elevate your projects with proven expertise and care."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client Feedback",
-    "title": "What Our Clients Say",
+    "eyebrow": "What clients say",
+    "title": "Real results, happy clients",
     "list": [
       {
-        "quote": "Saint Group made our project seamless. Their coordination saved us time and ensured top-quality results.",
-        "name": "John Smith",
+        "quote": "Saint Group transformed our interiors with impeccable finishes and seamless coordination.",
+        "name": "Alice Kemp",
         "role": "Property Developer",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their team delivered exceptional finishes and kept us informed every step of the way.",
-        "name": "Emma Brown",
+        "quote": "Their project management eliminated delays and ensured outstanding results.",
+        "name": "John Taylor",
         "role": "Housebuilder",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Come Visit Us",
-    "title": "Explore Our Expertise",
-    "description": "Contact us to learn how we can elevate your project with stunning interiors.",
-    "address": "",
+    "eyebrow": "Visit us",
+    "title": "Explore our expertise",
+    "description": "Discover how we deliver quality interiors and flooring for UK properties.",
+    "address": "UK-based locations",
     "website": "www.saintflooring.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started Today",
-    "title": "Speak with our team.",
-    "description": "Contact us for custom quotes or consultations tailored to your needs.",
-    "consent": "We respect your privacy."
+    "eyebrow": "Get in touch",
+    "title": "Let’s build together",
+    "description": "Reach out for consultations or project inquiries. We're here to help.",
+    "consent": "By submitting, you agree to our privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Your Success",
-    "description": "Transform operations with AI-driven tools tailored to housebuilders.",
+    "title": "Streamline with AI",
+    "description": "Automation tools designed to transform your workflow.",
     "bullets": [
-      "Instant online quotes streamline decisions.",
-      "Automated scheduling reduces delays.",
-      "Real-time CRM enhances communication."
+      "Generate quotes instantly for housebuilders.",
+      "Automate project management and scheduling.",
+      "Track materials and reduce delays seamlessly."
     ],
-    "offer": "Mention Saint Group Ltd. for the launch-week optimization kit.",
+    "offer": "Mention Saint Group Ltd for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Saint Group Ltd. delivers unforgettable experiences.",
-    "address": "",
+    "blurb": "Saint Group Ltd delivers unforgettable experiences.",
+    "address": "UK-based locations",
     "email": "",
     "socials": [
       {
