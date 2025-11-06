@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "pgsstone",
-    "tagline": "Restoring beauty to buildings",
-    "category": "Stonemasonry / Restoration",
-    "location": "London",
+    "tagline": "Preserving heritage buildings",
+    "category": "Stonemasonry & Restoration",
+    "location": "London, UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Specialist restoration experts",
-    "title": "Safe, precise cleaning for historic buildings",
-    "description": "We restore and protect heritage structures using advanced techniques that prevent damage and preserve original beauty.",
+    "eyebrow": "Specialist craftsmanship",
+    "title": "Your trusted partner in restoration",
+    "description": "We expertly clean, restore, and protect delicate masonry using advanced techniques. Trust us to preserve your building's legacy.",
     "highlights": [
       {
-        "label": "Years of Expertise",
-        "value": "20+"
-      },
-      {
         "label": "Projects Completed",
-        "value": "1,500+"
+        "value": "3,500+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
+      },
+      {
+        "label": "Years of Expertise",
+        "value": "20+"
       }
     ],
     "image": "https://images.pexels.com/photos/7140009/pexels-photo-7140009.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -32,89 +32,89 @@ const appData = {
     "items": [
       {
         "title": "Certified Expertise",
-        "description": "Our team holds certifications in VorTech and ThermaTech cleaning for guaranteed results."
+        "description": "CHAS, VorTech, and ThermaTech certifications ensure top-quality results."
       },
       {
         "title": "Advanced Techniques",
-        "description": "We use cutting-edge methods to safely restore fragile masonry and woodwork."
+        "description": "We use DOFF and VorTech systems for safe, efficient cleaning."
       },
       {
-        "title": "Tailored Solutions",
-        "description": "We customize restoration plans to meet the needs of each unique property."
+        "title": "Quality Craftsmanship",
+        "description": "Skilled masons restore historic details with precision."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive restoration services tailored for heritage and commercial buildings.",
+    "description": "Our services protect and restore London’s historic and commercial buildings.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Facade Cleaning",
-        "description": "Gentle cleaning methods to remove dirt, pollution, and stains without damage."
+        "description": "Gentle cleaning to preserve fragile surfaces without damage."
       },
       {
         "icon": "🛡",
         "title": "Graffiti Removal",
-        "description": "Specialized techniques to safely remove paint and graffiti from historic surfaces."
+        "description": "Specialist techniques to safely remove unwanted paint and graffiti."
       },
       {
-        "icon": "🔧",
-        "title": "Restoration Repairs",
-        "description": "Expert repairs for stone and woodwork to preserve structural integrity."
+        "icon": "⚒️",
+        "title": "Stone Restoration",
+        "description": "Repairs and restoration of damaged masonry and woodwork."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey of crafts",
-    "title": "A trusted name in restoration",
+    "eyebrow": "Preserving London's",
+    "title": "Our journey in stonemasonry",
     "paragraphs": [
-      "For over 20 years, pgsstone has been restoring London's most iconic buildings. From facades to delicate woodwork, we deliver unmatched quality.",
-      "Our expertise in advanced cleaning methods allows us to protect history while solving modern challenges. We focus on precision and preservation."
+      "pgsstone was founded to protect London's historic buildings. Our team combines tradition with modern techniques to ensure lasting results.",
+      "With a focus on heritage preservation, we bring specialized tools and expertise to every project. Let us safeguard your building’s legacy."
     ],
     "image": "https://images.pexels.com/photos/12032974/pexels-photo-12032974.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
     "eyebrow": "What clients say",
-    "title": "Trusted by property experts",
+    "title": "Trusted by property managers",
     "list": [
       {
-        "quote": "pgsstone restored our historic facade with care and precision. The results were outstanding!",
-        "name": "Sarah Thompson",
-        "role": "Heritage Property Manager",
+        "quote": "pgsstone restored our historic facade beautifully. Their team was professional and precise. Highly recommend!",
+        "name": "James Murphy",
+        "role": "Property Manager",
         "avatar": "https://images.pexels.com/photos/3770254/pexels-photo-3770254.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their graffiti removal service saved our building’s original masonry. Highly recommend!",
-        "name": "John Baker",
-        "role": "Commercial Property Owner",
+        "quote": "Their graffiti removal service was flawless, preserving the integrity of our masonry. Great work!",
+        "name": "Sarah Collins",
+        "role": "Heritage Officer",
         "avatar": "https://images.unsplash.com/photo-1652979849070-071233c98e66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxTdG9uZW1hc29ucnklMjAlMkYlMjBCdWlsZGluZyUyMHJlc3RvcmF0aW9uJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0MzQwNzl8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us in London",
-    "title": "Serving Greater London",
-    "description": "We provide expert services for historic and high-profile properties. Contact us to discuss your restoration needs.",
-    "address": "",
-    "website": "",
+    "eyebrow": "Serving London",
+    "title": "Visit us in London",
+    "description": "We proudly serve historic and commercial buildings across London with expert restoration services.",
+    "address": "London, UK",
+    "website": "www.pgsstone.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started today",
-    "title": "Request a quote or consultation",
-    "description": "Contact us now to schedule a site visit or discuss your project needs.",
-    "consent": "We respect your privacy. Your details are secure."
+    "eyebrow": "Ready to restore?",
+    "title": "Request a consultation",
+    "description": "Contact us today to schedule a site visit or request a quote for your restoration needs.",
+    "consent": "Your privacy matters. We only use your data to assist your inquiry."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline restoration planning",
-    "description": "Automation tools to simplify estimates, scheduling, and client communication.",
+    "title": "Streamline restoration projects",
+    "description": "Automate your workflow with AI-powered tools designed for stonemasonry.",
     "bullets": [
-      "Online quote and booking form to capture leads fast.",
-      "Automated follow-ups and reminders for site visits.",
-      "CRM integration to track projects and client details."
+      "Online quote forms simplify lead capture.",
+      "CRM tracks client estimates and follow-ups.",
+      "Automated email reminders keep projects on track."
     ],
     "offer": "Mention pgsstone for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "pgsstone delivers unforgettable experiences.",
-    "address": "",
+    "address": "London, UK",
     "email": "",
     "socials": [
       {
