@@ -1,120 +1,120 @@
 const appData = {
   "brand": {
     "name": "CJB Scaffolding",
-    "tagline": "Reliable access solutions",
-    "category": "Scaffolding Services",
+    "tagline": "Reliable scaffolding access",
+    "category": "Scaffolding / Construction",
     "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted scaffolding experts",
-    "title": "Safe scaffolding for every project.",
-    "description": "We provide reliable residential, commercial, and industrial scaffolding access tailored to your needs. Safety and efficiency guaranteed.",
+    "eyebrow": "Trusted access solutions",
+    "title": "Safe, professional scaffolding services.",
+    "description": "CJB Scaffolding Ltd delivers secure residential, commercial, and industrial scaffolding access tailored to your needs.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "1,200+"
+        "value": "5,000+"
       },
       {
-        "label": "Client Satisfaction",
+        "label": "Customer Satisfaction",
         "value": "98%"
       },
       {
-        "label": "Years Providing Access",
+        "label": "Years of Expertise",
         "value": "10+"
       }
     ],
-    "image": "https://images.pexels.com/photos/12519488/pexels-photo-12519488.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Focused service",
-        "description": "We specialize in tailored scaffolding for residential, commercial, and industrial projects."
+        "title": "Expertise You Trust",
+        "description": "Over a decade of scaffolding experience ensures reliability and safety for every project."
       },
       {
-        "title": "Expertise you trust",
-        "description": "Over a decade of experience ensures safe, reliable scaffolding solutions every time."
+        "title": "Tailored Solutions",
+        "description": "Customized scaffolding setups meet residential, commercial, and industrial needs."
       },
       {
-        "title": "Effortless process",
-        "description": "Our simple, clear approach makes scaffolding projects stress-free for you."
+        "title": "Client-Centric Service",
+        "description": "We prioritize customer satisfaction with smooth, hassle-free execution."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "CJB Scaffolding Ltd offers safe and tailored access solutions for diverse project needs.",
+    "description": "We provide secure scaffolding for homes, businesses, and industrial projects.",
     "cards": [
       {
         "icon": "🏠",
         "title": "Residential Scaffolding",
-        "description": "Secure scaffolding for home renovations or repairs, ensuring safety and efficiency."
-      },
-      {
-        "icon": "🏢",
-        "title": "Commercial Scaffolding",
-        "description": "Reliable scaffolding for office builds, retail spaces, and large-scale projects."
+        "description": "Safe and efficient scaffolding access for homes and renovations."
       },
       {
         "icon": "🏗",
+        "title": "Commercial Scaffolding",
+        "description": "Reliable scaffolding solutions for offices, retail spaces, and more."
+      },
+      {
+        "icon": "🏭",
         "title": "Industrial Scaffoldin",
-        "description": "Robust scaffolding solutions for factories and industrial facilities of all sizes."
+        "description": "Robust scaffolding for factories and large-scale industrial sites."
       }
     ]
   },
   "story": {
     "eyebrow": "Our journey",
-    "title": "Building trust, one scaffold at a time.",
+    "title": "Building access with integrity",
     "paragraphs": [
-      "CJB Scaffolding Ltd was founded to deliver safe and reliable access solutions to homeowners, contractors, and businesses. We specialize in scaffolding tailored to every project.",
-      "We focus on simplifying the process with expert advice and efficient handling. Our commitment to quality ensures safety and satisfaction with every project."
+      "Since our founding, CJB Scaffolding Ltd has focused on delivering high-quality scaffolding solutions. We are committed to safety and precision in every project.",
+      "Our expertise and tailored services ensure client satisfaction. We aim to simplify access while enhancing reliability and efficiency for every job."
     ],
-    "image": "https://images.pexels.com/photos/16488698/pexels-photo-16488698.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
     "eyebrow": "What clients say",
-    "title": "Our customers trust us.",
+    "title": "Customer-approved service",
     "list": [
       {
-        "quote": "CJB Scaffolding made my home renovation so easy! Their team was professional and efficient.",
-        "name": "Sarah J.",
+        "quote": "CJB Scaffolding made our renovation seamless. Their team was professional and reliable.",
+        "name": "Sarah Mitchell",
         "role": "Homeowner",
-        "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "The scaffolding was perfect for our office build. Reliable and safe service every step.",
-        "name": "Mark T.",
-        "role": "General Contractor",
-        "avatar": "https://images.unsplash.com/photo-1603516270950-26e4f5004ffd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxTY2FmZm9sZGluZyUyMCUyRiUyMENvbnN0cnVjdGlvbiUyMEFjY2VzcyUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNDM0MTY4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+        "quote": "Dependable scaffolding for our factory. Great service and attention to safety.",
+        "name": "Mark Taylor",
+        "role": "Facility Manager",
+        "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us",
-    "title": "Contact our team today.",
-    "description": "We serve the local community with tailored scaffolding solutions. Reach out for more details.",
+    "eyebrow": "Find us",
+    "title": "Serving your scaffolding needs",
+    "description": "Contact us to discuss your next scaffolding project. We're here to help.",
     "address": "",
-    "website": "www.cjbscaffolding.co.uk",
+    "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get in touch",
-    "title": "Request a quote now.",
-    "description": "Contact us for a quick quote or consultation. We're here to help you get started.",
-    "consent": "I agree to receive communications."
+    "title": "Request your free quote today",
+    "description": "Contact us for scaffolding solutions tailored to your project needs.",
+    "consent": "By submitting, you consent to contact."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your operations.",
-    "description": "Harness AI and automation to improve your workflow and grow your business.",
+    "title": "Boost efficiency with automation",
+    "description": "Streamline scaffolding inquiries using AI-driven tools.",
     "bullets": [
-      "Automate lead follow-ups to boost conversions.",
-      "Add online quoting and booking systems.",
-      "Increase visibility with SEO and reviews."
+      "Automate quoting and scheduling for faster service.",
+      "Capture leads with integrated CRM follow-ups.",
+      "Enhance visibility with automated SEO and reviews."
     ],
     "offer": "Mention CJB Scaffolding for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
