@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Beau Property",
-    "tagline": "Building Dreams, Beautifully",
-    "category": "Residential Home Builder",
+    "tagline": "Excellence in new builds",
+    "category": "Property Development",
     "location": "Tunbridge Wells,",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Luxury new-build homes",
-    "title": "Streamlined property buying made easy.",
-    "description": "Discover premium homes with seamless enquiries, viewings, and aftercare designed to save time and deliver excellence.",
+    "eyebrow": "Leading home developers",
+    "title": "Transforming residential dreams into reality",
+    "description": "Beau Property delivers premium homes with seamless service and expert craftsmanship. We simplify viewings and aftercare for your peace of mind.",
     "highlights": [
       {
-        "label": "Homes Developed",
-        "value": "150+"
+        "label": "Homes Completed",
+        "value": "250+"
       },
       {
-        "label": "Client Satisfaction",
+        "label": "Customer Satisfaction",
         "value": "98%"
       },
       {
-        "label": "Years of Expertise",
-        "value": "20+"
+        "label": "Years in Business",
+        "value": "10+"
       }
     ],
     "image": "https://images.pexels.com/photos/19783674/pexels-photo-19783674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Premium Quality Homes",
-        "description": "We deliver thoughtfully designed homes tailored for modern living."
+        "title": "Luxury craftsmanship",
+        "description": "Our homes are designed with attention to detail, blending quality and elegance for modern living."
       },
       {
-        "title": "Exceptional Aftercare",
-        "description": "Our dedicated support ensures a seamless post-sale experience."
+        "title": "Seamless experience",
+        "description": "We simplify the process from viewings to aftercare, ensuring smooth and stress-free transactions."
       },
       {
-        "title": "Streamlined Services",
-        "description": "Automated systems simplify viewings and enquiries for clients."
+        "title": "Trusted expertise",
+        "description": "With years of experience, we bring reliability and professionalism to every project we undertake."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "From development to aftercare, we ensure excellence in every detail.",
+    "description": "Beau Property specializes in premium residential developments and customer-focused services.",
     "cards": [
       {
+        "icon": "🏠",
+        "title": "New home sales",
+        "description": "Explore our premium properties designed for modern living and exceptional style."
+      },
+      {
         "icon": "🏗",
-        "title": "Residential Development",
-        "description": "Creating stunning new-build homes with a focus on quality and design."
+        "title": "Construction services",
+        "description": "Our in-house team ensures quality and efficiency throughout the building process."
       },
       {
-        "icon": "🔧",
-        "title": "In-House Construction",
-        "description": "Expert teams manage every stage of building and site operations."
-      },
-      {
-        "icon": "📞",
-        "title": "Customer Aftercare",
-        "description": "Comprehensive support to ensure customer satisfaction after purchase."
+        "icon": "🤝",
+        "title": "Customer aftercare",
+        "description": "We provide dedicated support to ensure satisfaction well beyond purchase."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Commitment",
-    "title": "Transforming Property Development",
+    "eyebrow": "Our journey",
+    "title": "Building homes, earning trust",
     "paragraphs": [
-      "Beau Property specializes in luxury residential developments in Tunbridge Wells, combining expert craftsmanship and innovative design to deliver exceptional homes.",
-      "We streamline the buying process with automated tools, ensuring faster enquiries, smoother viewings, and unmatched aftercare for premium experiences."
+      "Beau Property has been transforming the residential market in Tunbridge Wells for over a decade. Our developments blend innovation with timeless design.",
+      "We focus on seamless services from viewings to aftercare, ensuring every customer’s journey is effortless and rewarding."
     ],
     "image": "https://images.pexels.com/photos/7937753/pexels-photo-7937753.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Trusted by Home Buyers",
+    "eyebrow": "What clients say",
+    "title": "Real feedback, real homes",
     "list": [
       {
-        "quote": "Beau Property made buying my dream home simple and stress-free. Their aftercare is superb!",
-        "name": "Emily Carter",
-        "role": "First-time Home Buyer",
+        "quote": "Buying my home through Beau Property was seamless. Their team was professional and supportive at every step.",
+        "name": "Sarah Mitchell",
+        "role": "Homeowner",
         "avatar": "https://images.pexels.com/photos/34558071/pexels-photo-34558071.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "The automated booking system saved me so much time. Excellent service all around.",
-        "name": "James Wilson",
-        "role": "Repeat Buyer",
+        "quote": "The craftsmanship and aftercare exceeded our expectations. I highly recommend Beau Property.",
+        "name": "James Turner",
+        "role": "First-time buyer",
         "avatar": "https://images.unsplash.com/photo-1619191949522-38b014a9e506?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxQcm9wZXJ0eSUyMGRldmVsb3BtZW50JTIwJTI4cmVzaWRlbnRpYWwlMjBob21lJTIwYnVpbGRlciUyOSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNDM0MjYzfDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Explore Tunbridge Wells",
-    "description": "Discover our developments nestled in the charming town of Tunbridge Wells, known for its beauty and tranquility.",
+    "eyebrow": "Visit us",
+    "title": "Experience our properties",
+    "description": "Tunbridge Wells offers a blend of luxury and charm, the perfect backdrop for your new home.",
     "address": "Tunbridge Wells, UK",
     "website": "www.beauproperty.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in Touch",
-    "title": "Book a Viewing Today",
-    "description": "Contact us to schedule a viewing or learn more about our developments.",
-    "consent": "I agree to receive updates and communications."
+    "eyebrow": "Get in touch",
+    "title": "Schedule a viewing today",
+    "description": "Contact us to explore our properties and find your dream home. We’re here to help.",
+    "consent": "You agree to our privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Your Workflow",
-    "description": "Leverage AI to improve efficiency and customer satisfaction.",
+    "title": "Streamline your operations",
+    "description": "Maximize efficiency and enhance customer experience with AI solutions tailored for property developers.",
     "bullets": [
-      "Automated enquiry handling saves time.",
-      "Online viewings reduce manual scheduling.",
-      "Lead nurturing boosts conversion rates."
+      "Automated lead capture from enquiry forms.",
+      "Calendar-sync appointment scheduling.",
+      "Email/SMS nurture sequences for leads."
     ],
     "offer": "Mention Beau Property for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
