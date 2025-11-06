@@ -3,25 +3,25 @@ const appData = {
     "name": "PSTG Fire Protectio",
     "tagline": "Reliable fire safety systems",
     "category": "Passive Fire Protection",
-    "location": "",
+    "location": "UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Fire safety specialists",
-    "title": "Comprehensive fire protection solutions",
-    "description": "We install and maintain fireproof systems, ensuring compliance and minimizing disruptions.",
+    "eyebrow": "Trusted fire protection",
+    "title": "Ensure compliance with expert fire safety solutions.",
+    "description": "We provide certified installation, maintenance, and consultancy to meet fire safety standards effectively and hassle-free.",
     "highlights": [
       {
-        "label": "Years of Experience",
-        "value": "10+"
-      },
-      {
         "label": "Projects Completed",
-        "value": "1,500+"
+        "value": "1,200+"
       },
       {
-        "label": "Compliance Rate",
-        "value": "99.9%"
+        "label": "Compliance Success",
+        "value": "99.8%"
+      },
+      {
+        "label": "Years of Experience",
+        "value": "15+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -32,89 +32,89 @@ const appData = {
     "items": [
       {
         "title": "Certified Expertise",
-        "description": "Our IFC-accredited team ensures compliance with fire safety standards."
+        "description": "Our IFC-accredited team ensures top-tier fire safety compliance every time."
       },
       {
-        "title": "Seamless Service",
-        "description": "We handle installation and maintenance without disrupting operations."
+        "title": "End-to-End Services",
+        "description": "We handle installations, maintenance, and consultancy, all under one roof."
       },
       {
-        "title": "Comprehensive Solutions",
-        "description": "We provide end-to-end fire protection without multiple partners."
+        "title": "Minimal Disruption",
+        "description": "We plan work efficiently to reduce downtime and keep your site operating smoothly."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "PSTG specializes in fireproof systems for compliance and safety.",
+    "description": "Our passive fire protection services cover installation, ongoing maintenance, and compliance consultancy.",
     "cards": [
       {
         "icon": "🔥",
-        "title": "System Installation",
-        "description": "We install passive fire protection systems tailored to your needs."
+        "title": "Fire System Installation",
+        "description": "We install certified passive fire protection systems tailored to your building needs."
       },
       {
-        "icon": "🛠",
+        "icon": "🛡",
         "title": "Maintenance & Servicing",
-        "description": "Our team ensures your systems remain effective long-term."
+        "description": "Regular servicing ensures your systems remain reliable and audit-ready."
       },
       {
         "icon": "💼",
-        "title": "Consultancy & Complia",
-        "description": "Get expert fire safety advice and IFC-accredited compliance support."
+        "title": "Compliance Consultanc",
+        "description": "Expert advice to ensure your building meets fire safety regulations effectively."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Mission",
-    "title": "Protecting lives and properties",
+    "title": "Protecting buildings and saving lives.",
     "paragraphs": [
-      "PSTG was founded to deliver reliable fire safety solutions. We focus on compliance and tailored services.",
-      "Our all-in-one approach eliminates the need for multiple partners, simplifying fire protection management."
+      "PSTG Fire Protection specializes in passive fire systems to safeguard lives and property. We provide complete, reliable solutions for all fire safety needs.",
+      "Our expert team delivers certified services with a focus on compliance, efficiency, and customer satisfaction, ensuring peace of mind for clients."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Customer Feedback",
-    "title": "What our clients say",
+    "eyebrow": "What Clients Say",
+    "title": "Trusted by professionals.",
     "list": [
       {
-        "quote": "PSTG made compliance easy and hassle-free for our office buildings.",
-        "name": "Sarah Davis",
+        "quote": "PSTG helped us achieve compliance with minimal disruption. Their team was professional and efficient.",
+        "name": "James Davies",
         "role": "Facilities Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Thanks to PSTG, our fireproof systems are always up-to-date.",
-        "name": "James Wright",
-        "role": "Property Owner",
+        "quote": "Their consultancy made fire safety regulations easy to understand and implement. Highly recommend!",
+        "name": "Samantha Green",
+        "role": "Building Owner",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Your trusted fire safety partner",
-    "description": "We proudly serve diverse industries to ensure fire safety compliance.",
-    "address": "",
-    "website": "",
+    "eyebrow": "Where We Operate",
+    "title": "Serving clients across the UK.",
+    "description": "We assist buildings nationwide, including hospitals, offices, residential properties, and government facilities.",
+    "address": "Location upon request",
+    "website": "www.pstg-fire.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get Started",
-    "title": "Schedule a consultation today",
-    "description": "Contact us to discuss your fire protection needs.",
+    "title": "Need fire protection services?",
+    "description": "Contact us today to discuss your fire safety requirements or schedule a consultation.",
     "consent": "Your information is safe with us."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline Your Fire Safety",
-    "description": "Our AI tools simplify fire protection management.",
+    "title": "Smarter Fire Protection",
+    "description": "Discover how automation enhances your fire safety management.",
     "bullets": [
-      "Automate maintenance schedules and reminders.",
-      "Store compliance certificates digitally.",
-      "Track projects and certifications with ease."
+      "Schedule inspections with automated reminders.",
+      "Access compliance certificates instantly online.",
+      "Track projects and renewals with integrated CRM."
     ],
     "offer": "Mention PSTG Fire Protectio for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "PSTG Fire Protectio delivers unforgettable experiences.",
-    "address": "",
+    "address": "Location upon request",
     "email": "",
     "socials": [
       {
