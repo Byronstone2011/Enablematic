@@ -1,23 +1,23 @@
 const appData = {
   "brand": {
     "name": "Horohoe Constructio",
-    "tagline": "Crafting Excellence Daily",
-    "category": "Construction Services",
+    "tagline": "Precision in every project",
+    "category": "Construction & Joinery",
     "location": "London & South Eas",
-    "phone": "Unavailable"
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted Carpentry Experts",
-    "title": "Premium joinery for every project.",
-    "description": "We deliver exceptional carpentry and joinery, tailored to your needs, with a seamless process from start to finish.",
+    "eyebrow": "Expert carpentry services",
+    "title": "Transforming spaces with precision craftsmanship",
+    "description": "From bespoke joinery to large-scale projects, we deliver tailored solutions with unmatched quality and reliability.",
     "highlights": [
-      {
-        "label": "Completed Projects",
-        "value": "1,000+"
-      },
       {
         "label": "Years of Experience",
         "value": "20+"
+      },
+      {
+        "label": "Projects Completed",
+        "value": "1,000+"
       },
       {
         "label": "Client Satisfaction",
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Craftsmanship",
-        "description": "Every project is completed with precision and attention to detail, ensuring quality results."
+        "title": "Quality Craftsmanship",
+        "description": "We deliver exceptional results with attention to detail and proven expertise."
       },
       {
-        "title": "Diverse Project Scope",
-        "description": "We specialize in commercial, residential, and bespoke carpentry projects."
+        "title": "Reliable Performance",
+        "description": "On-time delivery and seamless execution define all our projects."
       },
       {
-        "title": "Proven Track Record",
-        "description": "With 20+ years of experience, we are the trusted choice for developers and contractors."
+        "title": "Client-Centric Approach",
+        "description": "We prioritize your needs, ensuring every project exceeds expectations."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Our services cater to all carpentry and joinery needs across varied industries.",
+    "description": "Comprehensive carpentry services for residential, commercial, and industrial clients.",
     "cards": [
       {
         "icon": "🏗",
         "title": "First-Fix Carpentry",
-        "description": "Structural carpentry solutions for commercial and residential developments."
+        "description": "Structural frameworks and essential installations done right."
       },
       {
         "icon": "🛠",
         "title": "Second-Fix Carpentry",
-        "description": "Finishing touches that elevate your interiors with flawless craftsmanship."
+        "description": "Finishing touches like doors, trims, and fittings with precision."
       },
       {
-        "icon": "🪚",
+        "icon": "🔨",
         "title": "Bespoke Joinery",
-        "description": "Custom carpentry tailored to unique designs and specifications."
+        "description": "Custom-crafted pieces tailored to your vision and space."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "Built on Tradition and Skill",
+    "eyebrow": "Our journey",
+    "title": "Crafting excellence since day one",
     "paragraphs": [
-      "Horohoe Construction Ltd has been delivering top-tier carpentry and joinery services for over 20 years. We pride ourselves on precision and dedication.",
-      "Our team combines expertise with innovation to meet the needs of commercial, residential, and bespoke projects in London and the South East."
+      "Horohoe Construction Ltd has built a reputation for precision, quality, and reliability in carpentry and joinery. Our expertise spans residential, commercial, and industrial projects.",
+      "We combine traditional techniques with modern solutions to meet diverse client needs. Every project reflects our commitment to craftsmanship and client satisfaction."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Trusted by Developers and Homeowners",
+    "eyebrow": "What our clients say",
+    "title": "Success stories from our clients",
     "list": [
       {
-        "quote": "Horohoe transformed our space with flawless craftsmanship. Highly recommend!",
-        "name": "James W.",
-        "role": "Property Developer",
+        "quote": "Horohoe Construction transformed our space with flawless craftsmanship and attention to detail.",
+        "name": "Sarah Benson",
+        "role": "Property Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their attention to detail and customer service set them apart. Truly exceptional.",
-        "name": "Sarah T.",
-        "role": "Homeowner",
+        "quote": "Their team delivered on time and exceeded our expectations. Highly recommend!",
+        "name": "John Carter",
+        "role": "Developer",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Our Location",
-    "title": "Serving London & South East",
-    "description": "We proudly serve clients across London and the South East, delivering reliable carpentry expertise.",
-    "address": "Unavailable",
+    "eyebrow": "Visit us",
+    "title": "Discover our expertise",
+    "description": "Serving London and the South East, we bring craftsmanship to your doorstep.",
+    "address": "London & South East",
     "website": "www.horohoe.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Request a Quote Today",
-    "description": "Contact us to discuss your project needs. Our team is ready to assist you.",
-    "consent": "I agree to receive updates."
+    "eyebrow": "Get in touch",
+    "title": "Request a consultation today",
+    "description": "Contact us for quotes, project discussions, or to learn more about our services.",
+    "consent": "We respect your privacy. Your data is secure."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline Your Experience",
-    "description": "Enhance efficiency with automation tailored for your business needs.",
+    "title": "Streamline your workflow",
+    "description": "Leverage AI to enhance efficiency and client experience.",
     "bullets": [
-      "Automated quote system for quick responses.",
-      "Integrated scheduling for site visits and resources.",
-      "Streamlined invoicing for completed jobs."
+      "Automated quote requests simplify client onboarding.",
+      "CRM integration ensures seamless lead tracking and follow-ups.",
+      "Online scheduling optimizes resource and project planning."
     ],
     "offer": "Mention Horohoe Constructio for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Horohoe Constructio delivers unforgettable experiences.",
-    "address": "Unavailable",
+    "address": "London & South East",
     "email": "",
     "socials": [
       {
