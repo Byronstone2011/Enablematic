@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Turtle Enviro",
-    "tagline": "Innovative drainage systems",
+    "tagline": "Drainage. Simplified.",
     "category": "Civil Engineering",
-    "location": "United Kingdom",
+    "location": "UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Industry-leading solutions",
-    "title": "Simplifying drainage and water management.",
-    "description": "We deliver innovative systems that ensure compliance, reduce delays, and optimize construction processes.",
+    "eyebrow": "Innovative Solutions",
+    "title": "Effortless Drainage, Every Time",
+    "description": "We provide smart drainage systems that meet compliance standards and reduce delays for developers and engineers.",
     "highlights": [
       {
-        "label": "Years of Expertise",
-        "value": "15+"
-      },
-      {
-        "label": "Projects Delivered",
-        "value": "2,500+"
+        "label": "Projects Supported",
+        "value": "2,000+"
       },
       {
         "label": "Compliance Rate",
-        "value": "99%"
+        "value": "99.9%"
+      },
+      {
+        "label": "Years Experience",
+        "value": "15+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Innovative Products",
-        "description": "We create cutting-edge drainage solutions tailored to diverse project needs."
+        "title": "Innovative Designs",
+        "description": "Our systems are engineered for efficiency and regulatory compliance."
       },
       {
-        "title": "Expert Technical Support",
-        "description": "Our team ensures seamless compliance with DCG and SuDS standards."
+        "title": "Expert Guidance",
+        "description": "We offer technical support and CPD presentations for professionals."
       },
       {
-        "title": "Trusted by Professional",
-        "description": "Our systems are relied upon by developers and engineers nationwide."
+        "title": "Trusted Quality",
+        "description": "Every product is built to the highest industry standards."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We specialize in sustainable drainage and water management solutions.",
+    "description": "Our drainage solutions are tailored for civil projects, kitchens, and more.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Drainage Systems",
-        "description": "High-performance inspection chambers and catch pits for every project."
+        "description": "Plastic chambers, silt management, and flow control systems built for reliability."
       },
       {
-        "icon": "🌊",
-        "title": "Stormwater Management",
-        "description": "Effective silt control and flow management for construction sites."
+        "icon": "💼",
+        "title": "FOG Management",
+        "description": "Innovative grease traps for kitchens, bars, and restaurants."
       },
       {
-        "icon": "🍽",
-        "title": "FOG Solutions",
-        "description": "Compliant grease traps for commercial kitchens and restaurants."
+        "icon": "⚙️",
+        "title": "Technical Support",
+        "description": "CPD presentations and specification guidance for project compliance."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Vision",
-    "title": "Building sustainable futures.",
+    "eyebrow": "Our Mission",
+    "title": "Leading Drainage Innovation",
     "paragraphs": [
-      "At Turtle Enviro, we innovate drainage and water management systems to streamline construction processes and ensure compliance.",
-      "With tailored solutions and technical expertise, we empower professionals to achieve efficient, sustainable outcomes for every project."
+      "Turtle Enviro designs cost-effective drainage and water management systems to support diverse projects across industries.",
+      "Our solutions ensure compliance, reduce delays, and simplify drainage for developers, engineers, and suppliers."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Customer Stories",
-    "title": "What clients say about us.",
+    "eyebrow": "Customer Experiences",
+    "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "Turtle Enviro's FOG solutions saved us time and ensured full compliance for our restaurant build.",
-        "name": "Laura Spencer",
-        "role": "Restaurant Developer",
+        "quote": "Turtle Enviro helped us meet compliance effortlessly while saving time on-site.",
+        "name": "James Walker",
+        "role": "Civil Engineer",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their technical guidance made DCG compliance easy for our housing project.",
-        "name": "James Bennett",
-        "role": "Civil Engineer",
+        "quote": "Their grease traps made maintenance simple and solved regulatory headaches.",
+        "name": "Sarah Bennett",
+        "role": "Restaurant Owner",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find Us",
-    "title": "Explore our solutions.",
-    "description": "Discover Turtle Enviro's advanced systems for drainage and water management.",
-    "address": "",
+    "eyebrow": "Our Location",
+    "title": "Serving the UK",
+    "description": "We provide solutions nationwide for civil engineering and water management.",
+    "address": "Contact us for details.",
     "website": "www.turtleenviro.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get Started",
-    "title": "Reach out today.",
-    "description": "Contact us for tailored solutions and expert guidance on your next project.",
-    "consent": "By submitting, you agree to receive updates from Turtle Enviro."
+    "title": "Request a Consultation",
+    "description": "Contact us to discuss your project needs and get expert recommendations.",
+    "consent": "We value your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline Your Workflow",
-    "description": "AI-powered tools enhance efficiency and compliance.",
+    "title": "Optimize Drainage with AI",
+    "description": "Automation simplifies processes for developers and engineers.",
     "bullets": [
-      "Automated CPD scheduling simplifies learning.",
-      "Specification-to-quote automation saves time.",
-      "Online stock insights optimize ordering."
+      "Automate CPD scheduling and reminders.",
+      "Streamline specification and pricing workflows.",
+      "Enhance order tracking and inventory visibility."
     ],
     "offer": "Mention Turtle Enviro for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Turtle Enviro delivers unforgettable experiences.",
-    "address": "",
+    "address": "Contact us for details.",
     "email": "",
     "socials": [
       {
