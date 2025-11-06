@@ -1,120 +1,120 @@
 const appData = {
   "brand": {
     "name": "Oakley Food Project",
-    "tagline": "Built for food success",
+    "tagline": "Transforming Food Facilities",
     "category": "Facility Design & Fit-Out",
-    "location": "United Kingdom",
+    "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Experts in food facilities",
-    "title": "Streamline your factory expansion.",
-    "description": "We handle every step of your food facility design and fit-out, minimizing distractions and avoiding costly overruns.",
+    "eyebrow": "Experts in Food Facilities",
+    "title": "Seamless factory expansions, delivered.",
+    "description": "We handle every detail of your food facility project, minimizing disruption and ensuring on-time, on-budget delivery.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "250+"
+        "value": "150+"
+      },
+      {
+        "label": "Years of Experience",
+        "value": "20+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
-      },
-      {
-        "label": "Years of Expertise",
-        "value": "15+"
       }
     ],
-    "image": "https://images.pexels.com/photos/5802215/pexels-photo-5802215.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Turnkey Solutions",
-        "description": "We offer end-to-end project delivery, ensuring smooth expansions for food manufacturers."
+        "title": "End-to-End Expertise",
+        "description": "We manage every stage, from design to handover, ensuring flawless execution."
       },
       {
-        "title": "Proven Expertise",
-        "description": "Over 15 years of experience in food facility design and construction sets us apart."
+        "title": "Industry Specialists",
+        "description": "Our team understands the unique demands of food manufacturing facilities."
       },
       {
-        "title": "Customer Focus",
-        "description": "We prioritize minimizing disruptions to your daily operations during projects."
+        "title": "On-Time Delivery",
+        "description": "We ensure your project is completed on schedule and within budget."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We specialize in food facility expansions and fit-outs, providing tailored solutions.",
+    "description": "We offer comprehensive food factory design, build, and project management services.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Turnkey Expansions",
-        "description": "Complete factory expansion services from planning to handover."
+        "description": "Complete factory expansion solutions tailored to your needs."
       },
       {
-        "icon": "📐",
+        "icon": "🛠",
         "title": "Design & Build",
-        "description": "Comprehensive scoping, design, and engineering for food facilities."
+        "description": "From scoping to engineering, we turn concepts into reality."
       },
       {
         "icon": "📋",
         "title": "Project Management",
-        "description": "We ensure seamless delivery and handover of your project."
+        "description": "We oversee every detail for a smooth, stress-free process."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Crafting smarter food facilities.",
+    "title": "Built for Food Manufacturers",
     "paragraphs": [
-      "Oakley Food Projects Ltd has spent over 15 years helping UK food manufacturers expand and optimize their facilities. Our expertise ensures flawless execution.",
-      "We understand the challenges food businesses face. Our turnkey approach eliminates stress, delivering projects on time and within budget."
+      "Oakley Food Projects Ltd specializes in designing and delivering bespoke food manufacturing facilities. With decades of experience, we provide seamless solutions to expand and optimize your factory operations.",
+      "Our proven process takes the stress out of complex projects. By combining expertise, precision, and customer focus, we enable food manufacturers to grow efficiently and confidently."
     ],
-    "image": "https://images.pexels.com/photos/7937709/pexels-photo-7937709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Trusted by food manufacturers.",
+    "eyebrow": "Client Success",
+    "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "Our factory expansion finished on time, and the team handled every detail flawlessly.",
-        "name": "James Turner",
+        "quote": "Oakley made our expansion effortless. They delivered on time and kept operations running smoothly.",
+        "name": "Sarah Thompson",
         "role": "Factory Manager",
-        "avatar": "https://images.pexels.com/photos/6713697/pexels-photo-6713697.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Oakley Food Projects made the process smooth and kept our operations running.",
-        "name": "Sarah Collins",
+        "quote": "Their expertise saved us time and avoided costly mistakes. Highly recommend!",
+        "name": "James Carter",
         "role": "Operations Director",
-        "avatar": "https://images.unsplash.com/photo-1595698251308-4718cb891973?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxGb29kJTIwbWFudWZhY3R1cmluZyUyMGZhY2lsaXR5JTIwZGVzaWduJTIwJTI2JTIwZml0LW91dCUyMCUyRiUyMGNvbnN0cnVjdGlvbiUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNDM0MDU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
+        "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit Us",
-    "title": "Explore our expertise.",
-    "description": "We work across the UK, transforming food facilities into efficient spaces.",
+    "title": "Plan Your Project With Us",
+    "description": "Contact us to discuss your food facility project and see how we can help you succeed.",
     "address": "",
     "website": "oakleyfoodprojects.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Start Your Project",
-    "title": "Contact us today.",
-    "description": "Email Ben Lyon at ben@oakleyfoodprojects.com to discuss your project needs.",
-    "consent": "We respect your privacy."
+    "eyebrow": "Get Started",
+    "title": "Ready to Expand?",
+    "description": "Contact us to start planning your factory project today. Let’s bring your vision to life.",
+    "consent": "We respect your privacy. Your information is safe with us."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Transform with automation.",
-    "description": "Automation tools streamline lead management and project workflows.",
+    "title": "Streamline Your Projects",
+    "description": "Leverage AI and automation to simplify your factory expansion journey.",
     "bullets": [
-      "Capture leads with integrated CRM tools.",
-      "Automate follow-ups for consultations.",
-      "Schedule discovery calls effortlessly."
+      "Capture leads automatically with integrated forms.",
+      "Automate consultation scheduling and follow-ups.",
+      "Streamline project workflows to save time."
     ],
     "offer": "Mention Oakley Food Project for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
