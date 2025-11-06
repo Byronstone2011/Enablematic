@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
-    "name": "Barrett Group",
-    "tagline": "Nationwide expertise, delivered.",
+    "name": "Barrett Group UK",
+    "tagline": "Certified industrial experts",
     "category": "Industrial Services",
-    "location": "Scunthorpe, UK",
-    "phone": "Contact via email"
+    "location": "Nationwide, UK",
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted industrial partner",
-    "title": "Certified professionals, nationwide.",
-    "description": "We deliver certified operatives for industrial contracts across the UK, ensuring quality and compliance every step of the way.",
+    "eyebrow": "Trusted nationwide service",
+    "title": "Certified operatives for every need.",
+    "description": "Barrett Group delivers trained experts nationwide for industrial contracts, tailored to meet your needs efficiently.",
     "highlights": [
       {
-        "label": "Contracts Completed",
-        "value": "1,000+"
-      },
-      {
-        "label": "Certified Operatives",
-        "value": "500+"
-      },
-      {
         "label": "Years of Expertise",
-        "value": "10+"
+        "value": "20+"
+      },
+      {
+        "label": "Projects Completed",
+        "value": "1,500+"
+      },
+      {
+        "label": "Client Satisfaction",
+        "value": "98%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1588655459075-fa31badd82eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxJbmR1c3RyaWFsJTIwJTJGJTIwbWFudWZhY3R1cmluZyUyMCUyOG5vdCUyMHNwZWNpZmllZCUyMG9uJTIwc2l0ZSUyOSUyMCU1QiUyMk5vdCUyMHNwZWNpZmllZCUyMG9uJTIwd2Vic2l0ZSUyMiU1RHxlbnwwfHx8fDE3NjI0MzQzNDF8MA&ixlib=rb-4.1.0&q=80&w=1080"
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Nationwide Reach",
-        "description": "We serve clients across the UK with seamless project execution."
+        "title": "Certified Professionals",
+        "description": "Our team is fully trained and certified to handle complex industrial projects safely and efficiently."
       },
       {
-        "title": "Certified Operatives",
-        "description": "Our team is fully trained and certified for industrial projects."
+        "title": "Nationwide Coverage",
+        "description": "We provide services across the UK, ensuring accessibility and reliability for all clients."
       },
       {
-        "title": "Quality Assurance",
-        "description": "We deliver reliable results that meet compliance standards."
+        "title": "Tailored Solutions",
+        "description": "We customize our services to align with the unique requirements of each contract."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive industrial services tailored to your needs.",
+    "description": "Our industrial services are built to meet diverse project needs with reliability and expertise.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Contract Work",
-        "description": "We manage diverse industrial contracts with precision and expertise."
+        "title": "Project Management",
+        "description": "We oversee complex industrial projects, ensuring seamless execution and timely delivery."
       },
       {
-        "icon": "🛡",
-        "title": "Certified Operatives",
-        "description": "Our operatives are trained to meet the highest industry standards."
+        "icon": "🛠",
+        "title": "Maintenance Services",
+        "description": "We provide ongoing maintenance for industrial facilities to ensure optimal operation."
       },
       {
-        "icon": "💼",
-        "title": "Nationwide Service",
-        "description": "We offer industrial solutions across the UK with local support."
+        "icon": "🔧",
+        "title": "On-site Operatives",
+        "description": "Our certified operatives deliver hands-on expertise for your project requirements."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Built on experience and trust",
+    "eyebrow": "Our Journey",
+    "title": "Decades of industrial excellence",
     "paragraphs": [
-      "Barrett Group UK Limited has been delivering high-quality industrial services for over a decade, focusing on certified solutions nationwide.",
-      "Our team’s expertise and commitment to compliance make us the trusted choice for industrial clients across the UK."
+      "Barrett Group UK Limited has built a reputation for delivering certified industrial services nationwide. We focus on reliability and quality.",
+      "With tailored solutions and a commitment to excellence, we help businesses achieve seamless project execution across the UK."
     ],
     "image": "https://images.unsplash.com/photo-1601119462363-721d8e4f676e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxJbmR1c3RyaWFsJTIwJTJGJTIwbWFudWZhY3R1cmluZyUyMCUyOG5vdCUyMHNwZWNpZmllZCUyMG9uJTIwc2l0ZSUyOSUyMHByb2Zlc3Npb25hbCUyMHRlYW0lMjBhdCUyMHdvcmt8ZW58MHx8fHwxNzYyNDM0MzQxfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "testimonials": {
-    "eyebrow": "Client feedback",
-    "title": "What our clients say",
+    "eyebrow": "What Clients Say",
+    "title": "Real feedback from satisfied clients",
     "list": [
       {
-        "quote": "Barrett Group delivered exceptional service for our contract needs. Their team was professional and efficient throughout.",
-        "name": "James Taylor",
+        "quote": "Barrett Group's operatives were professional and efficient, ensuring our project ran smoothly from start to finish.",
+        "name": "John Smith",
         "role": "Operations Manager",
         "avatar": "https://images.unsplash.com/photo-1683470156390-79fc319b7e7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxJbmR1c3RyaWFsJTIwJTJGJTIwbWFudWZhY3R1cmluZyUyMCUyOG5vdCUyMHNwZWNpZmllZCUyMG9uJTIwc2l0ZSUyOSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNDM0MzQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
       },
       {
-        "quote": "Reliable, certified operatives and seamless coordination. Highly recommend their services.",
-        "name": "Sarah Green",
+        "quote": "Their tailored approach was exactly what we needed for a complex industrial setup. Highly recommend.",
+        "name": "Sarah Johnson",
         "role": "Project Coordinator",
         "avatar": "https://images.unsplash.com/photo-1642721035664-ce3f84b33fde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwyfHxJbmR1c3RyaWFsJTIwJTJGJTIwbWFudWZhY3R1cmluZyUyMCUyOG5vdCUyMHNwZWNpZmllZCUyMG9uJTIwc2l0ZSUyOSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNDM0MzQwfDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us",
-    "title": "Based in Scunthorpe",
-    "description": "Located in North Lincolnshire, we proudly serve industrial clients nationwide.",
-    "address": "Scunthorpe, UK",
+    "eyebrow": "Visit Us",
+    "title": "Serving clients nationwide",
+    "description": "We operate across the UK, ensuring accessibility and reliable service wherever you need us.",
+    "address": "Nationwide, UK",
     "website": "www.barrettgroupuk.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Contact us today",
-    "description": "Email us to discuss your project needs or request a consultation.",
-    "consent": "We respect your privacy and data."
+    "eyebrow": "Get Started",
+    "title": "Request your consultation today",
+    "description": "Contact us to discuss your project needs with our expert team. We're here to help.",
+    "consent": "We respect your privacy and keep your data secure."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your operations",
-    "description": "Leverage AI and automation to improve processes.",
+    "title": "Automate Your Operations",
+    "description": "Enhance efficiency with AI and automation tailored for industrial needs.",
     "bullets": [
-      "Automate client communication with CRM tools.",
-      "Simplify bookings with online scheduling systems.",
-      "Integrate email follow-ups for seamless updates."
+      "Streamline bookings with automated forms.",
+      "Implement CRM integration to manage leads.",
+      "Send automated follow-ups for faster responses."
     ],
-    "offer": "Mention Barrett Group for the launch-week optimization kit.",
+    "offer": "Mention Barrett Group UK for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Barrett Group delivers unforgettable experiences.",
-    "address": "Scunthorpe, UK",
+    "blurb": "Barrett Group UK delivers unforgettable experiences.",
+    "address": "Nationwide, UK",
     "email": "",
     "socials": [
       {
