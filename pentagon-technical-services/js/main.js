@@ -1,15 +1,15 @@
 const appData = {
   "brand": {
-    "name": "Pentagon Technical",
-    "tagline": "Critical infrastructure experts",
-    "category": "Construction & Infrastructure",
-    "location": "Global Operations",
+    "name": "Pentagon Tech",
+    "tagline": "Building Critical Futures",
+    "category": "Construction & Engineering",
+    "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Mission-critical projects",
-    "title": "Simplifying high-stakes builds.",
-    "description": "We manage complexity, reduce risks, and streamline delivery for mission-critical infrastructure projects like data centres and MEP systems.",
+    "eyebrow": "Mission-critical expertise",
+    "title": "Simplifying complex data projects.",
+    "description": "We manage risk, ensure compliance, and streamline delivery for mission-critical infrastructure with precision and expertise.",
     "highlights": [
       {
         "label": "Projects Delivered",
@@ -20,8 +20,8 @@ const appData = {
         "value": "99.9%"
       },
       {
-        "label": "Years of Expertise",
-        "value": "20+"
+        "label": "Years Experience",
+        "value": "15+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Technical Precision",
-        "description": "Our expertise ensures flawless execution of complex infrastructure builds."
+        "title": "Expert Project Managemen",
+        "description": "We deliver complex projects with efficiency and risk control tailored to your needs."
       },
       {
-        "title": "Digital Engineering",
-        "description": "Advanced BIM workflows optimize coordination and efficiency."
+        "title": "Precision Engineering",
+        "description": "Our designs integrate the latest MEP and BIM technologies for flawless execution."
       },
       {
-        "title": "Risk Management",
-        "description": "We mitigate risks and deliver secure, compliant solutions."
+        "title": "Proven Results",
+        "description": "500+ successful projects showcase our reliability in critical infrastructure."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Specialized services designed for critical infrastructure projects.",
+    "description": "Pentagon Technical Services combines expert project management and advanced engineering to deliver mission-critical solutions.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Project Management",
-        "description": "Complete oversight of construction, ensuring timelines and quality standards."
+        "description": "End-to-end management for data centers and high-spec infrastructure projects."
       },
       {
         "icon": "💻",
         "title": "Digital Engineering",
-        "description": "BIM workflows streamline design and execution for complex builds."
+        "description": "BIM workflows optimize planning, coordination, and clash detection."
       },
       {
-        "icon": "⚙️",
+        "icon": "🛠",
         "title": "Testing & Commissioni",
-        "description": "Rigorous testing ensures compliance and operational excellence."
+        "description": "Rigorous testing ensures compliance and quality for critical systems."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Building with precision and trust",
+    "eyebrow": "Our Journey",
+    "title": "Built for Mission-Critical Success",
     "paragraphs": [
-      "Pentagon Technical Services specializes in mission-critical projects, offering unmatched expertise in data centres, MEP systems, and high-spec builds.",
-      "We focus on efficiency, sustainability, and risk reduction, ensuring seamless delivery of complex projects across Europe, Asia, and the Middle East."
+      "Pentagon Technical Services specializes in delivering high-spec, mission-critical projects across Europe, Asia, and the Middle East. From data centers to large-scale builds, we ensure precision and compliance.",
+      "Our focus on digital engineering, off-site delivery, and value engineering drives efficiency. With 15+ years of experience, we’re trusted to reduce risks and streamline operations."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Trusted by industry leaders",
+    "eyebrow": "What Clients Say",
+    "title": "Trusted by Industry Leaders",
     "list": [
       {
-        "quote": "Pentagon simplified our data centre build, delivering on time and beyond expectations.",
-        "name": "James Carter",
-        "role": "Facility Manager",
+        "quote": "Pentagon’s expertise in managing data center projects saved us time and money while ensuring quality.",
+        "name": "James Wright",
+        "role": "Data Center Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their expertise in BIM workflows transformed our project coordination.",
-        "name": "Sarah Lee",
-        "role": "Head of Construction",
+        "quote": "Their BIM workflows were flawless, improving coordination and reducing clashes significantly.",
+        "name": "Sarah Patel",
+        "role": "Construction Director",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Global reach",
-    "title": "Where we operate",
-    "description": "Serving clients worldwide with specialized solutions for critical infrastructure projects.",
+    "eyebrow": "Visit Us",
+    "title": "Explore Our Expertise",
+    "description": "Learn more about our services and mission-critical solutions. Contact us for tailored consultations.",
     "address": "",
-    "website": "pentagontechnicalservices.com",
+    "website": "www.pentagontechnicalservices.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started today",
-    "title": "Schedule a consultation",
-    "description": "Contact us to discuss your project needs and see how we can help.",
-    "consent": "By submitting, you agree to our privacy policy."
+    "eyebrow": "Get in Touch",
+    "title": "Start Your Project Today",
+    "description": "Contact us to discuss your mission-critical project needs. Let’s build your future together.",
+    "consent": "By submitting, I agree to the privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "AI for smarter workflows",
-    "description": "Streamline your mission-critical projects with advanced automation tools.",
+    "title": "AI-Powered Efficiency",
+    "description": "Streamline your projects with advanced automation and AI solutions.",
     "bullets": [
-      "Automate BIM workflows and clash detection to save time.",
-      "Simplify testing and commissioning with automated reports.",
-      "Track progress and optimize scheduling with AI insights."
+      "Automate BIM workflows and clash detection.",
+      "Simplify testing and certification processes.",
+      "Optimize scheduling and progress tracking."
     ],
-    "offer": "Mention Pentagon Technical for the launch-week optimization kit.",
+    "offer": "Mention Pentagon Tech for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,7 +124,7 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Pentagon Technical delivers unforgettable experiences.",
+    "blurb": "Pentagon Tech delivers unforgettable experiences.",
     "address": "",
     "email": "",
     "socials": [
