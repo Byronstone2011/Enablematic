@@ -1,120 +1,120 @@
 const appData = {
   "brand": {
     "name": "RES Controls Ltd",
-    "tagline": "Energy efficiency made simple",
+    "tagline": "Smarter energy solutions",
     "category": "Building Management Systems",
-    "location": "UK-based",
+    "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Smart energy solutions",
-    "title": "Optimizing building performance effortlessly",
-    "description": "RES Controls Ltd delivers reliable BMS design, installation, and support to reduce energy waste and maximize efficiency.",
+    "eyebrow": "Expert energy management",
+    "title": "Optimize your building's performance.",
+    "description": "We design, install, and support cutting-edge building management systems to reduce energy costs and ensure reliability.",
     "highlights": [
       {
-        "label": "Projects Completed",
+        "label": "Years of Experience",
+        "value": "15+"
+      },
+      {
+        "label": "Systems Installed",
         "value": "500+"
       },
       {
-        "label": "Energy Savings",
-        "value": "30%+"
-      },
-      {
-        "label": "Client Satisfaction",
-        "value": "98%"
+        "label": "Energy Savings Rate",
+        "value": "25%"
       }
     ],
-    "image": "https://images.pexels.com/photos/3582392/pexels-photo-3582392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Design",
-        "description": "We craft tailored BMS systems for optimal energy management and building control."
+        "title": "Proven Expertise",
+        "description": "15+ years of delivering innovative energy solutions that optimize building operations."
       },
       {
         "title": "Reliable Support",
-        "description": "Our helpdesk ensures continuous system performance with timely assistance."
+        "description": "Dedicated helpdesk ensures timely assistance for all your system needs."
       },
       {
-        "title": "Efficiency Focus",
-        "description": "We prioritize energy savings through advanced technology and analytics."
+        "title": "Sustainable Solutions",
+        "description": "We focus on energy efficiency to reduce consumption and cut costs."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive services to enhance building efficiency and control.",
+    "description": "Tailored building management and energy efficiency services.",
     "cards": [
       {
         "icon": "🏗",
         "title": "BMS Design",
-        "description": "Customized building management systems designed to meet your unique needs."
+        "description": "Custom building management systems designed for optimal energy use."
       },
       {
-        "icon": "💻",
-        "title": "Installation & Commissi",
-        "description": "Expert installation and setup for seamless BMS functionality."
+        "icon": "🔧",
+        "title": "BMS Installation",
+        "description": "Expert installation and commissioning for seamless system integration."
       },
       {
         "icon": "📞",
         "title": "Ongoing Support",
-        "description": "Dedicated helpdesk for maintenance and troubleshooting whenever needed."
+        "description": "Round-the-clock helpdesk and maintenance for your systems."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Focused on energy and building optimization",
+    "eyebrow": "Our Mission",
+    "title": "Your trusted energy management partner.",
     "paragraphs": [
-      "RES Controls Ltd specializes in creating innovative building management systems that drive energy efficiency and operational excellence.",
-      "Through cutting-edge technology and client-focused solutions, we empower facilities to achieve efficiency, reliability, and sustainability."
+      "RES Controls Ltd specializes in designing, installing, and supporting advanced energy management systems. Our goal is to help businesses optimize operations and reduce energy costs.",
+      "By combining expertise with cutting-edge automation, we deliver sustainable solutions that enhance efficiency and reliability, ensuring long-term success for our clients."
     ],
-    "image": "https://images.pexels.com/photos/6566817/pexels-photo-6566817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client feedback",
-    "title": "Trusted by industry leaders",
+    "eyebrow": "What Clients Say",
+    "title": "Trusted by industry leaders.",
     "list": [
       {
-        "quote": "RES Controls transformed our energy management. We saw a 40% reduction in consumption within months.",
-        "name": "Emma Smith",
+        "quote": "RES Controls helped us cut energy costs by 30%. Their team is professional and always available to assist.",
+        "name": "Sarah Morgan",
         "role": "Facilities Manager",
-        "avatar": "https://images.pexels.com/photos/5583988/pexels-photo-5583988.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their support team is outstanding. They always respond quickly and keep our systems running smoothly.",
-        "name": "James Taylor",
+        "quote": "Their systems are reliable and easy to manage. The support team is fantastic and always responsive.",
+        "name": "James Carter",
         "role": "Building Owner",
-        "avatar": "https://images.unsplash.com/photo-1628158088791-89567a8e84ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxCdWlsZGluZyUyMG1hbmFnZW1lbnQlMjBzeXN0ZW1zJTIwJTJGJTIwRW5lcmd5JTIwbWFuYWdlbWVudCUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNDM0MjQyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+        "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Our location",
-    "title": "Conveniently based in the UK",
-    "description": "Serving commercial properties across the UK with expert building management solutions.",
+    "eyebrow": "Find Us",
+    "title": "Contact our team today.",
+    "description": "Let us help optimize your building's energy performance with tailored solutions.",
     "address": "",
-    "website": "www.rescontrols.co.uk",
+    "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Request a free consultation",
-    "description": "Contact us today to discuss your building management needs.",
-    "consent": "We value your privacy and ensure secure communication."
+    "eyebrow": "Get Started",
+    "title": "Request your consultation.",
+    "description": "Contact us today to discuss your building management and energy efficiency needs.",
+    "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "AI-driven efficiency",
-    "description": "Maximize building performance with our innovative AI solutions.",
+    "title": "Smart automation for energy savings.",
+    "description": "Leverage AI-powered tools to enhance efficiency and reliability.",
     "bullets": [
-      "Automated energy optimization reduces consumption and costs.",
-      "Remote monitoring detects faults before they escalate.",
-      "Predictive maintenance prevents downtime proactively."
+      "Automated energy optimization reduces waste and costs.",
+      "Remote monitoring detects faults and improves performance.",
+      "Predictive maintenance ensures system longevity."
     ],
     "offer": "Mention RES Controls Ltd for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
