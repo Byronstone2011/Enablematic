@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Balconette",
-    "tagline": "Elevating your space",
+    "tagline": "Elevate your views.",
     "category": "Architectural Glass Products",
-    "location": "United Kingdom",
+    "location": "UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "UK's leading supplier",
-    "title": "Bespoke glass solutions made simple",
-    "description": "We simplify balcony design with compliant, stylish, and custom glass products tailored to your space.",
+    "eyebrow": "Trusted by architects",
+    "title": "Bespoke glass balconies made simple.",
+    "description": "We simplify safety, style, and regulations for Juliet balconies, balustrades, and curved glass solutions.",
     "highlights": [
       {
-        "label": "Years of Expertise",
-        "value": "15+"
+        "label": "Projects Completed",
+        "value": "10,000+"
       },
       {
-        "label": "Projects Completed",
-        "value": "3,500+"
+        "label": "Years in Business",
+        "value": "20+"
       },
       {
         "label": "Compliance Rate",
-        "value": "99.8%"
+        "value": "99.9%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Craftsmanship",
-        "description": "Precision-engineered glass products for stunning results."
+        "title": "Safety First",
+        "description": "Our products meet the highest safety regulations for peace of mind."
       },
       {
-        "title": "Safety Assurance",
-        "description": "Meets fire and building regulations for total peace of mind."
+        "title": "Custom Solutions",
+        "description": "We offer bespoke designs tailored to every project need."
       },
       {
-        "title": "Customizable Designs",
-        "description": "Tailored solutions to fit every project and vision."
+        "title": "Proven Expertise",
+        "description": "20+ years delivering quality glass for homes and businesses."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Balconette offers premium glass balconies, balustrades, and decking solutions.",
+    "description": "Premium glass balcony, balustrade, and glazing solutions tailored to your needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Juliet Balconies",
-        "description": "Frameless or handrail options for elegant balcony designs."
+        "description": "Frameless or handrail options that blend design with safety."
       },
       {
         "icon": "🛡",
         "title": "Glass Balustrades",
-        "description": "Walk-on balconies, stairs, and patios with seamless glass finishes."
+        "description": "Stylish walk-on balconies, stairs, and patio solutions."
       },
       {
         "icon": "🌟",
         "title": "BalcoDeck™ System",
-        "description": "Integrated decking and balustrade system for outdoor spaces."
+        "description": "Decking and balustrade combined for seamless outdoor spaces."
       }
     ]
   },
   "story": {
-    "eyebrow": "About Us",
-    "title": "Innovation meets precision",
+    "eyebrow": "Our journey",
+    "title": "Crafting stunning glass solutions.",
     "paragraphs": [
-      "Balconette is a trusted UK manufacturer of glass balconies, balustrades, and curved glass products. We combine style and functionality for modern spaces.",
-      "With advanced configurators and expertise, we make bespoke solutions seamless, ensuring safety, compliance, and beauty in every project."
+      "Balconette has become the UK's go-to supplier for high-quality glass balconies and balustrades. Our innovative designs combine safety, durability, and elegance.",
+      "We help homeowners, architects, and builders bring creative visions to life with customized solutions that meet regulations and exceed expectations."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Customer experiences",
+    "eyebrow": "What our clients say",
+    "title": "Feedback from our customers",
     "list": [
       {
-        "quote": "Balconette made compliance effortless while delivering stunning designs. Highly recommend!",
+        "quote": "Balconette made the process seamless, from design to installation. Our balcony is stunning and safe.",
         "name": "Sarah T.",
-        "role": "Architect",
+        "role": "Homeowner",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their configurator and support team simplified the process for our custom balcony project.",
-        "name": "James L.",
-        "role": "Property Developer",
+        "quote": "They delivered exceptional quality and navigated complex regulations with ease.",
+        "name": "David R.",
+        "role": "Architect",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Explore our solutions",
-    "description": "Discover innovative glass designs that transform spaces.",
+    "eyebrow": "See us in action",
+    "title": "Explore our showroom",
+    "description": "Discover stunning glass balconies and balustrades that redefine outdoor spaces.",
     "address": "",
-    "website": "www.balconette.co.uk",
+    "website": "balconette.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Request a consultation",
-    "description": "Contact us today to design your bespoke glass solution.",
-    "consent": "I consent to being contacted."
+    "eyebrow": "Get started today",
+    "title": "Request a free consultation",
+    "description": "Contact us for expert advice and bespoke quotes. Let’s build your vision.",
+    "consent": "We respect your privacy and won’t share your details."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Smarter Solutions with AI",
-    "description": "Our automated tools streamline your experience with Balconette.",
+    "title": "Streamline your projects.",
+    "description": "Balconette leverages automation to simplify complex projects.",
     "bullets": [
-      "Quickly configure your balcony online.",
-      "Automated quotes sent instantly via email.",
-      "Efficient order tracking and updates."
+      "Automatic quote generation for bespoke sizes.",
+      "Integrated CRM for follow-ups and scheduling.",
+      "Efficient production and dispatch workflows."
     ],
     "offer": "Mention Balconette for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
