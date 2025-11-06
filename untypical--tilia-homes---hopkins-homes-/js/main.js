@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "untypical",
-    "tagline": "Homes that inspire living",
+    "tagline": "Homes built for better living.",
     "category": "Residential housebuilding",
-    "location": "United Kingdom",
+    "location": "UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Reimagining housebuilding",
-    "title": "Building homes for better living",
-    "description": "We streamline home-buying processes and deliver energy-efficient, beautifully designed spaces tailored to your needs.",
+    "eyebrow": "Shaping UK housebuilding",
+    "title": "Simplifying home buying for all.",
+    "description": "We streamline processes to deliver energy-efficient homes and personalized buying experiences across developments.",
     "highlights": [
       {
         "label": "Homes Delivered",
-        "value": "25,000+"
+        "value": "5,000+"
       },
       {
-        "label": "Years Experience",
-        "value": "20+"
+        "label": "Developments Managed",
+        "value": "50+"
       },
       {
         "label": "Customer Satisfaction",
-        "value": "97%"
+        "value": "98%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Effortless Process",
-        "description": "We simplify buying with seamless lead capture and follow-ups."
+        "title": "Energy-efficient design",
+        "description": "Our homes are crafted for sustainability and future-focused living."
       },
       {
-        "title": "Exceptional Design",
-        "description": "Our homes feature energy-efficient and stunning designs."
+        "title": "Exceptional aesthetics",
+        "description": "Modern designs paired with professional photography showcase quality."
       },
       {
-        "title": "Trusted Brands",
-        "description": "Built on the legacy of Tilia and Hopkins Homes."
+        "title": "Streamlined processes",
+        "description": "We simplify buying with seamless reservations and viewings."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our services in housebuilding and property development.",
+    "description": "Creating homes tailored to modern buyers with innovative design and service.",
     "cards": [
       {
         "icon": "🏗",
         "title": "New Home Construction",
-        "description": "We build 2–5 bedroom houses and apartments across the UK."
+        "description": "We build 2–5 bedroom homes and apartments with care and precision."
       },
       {
-        "icon": "💼",
+        "icon": "📞",
         "title": "Sales & Marketing",
-        "description": "Site viewings, buyer reservations, and inquiries handled expertly."
+        "description": "We handle buyer inquiries, site viewings, and reservations smoothly."
       },
       {
-        "icon": "🌿",
-        "title": "Sustainable Designs",
-        "description": "Energy-efficient homes tailored for modern living."
+        "icon": "🌱",
+        "title": "Sustainable Design",
+        "description": "Our homes feature energy-saving innovations for modern living."
       }
     ]
   },
   "story": {
     "eyebrow": "Our journey",
-    "title": "Crafting a better future for UK homes",
+    "title": "Redefining housebuilding in the UK",
     "paragraphs": [
-      "untypical unites Tilia Homes and Hopkins Homes to redefine housebuilding. Together, we create sustainable, high-quality homes that stand out.",
-      "By streamlining operations and prioritizing innovation, we deliver unmatched value to homebuyers across the UK."
+      "untypical unites Tilia Homes and Hopkins Homes to create a positive impact on UK housebuilding. We deliver homes that prioritize quality, style, and sustainability.",
+      "Our streamlined processes and commitment to innovation make us a trusted choice. Buyers benefit from personalized experiences and future-ready homes."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What customers say",
-    "title": "Real stories, real satisfaction",
+    "eyebrow": "What clients say",
+    "title": "Real voices, real experiences",
     "list": [
       {
-        "quote": "The buying process was smooth and stress-free. The team handled everything perfectly.",
-        "name": "Emma L.",
+        "quote": "untypical made buying simple and stress-free. The energy-efficient design is perfect for my family.",
+        "name": "Sarah L.",
         "role": "First-time buyer",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Our new home is stunning and energy-efficient. We couldn’t be happier.",
-        "name": "Mark S.",
-        "role": "Homeowner",
+        "quote": "Every step was seamless, from viewing to reservation. I love my beautiful new home!",
+        "name": "James P.",
+        "role": "Downsizer",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find us",
-    "title": "Your next home awaits",
-    "description": "Explore developments across the UK and find your dream home.",
+    "eyebrow": "Explore our developmen",
+    "title": "Find your dream home today",
+    "description": "Discover energy-efficient homes with stunning designs in vibrant communities.",
     "address": "",
-    "website": "www.untypicalhomes.co.uk",
+    "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Ready to find your home?",
-    "description": "Contact us for site viewings, reservations, or inquiries.",
-    "consent": "We respect your privacy and never share your data."
+    "eyebrow": "Ready to start?",
+    "title": "Book a viewing or ask questions",
+    "description": "Contact us to explore developments or reserve your new home today.",
+    "consent": "We respect your privacy. Your data is safe."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Smart solutions for housebuilding",
-    "description": "Automation streamlines processes and enhances customer experience.",
+    "title": "Automate for impact",
+    "description": "Streamline processes and enhance buyer experiences with AI solutions.",
     "bullets": [
-      "Centralized CRM for lead routing and follow-ups.",
-      "Real-time inventory sync with dynamic alerts.",
-      "Automated appointment booking workflows."
+      "Automate lead routing and appointment booking to save time.",
+      "Sync property inventory with real-time alerts for buyers.",
+      "Engage customers with personalized email/SMS workflows."
     ],
     "offer": "Mention untypical for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
