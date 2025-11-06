@@ -1,23 +1,23 @@
 const appData = {
   "brand": {
     "name": "Quint Construction",
-    "tagline": "Effortless workforce solutions",
-    "category": "Construction Recruitment",
+    "tagline": "Recruiting for results",
+    "category": "Construction Staffing",
     "location": "Nationwide Coverag",
-    "phone": ""
+    "phone": "Contact via email"
   },
   "hero": {
-    "eyebrow": "Trusted recruitment experts",
-    "title": "Skilled workers, delivered fast.",
-    "description": "We provide vetted tradespeople and operators to match your project needs. Scale your workforce effortlessly with Quint.",
+    "eyebrow": "Expert recruitment solutions",
+    "title": "Vetted workers delivered on time.",
+    "description": "We connect construction teams with skilled, reliable workers to meet tight project deadlines and ensure compliance.",
     "highlights": [
       {
-        "label": "Years of Experience",
+        "label": "Years Experience",
         "value": "30+"
       },
       {
-        "label": "Candidates Placed",
-        "value": "5,000+"
+        "label": "Placements Completed",
+        "value": "10,000+"
       },
       {
         "label": "Client Satisfaction",
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Streamlined Hiring",
-        "description": "Our fast process ensures skilled candidates meet your deadlines seamlessly."
+        "title": "Streamlined Staffing",
+        "description": "Fast, accurate placements tailored to your project needs for maximum efficiency."
       },
       {
-        "title": "Reliable Quality",
-        "description": "Every candidate is pre-screened for compliance and reliability."
+        "title": "Vetted Workforce",
+        "description": "All candidates are pre-screened, ensuring reliability and compliance on site."
       },
       {
-        "title": "Nationwide Reach",
-        "description": "We serve construction sites anywhere in the UK with top talent."
+        "title": "Nationwide Coverage",
+        "description": "Serving construction sites across the UK with skilled talent at scale."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "From skilled labour to plant operators, we provide tailored recruitment solutions.",
+    "description": "From trades placements to RPO, we cover all staffing needs for construction teams.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Skilled Trades",
-        "description": "Get vetted tradespeople to meet your Civils, Fit Out, and M&E needs."
+        "description": "Matching vetted tradespeople to civils, fit-out, logistics, and M&E projects."
       },
       {
-        "icon": "🚜",
+        "icon": "🚧",
         "title": "Plant Operators",
-        "description": "Qualified plant operators ready to work across sites nationwide."
+        "description": "Providing certified plant operators for safe and efficient site operations."
       },
       {
-        "icon": "📋",
-        "title": "Recruitment Solutions",
-        "description": "We offer RPO, contract staffing, and exclusive retained searches."
+        "icon": "💼",
+        "title": "RPO Services",
+        "description": "End-to-end recruitment outsourcing with compliance and quality guaranteed."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey in staffi",
-    "title": "Committed to workforce excellence",
+    "eyebrow": "Our journey in recrui",
+    "title": "Building trusted teams for 30 years",
     "paragraphs": [
-      "Quint Construction Services was founded to address the growing need for skilled construction staff. With 30 years of combined expertise, we deliver solutions that work.",
-      "Our systems ensure compliance and efficiency, making Quint the trusted name in construction recruitment nationwide."
+      "Quint Construction Services was established to solve the complex staffing challenges faced by construction projects. Our expertise spans civils, fit-out, logistics, and more.",
+      "With decades of industry experience, we ensure reliable, compliant staffing solutions that adapt to your project demands and scale effortlessly."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What our clients say",
-    "title": "Proven results, trusted service",
+    "eyebrow": "Hear from our clients",
+    "title": "Feedback that drives us",
     "list": [
       {
-        "quote": "Quint consistently delivers skilled workers on time. They’ve been instrumental in scaling our workforce for key projects.",
-        "name": "Mark R.",
-        "role": "Site Manager",
+        "quote": "Quint provided skilled workers at short notice, helping us meet tight deadlines without compromise.",
+        "name": "Paul Simmons",
+        "role": "Site Manager, Civils",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "The vetting process is top-notch, ensuring reliable candidates every time. They’ve simplified recruitment for our team.",
-        "name": "Sarah T.",
-        "role": "Operations Director",
+        "quote": "Their pre-screening process ensures every candidate is reliable and ready for the job.",
+        "name": "Lucy Harrison",
+        "role": "Project Coordinator, Fit-Out",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Serving sites nationwi",
-    "title": "Your recruitment partner",
-    "description": "Quint Construction Services supports projects across the UK with unmatched staffing solutions.",
-    "address": "",
+    "eyebrow": "Find us nationwide",
+    "title": "Serving projects across the UK",
+    "description": "From bustling city sites to remote locations, Quint covers all areas with expert staffing.",
+    "address": "Contact via email",
     "website": "quintconstructionservices.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Start hiring today",
-    "title": "Effortless recruitment solutions",
-    "description": "Contact us to find skilled candidates or discuss custom staffing plans.",
-    "consent": "We value your privacy and never share your information."
+    "eyebrow": "Get started today",
+    "title": "Request skilled workers now",
+    "description": "Contact us to discuss your project needs and secure the talent required to deliver success.",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Recruitment made smarter",
-    "description": "Automation optimized for construction staffing.",
+    "title": "Streamlining your recruitment",
+    "description": "AI-driven automation makes staffing simple, efficient, and scalable.",
     "bullets": [
-      "Save time with automated candidate pre-screening.",
-      "Streamline onboarding and shift scheduling effortlessly.",
-      "Gain insights with automated payroll and reporting."
+      "Automate pre-screening and onboarding for faster placements.",
+      "Use ATS to search and schedule skilled workers instantly.",
+      "Integrate payroll and reporting for seamless management."
     ],
     "offer": "Mention Quint Construction for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Quint Construction delivers unforgettable experiences.",
-    "address": "",
+    "address": "Contact via email",
     "email": "",
     "socials": [
       {
