@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Collyer Constructio",
-    "tagline": "Crafting homes with care",
+    "tagline": "Quality builds, every time",
     "category": "Residential Builders",
     "location": "Hampshire, UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted local builders",
-    "title": "Bespoke builds delivered on time, on budget",
-    "description": "We specialize in extensions, renovations, and new builds, ensuring quality craftsmanship and seamless project management every time.",
+    "eyebrow": "Trusted local experts",
+    "title": "High-quality builds done on time and budget",
+    "description": "We specialize in bespoke extensions, renovations, and new builds with unmatched reliability and craftsmanship.",
     "highlights": [
       {
-        "label": "Years of Experience",
-        "value": "15+"
-      },
-      {
         "label": "Projects Completed",
-        "value": "500+"
+        "value": "250+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
+      },
+      {
+        "label": "Years Experience",
+        "value": "20+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1712730324869-a0636488df6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxSZXNpZGVudGlhbCUyMGNvbnN0cnVjdGlvbiUyMCUyRiUyMGJ1aWxkZXJzJTIwJTVCJTIyUmVzaWRlbnRpYWwlMjBleHRlbnNpb25zJTIyJTJDJTIyRnVsbCUyMGhvdXNlJTIwcmVub3ZhdGlvbnMlMjIlMkMlMjJOZXclMjBob21lJTIwYnVpbGRzJTIyJTJDJTIyUGVyaW9kJTIwcHJvcGVydHklMjByZXN0b3JhdGlvbiUyMGFuZCUyMG1hdGNoaW5nJTIyJTJDJTIyRGVzaWduJTIwJTI2JTIwYnVpbGQlMjBhbmQlMjBwbGFubmluZyUyMHN1cHBvcnQlMjIlMkMlMjJFeHRlcm5hbCUyMHdvcmtzJTIwYW5kJTIwdHJhZGUlMjBjb29yZGluYXRpb24lMjAlMjhjYXJwZW50cnklMkMlMjBwbHVtYmluZyUyQyUyMGRlY29yYXRpb24lMjklMjIlNUR8ZW58MHx8fHwxNzYyNDM0MzM1fDA&ixlib=rb-4.1.0&q=80&w=1080"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Craftsmanship",
-        "description": "Our skilled team creates bespoke builds, blending functionality and beauty perfectly."
+        "title": "Craftsmanship Guaranteed",
+        "description": "Our skilled team delivers precision and quality in every project, ensuring lasting value for homeowners."
       },
       {
-        "title": "Seamless Management",
-        "description": "We handle planning, design, and logistics, ensuring smooth and stress-free projects."
+        "title": "Transparent Process",
+        "description": "We provide clear communication, updates, and timelines to keep you informed at every step."
       },
       {
-        "title": "Trusted Reputation",
-        "description": "Accredited and highly rated, we deliver outstanding results homeowners trust."
+        "title": "Specialized Expertise",
+        "description": "Our experience with period properties ensures seamless restoration and matching for heritage homes."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our tailored construction services designed to transform your vision into reality.",
+    "description": "We offer full-service residential construction tailored to your needs.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Extensions",
-        "description": "We design and build tailor-made extensions, maximizing space and value for your home."
+        "title": "Residential Extensions",
+        "description": "Expand your living space with bespoke extensions built to blend seamlessly with your home."
       },
       {
         "icon": "🏠",
-        "title": "Renovations",
-        "description": "Transform your property with full house renovations that combine style and functionality."
+        "title": "New Home Builds",
+        "description": "We design and construct new homes with attention to detail and your vision in mind."
       },
       {
-        "icon": "🛠",
-        "title": "Design & Build",
-        "description": "From planning to completion, we deliver custom builds tailored to your requirements."
+        "icon": "⚒️",
+        "title": "Period Property Match",
+        "description": "Restore and match heritage features with our expert craftsmanship and materials."
       }
     ]
   },
   "story": {
     "eyebrow": "Our journey",
-    "title": "Exceptional homes, built with care",
+    "title": "Building trust, one home at a time",
     "paragraphs": [
-      "Founded by Chris Collyer, our mission is to provide homeowners with high-quality, bespoke construction solutions. We specialize in crafting extensions, renovations, and new builds tailored to your needs.",
-      "Our reputation is built on trust, precision, and outstanding results. With a consultative approach, we ensure each project is delivered on time and on budget, exceeding client expectations."
+      "Collyer Construction Ltd has been creating bespoke homes for over 20 years, serving Hampshire and surrounding areas. We are committed to quality and reliability in every project.",
+      "Our skilled team specializes in extensions, renovations, and new builds, offering transparent processes and expert solutions tailored to every client's needs."
     ],
     "image": "https://images.unsplash.com/photo-1665069181618-5618c9b621ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxSZXNpZGVudGlhbCUyMGNvbnN0cnVjdGlvbiUyMCUyRiUyMGJ1aWxkZXJzJTIwcHJvZmVzc2lvbmFsJTIwdGVhbSUyMGF0JTIwd29ya3xlbnwwfHx8fDE3NjI0MzQzMzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "testimonials": {
     "eyebrow": "What clients say",
-    "title": "Trusted by homeowners",
+    "title": "Building dreams together",
     "list": [
       {
-        "quote": "Collyer Construction transformed our home with a stunning extension. Their professionalism and attention to detail were unmatched.",
-        "name": "Sarah T.",
+        "quote": "Collyer Construction delivered my extension on time and within budget. Their craftsmanship is second to none.",
+        "name": "Rebecca H.",
         "role": "Homeowner",
         "avatar": "https://images.unsplash.com/photo-1566821594226-cdc9cb42a4c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxSZXNpZGVudGlhbCUyMGNvbnN0cnVjdGlvbiUyMCUyRiUyMGJ1aWxkZXJzJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0MzQzMzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
       },
       {
-        "quote": "The renovation was seamless and delivered on time. Chris and his team kept us informed every step of the way.",
-        "name": "James P.",
-        "role": "Private Developer",
+        "quote": "Their team made restoring my period property stress-free. Every detail was handled beautifully.",
+        "name": "James T.",
+        "role": "Developer",
         "avatar": "https://images.unsplash.com/photo-1631171992385-784ae02b1acb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwyfHxSZXNpZGVudGlhbCUyMGNvbnN0cnVjdGlvbiUyMCUyRiUyMGJ1aWxkZXJzJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0MzQzMzV8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Discover us locally",
-    "title": "Proudly serving Hampshire",
-    "description": "We transform homes across Fleet, Ascot, Farnham, and Reading. Local expertise you can rely on.",
+    "eyebrow": "Visit us",
+    "title": "Explore our projects",
+    "description": "We proudly serve Hampshire and nearby areas. Discover our work and meet the team behind it.",
     "address": "Hampshire, UK",
     "website": "www.collyerconstructionltd.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started today",
-    "title": "Request your consultation",
-    "description": "Contact us to discuss your project and receive a tailored quote for your dream build.",
-    "consent": "Your data is safe with us."
+    "eyebrow": "Get started",
+    "title": "Let’s discuss your project",
+    "description": "Contact us today to schedule a consultation or request a quote for your dream build.",
+    "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamlining your build process",
-    "description": "Modern automation tools enhance efficiency and transparency for each project.",
+    "title": "Streamline your projects",
+    "description": "Leverage automation to enhance client communication and project management.",
     "bullets": [
-      "Online quotes simplify planning and budgeting.",
-      "Client portals provide updates and milestones.",
-      "Automated invoicing ensures hassle-free payments."
+      "Online quotes simplify the planning process.",
+      "Client portals keep updates accessible anytime.",
+      "Automated invoicing ensures seamless transactions."
     ],
     "offer": "Mention Collyer Constructio for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
