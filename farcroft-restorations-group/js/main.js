@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Farcroft Group",
-    "tagline": "Restoring heritage, preserving",
-    "category": "Heritage Restoration",
-    "location": "United Kingdom",
+    "tagline": "Restoring history, beautifully",
+    "category": "Heritage restoration",
+    "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Expert restoration services",
-    "title": "Preserving history with precision.",
-    "description": "We offer full-service restoration, solving challenges in managing complex heritage projects and expert conservation needs.",
+    "eyebrow": "Expert heritage restoration",
+    "title": "Preserving treasures with precision.",
+    "description": "We combine craftsmanship and expertise to restore historic buildings and contents, ensuring lasting preservation and peace of mind.",
     "highlights": [
       {
-        "label": "Years of Experience",
-        "value": "25+"
+        "label": "Years of Expertise",
+        "value": "40+"
       },
       {
         "label": "Projects Completed",
-        "value": "500+"
+        "value": "1,500+"
       },
       {
         "label": "Client Satisfaction",
-        "value": "99%"
+        "value": "98%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Specialist Expertise",
-        "description": "Our craftsmen are highly skilled in heritage techniques for lasting results."
+        "title": "Craftsmanship Excellence",
+        "description": "Our specialists use traditional techniques to ensure authentic restoration results."
       },
       {
-        "title": "Tailored Solutions",
-        "description": "We customize every project to meet your unique restoration needs."
+        "title": "Complete Solutions",
+        "description": "We manage every aspect, from buildings to fine art conservation, seamlessly."
       },
       {
-        "title": "End-to-End Service",
-        "description": "From planning to completion, we manage every detail seamlessly."
+        "title": "Proven Track Record",
+        "description": "Decades of experience restoring iconic properties and collections worldwide."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Farcroft Group offers specialized restoration services for historic buildings and treasured possessions.",
+    "description": "We provide comprehensive restoration and conservation services tailored to your needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Building Restoration",
-        "description": "Expert stonemasonry, plastering, and woodworking for heritage buildings."
+        "description": "Expert stonemasonry, plastering, and woodworking for heritage structures."
       },
       {
         "icon": "🖼",
-        "title": "Contents Conservation",
-        "description": "Careful conservation of fine art, furnishings, and collectibles."
+        "title": "Art Conservation",
+        "description": "Preserve paintings, sculptures, and fine art with meticulous care."
       },
       {
-        "icon": "📋",
-        "title": "Project Management",
-        "description": "Seamless oversight for complex restoration and conservation work."
+        "icon": "🛋",
+        "title": "Furnishings Restorati",
+        "description": "Restore antiques and collectables to their original beauty."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our story",
-    "title": "A family legacy in restoration.",
+    "eyebrow": "Our journey",
+    "title": "Dedication to preservation",
     "paragraphs": [
-      "Farcroft Group is a family-run business with 25+ years preserving historic architecture and valuables. We take pride in our craft and your heritage.",
-      "Our tailored approach ensures every detail is managed, providing seamless solutions for complex restoration challenges."
+      "Farcroft Group, a family business, offers unmatched restoration and conservation services. We specialize in preserving history with skill and care.",
+      "Our tailored approach ensures efficient project management and authentic results. We’re trusted by owners, museums, and collectors worldwide."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Trusted by heritage stewards.",
+    "eyebrow": "Client stories",
+    "title": "What our clients say",
     "list": [
       {
-        "quote": "Farcroft's attention to detail brought our historic home back to life. Truly exceptional service.",
-        "name": "John M.",
-        "role": "Historic Homeowner",
-        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
+        "quote": "Farcroft restored our historic home flawlessly. Their attention to detail was exceptional.",
+        "name": "Jane Whitmore",
+        "role": "Historic Property Owner",
+        "avatar": "https://images.pexels.com/photos/22937489/pexels-photo-22937489.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their expertise in conserving fine art saved priceless pieces for our gallery.",
-        "name": "Samantha H.",
-        "role": "Gallery Curator",
+        "quote": "The art conservation team preserved priceless pieces for our gallery. Impressive work!",
+        "name": "David Langley",
+        "role": "Museum Curator",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit us",
-    "title": "Discover our craftsmanship.",
-    "description": "Located in the UK, we bring heritage sites and treasures back to their full glory.",
+    "title": "Explore our expertise",
+    "description": "Contact us to discuss your restoration needs. We’re passionate about preserving history.",
     "address": "",
-    "website": "www.farcroftuk.com",
+    "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started today",
-    "title": "Let us preserve your heritage.",
-    "description": "Contact us to discuss your restoration needs or book a consultation.",
-    "consent": "We respect your privacy."
+    "eyebrow": "Get started",
+    "title": "Request a consultation",
+    "description": "Contact us today to begin your restoration project. Let’s preserve your legacy.",
+    "consent": "We respect your privacy and data."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline heritage restoration.",
-    "description": "Automate processes to save time and ensure precision in restoration projects.",
+    "title": "Streamline restoration management",
+    "description": "Leverage AI tools to enhance efficiency and client experience.",
     "bullets": [
-      "Automated project intake for faster approvals.",
-      "Client portals for real-time updates and documentation.",
-      "CRM tools for efficient lead management."
+      "Automated project intake and quoting for faster estimates.",
+      "Client portal for updates and conservation records.",
+      "Optimized scheduling for seamless multi-trade projects."
     ],
     "offer": "Mention Farcroft Group for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
