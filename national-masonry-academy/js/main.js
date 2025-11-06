@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "National Masonry",
-    "tagline": "Building skills that last",
-    "category": "Vocational Training",
-    "location": "United Kingdom",
+    "tagline": "Building skills for success",
+    "category": "Vocational training",
+    "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Recognised certifications",
-    "title": "Master masonry with ease and clarity.",
-    "description": "Upskill with CITB-accredited courses, NVQs, and apprenticeships online or on-site. Manage enrollment and certifications effortlessly.",
+    "eyebrow": "CITB-accredited courses",
+    "title": "Master masonry with expert guidance.",
+    "description": "Learn online or on-site with NVQs and certifications tailored to your goals. Designed for aspiring and experienced masons.",
     "highlights": [
       {
-        "label": "NVQs Issued",
+        "label": "Courses Completed",
         "value": "5,000+"
       },
       {
-        "label": "Courses Completed",
-        "value": "10,000+"
+        "label": "Certifications Issued",
+        "value": "2,800+"
       },
       {
-        "label": "Student Satisfaction",
-        "value": "98%"
+        "label": "Apprentices Supported",
+        "value": "1,200+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Accreditation",
-        "description": "CITB-accredited training ensures industry-recognized certifications for all learners."
+        "title": "Recognised Certification",
+        "description": "Earn CITB-accredited NVQs trusted across the construction industry."
       },
       {
-        "title": "Flexible Learning",
-        "description": "Choose online or on-site courses tailored to your schedule and career goals."
+        "title": "Flexible Learning Options",
+        "description": "Choose online courses or hands-on training to fit your schedule."
       },
       {
-        "title": "Proven Results",
-        "description": "Thousands of successful graduates with high satisfaction rates across the UK."
+        "title": "Expert-Led Training",
+        "description": "Learn from seasoned professionals with years of industry experience."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "National Masonry Academy offers accredited training for all levels. Build your career with top-tier courses and certifications.",
+    "description": "We provide practical training to elevate masonry skills for all levels.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Beginner Masonry",
-        "description": "Learn foundational skills in masonry with hands-on and theoretical training."
+        "title": "NVQ Assessments",
+        "description": "Achieve your NVQ certification with efficient, guided assessments."
       },
       {
         "icon": "💻",
         "title": "E-learning Courses",
-        "description": "Access flexible online training for CITB-accredited masonry certifications."
+        "description": "Access engaging online courses anytime, anywhere."
       },
       {
-        "icon": "⚒️",
+        "icon": "🛠",
         "title": "Apprenticeship Progra",
-        "description": "Join structured programs to master masonry and build your career path."
+        "description": "Gain real-world experience through structured apprenticeship training."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Legacy",
-    "title": "Crafting futures since day one.",
+    "eyebrow": "Our Journey",
+    "title": "Crafting a skilled workforce.",
     "paragraphs": [
-      "National Masonry Academy offers UK-wide training with expert-led courses and NVQs. We empower individuals to build lasting careers in construction.",
-      "Our CITB-accredited programs and advanced e-learning systems make us the leading choice for masonry training. We focus on practical skills and real results."
+      "National Masonry Academy was founded to address the growing need for qualified professionals in the UK. We deliver trusted masonry training and certifications.",
+      "Our expert-led courses, flexible options, and CITB accreditation ensure every student gains practical skills and industry recognition."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Student Success",
-    "title": "Trusted by learners nationwide",
+    "eyebrow": "What Students Say",
+    "title": "Proven impact, happy learners.",
     "list": [
       {
-        "quote": "The Academy made booking and certification simple. I gained my NVQ with ease!",
-        "name": "James Porter",
+        "quote": "The online NVQ course was efficient and easy to follow. I earned my certification quickly!",
+        "name": "James Carter",
         "role": "Aspiring Mason",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their apprenticeship program transformed my career. Highly recommend!",
-        "name": "Sarah Clarke",
-        "role": "Apprentice Graduate",
+        "quote": "Their apprenticeship programme gave me hands-on experience and boosted my career.",
+        "name": "Sarah Mitchell",
+        "role": "Apprentice",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Explore Training",
-    "title": "Find your course today",
-    "description": "Join the UK's leading masonry academy. Learn online or on-site for recognised certifications.",
+    "eyebrow": "Find Us",
+    "title": "Your training starts here.",
+    "description": "Whether online or on-site, National Masonry Academy is your pathway to success.",
     "address": "",
     "website": "www.nationalmasonry.academy",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get Started",
-    "title": "Apply or inquire now",
-    "description": "Contact us to enroll in courses or learn more about certifications. Build your future today.",
-    "consent": "We respect your privacy."
+    "title": "Enroll today!",
+    "description": "Contact us for course details and start building your career.",
+    "consent": "We respect your privacy. No spam."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automation for Better Learning",
-    "description": "Streamline enrollment and certification with AI-driven tools tailored for vocational training.",
+    "title": "Streamline your academy.",
+    "description": "Automation empowers National Masonry Academy to enhance operations and student success.",
     "bullets": [
-      "Automated course bookings and reminders.",
-      "Track student progress with integrated systems.",
-      "Effortless certification issuance and updates."
+      "Automate course booking and payment confirmations.",
+      "Track student progress and certifications seamlessly.",
+      "Boost engagement with targeted email campaigns."
     ],
     "offer": "Mention National Masonry for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
