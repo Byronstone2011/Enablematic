@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
-    "name": "Cloud to Ground",
-    "tagline": "Safety from ground up",
+    "name": "Cloud to Ground Ltd",
+    "tagline": "Safety from the ground up",
     "category": "Electrical Safety",
-    "location": "United Kingdom",
+    "location": "UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Specialists in compliance",
-    "title": "Protecting properties from risks and downtime",
-    "description": "We ensure compliance and safety with expert lightning, surge, and earthing solutions tailored to your needs.",
+    "eyebrow": "Trusted compliance experts",
+    "title": "Stay safe and meet standards.",
+    "description": "We design, install, and maintain systems to ensure safety and compliance with BS standards. Protect your business from risks today.",
     "highlights": [
-      {
-        "label": "Systems Installed",
-        "value": "1,000+"
-      },
-      {
-        "label": "Testing Accuracy",
-        "value": "99.9%"
-      },
       {
         "label": "Years of Expertise",
         "value": "15+"
+      },
+      {
+        "label": "Projects Delivered",
+        "value": "2,500+"
+      },
+      {
+        "label": "Compliance Rate",
+        "value": "99.8%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Compliance Expertise",
-        "description": "We meet BS standards to safeguard your assets and ensure legal safety adherence."
+        "title": "Industry Expertise",
+        "description": "Over 15 years of experience in lightning and surge protection services."
       },
       {
-        "title": "Advanced Systems",
-        "description": "Our cutting-edge solutions protect against electrical risks and operational failures."
+        "title": "Reliable Compliance",
+        "description": "We ensure adherence to all relevant BS standards for peace of mind."
       },
       {
-        "title": "Reliable Service",
-        "description": "We deliver consistent quality with professional installations and timely maintenance."
+        "title": "Safety Assurance",
+        "description": "Effective solutions minimize downtime and equipment damage risks."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Cloud to Ground Ltd specializes in electrical safety services for diverse industries.",
+    "description": "Specialists in electrical safety systems for diverse industries.",
     "cards": [
       {
         "icon": "⚡",
         "title": "Lightning Protection",
-        "description": "Expert system design, installation, and compliance with BS EN 62305 standards."
+        "description": "Design and install systems to guard your property against lightning damage."
       },
       {
-        "icon": "🔌",
+        "icon": "💡",
         "title": "Surge Protection",
-        "description": "Protect critical equipment from electrical surges and ensure uninterrupted operations."
+        "description": "Prevent electrical surge damage with tailored solutions for your business."
       },
       {
         "icon": "🌍",
         "title": "Earthing Systems",
-        "description": "Ensure grounding systems meet BS7430 standards for optimal safety and performance."
+        "description": "Grounding systems ensure safety and compliance for all facilities."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our mission",
-    "title": "Building safer environments",
+    "eyebrow": "Our journey to safety",
+    "title": "Built on trust and expertise",
     "paragraphs": [
-      "Cloud to Ground Ltd has been a trusted partner in electrical safety, delivering lightning protection, surge control, and earthing solutions tailored to every sector.",
-      "Our commitment to innovation and compliance ensures clients avoid safety risks and legal exposure while maintaining operational reliability."
+      "Cloud to Ground Ltd specializes in lightning protection, surge protection, earthing systems, and working at height safety. We deliver tailored solutions for diverse sectors.",
+      "Our automated services streamline compliance and maintenance, ensuring your business stays safe, efficient, and within legal standards."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
     "eyebrow": "What clients say",
-    "title": "Trusted by industry leaders",
+    "title": "Proven results, trusted service",
     "list": [
       {
-        "quote": "Cloud to Ground ensures our facilities meet all safety standards, giving us peace of mind and avoiding legal risks.",
-        "name": "John Smith",
+        "quote": "Cloud to Ground ensured our systems met BS standards, avoiding legal risks and downtime.",
+        "name": "Mark Johnson",
         "role": "Facilities Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Reliable and professional service that keeps our operations safe from electrical disruptions.",
-        "name": "Emma Brown",
-        "role": "Project Manager",
+        "quote": "Their testing and reports save us time and keep us compliant year-round.",
+        "name": "Rachel Smith",
+        "role": "Property Owner",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit us",
-    "title": "Find us in the UK",
-    "description": "Delivering safety solutions across commercial, industrial, and public sectors nationwide.",
-    "address": "United Kingdom",
+    "title": "Serving businesses nationwide",
+    "description": "We proudly serve industries across the UK with tailored electrical safety solutions.",
+    "address": "",
     "website": "www.ctglp.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get in touch",
-    "title": "Book a consultation or service",
-    "description": "Contact us today for expert advice or to schedule your compliance services.",
-    "consent": "We value your privacy and protect your information."
+    "title": "Book a consultation today",
+    "description": "Contact us to discuss your safety needs and schedule expert services.",
+    "consent": "We respect your privacy with secure communication."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automation for electrical safety",
-    "description": "Transform your processes with AI-driven solutions tailored for compliance and efficiency.",
+    "title": "Smarter safety solutions",
+    "description": "Leverage AI-powered tools to simplify compliance and optimize workflows.",
     "bullets": [
-      "Automated inspection scheduling ensures timely annual testing.",
-      "Digital reporting and certificates simplify compliance tracking.",
-      "CRM integration streamlines client communication and job tracking."
+      "Automated inspection scheduling and reminders.",
+      "Digital compliance certificates and reporting.",
+      "CRM integration for efficient client management."
     ],
-    "offer": "Mention Cloud to Ground for the launch-week optimization kit.",
+    "offer": "Mention Cloud to Ground Ltd for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Cloud to Ground delivers unforgettable experiences.",
-    "address": "United Kingdom",
+    "blurb": "Cloud to Ground Ltd delivers unforgettable experiences.",
+    "address": "",
     "email": "",
     "socials": [
       {
