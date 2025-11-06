@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Maxx Shoring BV",
-    "tagline": "Supplying Steel is our Strength",
+    "tagline": "Supplying Steel is Strength",
     "category": "Construction Equipment",
-    "location": "Global Service",
-    "phone": ""
+    "location": "Location Unknown",
+    "phone": "Contact via email"
   },
   "hero": {
-    "eyebrow": "Reliable Shoring Solutions",
-    "title": "Optimized shoring that ensures safety and compliance.",
-    "description": "We provide top-quality shoring equipment hire, sales, and custom designs to keep your projects safe and efficient.",
+    "eyebrow": "Reliable shoring solutions",
+    "title": "Expert Groundwork Equipment Hire & Sales",
+    "description": "Maxx Shoring provides compliant designs, fast delivery, and reliable equipment for all your shoring needs.",
     "highlights": [
       {
-        "label": "Years of Expertise",
-        "value": "20+"
-      },
-      {
         "label": "Projects Supported",
-        "value": "5,000+"
+        "value": "1,000+"
       },
       {
-        "label": "Safety Compliance",
+        "label": "Design Accuracy",
         "value": "99%"
+      },
+      {
+        "label": "Delivery Speed",
+        "value": "24 hrs"
       }
     ],
     "image": "https://images.unsplash.com/photo-1670446311074-0e1778567e28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMkYlMjBHcm91bmR3b3JrcyUyMCUyRiUyMFNob3JpbmclMjBFcXVpcG1lbnQlMjBIaXJlJTIwJTI2JTIwU2FsZXMlMjAlNUIlMjJTaG9yaW5nJTIwZXF1aXBtZW50JTIwaGlyZSUyMiUyQyUyMlNob3JpbmclMjBlcXVpcG1lbnQlMjBzYWxlcyUyMiUyQyUyMlNpdGUtc3BlY2lmaWMlMjBzaG9yaW5nJTIwZGVzaWduJTIwc2VydmljZSUyMGJ5JTIwZmllbGQlMjBlbmdpbmVlcnMlMjIlMkMlMjJEZWxpdmVyeSUyMGFuZCUyMGxvZ2lzdGljcyUyMiU1RHxlbnwwfHx8fDE3NjI0MzQzNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Complete Equipment Range",
-        "description": "We offer a full selection of shoring solutions for all project needs."
+        "title": "Complete Range",
+        "description": "Offering a full selection of shoring equipment for hire and sale."
       },
       {
-        "title": "Expert Design Services",
-        "description": "Field engineers ensure site-specific, compliant designs every time."
+        "title": "Design Expertise",
+        "description": "Field engineers deliver compliant, site-specific designs."
       },
       {
-        "title": "Fast Equipment Delivery",
-        "description": "We prioritize rapid logistics to keep your projects on schedule."
+        "title": "Rapid Logistics",
+        "description": "Ensuring fast delivery to keep your projects on track."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Maxx Shoring BV specializes in dependable shoring solutions for hire and sale, tailored to your project needs.",
+    "description": "Maxx Shoring delivers shoring equipment and design solutions tailored to your project needs.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Equipment Hire",
-        "description": "Rent high-quality shoring equipment with flexible terms and fast delivery."
+        "title": "Shoring Equipment Hire",
+        "description": "Reliable steel shoring equipment available for hire quickly and affordably."
+      },
+      {
+        "icon": "💼",
+        "title": "Shoring Equipment Sales",
+        "description": "Purchase high-quality shoring equipment built to last for your projects."
       },
       {
         "icon": "🛠",
-        "title": "Equipment Sales",
-        "description": "Purchase durable shoring solutions designed for long-term use."
-      },
-      {
-        "icon": "📐",
         "title": "Design Services",
-        "description": "Customized, compliant shoring designs from our experienced engineers."
+        "description": "Field engineers provide compliant, project-specific shoring designs."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Commitment",
-    "title": "Maxx Shoring BV: Built on Strength.",
+    "eyebrow": "Our foundation",
+    "title": "Building trust through steel solutions",
     "paragraphs": [
-      "At Maxx Shoring, steel is our foundation and strength is our promise. We provide shoring solutions backed by expert engineering and reliable service.",
-      "Our dedication to safety, efficiency, and rapid delivery makes us the trusted choice for contractors and engineers worldwide."
+      "Maxx Shoring BV specializes in shoring equipment hire and sales, supported by expert design services from field engineers. Supplying steel is our strength.",
+      "We empower contractors and engineers with tailored solutions and rapid delivery. Our commitment drives safety and efficiency for every project."
     ],
     "image": "https://images.unsplash.com/photo-1717011816262-43f73756cf81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMkYlMjBHcm91bmR3b3JrcyUyMCUyRiUyMFNob3JpbmclMjBFcXVpcG1lbnQlMjBIaXJlJTIwJTI2JTIwU2FsZXMlMjBwcm9mZXNzaW9uYWwlMjB0ZWFtJTIwYXQlMjB3b3JrfGVufDB8fHx8MTc2MjQzNDM0Nnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Trusted by Industry Experts",
+    "eyebrow": "What clients say",
+    "title": "Customer feedback",
     "list": [
       {
-        "quote": "Maxx Shoring’s designs are always compliant and tailored perfectly to our sites. Highly professional service!",
-        "name": "John Simmons",
-        "role": "Site Manager",
+        "quote": "Maxx Shoring's designs ensured safety and compliance on-site. Their quick delivery saved us time.",
+        "name": "Alex Johnson",
+        "role": "Civil Engineer",
         "avatar": "https://images.unsplash.com/photo-1622822459199-3fb4fddfe324?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMkYlMjBHcm91bmR3b3JrcyUyMCUyRiUyMFNob3JpbmclMjBFcXVpcG1lbnQlMjBIaXJlJTIwJTI2JTIwU2FsZXMlMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjQzNDM0Nnww&ixlib=rb-4.1.0&q=80&w=1080"
       },
       {
-        "quote": "Their delivery speed saved us time and kept our project on track. Exceptional reliability!",
-        "name": "Sarah Thompson",
-        "role": "Civil Engineer",
+        "quote": "Reliable equipment and expert support made our groundwork seamless. Highly recommend them!",
+        "name": "Samantha Lee",
+        "role": "Site Manager",
         "avatar": "https://images.unsplash.com/photo-1566821594226-cdc9cb42a4c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwyfHxDb25zdHJ1Y3Rpb24lMjAlMkYlMjBHcm91bmR3b3JrcyUyMCUyRiUyMFNob3JpbmclMjBFcXVpcG1lbnQlMjBIaXJlJTIwJTI2JTIwU2FsZXMlMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjQzNDM0Nnww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Global Reach",
-    "title": "Serving Contractors Worldwide",
-    "description": "We deliver solutions wherever your project is located, ensuring convenience and efficiency.",
-    "address": "Contact us for service locations.",
+    "eyebrow": "Connect with us",
+    "title": "Your shoring partner",
+    "description": "Maxx Shoring supports projects across regions. Contact us for tailored solutions.",
+    "address": "Location Unknown",
     "website": "www.maxxshoring.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Request Your Shoring Solution",
-    "description": "Contact us today for equipment hire, sales, or design consultations tailored to your needs.",
-    "consent": "We value your privacy and will use your info responsibly."
+    "eyebrow": "Get started today",
+    "title": "Request a quote",
+    "description": "Contact us for equipment hire, sales, or design consultations. We're here to help.",
+    "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Your Shoring Needs",
-    "description": "AI-driven tools simplify equipment management and booking processes.",
+    "title": "Streamline with AI",
+    "description": "Automation enhances efficiency and simplifies operations.",
     "bullets": [
-      "Real-time inventory tracking for faster decisions.",
-      "Instant quotes tailored to your project requirements.",
-      "Automated delivery scheduling for optimal logistics."
+      "Online bookings for shoring equipment hire.",
+      "Real-time inventory and delivery optimization.",
+      "Automated quoting and CRM follow-ups."
     ],
     "offer": "Mention Maxx Shoring BV for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Maxx Shoring BV delivers unforgettable experiences.",
-    "address": "Contact us for service locations.",
+    "address": "Location Unknown",
     "email": "",
     "socials": [
       {
