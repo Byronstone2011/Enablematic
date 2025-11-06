@@ -1,120 +1,120 @@
 const appData = {
   "brand": {
     "name": "Metra Surveying",
-    "tagline": "Precision built into every project",
+    "tagline": "Accuracy. Speed. Results.",
     "category": "Construction Surveying",
-    "location": "UK-based services",
+    "location": "Global Services",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Accurate, fast surveying",
-    "title": "Eliminating delays with precise data",
-    "description": "We deliver fast, accurate surveys to prevent rework, delays, and costly errors. Get reliable site data and seamless coordination today.",
+    "eyebrow": "Precision you can trust",
+    "title": "Avoid delays with fast, accurate surveys.",
+    "description": "We provide high-quality 3D laser surveys, monitoring, and setting out to keep projects on track and error-free.",
     "highlights": [
       {
-        "label": "Years of Expertise",
-        "value": "10+"
-      },
-      {
-        "label": "Projects Completed",
-        "value": "1,000+"
+        "label": "Surveys Completed",
+        "value": "1,200+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
+      },
+      {
+        "label": "Years of Expertise",
+        "value": "10+"
       }
     ],
-    "image": "https://images.pexels.com/photos/19783674/pexels-photo-19783674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Unmatched Accuracy",
-        "description": "Our 3D laser surveys ensure precision, reducing costly errors and delays."
+        "title": "Advanced Technology",
+        "description": "We utilize cutting-edge laser scanning and GPS tools for unmatched accuracy."
       },
       {
-        "title": "Fast Turnaround",
-        "description": "We deliver results quickly, keeping your projects on schedule every time."
+        "title": "Quick Turnaround",
+        "description": "Fast delivery ensures your project stays on schedule without delays."
       },
       {
-        "title": "Comprehensive Solutions",
-        "description": "From setting out to monitoring, we offer end-to-end surveying services."
+        "title": "Reliable Results",
+        "description": "Our surveys eliminate guesswork, minimizing costly rework and errors."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Our services empower contractors, developers, and engineers with precision.",
+    "description": "Our services ensure precision across all stages of construction projects.",
     "cards": [
       {
-        "icon": "🏗",
-        "title": "Setting Out Services",
-        "description": "Accurate gridlines, levels, and datums for concrete, steel, and glazing projects."
-      },
-      {
         "icon": "📐",
-        "title": "Laser Scanning",
-        "description": "Leica HDS scans for point cloud capture and precise 3D models."
+        "title": "Setting-Out",
+        "description": "Accurate site gridlines and level datums for concrete, cladding, and steelwork."
       },
       {
-        "icon": "🌍",
+        "icon": "📊",
+        "title": "Monitoring Services",
+        "description": "Automated tracking for structural changes, vibration, and settlement alerts."
+      },
+      {
+        "icon": "🗺",
         "title": "Topographic Surveys",
-        "description": "Detailed land and urban surveys with underground utility detection."
+        "description": "Detailed land and urban surveys for informed project planning."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Story",
-    "title": "Delivering precision for over a decade",
+    "eyebrow": "Our journey",
+    "title": "Driven by precision and innovation",
     "paragraphs": [
-      "Metra Surveying Ltd specializes in high-quality surveying services like 3D laser scanning and monitoring. We help construction teams achieve accuracy and efficiency.",
-      "Our automation-driven workflows and client portals simplify complex deliverables, ensuring timely, reliable data for better project management."
+      "Metra Surveying Ltd specializes in delivering high-quality surveying solutions tailored to construction challenges. From 3D laser scanning to monitoring, we bring accuracy and efficiency to every project.",
+      "Our advanced workflows and automation tools ensure seamless delivery, empowering clients with precise data and real-time insights to drive smarter decisions."
     ],
-    "image": "https://images.pexels.com/photos/8961160/pexels-photo-8961160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
+    "eyebrow": "What clients say",
     "title": "Trusted by industry leaders",
     "list": [
       {
-        "quote": "Metra Surveying saved us time and prevented costly rework with their precise setting out services.",
-        "name": "John Henderson",
+        "quote": "Metra's surveys saved us weeks of rework and kept our project on schedule.",
+        "name": "James Porter",
         "role": "Project Manager",
-        "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their quick laser scanning and accurate models kept our build on track and on budget.",
-        "name": "Sarah Lewis",
-        "role": "Architect",
-        "avatar": "https://images.unsplash.com/photo-1682063631532-b865521538fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMkYlMjBFbmdpbmVlcmluZyUyMFN1cnZleWluZyUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNDM0MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080"
+        "quote": "Their monitoring alerts helped us prevent costly structural issues.",
+        "name": "Sarah Collins",
+        "role": "Civil Engineer",
+        "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Where We Work",
-    "title": "UK-wide surveying solutions",
-    "description": "Metra Surveying serves construction sites across the UK, ensuring precise results wherever needed.",
+    "eyebrow": "Where we work",
+    "title": "Global reach, local expertise",
+    "description": "We provide surveying services to construction sites worldwide, ensuring precise and timely results.",
     "address": "",
     "website": "www.metrasurveying.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Request a survey consultation",
-    "description": "Contact us to discuss your project needs. We'll provide tailored solutions fast.",
-    "consent": "We respect your privacy and never share your information."
+    "eyebrow": "Get started today",
+    "title": "Request a consultation",
+    "description": "Contact us for accurate surveys tailored to your project needs.",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your surveys with AI",
-    "description": "Our automation tools save time and ensure precise delivery every step of the way.",
+    "title": "Streamlining precision",
+    "description": "Leverage AI and automation for faster, smarter surveying results.",
     "bullets": [
-      "Instant quotes and CRM lead capture simplify onboarding.",
-      "Client portals provide secure access to models and site data.",
-      "Automated dashboards and alerts ensure real-time progress updates."
+      "Automated processing from scans to deliverables.",
+      "Real-time monitoring dashboards with alerts.",
+      "Effortless scheduling for crews and equipment."
     ],
     "offer": "Mention Metra Surveying for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
