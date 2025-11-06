@@ -1,15 +1,15 @@
 const appData = {
   "brand": {
     "name": "FaÃ§ade & Cladding",
-    "tagline": "Innovative building envelopes",
-    "category": "Façade and Cladding Design",
+    "tagline": "Building envelopes perfected",
+    "category": "Façade & Cladding Design",
     "location": "UK-based services",
-    "phone": "Contact via email"
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Precision in design",
-    "title": "Transforming façade projects with expertise",
-    "description": "We design, supply, and install façades and cladding, ensuring innovative solutions for architects and developers.",
+    "eyebrow": "Innovative design solutions",
+    "title": "Transform your building's exterior.",
+    "description": "We deliver expert façade and cladding design, supply, and installation, ensuring quality and modern aesthetics for every project.",
     "highlights": [
       {
         "label": "Projects Completed",
@@ -17,11 +17,11 @@ const appData = {
       },
       {
         "label": "Client Satisfaction",
-        "value": "99%"
+        "value": "98%"
       },
       {
-        "label": "Years of Experience",
-        "value": "15+"
+        "label": "Years of Expertise",
+        "value": "10+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Coordination",
-        "description": "We streamline façade projects with precise design coordination for seamless results."
+        "title": "Precision Design",
+        "description": "We ensure every façade is tailored to functional and aesthetic needs."
       },
       {
-        "title": "Trusted Solutions",
-        "description": "Our proven methods and quality materials deliver enduring building envelopes."
+        "title": "Expert Installation",
+        "description": "Our skilled team delivers seamless, durable installations."
       },
       {
-        "title": "Tailored Designs",
-        "description": "We craft custom solutions for unique architectural visions and needs."
+        "title": "Trusted Results",
+        "description": "With proven success, we guarantee satisfaction every time."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive façade and cladding services for building excellence.",
+    "description": "Comprehensive façade and cladding services tailored to your project.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Design & Installation",
-        "description": "Complete solutions for façade and cladding design, supply, and installation."
+        "title": "Design & Install",
+        "description": "Complete façade and cladding design, supply, and installation services."
       },
       {
-        "icon": "💼",
-        "title": "Design Services",
-        "description": "Specialist design and coordination tailored to your project requirements."
+        "icon": "✏️",
+        "title": "Design-Only",
+        "description": "Expert façade design and coordination tailored to your needs."
       },
       {
-        "icon": "🛠",
-        "title": "Project Coordination",
-        "description": "Expert management for smooth delivery of façade projects."
+        "icon": "📋",
+        "title": "Project Services",
+        "description": "Comprehensive coordination for smooth façade project delivery."
       }
     ]
   },
   "story": {
     "eyebrow": "Our journey",
-    "title": "Building innovative façades",
+    "title": "Innovating façades for modern buildings.",
     "paragraphs": [
-      "FaÃ§ade & Cladding Design Ltd is dedicated to transforming architectural visions into reality. We specialize in innovative designs and seamless installations.",
-      "With a focus on automation and precision, we simplify complex projects. Our tailored solutions ensure efficiency and exceptional results for B2B clients."
+      "FaÃ§ade & Cladding Design Ltd specializes in creating stunning building envelopes. We combine design expertise with meticulous installation for lasting impact.",
+      "Our solutions drive better projects for developers, architects, and owners. With automation tools, we streamline processes and enhance results."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
     "eyebrow": "What clients say",
-    "title": "Client-focused results",
+    "title": "Real feedback from our partners.",
     "list": [
       {
-        "quote": "Their expertise in design coordination ensured our project ran smoothly and exceeded expectations.",
-        "name": "John Smith",
+        "quote": "Their attention to detail and flawless execution transformed our building exterior.",
+        "name": "James Carter",
         "role": "Architect",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "The team’s attention to detail and quality was unmatched. Highly recommend their services.",
-        "name": "Emma Brown",
+        "quote": "The team delivered on time and exceeded design expectations. Highly recommended!",
+        "name": "Sarah Thompson",
         "role": "Developer",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Connect with us",
-    "title": "Your trusted façade partner",
-    "description": "Serving clients across the UK, we deliver tailored solutions for diverse projects.",
-    "address": "UK-based services",
+    "eyebrow": "Visit us",
+    "title": "Explore our services in the UK.",
+    "description": "Our team supports projects nationwide, delivering quality and expertise.",
+    "address": "",
     "website": "www.fcdltd.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started today",
-    "title": "Request a quote now",
-    "description": "Contact us for expert advice and tailored project solutions.",
-    "consent": "We respect your privacy."
+    "eyebrow": "Start a project",
+    "title": "Let’s discuss your façade needs.",
+    "description": "Contact us for consultations or quotes. We’re here to help.",
+    "consent": "I agree to be contacted."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Enhancing efficiency",
-    "description": "AI and automation streamline our services for faster results.",
+    "title": "Streamline your projects",
+    "description": "Leverage AI-powered tools for efficient façade workflows.",
     "bullets": [
-      "Automated quote forms simplify inquiries.",
-      "Proposal generation saves time and boosts accuracy.",
-      "Follow-up workflows ensure seamless communication."
+      "Automated quote forms capture leads instantly.",
+      "CRM integration simplifies client management.",
+      "Proposal generation saves time and boosts conversions."
     ],
     "offer": "Mention FaÃ§ade & Cladding for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "FaÃ§ade & Cladding delivers unforgettable experiences.",
-    "address": "UK-based services",
+    "address": "",
     "email": "",
     "socials": [
       {
