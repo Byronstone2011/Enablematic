@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "NorthPoint Fire",
-    "tagline": "Protecting Lives, Securing Futures",
-    "category": "Fire & Security Services",
-    "location": "North East, Yorksh",
+    "tagline": "Your safety, our priority",
+    "category": "Fire & Security",
+    "location": "North East, UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Reliable Fire & Security",
-    "title": "Compliance and safety, guaranteed.",
-    "description": "We design, install, and maintain advanced fire and security systems tailored to your needs. Stay protected 24/7 with expert solutions.",
+    "eyebrow": "Expert fire protection",
+    "title": "Stay compliant, secure, and protected.",
+    "description": "We design, install, and maintain fire and security systems, ensuring safety and compliance for your business.",
     "highlights": [
-      {
-        "label": "Inspections Completed",
-        "value": "2,500+"
-      },
-      {
-        "label": "Emergency Response Rate",
-        "value": "99%"
-      },
       {
         "label": "Years in Business",
         "value": "15+"
+      },
+      {
+        "label": "Systems Installed",
+        "value": "2,000+"
+      },
+      {
+        "label": "Emergency Response Rate",
+        "value": "98%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Engineering",
-        "description": "Our systems are designed by certified professionals for maximum safety and reliability."
+        "title": "Compliance Experts",
+        "description": "We ensure your systems meet UK fire safety standards and regulations."
       },
       {
-        "title": "24/7 Support",
-        "description": "We’re always ready with emergency services and cloud monitoring for peace of mind."
+        "title": "24/7 Reliability",
+        "description": "Count on emergency call-outs and fast maintenance whenever needed."
       },
       {
-        "title": "Tailored Solutions",
-        "description": "We customize fire and security systems to meet your unique compliance needs."
+        "title": "Cloud Monitoring",
+        "description": "Access remote diagnostics and analytics for real-time system oversight."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive fire and security services for businesses across the North East.",
+    "description": "Comprehensive fire and security solutions tailored for businesses.",
     "cards": [
       {
         "icon": "🔥",
         "title": "Fire Alarm Systems",
-        "description": "Design, install, and maintain fire alarms to ensure full compliance and safety."
+        "description": "Design, install, and maintain fire alarms to ensure workplace safety."
       },
       {
         "icon": "🛡",
         "title": "Security Systems",
-        "description": "Intruder alarms, access control, and intercom systems for secure premises."
+        "description": "Intruder alarms, CCTV, and access systems to protect your property."
       },
       {
-        "icon": "📹",
-        "title": "CCTV Analytics",
-        "description": "Advanced CCTV systems with analytics for smarter monitoring and protection."
+        "icon": "💻",
+        "title": "Cloud Monitoring",
+        "description": "Advanced tech for centralized monitoring and remote diagnostics."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "Built on Trust and Expertise",
+    "eyebrow": "Our journey",
+    "title": "Building trust in fire and security",
     "paragraphs": [
-      "NorthPoint Fire & Security has served businesses across the North East for over 15 years. We deliver top-tier fire and security systems tailored to your needs.",
-      "Our cloud-integrated solutions and 24/7 emergency services ensure compliance and protection every step of the way. Trust us for safety that lasts."
+      "NorthPoint Fire and Security has provided expert fire and security solutions for over 15 years. We serve businesses across the North East, Yorkshire, and North Lincolnshire.",
+      "Our cloud-enabled systems and fast-response services ensure compliance, safety, and peace of mind. We are your trusted safety partner."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Customer Feedback",
-    "title": "What Our Clients Say",
+    "eyebrow": "What clients say",
+    "title": "Trusted by businesses",
     "list": [
       {
-        "quote": "NorthPoint’s quick response kept our business compliant and protected. Highly recommend their services!",
-        "name": "Sarah J.",
+        "quote": "NorthPoint’s maintenance service keeps our systems compliant year-round. Their response time is unmatched.",
+        "name": "Jane Smith",
         "role": "Facilities Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their tailored system design made compliance simple and efficient. Fantastic support team!",
-        "name": "James T.",
-        "role": "Landlord",
+        "quote": "We upgraded to their cloud monitoring system, and it’s transformed our security management.",
+        "name": "John Doe",
+        "role": "Business Owner",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Serving Northern England",
-    "description": "We proudly serve the North East, Yorkshire, and North Lincolnshire. Contact us for expert fire and security solutions.",
+    "eyebrow": "Visit us",
+    "title": "Serving the North East",
+    "description": "We serve businesses across Yorkshire, North Lincolnshire, and the surrounding areas.",
     "address": "",
-    "website": "northpointfire.co.uk",
+    "website": "www.northpointfire.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Request a Consultation",
-    "description": "Contact us today for a free consultation or quote. Let’s secure your business together.",
-    "consent": "Your information is safe with us."
+    "eyebrow": "Get in touch",
+    "title": "Book a consultation",
+    "description": "Contact us today to discuss your fire and security needs or to schedule a free assessment.",
+    "consent": "We respect your privacy and data."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline Fire & Security",
-    "description": "Leverage automation to simplify compliance and monitoring.",
+    "title": "Streamline fire safety",
+    "description": "Automation tools simplify fire and security management.",
     "bullets": [
-      "Automated maintenance scheduling ensures systems stay compliant.",
-      "Cloud monitoring provides real-time alerts and diagnostics.",
-      "Online booking saves time and simplifies service coordination."
+      "Automated service reminders keep you compliant effortlessly.",
+      "Cloud monitoring provides instant system alerts and insights.",
+      "Online booking saves time for installations and maintenance."
     ],
     "offer": "Mention NorthPoint Fire for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
