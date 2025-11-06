@@ -1,23 +1,23 @@
 const appData = {
   "brand": {
     "name": "Hanover Building",
-    "tagline": "MEP Excellence Delivered",
-    "category": "MEP Contracting",
-    "location": "London & Home Coun",
+    "tagline": "MEP solutions that deliver",
+    "category": "MEP Contractor",
+    "location": "London, UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Award-winning service",
-    "title": "Seamless MEP integration for complex projects",
-    "description": "We specialize in coordinated MEP solutions, ensuring efficiency and quality for London developments.",
+    "eyebrow": "Award-winning contractor",
+    "title": "Integrated MEP services for complex projects",
+    "description": "We streamline mechanical, electrical, and plumbing systems for seamless construction and energy-efficient solutions.",
     "highlights": [
       {
-        "label": "Years of Expertise",
-        "value": "15+"
+        "label": "Years in Business",
+        "value": "10+"
       },
       {
         "label": "Projects Completed",
-        "value": "2,500+"
+        "value": "500+"
       },
       {
         "label": "Client Satisfaction",
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Trusted Experience",
-        "description": "Over 15 years delivering high-quality MEP services tailored to client needs."
+        "title": "Expert Coordination",
+        "description": "We ensure flawless integration of MEP systems across diverse projects, avoiding costly delays."
       },
       {
-        "title": "Integrated Solutions",
-        "description": "Expertly coordinating mechanical, electrical, and renewable systems."
+        "title": "Skilled Workforce",
+        "description": "Our team delivers precision and quality through decades of industry experience and training programs."
       },
       {
-        "title": "Client Focused",
-        "description": "Dedicated to ensuring satisfaction through clear communication and results."
+        "title": "Client Focus",
+        "description": "We prioritize transparent communication and tailored solutions to exceed client expectations."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Reliable MEP services for commercial developments in London and beyond.",
+    "description": "We provide leading MEP services tailored for commercial developments in London and the South East.",
     "cards": [
       {
-        "icon": "🏗",
+        "icon": "⚡",
         "title": "Electrical Contracting",
-        "description": "Expert installations for safe and efficient electrical systems."
+        "description": "Expert electrical installations, ensuring safety and efficiency for all building types."
       },
       {
-        "icon": "🔧",
-        "title": "Mechanical Contracting",
-        "description": "Reliable HVAC and plumbing solutions tailored to your project."
+        "icon": "🔥",
+        "title": "Mechanical Systems",
+        "description": "Seamless mechanical installations, including heating, ventilation, and cooling systems."
       },
       {
         "icon": "🌱",
         "title": "Renewable Energy",
-        "description": "Sustainable systems integration for greener developments."
+        "description": "Integration of sustainable energy systems for greener, future-ready developments."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Story",
-    "title": "Building London's Future",
+    "eyebrow": "Our journey",
+    "title": "Building smarter MEP solutions",
     "paragraphs": [
-      "Hanover Building Services is a trusted MEP contractor serving London and the home counties. We deliver excellence across electrical, mechanical, and renewable systems.",
-      "Our team offers tailored solutions that streamline design-to-construction coordination, ensuring efficiency and quality for every project."
+      "Hanover Building Services has been delivering award-winning MEP solutions across London and the home counties. Our team combines innovation and expertise to transform developments.",
+      "We excel in integrating mechanical, electrical, and renewable systems. With a client-first approach, we streamline construction workflows and enhance project outcomes."
     ],
     "image": "https://images.pexels.com/photos/6196225/pexels-photo-6196225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Client Feedback",
-    "title": "What Our Clients Say",
+    "eyebrow": "Client feedback",
+    "title": "What our clients say",
     "list": [
       {
-        "quote": "Hanover's expertise in MEP integration transformed our project. Their attention to detail was unmatched.",
-        "name": "Sarah Mitchell",
-        "role": "Project Manager",
+        "quote": "Hanover's coordination of MEP systems saved us time and reduced project complexities. Highly recommend!",
+        "name": "Emily Carter",
+        "role": "Property Developer",
         "avatar": "https://images.pexels.com/photos/8774503/pexels-photo-8774503.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their team made complex MEP coordination look easy. We couldn’t be happier with the results.",
-        "name": "Tom Harris",
-        "role": "Property Developer",
+        "quote": "Their expertise in renewable energy integration helped us achieve sustainability goals effortlessly.",
+        "name": "James Turner",
+        "role": "Construction Consultant",
         "avatar": "https://images.unsplash.com/photo-1646227655718-dd721b681d91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxNRVAlMjAlMjhNZWNoYW5pY2FsJTJDJTIwRWxlY3RyaWNhbCUyQyUyMFBsdW1iaW5nJTI5JTIwY29udHJhY3RpbmclMjAlMkYlMjBCdWlsZGluZyUyMHNlcnZpY2VzJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0MzQyMzN8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Our Location",
-    "title": "Serving London & Beyond",
-    "description": "We proudly serve developments across London and the home counties, delivering top-tier solutions.",
-    "address": "",
-    "website": "",
+    "eyebrow": "Find us",
+    "title": "Serving London & Home Counties",
+    "description": "We proudly deliver MEP services across London and the South East, ensuring high-quality results in every project.",
+    "address": "London, UK",
+    "website": "www.hanoverbuilding.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get In Touch",
-    "title": "Start Your Project Today",
-    "description": "Contact us for bookings or consultations. Let’s bring your vision to life.",
-    "consent": "Yes, I agree to be contacted."
+    "eyebrow": "Get started",
+    "title": "Request a consultation",
+    "description": "Contact us today to discuss your project needs. Let's create efficient, sustainable solutions together!",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Unlock Efficiency with AI",
-    "description": "AI-powered tools streamline operations and improve client outcomes.",
+    "title": "Smart automation for MEP success",
+    "description": "Unlock efficiency with AI tools tailored to MEP contracting.",
     "bullets": [
-      "Automated project tracking for real-time updates.",
-      "Smart workforce scheduling for optimized productivity.",
-      "Instant proposals to accelerate client decision-making."
+      "Streamline estimates and proposals for faster client responses.",
+      "Automate project tracking for real-time updates and transparency.",
+      "Optimize workforce scheduling to maximize productivity."
     ],
     "offer": "Mention Hanover Building for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Hanover Building delivers unforgettable experiences.",
-    "address": "",
+    "address": "London, UK",
     "email": "",
     "socials": [
       {
