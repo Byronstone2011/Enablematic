@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
-    "name": "Adv Structural Deta",
+    "name": "AdvStructDetailing",
     "tagline": "Precision in every detail",
-    "category": "Structural Steel Detailing",
-    "location": "United Kingdom",
+    "category": "Structural Engineering",
+    "location": "UK-based services",
     "phone": "Contact via email"
   },
   "hero": {
-    "eyebrow": "Expert engineering services",
-    "title": "Streamline your steel detailing workflow.",
-    "description": "We deliver precise detailing, seamless approvals, and efficient project coordination for steel fabricators and engineers.",
+    "eyebrow": "Expert detailing services",
+    "title": "Simplifying steel detailing workflows",
+    "description": "We deliver precise drawings, seamless coordination, and tailored solutions to optimize your projects.",
     "highlights": [
       {
-        "label": "Projects Delivered",
-        "value": "1,000+"
+        "label": "Projects Completed",
+        "value": "1,500+"
       },
       {
-        "label": "Client Retention Rate",
-        "value": "95%"
-      },
-      {
-        "label": "Years of Expertise",
+        "label": "Years of Experience",
         "value": "10+"
+      },
+      {
+        "label": "Client Satisfaction",
+        "value": "98%"
       }
     ],
     "image": "https://images.pexels.com/photos/10612432/pexels-photo-10612432.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Technical Precision",
-        "description": "Our CAD expertise ensures accurate, detailed fabrication drawings every time."
+        "title": "Technical Expertise",
+        "description": "Our team uses advanced CAD tools to deliver exceptional structural detailing results."
       },
       {
         "title": "Seamless Coordination",
-        "description": "We simplify project approvals and reduce manual workflows for efficiency."
+        "description": "Streamlined workflows ensure accurate drawings and smooth project management."
       },
       {
-        "title": "Client Trust",
-        "description": "We are trusted by fabricators, architects, and engineers nationwide."
+        "title": "Trusted Partnerships",
+        "description": "We collaborate with top engineers to provide reliable connection designs and calculations."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We specialize in precise detailing and project coordination for steel structures.",
+    "description": "Comprehensive structural steel detailing and engineering services tailored to your needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Steel Detailing",
-        "description": "Detailed fabrication drawings for structural steel projects with precision and clarity."
+        "description": "Precise detailing for structural and architectural steel, including staircases and feature items."
       },
       {
         "icon": "📐",
-        "title": "Architectural Elements",
-        "description": "Specialized detailing for staircases and feature items tailored to unique designs."
+        "title": "Fabrication Drawings",
+        "description": "Customized drawing packages for approvals and fabrication processes."
       },
       {
-        "icon": "🔧",
-        "title": "Connection Design",
-        "description": "Partnered structural calculations and connection designs for safety and reliability."
+        "icon": "💼",
+        "title": "Project Management",
+        "description": "Surveys, consultations, and expert management ensure project success."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey in steel",
-    "title": "Delivering precision since day one",
+    "eyebrow": "Our journey",
+    "title": "Built on precision and trust",
     "paragraphs": [
-      "Advanced Structural Detailing Limited was founded to bring accuracy and efficiency to steel detailing. We combine CAD tools with deep industry knowledge.",
-      "By partnering with trusted experts, we deliver seamless workflows and detailed structures that meet exacting standards."
+      "Advanced Structural Detailing Limited specializes in delivering high-quality steel detailing and fabrication drawings. Our dedicated team ensures accuracy and efficiency in every project.",
+      "We combine modern tools with tailored workflows to simplify complex processes. Our focus on client satisfaction and collaboration sets us apart in the industry."
     ],
     "image": "https://images.pexels.com/photos/3214678/pexels-photo-3214678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What our clients say",
-    "title": "Trusted by industry leaders",
+    "eyebrow": "What clients say",
+    "title": "Proven expertise and results",
     "list": [
       {
-        "quote": "Their drawings saved us hours in fabrication. The precision was unmatched.",
-        "name": "James Walker",
+        "quote": "Their drawings are always precise and easy to work with. They streamline our projects beautifully.",
+        "name": "John Simmons",
         "role": "Structural Engineer",
         "avatar": "https://images.pexels.com/photos/31636652/pexels-photo-31636652.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Approval workflows are now effortless thanks to their coordination tools.",
-        "name": "Emily Carter",
-        "role": "Project Manager",
+        "quote": "Working with them has improved our workflow significantly. Their expertise is unmatched.",
+        "name": "Emma Taylor",
+        "role": "Architect",
         "avatar": "https://images.unsplash.com/photo-1627922529156-41f27fb6f7ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxTdHJ1Y3R1cmFsJTIwc3RlZWwlMjBkZXRhaWxpbmclMjAlMkYlMjBlbmdpbmVlcmluZyUyMHNlcnZpY2VzJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0MzQyNTN8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Discover our expertise",
-    "title": "Work with us today",
-    "description": "We proudly serve clients across the UK with tailored steel detailing services.",
-    "address": "Contact for location",
+    "eyebrow": "Our location",
+    "title": "Connect with us",
+    "description": "Serving clients across the UK, we provide expert detailing solutions wherever your project takes us.",
+    "address": "UK-based services",
     "website": "advancedstructuraldetailing.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Ready to discuss?",
-    "title": "Request your consultation",
-    "description": "Contact us today to start your next steel detailing project.",
-    "consent": "We respect your privacy and data."
+    "eyebrow": "Get started",
+    "title": "Book a consultation today",
+    "description": "Email Chris Massey at chris@advancedstructuraldetailing.co.uk to discuss your project needs.",
+    "consent": "We respect your privacy and won't share your details."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate your workflows",
-    "description": "Boost efficiency and reduce manual effort with smarter tools.",
+    "title": "Streamline your workflows",
+    "description": "Unlock efficiency with AI-driven automation tailored to structural detailing.",
     "bullets": [
-      "Automate lead capture and follow-ups through CRM integration.",
-      "Streamline drawing delivery with revision tracking systems.",
-      "Enable client portals for fast approvals and file exchange."
+      "Automate lead routing and follow-ups with CRM integration.",
+      "Track revisions and approvals with document management systems.",
+      "Enable seamless client file exchange via secure portals."
     ],
-    "offer": "Mention Adv Structural Deta for the launch-week optimization kit.",
+    "offer": "Mention AdvStructDetailing for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Adv Structural Deta delivers unforgettable experiences.",
-    "address": "Contact for location",
+    "blurb": "AdvStructDetailing delivers unforgettable experiences.",
+    "address": "UK-based services",
     "email": "",
     "socials": [
       {
