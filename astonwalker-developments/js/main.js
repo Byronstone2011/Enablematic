@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "AstonWalker",
-    "tagline": "Built for your future.",
+    "tagline": "Building Futures Today",
     "category": "Property Development",
     "location": "Newcastle/Gateshea",
-    "phone": "Contact via email"
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Expert property solutions",
-    "title": "Streamlined developments, built right.",
-    "description": "AstonWalker simplifies property development with expert management, ensuring projects are delivered on time and exceed expectations.",
+    "eyebrow": "Trusted property experts",
+    "title": "Innovating spaces, exceeding expectations.",
+    "description": "We transform ideas into exceptional properties while streamlining every project for unmatched efficiency and transparency.",
     "highlights": [
       {
         "label": "Projects Completed",
         "value": "500+"
       },
       {
-        "label": "Client Satisfaction",
-        "value": "98%"
+        "label": "Years in Business",
+        "value": "15+"
       },
       {
-        "label": "Years in Business",
-        "value": "10+"
+        "label": "Client Satisfaction",
+        "value": "98%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Precision Builds",
-        "description": "Our developments are crafted with precision and high standards for lasting quality."
+        "title": "Bold Design Vision",
+        "description": "We craft innovative properties with strong visual identity to stand out in the market."
       },
       {
-        "title": "Expert Management",
-        "description": "We manage projects seamlessly, ensuring timelines and budgets are met."
+        "title": "Streamlined Processes",
+        "description": "Our efficient workflows ensure timely delivery and minimized disruptions."
       },
       {
-        "title": "Trusted Reputation",
-        "description": "Known for reliability, we deliver excellence in every project."
+        "title": "Client-Centric Approach",
+        "description": "We prioritize transparency and collaboration to exceed client expectations."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We provide end-to-end property development services tailored to diverse needs.",
+    "description": "AstonWalker specializes in property development, construction management, and site oversight.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Property Development",
-        "description": "Transform land into value-driven projects with our expert team."
+        "description": "We transform land into thriving spaces for residential and commercial use."
       },
       {
-        "icon": "💼",
+        "icon": "🔨",
         "title": "Construction Management",
-        "description": "Oversee every aspect of construction for smooth execution."
+        "description": "Expertly overseeing construction projects from start to finish."
       },
       {
         "icon": "📋",
         "title": "Project & Site Manage",
-        "description": "Ensure projects run efficiently from start to finish."
+        "description": "Ensuring smooth operations and compliance at every stage."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Shaping communities, one project at a time.",
+    "eyebrow": "Our Story",
+    "title": "Driven by Excellence",
     "paragraphs": [
-      "AstonWalker Developments Ltd was founded to deliver exceptional property solutions. Our focus is on quality, efficiency, and creating lasting value.",
-      "By combining innovation and expertise, we’ve become a trusted partner for investors and local authorities in the Newcastle area."
+      "AstonWalker Developments Ltd has over 15 years of experience transforming ideas into exceptional spaces for diverse clients.",
+      "We specialize in combining bold designs with efficient processes to deliver properties that redefine expectations in the Newcastle/Gateshead area."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Trusted by our partners.",
+    "eyebrow": "What Clients Say",
+    "title": "Trusted by Our Partners",
     "list": [
       {
-        "quote": "AstonWalker made our project seamless and delivered outstanding results. Highly recommend!",
-        "name": "Sarah Thompson",
+        "quote": "AstonWalker delivered our project ahead of schedule with flawless execution. Highly recommended!",
+        "name": "Jane Mitchell",
         "role": "Property Investor",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their management expertise ensured everything was completed on schedule and exceeded expectations.",
-        "name": "Mark Reynolds",
+        "quote": "Their transparency and attention to detail exceeded all expectations. Fantastic team!",
+        "name": "Mark Turner",
         "role": "Commercial Tenant",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us",
-    "title": "Explore Newcastle developments.",
-    "description": "Our projects shape vibrant communities in the Newcastle and Gateshead area.",
-    "address": "Newcastle/Gateshead, UK",
+    "eyebrow": "Explore Our Region",
+    "title": "Newcastle/Gateshead Expertise",
+    "description": "Our team knows the area’s unique needs, delivering tailored solutions for local clients.",
+    "address": "Newcastle/Gateshead Area",
     "website": "www.aston-walker.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started",
-    "title": "Contact us today.",
-    "description": "Reach out for consultations or project inquiries. Let’s create something exceptional.",
-    "consent": "We respect your privacy."
+    "eyebrow": "Get Started Today",
+    "title": "Let’s Build Your Vision",
+    "description": "Contact us for personalized consultations or property development inquiries.",
+    "consent": "We respect your privacy and won’t spam."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Smart automation for growth.",
-    "description": "Leverage AI and automation to optimize operations and elevate client satisfaction.",
+    "title": "Streamline Property Management",
+    "description": "Leverage AI to optimize processes for faster results and better transparency.",
     "bullets": [
-      "Capture leads with integrated CRM forms.",
-      "Automate follow-ups and proposals for efficiency.",
-      "Offer project portals for real-time updates."
+      "Capture leads with automated forms and CRM integration.",
+      "Automate follow-up emails and appointment scheduling effortlessly.",
+      "Provide clients with real-time project updates through AI-powered portals."
     ],
     "offer": "Mention AstonWalker for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "AstonWalker delivers unforgettable experiences.",
-    "address": "Newcastle/Gateshead, UK",
+    "address": "Newcastle/Gateshead Area",
     "email": "",
     "socials": [
       {
