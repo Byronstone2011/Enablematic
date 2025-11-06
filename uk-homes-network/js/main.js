@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "UK Homes Network",
-    "tagline": "Connect. Network. Grow.",
-    "category": "Property Networking Platform",
+    "tagline": "Grow your property network",
+    "category": "Property Networking",
     "location": "United Kingdom",
     "phone": ""
   },
   "hero": {
     "eyebrow": "Fastest-growing platform",
-    "title": "Empowering UK property professionals.",
-    "description": "Join a thriving network to connect with developers and investors. Simplify lead generation and grow your business effortlessly.",
+    "title": "Expand your property connections today",
+    "description": "Connect with developers and investors. Automate lead generation, events, and member engagement to scale your business effortlessly.",
     "highlights": [
       {
         "label": "Members Connected",
-        "value": "5,000+"
-      },
-      {
-        "label": "Successful Referrals",
-        "value": "1,200+"
+        "value": "10,000+"
       },
       {
         "label": "Events Hosted",
-        "value": "250+"
+        "value": "500+"
+      },
+      {
+        "label": "Referral Rate",
+        "value": "95%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Seamless Connections",
-        "description": "Access a curated community of professionals to grow your network efficiently."
+        "title": "Streamlined Networking",
+        "description": "We simplify networking with an intuitive platform and seamless connections."
       },
       {
-        "title": "Powerful Tools",
-        "description": "Leverage resources and automation for streamlined lead generation and engagement."
+        "title": "Expert-Led Resources",
+        "description": "Access industry insights and tools to grow your property business."
       },
       {
-        "title": "Engaging Events",
-        "description": "Attend tailored meetups to foster stronger industry relationships."
+        "title": "Dynamic Events",
+        "description": "Join exclusive property meetups and boost your visibility."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Connecting property professionals through tools and events.",
+    "description": "Our platform connects UK property professionals. Explore services that drive your success.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Industry Networking",
-        "description": "Join a thriving community of property experts to share insights and referrals."
+        "title": "Networking Platform",
+        "description": "Join a thriving community of developers, investors, and agents."
       },
       {
-        "icon": "📇",
-        "title": "Member Directory",
-        "description": "Showcase your profile to boost visibility and connect with like-minded professionals."
+        "icon": "💼",
+        "title": "Referral Network",
+        "description": "Generate leads and referrals to expand your business opportunities."
       },
       {
-        "icon": "🎉",
+        "icon": "📅",
         "title": "Events & Meetups",
-        "description": "Participate in exclusive events to build valuable relationships and opportunities."
+        "description": "Attend tailored events to connect with industry experts."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "Building connections that matter.",
+    "eyebrow": "Our journey to connec",
+    "title": "Building networks, creating opportunities",
     "paragraphs": [
-      "UK Homes Network was created to unite property professionals across the UK. We help developers and investors grow their businesses through networking.",
-      "We leverage technology to streamline connections, referrals, and events, ensuring members achieve measurable growth and lasting partnerships."
+      "UK Homes Network was founded to bridge the gap between property professionals. We empower agents, developers, and investors to grow together.",
+      "Through automation and tailored solutions, we simplify operations and scale success. Join us to unlock your full networking potential."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What Members Say",
-    "title": "Proven success stories.",
+    "eyebrow": "What members say",
+    "title": "Real stories from our community",
     "list": [
       {
-        "quote": "UK Homes Network transformed my business by connecting me with trusted investors effortlessly.",
-        "name": "Sarah Johnson",
-        "role": "Property Developer",
+        "quote": "This platform transformed my business. I’ve gained invaluable connections and leads effortlessly.",
+        "name": "Emma Davies",
+        "role": "Property Investor",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "The resources and events provided are unmatched in value. My network has grown significantly.",
-        "name": "Michael Davies",
-        "role": "Investor",
+        "quote": "The events are incredible! They’ve helped me build lasting relationships in the industry.",
+        "name": "Tom Wilkins",
+        "role": "Developer",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Join Us",
-    "title": "A nationwide network.",
-    "description": "UK Homes Network connects professionals from every region. Build relationships in a dynamic property community.",
-    "address": "",
+    "eyebrow": "Find us in the UK",
+    "title": "Your nationwide connection hub",
+    "description": "UK Homes Network operates across the country, making networking accessible for all property professionals.",
+    "address": "United Kingdom",
     "website": "www.ukhomesnetwork.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Unlock your potential.",
-    "description": "Contact us today to join the UK Homes Network. Start growing your connections.",
-    "consent": "We respect your privacy."
+    "eyebrow": "Join today",
+    "title": "Sign up for free consultation",
+    "description": "Discover how we can grow your network. Contact us to learn more.",
+    "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Smarter Networking",
-    "description": "Streamline your property networking with automation.",
+    "title": "AI-powered solutions for growth",
+    "description": "Unlock the power of automation to streamline and scale your property network.",
     "bullets": [
-      "Automate member onboarding and renewals for ease.",
-      "Track referrals and event attendance seamlessly.",
-      "Engage members with personalized email sequences."
+      "Automate member onboarding and renewals.",
+      "Set up CRM funnels for lead generation.",
+      "Simplify event registration and tracking."
     ],
     "offer": "Mention UK Homes Network for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "UK Homes Network delivers unforgettable experiences.",
-    "address": "",
+    "address": "United Kingdom",
     "email": "",
     "socials": [
       {
