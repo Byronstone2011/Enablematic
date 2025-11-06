@@ -1,122 +1,122 @@
 const appData = {
   "brand": {
-    "name": "Compass Talent Pool",
-    "tagline": "Smart hiring solutions",
-    "category": "Recruitment Technology",
-    "location": "",
-    "phone": ""
+    "name": "Compass Talent",
+    "tagline": "Streamlined recruitment tech",
+    "category": "HR technology",
+    "location": "Unknown",
+    "phone": "Unknown"
   },
   "hero": {
-    "eyebrow": "Effortless recruitment",
-    "title": "Find the perfect fit faster.",
-    "description": "Our platform streamlines hiring, matching top talent with niche roles in property and facilities industries. Save time and hire smarter.",
+    "eyebrow": "Smart hiring solutions",
+    "title": "Find top talent faster and smarter.",
+    "description": "We streamline hiring for niche roles in property and facilities management using advanced matching algorithms and automation.",
     "highlights": [
       {
         "label": "Roles Matched",
+        "value": "5,000+"
+      },
+      {
+        "label": "Matching Accuracy",
+        "value": "92%"
+      },
+      {
+        "label": "Candidates Engaged",
         "value": "10,000+"
-      },
-      {
-        "label": "Time Saved",
-        "value": "30%+"
-      },
-      {
-        "label": "User Satisfaction",
-        "value": "95%"
       }
     ],
-    "image": "https://images.pexels.com/photos/5922534/pexels-photo-5922534.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1565065789724-93e2d960b981?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxSZWNydWl0bWVudCUyMCUyRiUyMEhSJTIwdGVjaG5vbG9neSUyMGZvciUyMHByb3BlcnR5JTJDJTIwYnVpbGRpbmclMjBzZXJ2aWNlcyUyMCUyNiUyMGZhY2lsaXRpZXMlMjBtYW5hZ2VtZW50JTIwJTVCJTIyVGFsZW50JTIwbWF0Y2hpbmclMjAlMjYlMjBwZXJzb25hbGlzZWQlMjBqb2IlMjByZWNvbW1lbmRhdGlvbnMlMjIlMkMlMjJFbXBsb3llciUyMHRhbGVudCUyMHBvb2wlMjBtYW5hZ2VtZW50JTIwYW5kJTIwc291cmNpbmclMjIlMkMlMjJDYW5kaWRhdGUlMjBlbmdhZ2VtZW50JTIwYW5kJTIwcGFzc2l2ZSUyMHRhbGVudCUyMGFjdGl2YXRpb24lMjIlMkMlMjJBZHZhbmNlZCUyMGFsZ29yaXRobWljJTIwbWF0Y2hpbmclMjBhbmQlMjBjYW5kaWRhdGUtZW1wbG95ZXIlMjBwcm9maWxpbmclMjIlNUR8ZW58MHx8fHwxNzYyNDM0MzI1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Smart Algorithms",
-        "description": "Advanced matching ensures precision hiring for niche roles."
+        "title": "Data-Powered Matching",
+        "description": "Leverage proprietary algorithms for precise candidate-employer alignment."
       },
       {
-        "title": "Seamless Workflow",
-        "description": "Integrations optimize your hiring process end-to-end."
+        "title": "Streamlined Processes",
+        "description": "Save time with automated workflows and integrated hiring tools."
       },
       {
-        "title": "Targeted Talent",
-        "description": "Engage active and passive candidates effectively."
+        "title": "Industry Expertise",
+        "description": "Specialized in property and facility management recruitment."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Recruitment solutions tailored to property and facilities industries.",
+    "description": "Our platform makes hiring faster, smarter, and more personalized for employers and job seekers.",
     "cards": [
       {
         "icon": "💼",
         "title": "Talent Matching",
-        "description": "Precise job recommendations to connect employers and candidates."
+        "description": "Get personalized job recommendations with advanced matching technology."
       },
       {
         "icon": "🏗",
-        "title": "Employer Pools",
-        "description": "Manage candidate sourcing and build strong talent pipelines."
+        "title": "Talent Pool Management",
+        "description": "Build and maintain a dynamic talent pool for efficient candidate sourcing."
       },
       {
-        "icon": "🤖",
-        "title": "Passive Activation",
-        "description": "Engage passive talent and keep pools refreshed automatically."
+        "icon": "🤝",
+        "title": "Candidate Engagement",
+        "description": "Activate passive talent with effective engagement strategies."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Empowering smarter recruitment",
+    "title": "Built to transform recruitment.",
     "paragraphs": [
-      "Compass Talent Pool was built to simplify hiring for property and facilities sectors. Made with Softr, our platform turns data into actionable insights.",
-      "With smart algorithms and seamless automation, we help employers find top talent while saving time. Our focus ensures a perfect candidate-employer fit."
+      "Compass Talent Pool was created using Softr to simplify hiring in niche industries. Our platform turns data into actionable insights for smarter recruitment.",
+      "We focus on property and facilities management, utilizing advanced algorithms to automate workflows and ensure perfect employer-candidate matches."
     ],
-    "image": "https://images.pexels.com/photos/5989932/pexels-photo-5989932.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1575282384538-b7ae877e0505?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxSZWNydWl0bWVudCUyMCUyRiUyMEhSJTIwdGVjaG5vbG9neSUyMGZvciUyMHByb3BlcnR5JTJDJTIwYnVpbGRpbmclMjBzZXJ2aWNlcyUyMCUyNiUyMGZhY2lsaXRpZXMlMjBtYW5hZ2VtZW50JTIwcHJvZmVzc2lvbmFsJTIwdGVhbSUyMGF0JTIwd29ya3xlbnwwfHx8fDE3NjI0MzQzMjV8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "testimonials": {
-    "eyebrow": "Customer Success",
-    "title": "What clients are saying",
+    "eyebrow": "What Users Say",
+    "title": "Real stories from our clients.",
     "list": [
       {
-        "quote": "Compass Talent Pool helped us find skilled candidates in record time. Highly recommend this platform!",
-        "name": "Sarah M.",
-        "role": "HR Manager",
-        "avatar": "https://images.pexels.com/photos/5583988/pexels-photo-5583988.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        "quote": "Compass Talent Pool helped us find qualified candidates quickly, saving hours of manual screening.",
+        "name": "Laura Simmons",
+        "role": "HR Manager, FacilityCo",
+        "avatar": "https://images.unsplash.com/photo-1489515229412-1f3a8f08dc34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxSZWNydWl0bWVudCUyMCUyRiUyMEhSJTIwdGVjaG5vbG9neSUyMGZvciUyMHByb3BlcnR5JTJDJTIwYnVpbGRpbmclMjBzZXJ2aWNlcyUyMCUyNiUyMGZhY2lsaXRpZXMlMjBtYW5hZ2VtZW50JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0MzQzMjV8MA&ixlib=rb-4.1.0&q=80&w=1080"
       },
       {
-        "quote": "Engaging passive candidates was a challenge until we used Compass. Their automation is a game-changer.",
-        "name": "James T.",
-        "role": "Recruitment Lead",
-        "avatar": "https://images.unsplash.com/photo-1730851357916-3802b6405271?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxSZWNydWl0bWVudCUyMCUyRiUyMEhSJTIwdGVjaG5vbG9neSUyMGZvciUyMHByb3BlcnR5JTJDJTIwYnVpbGRpbmclMjBzZXJ2aWNlcyUyMCUyNiUyMGZhY2lsaXRpZXMlMjBtYW5hZ2VtZW50JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0MzQxMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+        "quote": "The automated engagement tools kept our talent pool active and ready to hire when needed.",
+        "name": "James Callahan",
+        "role": "Recruitment Lead, BuildServ",
+        "avatar": "https://images.unsplash.com/photo-1659353587228-5dbbebb5d98f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwyfHxSZWNydWl0bWVudCUyMCUyRiUyMEhSJTIwdGVjaG5vbG9neSUyMGZvciUyMHByb3BlcnR5JTJDJTIwYnVpbGRpbmclMjBzZXJ2aWNlcyUyMCUyNiUyMGZhY2lsaXRpZXMlMjBtYW5hZ2VtZW50JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI0MzQzMjV8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Discover Us",
-    "title": "Join Compass Talent Pool",
-    "description": "Connect with top talent and transform your hiring process. Experience recruitment done right.",
-    "address": "",
-    "website": "",
+    "eyebrow": "Connect with us",
+    "title": "Visit our platform",
+    "description": "Discover streamlined recruitment solutions tailored to your industry.",
+    "address": "Unknown",
+    "website": "www.compassplatform.net",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get Started",
-    "title": "Request a Demo Today",
-    "description": "Contact Bobby Kankam at bobby@compassplatform.net to explore our platform.",
-    "consent": "We value your privacy."
+    "title": "Book a demo today",
+    "description": "See how Compass Talent Pool can transform your hiring process. Contact us now!",
+    "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
     "title": "AI-Powered Recruitment",
-    "description": "Boost efficiency and precision with automation tailored for hiring.",
+    "description": "Harness automation to optimize hiring for property and facilities industries.",
     "bullets": [
-      "Automated candidate screening saves hours.",
-      "Calendar integrations simplify scheduling.",
-      "CRM automations engage passive talent."
+      "Automated candidate ranking reduces screening time.",
+      "Engage passive talent with personalized drip campaigns.",
+      "Seamless ATS integration for efficient workflows."
     ],
-    "offer": "Mention Compass Talent Pool for the launch-week optimization kit.",
+    "offer": "Mention Compass Talent for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Compass Talent Pool delivers unforgettable experiences.",
-    "address": "",
+    "blurb": "Compass Talent delivers unforgettable experiences.",
+    "address": "Unknown",
     "email": "",
     "socials": [
       {
