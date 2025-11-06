@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "RES Controls Ltd",
-    "tagline": "Efficient Building Management",
-    "category": "Energy Management Systems",
-    "location": "United Kingdom",
+    "tagline": "Efficiency redefined",
+    "category": "Building Management Systems",
+    "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Smarter Energy Solutions",
-    "title": "Optimize energy and system efficiency.",
-    "description": "RES Controls Ltd designs, installs, and supports BMS systems that reduce energy consumption and improve building performance.",
+    "eyebrow": "Smart energy solutions",
+    "title": "Optimize building energy use effortlessly",
+    "description": "RES Controls Ltd designs, installs, and supports BMS systems to reduce energy consumption and improve efficiency.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "1,200+"
+        "value": "1,500+"
+      },
+      {
+        "label": "Client Satisfaction",
+        "value": "98%"
       },
       {
         "label": "Energy Savings Achieved",
-        "value": "20%+"
-      },
-      {
-        "label": "Customer Satisfaction",
-        "value": "98%"
+        "value": "25%"
       }
     ],
     "image": "https://images.pexels.com/photos/3582392/pexels-photo-3582392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Comprehensive Expertise",
-        "description": "Our team delivers tailored BMS solutions for diverse building needs."
-      },
-      {
-        "title": "Innovative Designs",
-        "description": "We prioritize energy efficiency in every system we create."
+        "title": "Expert Design",
+        "description": "We create tailored BMS systems to meet unique building management needs."
       },
       {
         "title": "Reliable Support",
-        "description": "Ongoing helpdesk ensures smooth operations and quick resolutions."
+        "description": "Our helpdesk ensures timely solutions for ongoing system performance."
+      },
+      {
+        "title": "Energy Efficiency",
+        "description": "We help reduce energy consumption through expert consulting and automation."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We specialize in creating efficient, reliable building management systems.",
+    "description": "We provide comprehensive BMS services to optimize energy use.",
     "cards": [
       {
         "icon": "🏗",
         "title": "BMS Design",
-        "description": "Custom building management systems designed for optimal efficiency."
+        "description": "Custom systems tailored to your building's needs for optimal control."
       },
       {
-        "icon": "💻",
-        "title": "BMS Installation",
-        "description": "Seamless installation and commissioning for reliable performance."
+        "icon": "🔧",
+        "title": "Installation & Setup",
+        "description": "Professional commissioning ensures your systems work perfectly from day one."
       },
       {
         "icon": "📞",
-        "title": "Helpdesk Support",
-        "description": "Expert support and troubleshooting to keep systems running smoothly."
+        "title": "Ongoing Support",
+        "description": "Reliable helpdesk and maintenance keep your systems running smoothly."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "Driven by Efficiency and Innovation",
+    "eyebrow": "Our journey",
+    "title": "Building smarter energy solutions",
     "paragraphs": [
-      "RES Controls Ltd was founded to provide smarter solutions for building energy management. Our team is dedicated to reducing inefficiencies and improving system performance.",
-      "With expertise in design, installation, and support, we help clients achieve energy savings and operational excellence. Our solutions are tailored to meet unique needs."
+      "RES Controls Ltd was founded with a vision to revolutionize building management systems. Our expertise helps clients achieve energy efficiency and control.",
+      "Through innovation and automation, we deliver tailored solutions that reduce costs and environmental impact, empowering businesses to thrive sustainably."
     ],
     "image": "https://images.pexels.com/photos/6566817/pexels-photo-6566817.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Client Feedback",
-    "title": "What Our Clients Say",
+    "eyebrow": "Happy clients",
+    "title": "What they say about us",
     "list": [
       {
-        "quote": "RES Controls transformed our building's energy efficiency. Their support team is outstanding.",
-        "name": "John Doe",
+        "quote": "RES Controls helped us cut energy costs by 30%. Their support is exceptional!",
+        "name": "John Smith",
         "role": "Facilities Manager",
         "avatar": "https://images.pexels.com/photos/5583988/pexels-photo-5583988.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their BMS solutions improved our operations and reduced costs significantly.",
-        "name": "Jane Smith",
-        "role": "Property Manager",
+        "quote": "Our lab systems run efficiently thanks to their expertise and automation.",
+        "name": "Emma Taylor",
+        "role": "Building Manager",
         "avatar": "https://images.unsplash.com/photo-1628158088791-89567a8e84ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxCdWlsZGluZyUyMG1hbmFnZW1lbnQlMjBzeXN0ZW1zJTIwJTJGJTIwRW5lcmd5JTIwbWFuYWdlbWVudCUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNDM0MjQyfDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find Us",
-    "title": "Serving the UK",
-    "description": "We proudly provide energy solutions for commercial properties across the UK.",
-    "address": "Available upon inquiry",
-    "website": "www.rescontrols.co.uk",
+    "eyebrow": "Find us",
+    "title": "Your partner in energy efficiency",
+    "description": "We work with clients across industries to deliver smarter energy solutions.",
+    "address": "",
+    "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Request a Consultation",
-    "description": "Contact us to discuss your building management needs today.",
-    "consent": "By submitting, you agree to our terms."
+    "eyebrow": "Get started",
+    "title": "Request a consultation today",
+    "description": "Reach out to discuss your building's energy management needs with our experts.",
+    "consent": "We respect your privacy and only use your data for consultation."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "AI-Powered Efficiency",
-    "description": "Leverage automation for smarter building management.",
+    "title": "Smarter automation solutions",
+    "description": "Leverage AI-powered tools for optimized building management.",
     "bullets": [
-      "Remote monitoring detects faults instantly.",
-      "Automated energy schedules optimize consumption.",
-      "Predictive workflows reduce maintenance costs."
+      "Automate energy schedules for reduced consumption.",
+      "Monitor systems remotely for instant fault detection.",
+      "Predictive maintenance extends equipment lifespan."
     ],
     "offer": "Mention RES Controls Ltd for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "RES Controls Ltd delivers unforgettable experiences.",
-    "address": "Available upon inquiry",
+    "address": "",
     "email": "",
     "socials": [
       {
