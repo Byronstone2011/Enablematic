@@ -1,26 +1,26 @@
 const appData = {
   "brand": {
     "name": "Sky Revolutions",
-    "tagline": "Elevating possibilities",
-    "category": "Aerial surveying & drone imaging",
+    "tagline": "Elevating Insights",
+    "category": "Aerial Surveying & Imaging",
     "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Precision at any altitude",
-    "title": "Safer, faster surveying solutions.",
-    "description": "We deliver accurate aerial surveys and imaging, reducing risks and saving time for construction, energy, and infrastructure projects.",
+    "eyebrow": "Precision from above",
+    "title": "Safer, faster, smarter surveys.",
+    "description": "We deliver accurate aerial data, reduce inspection risks, and streamline reporting for better project decisions.",
     "highlights": [
       {
         "label": "Projects Surveyed",
-        "value": "1,000+"
+        "value": "5,000+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
       },
       {
-        "label": "Years in Business",
+        "label": "Years in Operation",
         "value": "10+"
       }
     ],
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert drone services",
-        "description": "We use advanced drones and equipment to capture precise data efficiently."
+        "title": "Advanced Drone Tech",
+        "description": "We use cutting-edge drones for detailed data collection and imaging."
       },
       {
-        "title": "Tailored solutions",
-        "description": "Custom survey and imaging plans designed for unique project needs."
+        "title": "Custom Solutions",
+        "description": "Tailored services meet the unique needs of complex industries."
       },
       {
-        "title": "Trusted expertise",
-        "description": "We’re a trusted name across construction and infrastructure sectors."
+        "title": "Expertise You Trust",
+        "description": "Proven results with skilled professionals and reliable technology."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Our services empower your projects with cutting-edge drone and survey solutions.",
+    "description": "From surveys to filming, our services offer precision and clarity.",
     "cards": [
       {
-        "icon": "🏗",
-        "title": "Aerial Surveys",
-        "description": "Topographic, volumetric, and measured surveys for precision data collection."
+        "icon": "📐",
+        "title": "Aerial Surveying",
+        "description": "Topographic, volumetric, and measured surveys with unparalleled accuracy."
       },
       {
-        "icon": "📹",
-        "title": "Filming & Timelapse",
-        "description": "High-quality aerial photography, event filming, and timelapse production."
+        "icon": "🎥",
+        "title": "Timelapse Filming",
+        "description": "Capture progress and showcase projects with aerial photography and videos."
       },
       {
-        "icon": "🎓",
+        "icon": "📚",
         "title": "Drone Training",
-        "description": "Professional training and compliance certification through SRL Academy."
+        "description": "Learn compliance and operations with our SRL Academy programs."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our mission",
-    "title": "Redefining aerial surveying",
+    "eyebrow": "Our Journey",
+    "title": "Built on innovation.",
     "paragraphs": [
-      "Sky Revolutions specializes in aerial surveys, photography, and filming for construction, energy, and utilities sectors. We simplify complex projects with precision tools.",
-      "By integrating technology and expertise, we reduce risks, improve data accuracy, and empower clients with innovative solutions tailored to their needs."
+      "Sky Revolutions provides aerial and land surveying, photography, and filming for construction and infrastructure industries. We combine precision and creativity.",
+      "Our solutions reduce risks, save time, and deliver reliable data. Clients trust us for technical accuracy and seamless results."
     ],
     "image": "https://images.pexels.com/photos/8961160/pexels-photo-8961160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Trusted by industry leaders",
+    "eyebrow": "What Clients Say",
+    "title": "Proven Results.",
     "list": [
       {
-        "quote": "Sky Revolutions saved us time and costs while delivering precise survey data. Exceptional service!",
-        "name": "Sarah Johnson",
-        "role": "Project Manager, Construction Co.",
-        "avatar": "https://images.pexels.com/photos/32211979/pexels-photo-32211979.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        "quote": "Sky Revolutions saved us time and reduced inspection risks. Their data is always accurate and reliable.",
+        "name": "Alex Turner",
+        "role": "Project Manager, Construction",
+        "avatar": "https://images.pexels.com/photos/10262725/pexels-photo-10262725.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their timelapse and drone footage brought our project to life. Highly recommended!",
-        "name": "Mark Evans",
-        "role": "Marketing Director, Energy Firm",
+        "quote": "Their drone surveys helped us make informed decisions quickly. Highly recommend them!",
+        "name": "Mia Johnson",
+        "role": "Operations Director, Utilities",
         "avatar": "https://images.unsplash.com/photo-1526593740665-f57a5d42dd0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4MTU1NTB8MHwxfHNlYXJjaHwxfHxBZXJpYWwlMjBzdXJ2ZXlpbmclMjAlMjYlMjBkcm9uZSUyMGltYWdpbmclMjBmb3IlMjBjb25zdHJ1Y3Rpb24lMjBhbmQlMjBpbmZyYXN0cnVjdHVyZSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNDM0MDg5fDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Reach us",
-    "title": "Discover aerial expertise",
-    "description": "Explore how Sky Revolutions can elevate your projects with drone and survey solutions.",
+    "eyebrow": "Discover Us",
+    "title": "Where we operate.",
+    "description": "Serving industries across the UK with innovative drone technology.",
     "address": "",
     "website": "www.skyrevolutions.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Start your project today",
-    "description": "Contact us for bookings, consultations, or training inquiries.",
-    "consent": "We respect your privacy. Learn more."
+    "eyebrow": "Get Started",
+    "title": "Request a quote today.",
+    "description": "Contact us for aerial surveys, filming, and training tailored to your needs.",
+    "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automating smarter workflows",
-    "description": "AI-driven solutions simplify complex projects and improve efficiency.",
+    "title": "Streamline Your Workflow",
+    "description": "Automate processes for faster, smarter operations.",
     "bullets": [
-      "Streamline survey booking with online tools.",
-      "Automate data processing for faster results.",
-      "Provide instant alerts via branded portals."
+      "Online booking simplifies project scheduling.",
+      "Automated survey data integrates with CAD tools.",
+      "Custom portals for real-time updates and reports."
     ],
     "offer": "Mention Sky Revolutions for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
