@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
-    "name": "Pentagon Technical",
-    "tagline": "Excellence in Infrastructure",
-    "category": "Construction / MEP",
-    "location": "Global Expertise",
-    "phone": "Contact Chris Brookes"
+    "name": "Pentagon Tech",
+    "tagline": "Building reliability",
+    "category": "Construction & Engineering",
+    "location": "Global Operations",
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Mission-critical solutions",
-    "title": "Streamline high-spec projects with precision.",
-    "description": "We simplify complexity in mission-critical data centers, integrating BIM, MEP, and cost-saving strategies for exceptional delivery.",
+    "eyebrow": "Mission-critical expertise",
+    "title": "Simplify complex projects with ease.",
+    "description": "We streamline data centre and MEP projects, reducing risk, cutting costs, and ensuring compliance for critical infrastructure.",
     "highlights": [
       {
         "label": "Projects Delivered",
-        "value": "500+"
+        "value": "1,000+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
       },
       {
-        "label": "Years Experience",
-        "value": "15+"
+        "label": "Years of Expertise",
+        "value": "20+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expertise in MEP",
-        "description": "Specialists in design and delivery for complex infrastructures."
+        "title": "Precision Engineering",
+        "description": "Delivering flawless accuracy and compliance in every project."
       },
       {
-        "title": "Digital Precision",
-        "description": "Optimizing workflows with cutting-edge BIM solutions."
+        "title": "Cutting-edge Technology",
+        "description": "Using BIM and digital workflows for seamless coordination."
       },
       {
-        "title": "Global Reach",
-        "description": "Trusted by clients across Europe, Asia, and the Middle East."
+        "title": "Global Expertise",
+        "description": "Trusted by enterprise clients across Europe, Asia, and the Middle East."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Our technical services ensure seamless delivery from design to completion.",
+    "description": "Specialized services tailored to critical infrastructure needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Project Management",
-        "description": "Oversee construction with risk management and precision execution."
+        "description": "End-to-end construction management for data centres and MEP projects."
       },
       {
         "icon": "💻",
         "title": "Digital Engineering",
-        "description": "Streamlined BIM workflows for efficient project coordination."
+        "description": "BIM workflows ensure seamless design and build integration."
       },
       {
         "icon": "🛠",
         "title": "Testing & Commissioni",
-        "description": "Ensure compliance and performance with quality assessments."
+        "description": "Rigorous testing ensures compliance and operational readiness."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Story",
-    "title": "Engineering Excellence Worldwide",
+    "eyebrow": "Our journey",
+    "title": "Built on trust and innovation.",
     "paragraphs": [
-      "Pentagon Technical Services is dedicated to transforming infrastructure. We specialize in data centers and high-spec MEP services, delivering unmatched precision.",
-      "Our focus on innovation, efficiency, and sustainability ensures we meet the demands of mission-critical projects globally, building long-term partnerships."
+      "Pentagon Technical Services specializes in mission-critical infrastructure. We deliver seamless solutions for data centres and high-spec projects.",
+      "Our focus on precision, technology, and global expertise ensures efficiency, sustainability, and compliance for every client we serve."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client Feedback",
-    "title": "What Clients Say",
+    "eyebrow": "Client reviews",
+    "title": "What our clients say",
     "list": [
       {
-        "quote": "Pentagon streamlined our data center project, cutting time by 20%. Their BIM expertise was invaluable.",
-        "name": "James Carter",
-        "role": "Data Center Operator",
+        "quote": "Pentagon simplified our data centre build, saving time and costs without compromising quality.",
+        "name": "Sarah Lin",
+        "role": "Facility Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their testing and commissioning saved us from delays, ensuring compliance on time.",
-        "name": "Sophia Hayes",
-        "role": "Project Manager",
+        "quote": "Their BIM workflows streamlined coordination, ensuring flawless execution.",
+        "name": "James Patel",
+        "role": "Construction Director",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Global Expertise",
-    "description": "Our team operates across Europe, Asia, and the Middle East, delivering excellence worldwide.",
-    "address": "N/A",
+    "eyebrow": "Come visit us",
+    "title": "Global expertise, local impact.",
+    "description": "Our operations span Europe, Asia, and the Middle East, serving diverse clients worldwide.",
+    "address": "",
     "website": "www.pentagontechnicalservices.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Reach Out",
-    "title": "Contact Us",
-    "description": "Get expert guidance for your next project. Email Chris Brookes today.",
-    "consent": "We value your privacy."
+    "eyebrow": "Get started today",
+    "title": "Contact our experts.",
+    "description": "Reach out for consultations or project inquiries. We're here to help.",
+    "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "AI-Driven Efficiency",
-    "description": "Leverage automation to enhance precision and save time.",
+    "title": "Streamline workflows with AI.",
+    "description": "Automate and optimize critical construction processes with cutting-edge solutions.",
     "bullets": [
-      "Automate BIM clash detection for faster workflows.",
-      "Streamline testing and certification processes.",
-      "Optimize project tracking and reporting."
+      "Automate BIM clash detection for accuracy.",
+      "Simplify T&C reporting and certifications.",
+      "Track project schedules and progress seamlessly."
     ],
-    "offer": "Mention Pentagon Technical for the launch-week optimization kit.",
+    "offer": "Mention Pentagon Tech for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Pentagon Technical delivers unforgettable experiences.",
-    "address": "N/A",
+    "blurb": "Pentagon Tech delivers unforgettable experiences.",
+    "address": "",
     "email": "",
     "socials": [
       {
