@@ -1,23 +1,23 @@
 const appData = {
   "brand": {
     "name": "Hillnic",
-    "tagline": "Sustainable modular housing",
+    "tagline": "Building a sustainable future",
     "category": "Construction Technologies",
     "location": "Global",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Innovating housing solutions",
-    "title": "Efficient modular homes for all projects",
-    "description": "Hillnic designs and builds sustainable modular homes, reducing costs, timelines, and on-site delays for large-scale housing projects.",
+    "eyebrow": "Efficient modular housing",
+    "title": "Fast, sustainable homes built smarter.",
+    "description": "Hillnic combines factory precision with rapid assembly to cut delays, reduce costs, and simplify large-scale projects.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "500+"
+        "value": "1,000+"
       },
       {
-        "label": "Assembly Time Saved",
-        "value": "30%"
+        "label": "Assembly Time Savings",
+        "value": "50%"
       },
       {
         "label": "Client Satisfaction",
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Precision Design",
-        "description": "Our modular homes are crafted with precision engineering for seamless assembly and durability."
+        "title": "Innovative Design",
+        "description": "We deliver sustainable homes with cutting-edge design and engineering solutions."
       },
       {
-        "title": "Sustainability Focus",
-        "description": "We prioritize eco-friendly materials and processes to reduce environmental impact."
+        "title": "Streamlined Process",
+        "description": "Our modular approach ensures faster, cost-effective construction timelines."
       },
       {
-        "title": "Rapid Delivery",
-        "description": "Factory-built housing ensures faster delivery and installation for all projects."
+        "title": "Scalable Solutions",
+        "description": "We simplify complex logistics for large-scale housing projects."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We specialize in modular housing solutions tailored for developers and large-scale projects.",
+    "description": "Hillnic offers tailored modular housing solutions designed for efficiency and sustainability.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Modular Housing",
-        "description": "Factory-built modular housing designed for efficiency and scalability."
+        "description": "Factory-built homes for faster, more precise construction."
       },
       {
-        "icon": "📐",
+        "icon": "💼",
         "title": "Design & Engineering",
-        "description": "Expert design and engineering for prefabricated housing projects."
+        "description": "Custom prefabricated designs that meet your project needs."
       },
       {
-        "icon": "🚚",
+        "icon": "⚙️",
         "title": "Rapid Assembly",
-        "description": "Quick on-site installation to streamline project timelines."
+        "description": "Quick on-site installation for seamless project completion."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey",
-    "title": "Building a better future",
+    "eyebrow": "Our Commitment",
+    "title": "Sustainability meets innovation.",
     "paragraphs": [
-      "Hillnic was founded to revolutionize housing through sustainable modular construction. Our mission is to deliver cost-effective, scalable solutions.",
-      "By integrating advanced technologies, we simplify coordination and accelerate project completion, ensuring efficiency and environmental responsibility."
+      "Hillnic was founded to revolutionize housing with sustainable, factory-built modular homes. We aim to provide efficient, eco-friendly solutions.",
+      "By combining precision manufacturing with streamlined processes, we help developers scale projects faster and with less complexity."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What clients say",
-    "title": "Trusted by developers",
+    "eyebrow": "What Clients Say",
+    "title": "Trusted by developers worldwide.",
     "list": [
       {
-        "quote": "Hillnic cut our project timeline by 30%, delivering sustainable homes efficiently and on budget.",
-        "name": "Sarah Johnson",
+        "quote": "Hillnic cut our project timeline in half and simplified logistics. Highly recommend!",
+        "name": "James Carter",
         "role": "Real Estate Developer",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their modular designs made scaling across projects seamless. Highly recommended for large developments.",
-        "name": "Mark Lee",
-        "role": "Housing Program Manager",
+        "quote": "Their modular solutions helped us achieve sustainability goals efficiently.",
+        "name": "Sarah Lee",
+        "role": "Affordable Housing Manager",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Where we serve",
-    "title": "Global housing solutions",
-    "description": "Hillnic operates worldwide, providing modular housing expertise for developers and housing programs everywhere.",
-    "address": "",
-    "website": "www.hillnic.com",
+    "eyebrow": "Visit Us",
+    "title": "Global reach, local impact.",
+    "description": "Hillnic operates globally, delivering modular solutions tailored to diverse housing needs.",
+    "address": "Available worldwide",
+    "website": "hillnic.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Start your housing project",
-    "description": "Contact us for a consultation or to discuss your next modular housing project.",
-    "consent": "We respect your privacy and will never share your information."
+    "eyebrow": "Get Started",
+    "title": "Ready to build smarter?",
+    "description": "Contact us today to discuss your project and explore modular solutions.",
+    "consent": "We respect your privacy. No spam."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Unlock efficiency with AI",
-    "description": "Leverage automation to streamline modular housing workflows and scale delivery.",
+    "title": "Unlock AI-driven efficiency.",
+    "description": "Leverage automation to streamline housing projects with Hillnic.",
     "bullets": [
-      "CRM tools to automate lead generation and follow-ups.",
-      "Instant quoting tool to shorten sales cycles.",
-      "Production scheduling to sync factory output and assembly."
+      "Automate proposals to shorten sales cycles.",
+      "Sync factory output with on-site assembly.",
+      "Nurture developer relationships with marketing tools."
     ],
     "offer": "Mention Hillnic for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Hillnic delivers unforgettable experiences.",
-    "address": "",
+    "address": "Available worldwide",
     "email": "",
     "socials": [
       {
