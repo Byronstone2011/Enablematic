@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Modulor",
-    "tagline": "Building excellence.",
+    "tagline": "Built to perfection",
     "category": "Construction Management",
-    "location": "Global",
+    "location": "Global Reach",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Precision in every build",
-    "title": "Streamlined construction solutions.",
-    "description": "We simplify new builds and renovations with expert coordination, reducing delays and costs for architects and owners.",
+    "eyebrow": "Modern construction solutions",
+    "title": "Seamless project coordination.",
+    "description": "We eliminate delays and cost overruns with streamlined management and expert design-build services.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "250+"
+        "value": "500+"
+      },
+      {
+        "label": "Years of Experience",
+        "value": "10+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
-      },
-      {
-        "label": "Years in Business",
-        "value": "10+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Bold design approach",
-        "description": "Our projects feature clean lines and striking aesthetics tailored to client needs."
+        "title": "Expert Management",
+        "description": "We ensure smooth coordination between architects, owners, and contractors."
       },
       {
-        "title": "Seamless coordination",
-        "description": "We ensure smooth collaboration between architects, owners, and contractors."
+        "title": "Modern Design",
+        "description": "Our clean, minimalist aesthetic showcases premium craftsmanship."
       },
       {
-        "title": "Quality craftsmanship",
-        "description": "Every project reflects exceptional attention to detail and durability."
+        "title": "Proven Results",
+        "description": "Delivering quality construction with a track record of success."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive construction services for diverse spaces.",
+    "description": "Comprehensive services for new builds and renovations.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Construction Management",
-        "description": "Expert oversight to ensure your project runs on time and budget."
+        "description": "We oversee every phase to ensure projects finish on time and within budget."
       },
       {
         "icon": "💼",
         "title": "General Contracting",
-        "description": "Reliable execution from start to finish for all project types."
+        "description": "Expert contracting services tailored to your unique project needs."
       },
       {
-        "icon": "🛠",
+        "icon": "🎨",
         "title": "Design-Build Coordina",
-        "description": "Integrated design and construction for flawless results."
+        "description": "Integrating design and construction for seamless execution and efficiency."
       }
     ]
   },
   "story": {
     "eyebrow": "Our journey",
-    "title": "Innovation meets tradition.",
+    "title": "Building excellence.",
     "paragraphs": [
-      "Modulor specializes in new construction and architectural renovation for residential and commercial spaces. We bring every vision to life with precision.",
-      "We solve coordination challenges with tailored solutions, delivering efficiency and exceptional results for architects and developers."
+      "Modulor specializes in creating stunning spaces through new construction and architectural renovations. We work with residential and commercial properties.",
+      "Our streamlined services eliminate delays and miscommunication, delivering high-quality results. With a proven track record, we elevate construction standards."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Customer feedback",
-    "title": "Hear from our clients.",
+    "eyebrow": "What clients say",
+    "title": "Trusted by professionals.",
     "list": [
       {
-        "quote": "Modulor transformed a challenging project into a seamless experience. Their coordination saved us time and costs.",
-        "name": "Alice Johnson",
+        "quote": "Modulor simplified our complex renovation with expert management and clear communication.",
+        "name": "Anna C.",
         "role": "Architect",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their attention to detail and communication was unmatched. We felt confident every step of the way.",
-        "name": "Michael Lee",
-        "role": "Property Developer",
+        "quote": "Their design-build approach saved time and delivered exceptional results for our project.",
+        "name": "Michael R.",
+        "role": "Developer",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Explore our work",
-    "title": "Visit our completed projects.",
-    "description": "Discover stunning designs and impeccable craftsmanship in every project we deliver.",
-    "address": "Contact us for location details.",
-    "website": "modulor.eco",
+    "eyebrow": "Discover us",
+    "title": "Global presence.",
+    "description": "Modulor operates worldwide, bringing innovative construction solutions to diverse locations.",
+    "address": "Visit us online.",
+    "website": "www.modulor.eco",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get started today",
-    "title": "Discuss your project.",
-    "description": "Contact us to plan your next construction or renovation project with Modulor.",
-    "consent": "We respect your privacy. Your information is safe."
+    "eyebrow": "Get started",
+    "title": "Start your project.",
+    "description": "Contact us today for a consultation on your construction or renovation needs.",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "AI-driven construction solutions",
-    "description": "Automation enhances workflows for faster, smarter project delivery.",
+    "title": "Efficiency through AI.",
+    "description": "Transform construction workflows with our AI-driven solutions.",
     "bullets": [
-      "Generate proposals and estimates instantly.",
-      "Automate contract signing for speedier approvals.",
-      "Streamline project schedules and communication."
+      "Automate proposal and estimate generation to save time.",
+      "Streamline project communication with document workflows.",
+      "Track changes and schedules to reduce delays."
     ],
     "offer": "Mention Modulor for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Modulor delivers unforgettable experiences.",
-    "address": "Contact us for location details.",
+    "address": "Visit us online.",
     "email": "",
     "socials": [
       {
