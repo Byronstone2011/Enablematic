@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "LÃ¹ths Services",
-    "tagline": "Sustainable solutions that last",
-    "category": "Energy Efficiency Consultancy",
-    "location": "UK Nationwide",
+    "tagline": "Sustainable solutions, delivered.",
+    "category": "Building Services Consultancy",
+    "location": "UK-wide",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Expert building consultants",
-    "title": "Efficient, low-carbon building solutions",
-    "description": "Our team of experts simplifies sustainable building design, energy upgrades, and project management for lasting results.",
+    "eyebrow": "Energy efficiency experts",
+    "title": "Simplifying sustainable building design.",
+    "description": "We help homeowners and developers create cost-effective, low-carbon spaces with expert planning and tailored solutions.",
     "highlights": [
       {
         "label": "Projects Completed",
         "value": "1200+"
       },
       {
-        "label": "Years of Expertise",
-        "value": "15+"
+        "label": "Clients Supported",
+        "value": "280+"
       },
       {
-        "label": "Clients Served",
-        "value": "280+"
+        "label": "Years of Expertise",
+        "value": "15+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -32,89 +32,89 @@ const appData = {
     "items": [
       {
         "title": "Proven Expertise",
-        "description": "Our Chartered Engineers provide innovative designs tailored to your needs."
+        "description": "Chartered engineers and energy assessors with deep industry knowledge."
       },
       {
-        "title": "Data-Driven Results",
-        "description": "We use advanced tools to optimize energy performance for every project."
+        "title": "Tailored Solutions",
+        "description": "Custom strategies for new builds, retrofits, and mixed-use developments."
       },
       {
-        "title": "Nationwide Reach",
-        "description": "We support projects across the UK, from homes to large developments."
+        "title": "Sustainability Focus",
+        "description": "Dedicated to low-carbon, energy-efficient design and renewable systems."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We deliver sustainable building designs, energy consulting, and renewable solutions.",
+    "description": "Our team provides sustainable design, energy analysis, and project management tailored to every build.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Sustainable Design",
-        "description": "We create eco-friendly buildings that reduce carbon footprints."
+        "title": "Sustainable Building Desig",
+        "description": "Expert planning to create energy-efficient, eco-friendly spaces for every project size."
       },
       {
         "icon": "💼",
         "title": "Energy Consulting",
-        "description": "We analyze energy use and recommend cost-effective upgrades."
+        "description": "Comprehensive analysis and advice to optimize energy performance and reduce costs."
       },
       {
-        "icon": "⚡",
-        "title": "Renewable Systems",
-        "description": "We design efficient systems like heat pumps and ground source options."
+        "icon": "🔋",
+        "title": "Renewable Energy Syst",
+        "description": "Custom solutions for heat pumps, GSHPs, and more, designed to meet your needs."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our journey to excell",
-    "title": "Building a sustainable future",
+    "eyebrow": "Our Journey",
+    "title": "Built on expertise and innovation.",
     "paragraphs": [
-      "Founded in the UK, LÃ¹ths Services combines engineering, energy assessment, and consultancy expertise. We work with diverse projects nationwide.",
-      "Our tailored approach ensures optimal energy performance and seamless project delivery. We drive innovation in sustainable building practices."
+      "LÃ¹ths Services brings together Chartered Engineers, Energy Assessors, and Sustainability Consultants to transform buildings across the UK. We partner with homeowners, developers, and organizations to deliver low-carbon,",
+      "By combining deep industry knowledge with cutting-edge technology, we tackle complex challenges in building design and energy performance. Our team is committed to creating sustainable spaces for a better future."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What our clients say",
-    "title": "Client success stories",
+    "eyebrow": "Client Feedback",
+    "title": "What our clients say",
     "list": [
       {
-        "quote": "LÃ¹ths Services helped us achieve energy efficiency within budget and on time. Their team is exceptional.",
+        "quote": "LÃ¹ths Services made navigating renewable energy options simple and cost-effective for our project.",
         "name": "Sarah Bennett",
-        "role": "Developer",
+        "role": "Homeowner",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their expertise in renewable systems made our project a success. Highly recommend them!",
-        "name": "James Carter",
-        "role": "Homeowner",
+        "quote": "Their expertise in sustainable design helped us achieve energy goals on time and within budget.",
+        "name": "Michael Turner",
+        "role": "Developer",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit us today",
-    "title": "Nationwide service coverage",
-    "description": "We work across the UK, bringing sustainable solutions to your area. Contact us for details.",
+    "eyebrow": "UK Coverage",
+    "title": "Work with us nationwide.",
+    "description": "We collaborate with clients across the UK to design and deliver sustainable projects.",
     "address": "",
     "website": "www.luthsservices.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in touch",
-    "title": "Start your project now",
-    "description": "Contact our team to discuss your building needs. Let’s build sustainably together.",
-    "consent": "By submitting, you agree to our privacy policy."
+    "eyebrow": "Get Started",
+    "title": "Book a consultation today.",
+    "description": "Reach out to discuss your project needs and explore our tailored solutions.",
+    "consent": "We respect your privacy. Your information is secure."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline your workflow",
-    "description": "AI and automation simplify your project lifecycle with faster results.",
+    "title": "Automation for efficiency.",
+    "description": "Streamline your operations with intelligent automation designed for consultancy projects.",
     "bullets": [
-      "Automated lead capture with follow-ups",
-      "Online booking integration for consultations",
-      "Energy performance dashboards and reporting"
+      "Automated lead capture and follow-up.",
+      "Integrated scheduling and CRM tracking.",
+      "Real-time energy performance dashboards."
     ],
     "offer": "Mention LÃ¹ths Services for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
