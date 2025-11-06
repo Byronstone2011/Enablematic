@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Pentagon Technical",
-    "tagline": "Excellence in critical projects",
+    "tagline": "Critical infrastructure experts",
     "category": "Construction & Infrastructure",
-    "location": "Global Reach",
+    "location": "Global Operations",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Mission-critical expertise",
-    "title": "Simplifying complex projects for you",
-    "description": "We specialize in managing risk, reducing costs, and delivering high-spec designs for critical infrastructure worldwide.",
+    "eyebrow": "Mission-critical projects",
+    "title": "Simplifying high-stakes builds.",
+    "description": "We manage complexity, reduce risks, and streamline delivery for mission-critical infrastructure projects like data centres and MEP systems.",
     "highlights": [
       {
-        "label": "Data Centres Delivered",
-        "value": "100+"
-      },
-      {
-        "label": "Projects Completed",
+        "label": "Projects Delivered",
         "value": "500+"
       },
       {
         "label": "Compliance Rate",
         "value": "99.9%"
+      },
+      {
+        "label": "Years of Expertise",
+        "value": "20+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Precision Delivery",
-        "description": "We ensure meticulous project management for flawless execution every time."
+        "title": "Technical Precision",
+        "description": "Our expertise ensures flawless execution of complex infrastructure builds."
       },
       {
-        "title": "Advanced Engineering",
-        "description": "Our digital workflows streamline complex construction processes efficiently."
+        "title": "Digital Engineering",
+        "description": "Advanced BIM workflows optimize coordination and efficiency."
       },
       {
-        "title": "Trusted Expertise",
-        "description": "Decades of experience delivering world-class data center solutions."
+        "title": "Risk Management",
+        "description": "We mitigate risks and deliver secure, compliant solutions."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We provide tailored solutions for critical infrastructure projects.",
+    "description": "Specialized services designed for critical infrastructure projects.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Project Management",
-        "description": "Expert oversight from planning to completion for seamless project delivery."
+        "description": "Complete oversight of construction, ensuring timelines and quality standards."
       },
       {
         "icon": "💻",
         "title": "Digital Engineering",
-        "description": "Innovative BIM workflows for accurate, coordinated designs and reduced risk."
+        "description": "BIM workflows streamline design and execution for complex builds."
       },
       {
-        "icon": "🛠",
-        "title": "MEP Solutions",
-        "description": "Custom MEP design and off-site delivery for optimal efficiency and quality."
+        "icon": "⚙️",
+        "title": "Testing & Commissioni",
+        "description": "Rigorous testing ensures compliance and operational excellence."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our expertise",
-    "title": "Engineering excellence for critical needs",
+    "eyebrow": "Our journey",
+    "title": "Building with precision and trust",
     "paragraphs": [
-      "Pentagon Technical Services designs, builds, and manages mission-critical infrastructure. We focus on data centers, MEP services, and high-spec projects.",
-      "Our innovative solutions reduce costs and risks while ensuring sustainability. With proven expertise, we deliver results for global enterprise clients."
+      "Pentagon Technical Services specializes in mission-critical projects, offering unmatched expertise in data centres, MEP systems, and high-spec builds.",
+      "We focus on efficiency, sustainability, and risk reduction, ensuring seamless delivery of complex projects across Europe, Asia, and the Middle East."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Customer feedback",
-    "title": "What our clients say",
+    "eyebrow": "What clients say",
+    "title": "Trusted by industry leaders",
     "list": [
       {
-        "quote": "Pentagon simplified our complex data center project while saving us time and costs.",
-        "name": "Sarah James",
-        "role": "Facilities Director",
-        "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        "quote": "Pentagon simplified our data centre build, delivering on time and beyond expectations.",
+        "name": "James Carter",
+        "role": "Facility Manager",
+        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their BIM expertise ensured flawless coordination across teams. Highly recommend!",
-        "name": "John Mitchell",
-        "role": "Project Manager",
+        "quote": "Their expertise in BIM workflows transformed our project coordination.",
+        "name": "Sarah Lee",
+        "role": "Head of Construction",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Global presence",
-    "title": "Visit our offices worldwide",
-    "description": "Located across Europe, Asia, and the Middle East, we’re ready to support your project needs.",
+    "eyebrow": "Global reach",
+    "title": "Where we operate",
+    "description": "Serving clients worldwide with specialized solutions for critical infrastructure projects.",
     "address": "",
-    "website": "www.pentagontechnicalservices.com",
+    "website": "pentagontechnicalservices.com",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get started today",
-    "title": "Request a consultation",
-    "description": "Contact us to discuss your next critical infrastructure project.",
+    "title": "Schedule a consultation",
+    "description": "Contact us to discuss your project needs and see how we can help.",
     "consent": "By submitting, you agree to our privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "AI-driven efficiency",
-    "description": "Automate workflows for seamless project execution.",
+    "title": "AI for smarter workflows",
+    "description": "Streamline your mission-critical projects with advanced automation tools.",
     "bullets": [
-      "Streamline BIM clash detection and coordination.",
-      "Automate testing and commissioning reports.",
-      "Optimize scheduling and real-time progress tracking."
+      "Automate BIM workflows and clash detection to save time.",
+      "Simplify testing and commissioning with automated reports.",
+      "Track progress and optimize scheduling with AI insights."
     ],
     "offer": "Mention Pentagon Technical for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
