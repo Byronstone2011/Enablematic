@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "TPB tech UK",
-    "tagline": "Revolutionize Your Kitchen",
+    "tagline": "Innovative cooking solutions",
     "category": "Kitchen Appliances",
     "location": "UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Innovative Cooking Solutions",
-    "title": "Experience the Invisible Induction Cooktop",
-    "description": "Transform your kitchen with seamless, invisible cooking technology that integrates effortlessly.",
+    "eyebrow": "Revolutionary design",
+    "title": "Simplify kitchen renovations effortlessly",
+    "description": "Our Invisible Induction Cooktop integrates seamlessly, eliminating design hurdles and enhancing kitchen aesthetics.",
     "highlights": [
       {
         "label": "Years Innovating",
-        "value": "5+"
+        "value": "10+"
       },
       {
-        "label": "Installations Completed",
-        "value": "1,000+"
+        "label": "Cooktops Installed",
+        "value": "5,000+"
       },
       {
         "label": "Customer Satisfaction",
-        "value": "97%"
+        "value": "98%"
       }
     ],
     "image": "https://images.pexels.com/photos/8293776/pexels-photo-8293776.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,64 +31,64 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Cutting-Edge Design",
-        "description": "Our cooktops blend seamlessly into your countertop for a sleek, modern look."
+        "title": "Stunning Imagery",
+        "description": "Our visuals showcase the beauty and functionality of our products."
       },
       {
-        "title": "Unmatched Performance",
-        "description": "Experience powerful cooking with rapid, precise heat control."
+        "title": "Clear Offerings",
+        "description": "Easily explore our product range and services with intuitive navigation."
       },
       {
-        "title": "Comprehensive Support",
-        "description": "From consultation to after-sales, we ensure a smooth journey."
+        "title": "Social Proof",
+        "description": "Our testimonials highlight real customer successes and satisfaction."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our unique kitchen solutions tailored for modern homes.",
+    "description": "Explore our groundbreaking kitchen solutions tailored to enhance your cooking space.",
     "cards": [
       {
         "icon": "💻",
-        "title": "Induction Hobs",
-        "description": "Invisible induction hobs integrated into worktops for a seamless look."
+        "title": "Invisible Cooktops",
+        "description": "Experience seamless design with our invisible induction hobs integrated into worktops."
       },
       {
         "icon": "🏗",
         "title": "Showroom Demos",
-        "description": "Visit our showroom for live product demonstrations and expert advice."
+        "description": "Visit our showroom for live demonstrations and expert advice on our products."
       },
       {
         "icon": "💼",
-        "title": "Installation Services",
-        "description": "We coordinate with kitchen companies and electricians for hassle-free setup."
+        "title": "Installation Coordina",
+        "description": "We liaise with kitchen companies and electricians to ensure smooth installation."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Leading the Kitchen Revolution",
+    "title": "Innovating kitchen spaces",
     "paragraphs": [
-      "TPB tech UK pioneers the world's first invisible induction cooktop, redefining modern kitchens. Our technology offers a unique cooking experience.",
-      "Our focus on innovation and customer satisfaction makes us a perfect fit for enhancing your kitchen. Experience the future of cooking with us."
+      "TPB tech UK revolutionizes kitchens worldwide with our first-of-its-kind Invisible Induction Cooktop.",
+      "Our focus on cutting-edge technology and customer satisfaction sets us apart in the industry."
     ],
     "image": "https://images.pexels.com/photos/20706509/pexels-photo-20706509.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
     "eyebrow": "What Clients Say",
-    "title": "Real Experiences",
+    "title": "Customer Experiences",
     "list": [
       {
-        "quote": "The invisible cooktop is a game-changer. It's stylish and efficient.",
-        "name": "Sarah L.",
+        "quote": "TPB tech's cooktop transformed my kitchen. Installation was seamless.",
+        "name": "Sarah Thompson",
         "role": "Homeowner",
         "avatar": "https://images.pexels.com/photos/6489127/pexels-photo-6489127.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Installation was seamless, and the product exceeded expectations.",
-        "name": "Mark T.",
-        "role": "Kitchen Fitter",
+        "quote": "The innovation and design quality exceeded my expectations.",
+        "name": "James Fisher",
+        "role": "Chef",
         "avatar": "https://images.unsplash.com/photo-1743684456567-a3d32dbf702e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxLaXRjaGVuJTIwYXBwbGlhbmNlcyUyMCUyRiUyMEtpdGNoZW4lMjBmaXR0aW5ncyUyMCUyRiUyMEhvbWUlMjByZW5vdmF0aW9uJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI3MjU2ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
@@ -96,25 +96,25 @@ const appData = {
   "visit": {
     "eyebrow": "Visit Us",
     "title": "Experience Our Showroom",
-    "description": "Discover the future of kitchen technology at our showroom. See, touch, and experience our products firsthand.",
+    "description": "Discover our products in a dynamic setting and receive personalized advice.",
     "address": "",
-    "website": "tpbtech.uk",
+    "website": "www.tpbtech.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in Touch",
-    "title": "Book a Consultation",
-    "description": "Contact us for personalized advice and to see our products in action.",
-    "consent": "I consent to being contacted by TPB tech UK."
+    "eyebrow": "Get In Touch",
+    "title": "Schedule a Consultation",
+    "description": "Contact us to book a demo or consultation. Experience innovation today.",
+    "consent": "I agree to receive communication."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline Your Experience",
-    "description": "Enhance your kitchen journey with our automation solutions.",
+    "title": "Enhancing Efficiency",
+    "description": "Our AI solutions streamline processes, enhancing customer experience.",
     "bullets": [
-      "Schedule showroom demos with easy calendar integration.",
-      "Receive automated email updates and reminders.",
-      "Coordinate installation with seamless contractor scheduling."
+      "Online demo scheduling with calendar sync",
+      "Automated lead nurture sequences",
+      "Installation scheduling automation"
     ],
     "offer": "Mention TPB tech UK for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
