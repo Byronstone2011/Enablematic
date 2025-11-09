@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
-    "name": "Flow Property",
-    "tagline": "Effortless Transformations",
-    "category": "Construction & Refurbishment",
+    "name": "Flow Services",
+    "tagline": "Build Your Vision",
+    "category": "Residential Construction",
     "location": "London",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Seamless Solutions",
-    "title": "Streamlined building for modern homes.",
-    "description": "We solve your refurbishment needs with precision and clarity, enhancing comfort and style.",
+    "eyebrow": "Excellence in Renovation",
+    "title": "Transform Your Space with Ease",
+    "description": "From concept to completion, we manage every detail. Streamlined processes for stunning results.",
     "highlights": [
       {
         "label": "Projects Completed",
         "value": "500+"
       },
       {
-        "label": "Client Satisfaction",
-        "value": "98%"
-      },
-      {
         "label": "Years in Business",
         "value": "10+"
+      },
+      {
+        "label": "Client Satisfaction",
+        "value": "97%"
       }
     ],
     "image": "https://images.pexels.com/photos/9908376/pexels-photo-9908376.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,47 +31,47 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Visual Impact",
-        "description": "Our imagery showcases the quality and elegance of every project."
+        "title": "Stunning Visuals",
+        "description": "Our projects feature high-quality visuals that captivate and inspire."
       },
       {
-        "title": "Intuitive Design",
-        "description": "Navigate through our services with ease and clarity."
+        "title": "Seamless Navigation",
+        "description": "Experience a clean and intuitive site layout for easy access to information."
       },
       {
-        "title": "Storytelling",
-        "description": "We highlight the transformation journey of each home."
+        "title": "Warm Storytelling",
+        "description": "Our imagery and stories bring your project visions to life effortlessly."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our specialized services tailored for your home.",
+    "description": "We specialize in high-end residential projects with attention to detail.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Luxury Building",
-        "description": "Crafting bespoke homes with superior quality and detail."
+        "description": "Create the home of your dreams with our luxury construction services."
       },
       {
         "icon": "🔨",
-        "title": "Home Refurbishment",
-        "description": "Revitalize your space with our expert renovation services."
+        "title": "Refurbishment",
+        "description": "Renew your living space with our expert refurbishment solutions."
       },
       {
-        "icon": "🌞",
-        "title": "Solar Installations",
-        "description": "Sustainable energy solutions for modern living."
+        "icon": "🍽",
+        "title": "Kitchen Extensions",
+        "description": "Expand and modernize your kitchen for more space and function."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "From Vision to Reality",
+    "title": "Passion for Excellence",
     "paragraphs": [
-      "Flow Property Services began in London, focusing on luxurious residential projects. Our passion for design and construction drives us.",
-      "Our commitment to quality and client satisfaction makes us a perfect fit for prestigious builds and renovations."
+      "Flow Property Services is a London-based company offering top-tier construction and renovation services. We excel in creating luxurious living spaces.",
+      "Our services are tailored to meet the highest standards, ensuring satisfaction. We streamline project management for seamless client experiences."
     ],
     "image": "https://images.pexels.com/photos/8482828/pexels-photo-8482828.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
@@ -80,13 +80,13 @@ const appData = {
     "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "Flow transformed our home effortlessly. Their attention to detail was exceptional.",
-        "name": "Emily T.",
+        "quote": "Flow transformed our home beyond expectations. Seamless service!",
+        "name": "Sarah L.",
         "role": "Homeowner",
         "avatar": "https://images.pexels.com/photos/6474304/pexels-photo-6474304.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "The team's professionalism and efficiency made our renovation stress-free.",
+        "quote": "Their attention to detail and communication were outstanding.",
         "name": "James K.",
         "role": "Property Developer",
         "avatar": "https://images.unsplash.com/photo-1629085281849-565cb4a3ba90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxSZXNpZGVudGlhbCUyMGNvbnN0cnVjdGlvbiUyMCUyNiUyMHJlZnVyYmlzaG1lbnQlMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjcyNTk0OXww&ixlib=rb-4.1.0&q=80&w=1080"
@@ -95,28 +95,28 @@ const appData = {
   },
   "visit": {
     "eyebrow": "Our Location",
-    "title": "Visit Us in London",
-    "description": "Experience our work first-hand in vibrant London, where tradition meets innovation.",
+    "title": "Explore Our Projects",
+    "description": "Located in London, we are at the heart of innovation and style. Visit our projects to see our work firsthand.",
     "address": "",
-    "website": "www.flowpropertyservices.co.uk",
+    "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Contact Us Today",
-    "description": "Reach out for consultations or project inquiries.",
-    "consent": "I agree to the terms and privacy policy."
+    "eyebrow": "Start Your Project",
+    "title": "Get in Touch",
+    "description": "Contact us today to discuss your project needs. Let's build something amazing together.",
+    "consent": "I agree to the terms and conditions."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Your Experience",
-    "description": "Streamline your journey with AI-powered solutions.",
+    "title": "Enhance with Automation",
+    "description": "Streamline your project management with our automation solutions.",
     "bullets": [
-      "Instant online estimates for quick decisions.",
-      "Automated client updates ensure transparency.",
-      "Effortless lead capture with CRM integration."
+      "Online estimate and booking forms.",
+      "Automated lead capture and follow-up.",
+      "Instant quote and status updates."
     ],
-    "offer": "Mention Flow Property for the launch-week optimization kit.",
+    "offer": "Mention Flow Services for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,7 +124,7 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Flow Property delivers unforgettable experiences.",
+    "blurb": "Flow Services delivers unforgettable experiences.",
     "address": "",
     "email": "",
     "socials": [
