@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Ultimate Interiors",
-    "tagline": "Enhancing spaces effortlessly",
-    "category": "Commercial Interior Design",
-    "location": "",
-    "phone": ""
+    "tagline": "Design. Build. Transform.",
+    "category": "Interior Design",
+    "location": "Global Reach",
+    "phone": "Contact Paul Alexande"
   },
   "hero": {
     "eyebrow": "Transform Your Workspace",
-    "title": "Streamline fit-outs with expert solutions.",
-    "description": "With 20 years' experience, we ensure smooth projects, managing contractors, budgets, and timelines efficiently.",
+    "title": "Simplify fit-outs with expert guidance.",
+    "description": "With 20 years of experience, we streamline projects, ensuring timely, cost-effective solutions.",
     "highlights": [
       {
-        "label": "Years in Business",
+        "label": "Years of Experience",
         "value": "20+"
       },
       {
         "label": "Projects Completed",
-        "value": "1,000+"
+        "value": "500+"
       },
       {
         "label": "Client Satisfaction",
-        "value": "99%"
+        "value": "98%"
       }
     ],
     "image": "https://images.pexels.com/photos/6794934/pexels-photo-6794934.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,47 +31,47 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Sophisticated Aesthetics",
-        "description": "Bold use of space creates a refined, professional look."
+        "title": "Sophisticated Design",
+        "description": "Our bold use of space crafts a sophisticated aesthetic tailored to your brand."
       },
       {
-        "title": "Readable Typography",
-        "description": "Clean fonts ensure clarity and enhance visual appeal."
+        "title": "Minimalist Approach",
+        "description": "We prioritize clean lines and clarity for a professional, minimalist look."
       },
       {
-        "title": "Minimalist Design",
-        "description": "Our approach is professional, minimal, and impactful."
+        "title": "Readability First",
+        "description": "Our designs feature clean typography for enhanced readability and impact."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our comprehensive services tailored to your needs.",
+    "description": "Enhance your workspace with our tailored services.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Commercial Fit-Out",
-        "description": "We deliver turnkey solutions for office spaces, managing all aspects."
+        "description": "Expertly manage your commercial space transformations with efficiency and care."
       },
       {
         "icon": "🛋",
-        "title": "Furniture Packages",
-        "description": "Custom furniture solutions that fit your brand and budget."
+        "title": "Bespoke Furniture",
+        "description": "Discover custom furniture solutions that perfectly fit your space and style."
       },
       {
-        "icon": "🛠",
-        "title": "Landlord Works",
-        "description": "Handle M&E, ceilings, lighting, ensuring compliance and quality."
+        "icon": "🗺",
+        "title": "Space Planning",
+        "description": "Optimize your workspace layout for functionality and aesthetics."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Legacy",
-    "title": "Crafting Excellence",
+    "eyebrow": "Our Journey",
+    "title": "Crafting Exceptional Spaces",
     "paragraphs": [
-      "Since 2002, Ultimate Interiors has transformed workplaces with economic and sustainable designs. Our expertise enhances your space.",
-      "We excel in handling complex projects, reducing admin stress through innovative solutions, ensuring timely delivery and client satisfaction."
+      "Since 2002, we've been enhancing workplaces with our expertise. We deliver flexible, sustainable solutions.",
+      "Our multi-stage projects align well with automation, improving client communications and speeding up delivery."
     ],
     "image": "https://images.pexels.com/photos/6566810/pexels-photo-6566810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
@@ -80,41 +80,41 @@ const appData = {
     "title": "Client Success Stories",
     "list": [
       {
-        "quote": "Ultimate Interiors transformed our office with ease. They managed everything, saving us time and stress.",
-        "name": "John Smith",
-        "role": "CEO, TechCorp",
+        "quote": "Ultimate Interiors transformed our office seamlessly, saving us time and stress.",
+        "name": "Lisa Harmon",
+        "role": "Operations Manager",
         "avatar": "https://images.pexels.com/photos/5201930/pexels-photo-5201930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their turnkey solution was seamless. Our space looks fantastic, and the process was hassle-free.",
-        "name": "Emma Johnson",
-        "role": "Operations Manager, FinServ",
+        "quote": "Their attention to detail and project management was exceptional.",
+        "name": "Michael Trent",
+        "role": "Property Developer",
         "avatar": "https://images.unsplash.com/photo-1673431906354-f6232ad90900?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxDb21tZXJjaWFsJTIwSW50ZXJpb3IlMjBEZXNpZ24lMjAlMkYlMjBGaXQtT3V0cyUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNzI1ODU4fDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit Us",
-    "title": "Discover Our Showroom",
-    "description": "Experience our designs firsthand. Visit 'The Hive' for a personalized tour.",
-    "address": "",
-    "website": "",
+    "title": "Experience Our Expertise",
+    "description": "Discover cutting-edge designs and innovative solutions at our showroom.",
+    "address": "By Appointment Only",
+    "website": "ultimateinteriors.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Request a Consultation",
-    "description": "Connect with us to discuss your project needs. Let's create the perfect space.",
-    "consent": "I agree to the privacy policy."
+    "eyebrow": "Get In Touch",
+    "title": "Start Your Project Today",
+    "description": "Contact us to discuss your next commercial interior project.",
+    "consent": "We value your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automation Advantages",
-    "description": "Enhance efficiency with AI-driven solutions.",
+    "title": "Streamline with Automation",
+    "description": "Automate your project workflows for efficiency and ease.",
     "bullets": [
-      "Automate project intake and follow-ups for seamless operations.",
-      "Streamline scheduling and approvals with project management tools.",
-      "Improve client communications and speed up project delivery."
+      "Automate lead capture and CRM tasks.",
+      "Optimize project management processes.",
+      "Enhance client communication and speed."
     ],
     "offer": "Mention Ultimate Interiors for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Ultimate Interiors delivers unforgettable experiences.",
-    "address": "",
+    "address": "By Appointment Only",
     "email": "",
     "socials": [
       {
