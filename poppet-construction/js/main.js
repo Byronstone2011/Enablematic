@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Poppet Construction",
-    "tagline": "Building Your Vision",
+    "tagline": "Innovative Building Solutions",
     "category": "Construction",
-    "location": "Essex & Surroundin",
+    "location": "Essex, UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Innovative Contracting",
-    "title": "Streamline Projects with Our Hybrid Model",
-    "description": "We enhance efficiency with tech-driven project and supply-chain management, solving your coordination challenges.",
+    "eyebrow": "Efficiency Redefined",
+    "title": "Streamline your projects with automation.",
+    "description": "We optimize workflows and boost efficiency through cutting-edge automation and strategic coordination.",
     "highlights": [
-      {
-        "label": "Projects Delivered",
-        "value": "500+"
-      },
       {
         "label": "Years of Experience",
         "value": "20+"
       },
       {
+        "label": "Projects Completed",
+        "value": "500+"
+      },
+      {
         "label": "Client Satisfaction",
-        "value": "98%"
+        "value": "97%"
       }
     ],
     "image": "https://images.pexels.com/photos/32386869/pexels-photo-32386869.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Stunning Visuals",
-        "description": "Our projects are showcased with full-width, high-quality imagery."
+        "title": "Stunning Design",
+        "description": "Our projects feature full-width photography that captures our construction excellence."
       },
       {
-        "title": "Consistent Branding",
-        "description": "We maintain a clear brand identity with strategic logo placement."
+        "title": "Strong Identity",
+        "description": "Consistent branding ensures a professional appearance across all platforms."
       },
       {
-        "title": "Effective Layouts",
-        "description": "Our design uses white space effectively for readability."
+        "title": "Visual Clarity",
+        "description": "Effective use of white space enhances content readability and engagement."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our comprehensive construction services tailored to your needs.",
+    "description": "Comprehensive services tailored to meet diverse construction needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Main Contracting",
-        "description": "We offer a hybrid model for efficient project delivery and management."
-      },
-      {
-        "icon": "🏢",
-        "title": "Refurbishment & New",
-        "description": "Our team excels in both refurbishment and new build projects."
+        "description": "Our hybrid model delivers efficiency in every aspect of project management."
       },
       {
         "icon": "🔨",
+        "title": "Refurbishments",
+        "description": "Expertly handling refurbishments and new builds with precision."
+      },
+      {
+        "icon": "🛠",
         "title": "In-house Trades",
-        "description": "We provide groundworks, building services, and carpentry."
+        "description": "Groundworks, building services, and carpentry handled by our skilled team."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Building Excellence Over Decades",
+    "title": "Building with Passion",
     "paragraphs": [
-      "Poppet Construction Limited has been at the forefront of construction, utilizing innovative approaches to deliver quality projects.",
-      "Our focus on technology and sustainability drives our operations, ensuring efficiency and measurable ROI for our clients."
+      "Founded on a commitment to quality, Poppet Construction Limited excels in delivering top-notch projects.",
+      "Our hybrid model and tech focus ensure efficiency and sustainability, driving measurable ROI."
     ],
     "image": "https://images.pexels.com/photos/6285155/pexels-photo-6285155.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Client Testimonials",
+    "eyebrow": "Client Feedback",
     "title": "What Clients Say",
     "list": [
       {
-        "quote": "Poppet Construction transformed our project with seamless coordination and efficiency.",
-        "name": "John Smith",
+        "quote": "Poppet's automation transformed our workflow. Projects run smoother than ever!",
+        "name": "Jane Smith",
         "role": "Property Developer",
         "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their tech-driven approach made our refurbishment project smooth and cost-effective.",
-        "name": "Sarah Johnson",
-        "role": "Local Authority Official",
+        "quote": "Their tech integration boosted our project efficiency dramatically.",
+        "name": "John Doe",
+        "role": "Local Authority Manager",
         "avatar": "https://images.unsplash.com/photo-1730791979207-583e51851e2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMkYlMjBNYWluJTIwQ29udHJhY3RpbmclMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjcyNTgxNnww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Discover Our Work",
-    "description": "Located in Essex, we serve both commercial and residential clients in the region.",
-    "address": "Essex, UK",
+    "eyebrow": "Our Location",
+    "title": "Discover Our Office",
+    "description": "Located in Essex, our office is at the heart of dynamic construction opportunities.",
+    "address": "",
     "website": "www.poppetconstruction.com",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get in Touch",
-    "title": "Start Your Project",
-    "description": "Contact us for a consultation and quote tailored to your needs.",
-    "consent": "I agree to the privacy policy."
+    "title": "Start Your Project Today",
+    "description": "Contact us to discuss your construction needs and discover tailored solutions.",
+    "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Enhance Efficiency with AI",
-    "description": "Leverage automation to streamline and optimize your operations.",
+    "title": "Automation Advantages",
+    "description": "Revolutionize your construction projects with AI-driven solutions.",
     "bullets": [
-      "Automate lead capture for increased conversions.",
-      "Use project management tools for real-time updates.",
-      "Improve procurement with supply-chain automation."
+      "Automate lead capture to boost client conversion rates.",
+      "Streamline project timelines with automated scheduling.",
+      "Enhance coordination with supply-chain automation."
     ],
     "offer": "Mention Poppet Construction for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Poppet Construction delivers unforgettable experiences.",
-    "address": "Essex, UK",
+    "address": "",
     "email": "",
     "socials": [
       {
