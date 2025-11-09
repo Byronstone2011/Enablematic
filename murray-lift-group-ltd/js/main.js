@@ -1,18 +1,18 @@
 const appData = {
   "brand": {
-    "name": "Murray Lift",
-    "tagline": "Lifting Standards Daily",
-    "category": "Elevator Services",
+    "name": "Murray Lifts",
+    "tagline": "Reliable lift solutions",
+    "category": "Lift Services",
     "location": "UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Reliable Lift Solutions",
-    "title": "Prevent downtime with expert lift care.",
-    "description": "We ensure your lifts stay operational and compliant. Experience seamless installation and maintenance.",
+    "eyebrow": "Professional lift services",
+    "title": "Minimize downtime with expert lift care",
+    "description": "Our expert team ensures your lifts run smoothly and comply with standards, reducing downtime.",
     "highlights": [
       {
-        "label": "Lifts Serviced",
+        "label": "Lifts Maintained",
         "value": "5,000+"
       },
       {
@@ -21,7 +21,7 @@ const appData = {
       },
       {
         "label": "Client Satisfaction",
-        "value": "99%"
+        "value": "98%"
       }
     ],
     "image": "https://images.pexels.com/photos/8986034/pexels-photo-8986034.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Professional Expertise",
-        "description": "Our experienced team provides top-notch lift solutions tailored to your needs."
+        "title": "Expertise You Trust",
+        "description": "Decades of experience ensure top-quality lift services for all types of buildings."
       },
       {
-        "title": "Client Focused",
-        "description": "We prioritize customer satisfaction and ensure seamless service delivery."
+        "title": "Modern Solutions",
+        "description": "We offer modernisation services to keep your lifts up to date and compliant."
       },
       {
-        "title": "Certified Excellence",
-        "description": "Accredited for safety and reliability, we adhere to the highest industry standards."
+        "title": "Reliable Maintenance",
+        "description": "Our maintenance plans prevent breakdowns and extend lift lifespan."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive lift services for every need.",
+    "description": "Comprehensive lift services tailored to meet your specific needs.",
     "cards": [
       {
         "icon": "🔧",
         "title": "Lift Maintenance",
-        "description": "Regular checks ensure your lifts run smoothly and safely."
+        "description": "Ensure smooth operation with regular, reliable maintenance services."
       },
       {
-        "icon": "🛠",
-        "title": "Lift Modernisation",
-        "description": "Upgrade your lifts with the latest technology for enhanced performance."
+        "icon": "🏗",
+        "title": "Lift Refurbishment",
+        "description": "Modernise aging lifts with our expert refurbishment services."
       },
       {
         "icon": "🚀",
         "title": "New Installations",
-        "description": "Custom lift installations, including disabled and goods lifts, to suit any building."
+        "description": "Install new lifts, including disabled, goods, and vehicle lifts."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Delivering Excellence",
+    "title": "Committed to Excellence",
     "paragraphs": [
-      "Murray Lift Group Ltd has been a leader in providing quality lift services across the UK. Our commitment to reliability and efficiency sets us apart.",
-      "We integrate advanced technologies to streamline operations and enhance service delivery, ensuring high ROI for clients."
+      "Founded to provide top-notch lift services, we are leaders in installation and maintenance across the UK.",
+      "We leverage digital tools to enhance service delivery, ensuring our clients' lifts are efficient and reliable."
     ],
     "image": "https://images.pexels.com/photos/8453028/pexels-photo-8453028.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Client Experiences",
+    "eyebrow": "Client Feedback",
     "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "Murray Lift Group's prompt service reduced our downtime significantly. Highly recommend them!",
-        "name": "John Smith",
-        "role": "Facilities Manager",
+        "quote": "Murray Lift Group transformed our outdated systems efficiently. Highly recommended!",
+        "name": "Jane Smith",
+        "role": "Building Manager",
         "avatar": "https://images.pexels.com/photos/5371694/pexels-photo-5371694.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their modernisation services transformed our aging lifts, ensuring compliance and improved performance.",
-        "name": "Emma Thompson",
-        "role": "Building Manager",
+        "quote": "Their maintenance service drastically reduced our lift downtime.",
+        "name": "John Doe",
+        "role": "Facilities Manager",
         "avatar": "https://images.unsplash.com/photo-1570105980468-6108d18add66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxFbGV2YXRvciUyMCUyRiUyMExpZnQlMjBzZXJ2aWNlcyUyMCUyOGluc3RhbGxhdGlvbiUyQyUyMG1haW50ZW5hbmNlJTJDJTIwcmVwYWlyJTJDJTIwbW9kZXJuaXNhdGlvbiUyOSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNzI1Nzk3fDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
     "eyebrow": "Find Us",
-    "title": "Visit Our Headquarters",
-    "description": "Located in the heart of the UK, we serve London and the South of England with pride.",
-    "address": "",
+    "title": "Visit Murray Lift Group",
+    "description": "Discover our exceptional lift services tailored for the UK market.",
+    "address": "Serving London & South England",
     "website": "www.murrayliftservices.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get In Touch",
-    "title": "Request a Consultation",
-    "description": "Contact us today for expert advice on your lift needs. Let's elevate your experience.",
-    "consent": "Agree to receive communications."
+    "eyebrow": "Get in Touch",
+    "title": "Contact Us Today",
+    "description": "Reach out for consultations or to schedule a service appointment.",
+    "consent": "Yes, I agree to be contacted by Murray Lift Group."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Your Lift Management",
-    "description": "Harness AI for seamless lift operations.",
+    "title": "Automate and Optimize",
+    "description": "Enhance lift management with our AI-driven solutions.",
     "bullets": [
-      "Schedule maintenance online easily.",
-      "Receive automated service reminders.",
-      "Utilize predictive maintenance tech."
+      "Streamline scheduling and maintenance with online booking.",
+      "Predictive maintenance reduces failures and downtime.",
+      "Automate reminders and invoicing for seamless operations."
     ],
-    "offer": "Mention Murray Lift for the launch-week optimization kit.",
+    "offer": "Mention Murray Lifts for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Murray Lift delivers unforgettable experiences.",
-    "address": "",
+    "blurb": "Murray Lifts delivers unforgettable experiences.",
+    "address": "Serving London & South England",
     "email": "",
     "socials": [
       {
