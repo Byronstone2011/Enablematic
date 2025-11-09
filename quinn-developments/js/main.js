@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
-    "name": "Quinn Dev",
+    "name": "Quinn Dev.",
     "tagline": "Building the Future",
     "category": "Civil Engineering",
     "location": "Liverpool, UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Dependable & Trustworthy",
-    "title": "Streamlined solutions for modern projects",
-    "description": "Quinn Developments enhances efficiency with advanced systems, reducing delays and increasing reliability.",
+    "eyebrow": "Dependable Expertise",
+    "title": "Streamline Projects with Our Innovative Solutions",
+    "description": "Quinn Developments automates tasks for faster delivery and client satisfaction.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "1,000+"
+        "value": "500+"
       },
       {
-        "label": "Years in Business",
+        "label": "Years Experience",
         "value": "20+"
       },
       {
         "label": "Client Satisfaction",
-        "value": "98%"
+        "value": "97%"
       }
     ],
     "image": "https://images.pexels.com/photos/18812422/pexels-photo-18812422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Distinctive Design",
-        "description": "Our use of clear color hierarchy ensures attention to key details."
+        "title": "Clear Design",
+        "description": "Our projects feature clear design with strategic use of whitespace."
       },
       {
-        "title": "Whitespace Mastery",
-        "description": "We strategically use whitespace to enhance readability and focus."
+        "title": "Engaging CTAs",
+        "description": "Distinct orange CTAs guide clients through their journey effectively."
       },
       {
-        "title": "Consistent Style",
-        "description": "Our consistent button styling improves user experience."
+        "title": "Pro Photography",
+        "description": "Professional imagery showcases our high-quality engineering projects."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Expert civil engineering and groundworks services tailored to your needs.",
+    "description": "Comprehensive civil engineering solutions tailored to the North West.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Civil Engineering",
-        "description": "Delivering innovative solutions for complex engineering challenges."
+        "description": "Expert civil engineering services ensuring reliability and safety."
+      },
+      {
+        "icon": "🌿",
+        "title": "Groundworks",
+        "description": "Robust groundwork solutions for secure foundation and stability."
       },
       {
         "icon": "🚧",
-        "title": "Groundworks",
-        "description": "Comprehensive groundwork services for any scale of project."
-      },
-      {
-        "icon": "💧",
-        "title": "Specialist Drainage",
-        "description": "Expert drainage solutions to manage water flow efficiently."
+        "title": "Drainage Systems",
+        "description": "Specialist drainage services to manage water flow efficiently."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Commitment to Excellence",
+    "title": "From Foundations to Futures",
     "paragraphs": [
-      "Quinn Developments has become a leader in civil engineering and groundworks across the North West. Our core values of trust and dependability guide every project.",
-      "We serve major contractors and developers, offering scalable solutions and digital innovations that enhance project delivery and efficiency."
+      "Quinn Developments leads in groundworks and civil engineering in Liverpool, serving the North West. Our dependability and core values set us apart.",
+      "We cater to large-scale clients, leveraging digital tools for lead capture and project automation, ensuring high ROI and trust."
     ],
     "image": "https://images.pexels.com/photos/8961160/pexels-photo-8961160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Client Feedback",
-    "title": "What Our Clients Say",
+    "eyebrow": "What Clients Say",
+    "title": "Testimonials",
     "list": [
       {
-        "quote": "Quinn Developments transformed our project delivery with their efficient systems.",
+        "quote": "Quinn Developments transformed our project with seamless automation.",
         "name": "John Smith",
-        "role": "Project Manager",
+        "role": "Property Developer",
         "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their automation reduced our lead time and improved our workflow significantly.",
-        "name": "Sarah Johnson",
-        "role": "Construction Director",
+        "quote": "Their efficient systems saved us time and improved our workflow.",
+        "name": "Emily Jones",
+        "role": "Main Contractor",
         "avatar": "https://images.unsplash.com/photo-1651500963570-e2bfd5a4f94b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxDaXZpbCUyMEVuZ2luZWVyaW5nJTIwJTI2JTIwR3JvdW5kd29ya3MlMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjcyNTg3MXww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Our Location",
-    "title": "Based in Liverpool",
-    "description": "Situated in Liverpool, we cover the North West, offering trusted engineering solutions.",
+    "eyebrow": "Visit Us",
+    "title": "Explore Our Work",
+    "description": "Located in Liverpool, serving the North West with excellence.",
     "address": "",
-    "website": "",
+    "website": "quinndevelopments.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get In Touch",
-    "title": "Ready to Start?",
-    "description": "Contact us for consultations or project quotes today.",
-    "consent": "We value your privacy. Your information is secure."
+    "eyebrow": "Get Started",
+    "title": "Contact Us Today",
+    "description": "Reach out for consultations or project inquiries.",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Enhance Efficiency",
-    "description": "Our AI solutions streamline your project management and operations.",
+    "title": "Enhance with AI",
+    "description": "Automate and elevate your engineering projects.",
     "bullets": [
-      "Automate quoting with our online estimate generator.",
-      "Manage projects with integrated scheduling systems.",
-      "Access client portals for seamless document delivery."
+      "Automate tendering with digital submissions.",
+      "CRM captures leads and manages follow-ups.",
+      "Client portals for seamless document delivery."
     ],
-    "offer": "Mention Quinn Dev for the launch-week optimization kit.",
+    "offer": "Mention Quinn Dev. for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,7 +124,7 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Quinn Dev delivers unforgettable experiences.",
+    "blurb": "Quinn Dev. delivers unforgettable experiences.",
     "address": "",
     "email": "",
     "socials": [
