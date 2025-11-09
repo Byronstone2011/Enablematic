@@ -1,68 +1,68 @@
 const appData = {
   "brand": {
     "name": "Rentplus-UK",
-    "tagline": "Your path to ownership",
+    "tagline": "Affordable homes, easier",
     "category": "Affordable Housing",
-    "location": "United Kingdom",
-    "phone": "N/A"
+    "location": "",
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Affordable home solutions",
-    "title": "Secure your future with no deposit needed",
-    "description": "Rentplus-UK offers rent-to-buy homes with no deposit. Enjoy a 10% equity contribution and tenant support.",
+    "eyebrow": "Your path to ownership",
+    "title": "Own a home without a deposit.",
+    "description": "Rentplus-UK offers rent-to-buy homes, making ownership accessible. Enjoy no deposit and a 10% equity boost when purchasing.",
     "highlights": [
       {
-        "label": "Homes Offered",
-        "value": "1,500+"
+        "label": "Years Helping Buyers",
+        "value": "10+"
+      },
+      {
+        "label": "Homes Available",
+        "value": "1,000+"
       },
       {
         "label": "Equity Contribution",
         "value": "10%"
-      },
-      {
-        "label": "Client Satisfaction",
-        "value": "95%"
       }
     ],
-    "image": "https://images.pexels.com/photos/6289039/pexels-photo-6289039.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Innovative Design",
-        "description": "Our layouts are clean, professional, and user-friendly."
+        "title": "User-Friendly Design",
+        "description": "Our platform is easy to navigate, ensuring a seamless experience for all users."
       },
       {
-        "title": "Heroic Value",
-        "description": "Strong value proposition with a clear focus on benefits."
+        "title": "Clear Value Proposition",
+        "description": "We communicate our benefits clearly, making it simple to see the advantages of our services."
       },
       {
-        "title": "Credible Trust",
-        "description": "Certified excellence with awards showcasing our success."
+        "title": "Credible Partnerships",
+        "description": "Our strong industry partnerships enhance our credibility and offer added assurance."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our services tailored for affordable home ownership.",
+    "description": "Explore our tailored services designed to make home ownership more accessible.",
     "cards": [
       {
-        "icon": "🏡",
+        "icon": "🏠",
         "title": "Rent-to-Buy",
-        "description": "Access homes without a deposit, making ownership attainable."
+        "description": "Start with renting and transition to owning without a deposit. It's straightforward and flexible."
       },
       {
         "icon": "💰",
-        "title": "Equity Assistance",
-        "description": "Benefit from a 10% equity contribution to ease your purchase."
+        "title": "Equity Contribution",
+        "description": "Receive a 10% equity contribution when purchasing your home, easing the financial burden."
       },
       {
         "icon": "🎥",
-        "title": "Tenant Support",
-        "description": "Resources and testimonials guide your journey to ownership."
+        "title": "Support Resources",
+        "description": "Access testimonials and films to guide you through the rent-to-buy process."
       }
     ]
   },
@@ -70,51 +70,51 @@ const appData = {
     "eyebrow": "Our Journey",
     "title": "Building Opportunities",
     "paragraphs": [
-      "Rentplus-UK bridges the gap for those seeking affordable housing. We provide a rent-to-buy solution with no deposit required.",
-      "By integrating digital tools, we enhance efficiency and customer experience. Our commitment drives us to create sustainable homeownership."
+      "Rentplus-UK was founded to offer an affordable pathway to home ownership. We focus on helping lower-income households and first-time buyers.",
+      "Our digital solutions streamline the buying process, enhancing access and efficiency. We provide tools to simplify your journey."
     ],
-    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
+    "image": "https://images.pexels.com/photos/7937699/pexels-photo-7937699.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Client Experiences",
+    "eyebrow": "What Clients Say",
     "title": "Success Stories",
     "list": [
       {
-        "quote": "Rentplus-UK made home ownership possible for us. The no deposit scheme was a lifesaver.",
-        "name": "Lisa A.",
-        "role": "First-time Homebuyer",
+        "quote": "Rentplus-UK made it possible for me to own a home without a deposit. Their process was seamless and supportive.",
+        "name": "Jane Smith",
+        "role": "First-Time Buyer",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "The equity contribution helped us secure our first home. Highly recommend their support.",
-        "name": "John D.",
+        "quote": "The 10% equity contribution was a game-changer. Rentplus-UK offered the support I needed to become a homeowner.",
+        "name": "David Brown",
         "role": "New Homeowner",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Discover Us",
-    "title": "Visit Rentplus-UK",
-    "description": "Find your path to homeownership with us, anywhere in the UK.",
-    "address": "N/A",
-    "website": "rentplus-uk.com",
+    "eyebrow": "Visit Us",
+    "title": "Discover Our Offices",
+    "description": "Explore our welcoming office locations to learn more about our services and how we can assist you.",
+    "address": "",
+    "website": "www.rentplus-uk.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Contact Us Today",
-    "description": "Reach out to learn more about our homes and services.",
-    "consent": "I agree to receive communications."
+    "eyebrow": "Get In Touch",
+    "title": "Start Your Journey",
+    "description": "Contact us today to learn how you can transition from renting to owning with our help.",
+    "consent": "I agree to the terms and conditions."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Embrace Automation",
-    "description": "Enhance your journey with our AI solutions.",
+    "title": "Automation Benefits",
+    "description": "Enhance your home-buying journey with our digital solutions.",
     "bullets": [
-      "Instant eligibility checks streamline your application.",
-      "Automated emails ensure timely follow-ups.",
-      "Content analytics track engagement and interest."
+      "Use our online eligibility checker to get started.",
+      "Receive automated emails guiding you through each step.",
+      "Access our digital hub for engaging resources."
     ],
     "offer": "Mention Rentplus-UK for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Rentplus-UK delivers unforgettable experiences.",
-    "address": "N/A",
+    "address": "",
     "email": "",
     "socials": [
       {
