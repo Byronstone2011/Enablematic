@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Miracle Design",
-    "tagline": "Fun, Safe, Creative Play",
+    "tagline": "Playgrounds with passion",
     "category": "Playground Design",
-    "location": "UK",
+    "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Innovative Play Solutions",
-    "title": "Streamline playground design with expert solutions.",
-    "description": "Transform your play areas with our bespoke design service. Enhance efficiency and creativity.",
+    "eyebrow": "Custom play solutions",
+    "title": "Streamlined design for unique play areas",
+    "description": "Miracle Design and Play Ltd transforms your playground vision into reality, efficiently and creatively.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "1,200+"
+        "value": "500+"
+      },
+      {
+        "label": "Years of Experience",
+        "value": "10+"
       },
       {
         "label": "Client Satisfaction",
-        "value": "98%"
-      },
-      {
-        "label": "Years Experience",
-        "value": "15+"
+        "value": "95%"
       }
     ],
     "image": "https://images.pexels.com/photos/5568249/pexels-photo-5568249.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,38 +31,38 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Minimalist Design",
-        "description": "Our clean layouts ensure easy navigation and engagement."
+        "title": "Innovative Designs",
+        "description": "Our designs are unique, ensuring each project stands out."
       },
       {
-        "title": "Iconic Imagery",
-        "description": "Professional photography showcases our standout playgrounds."
+        "title": "Quality Materials",
+        "description": "We use premium timber and steel for long-lasting play areas."
       },
       {
-        "title": "Structured Content",
-        "description": "Well-organized sections highlight our services and expertise."
+        "title": "Expert Installation",
+        "description": "Our team ensures flawless installation for safety and fun."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We create vibrant, engaging outdoor play spaces tailored to your needs.",
+    "description": "Explore our comprehensive services tailored for your needs.",
     "cards": [
       {
         "icon": "🎨",
         "title": "Bespoke Design",
-        "description": "Tailored playground designs that inspire and engage children."
+        "description": "Custom playgrounds tailored to your space and needs."
       },
       {
-        "icon": "🪵",
+        "icon": "🏗",
         "title": "Timber Equipment",
-        "description": "Durable timber structures that blend with natural surroundings."
+        "description": "Durable timber structures designed for creative play."
       },
       {
-        "icon": "🔧",
+        "icon": "🛠",
         "title": "Steel Equipment",
-        "description": "Sturdy steel installations for long-lasting, safe play."
+        "description": "Robust steel installations for modern playgrounds."
       }
     ]
   },
@@ -70,51 +70,51 @@ const appData = {
     "eyebrow": "Our Journey",
     "title": "Crafting Joyful Spaces",
     "paragraphs": [
-      "Miracle Design and Play Ltd specializes in creating fun, safe, and innovative outdoor play areas. We serve construction, housing, childcare, holiday parks, and local authorities.",
-      "Our free bespoke design service ensures your project is unique and engaging. With automation, we streamline processes, enhancing efficiency and scaling our offerings."
+      "Since our inception, we have been dedicated to bringing joy to communities through our expertly crafted play areas. Our bespoke designs are both innovative and safe, fostering creativity and fun.",
+      "We harness the power of automation to streamline our processes, ensuring efficiency in design and installation. This allows us to deliver outstanding results across diverse sectors with precision and care."
     ],
-    "image": "https://images.pexels.com/photos/5642024/pexels-photo-5642024.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1611153532158-7fbd608cbb2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxQbGF5Z3JvdW5kJTIwZGVzaWduJTIwJTI2JTIwc3VwcGx5JTIwJTI4b3V0ZG9vciUyMHBsYXklMjBhcmVhcyUyOSUyMHByb2Zlc3Npb25hbCUyMHRlYW0lMjBhdCUyMHdvcmt8ZW58MHx8fHwxNzYyNzI2MDA1fDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "testimonials": {
     "eyebrow": "What Clients Say",
-    "title": "Client Testimonials",
+    "title": "Customer Testimonials",
     "list": [
       {
-        "quote": "The bespoke design service exceeded our expectations, making the process seamless.",
-        "name": "Jane Doe",
+        "quote": "Miracle Design and Play Ltd turned our vision into a beautiful reality. The process was seamless and stress-free.",
+        "name": "Emily Johnson",
         "role": "Nursery Manager",
-        "avatar": "https://images.pexels.com/photos/12736878/pexels-photo-12736878.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        "avatar": "https://images.unsplash.com/photo-1642772253959-e316335bac79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxQbGF5Z3JvdW5kJTIwZGVzaWduJTIwJTI2JTIwc3VwcGx5JTIwJTI4b3V0ZG9vciUyMHBsYXklMjBhcmVhcyUyOSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNzI2MDA1fDA&ixlib=rb-4.1.0&q=80&w=1080"
       },
       {
-        "quote": "Their innovative designs and efficient service transformed our play area.",
-        "name": "John Smith",
-        "role": "Local Authority Planner",
-        "avatar": "https://images.unsplash.com/photo-1642772253959-e316335bac79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxQbGF5Z3JvdW5kJTIwZGVzaWduJTIwJTI2JTIwc3VwcGx5JTIwJTI4b3V0ZG9vciUyMHBsYXklMjBhcmVhcyUyOSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNzI2MDAyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+        "quote": "Their creative designs and quality materials exceeded our expectations. Highly recommend!",
+        "name": "Tom Smith",
+        "role": "Local Authority Officer",
+        "avatar": "https://images.unsplash.com/photo-1585662128093-c742fdb4ae96?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwyfHxQbGF5Z3JvdW5kJTIwZGVzaWduJTIwJTI2JTIwc3VwcGx5JTIwJTI4b3V0ZG9vciUyMHBsYXklMjBhcmVhcyUyOSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNzI2MDA2fDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit Us",
-    "title": "Discover Our Showroom",
-    "description": "Explore our innovative designs and see the quality firsthand.",
+    "title": "Explore Our Showroom",
+    "description": "Discover our innovative playground designs in person.",
     "address": "",
-    "website": "miracledandp.co.uk",
+    "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get In Touch",
+    "eyebrow": "Get Started",
     "title": "Request a Consultation",
-    "description": "Contact us for a free design consultation and see how we can enhance your play areas.",
-    "consent": "I agree to the privacy policy."
+    "description": "Contact us today to discuss your playground project.",
+    "consent": "I agree to the terms and privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Boost Efficiency with AI",
-    "description": "Optimize your playground projects with automation.",
+    "title": "Enhance Efficiency",
+    "description": "Leverage AI to automate and streamline your project.",
     "bullets": [
-      "Automate lead capture with CRM integration.",
-      "Generate tailored quotes from design inputs automatically.",
-      "Streamline project management with workflow automation."
+      "Automated lead capture enhances conversion.",
+      "Instant quote generation saves time.",
+      "Manage projects with automated workflows."
     ],
     "offer": "Mention Miracle Design for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
