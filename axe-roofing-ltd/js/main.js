@@ -1,68 +1,68 @@
 const appData = {
   "brand": {
     "name": "Axe Roofing Ltd",
-    "tagline": "Roofing redefined",
+    "tagline": "Roofing excellence assured",
     "category": "Roofing / Construction",
     "location": "Harlow, Essex",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Your roofing experts",
-    "title": "Streamline your roofing needs effortlessly",
-    "description": "Axe Roofing Ltd eliminates the hassle with online booking, instant quotes, and seamless scheduling.",
+    "eyebrow": "Reliable roofing solutions",
+    "title": "Streamline your roofing services today.",
+    "description": "Axe Roofing Ltd simplifies booking and quoting, enhancing customer engagement.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "1,000+"
+        "value": "1,200+"
       },
       {
         "label": "Customer Satisfaction",
-        "value": "99%"
+        "value": "98%"
       },
       {
         "label": "Years of Experience",
-        "value": "20+"
+        "value": "10+"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
+    "image": "https://images.pexels.com/photos/34524716/pexels-photo-34524716.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Craftsmanship",
-        "description": "Our skilled team ensures top-quality roofing solutions tailored to your needs."
+        "title": "Dynamic Logo Design",
+        "description": "Our distinctive triangular logo stands out, representing strength and reliability."
       },
       {
-        "title": "Seamless Booking",
-        "description": "Easily schedule appointments with our user-friendly online system."
+        "title": "Proven Roofing Expertise",
+        "description": "We offer comprehensive roofing services with a focus on quality."
       },
       {
-        "title": "Proven Reliability",
-        "description": "Decades of experience guarantee dependable service and lasting results."
+        "title": "Engaging Social Proof",
+        "description": "Showcase our projects through Instagram integration for visual assurance."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive roofing services for homes and businesses.",
+    "description": "Expert roofing services tailored for homeowners and commercial owners.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Roof Installations",
-        "description": "Professional installations ensuring safety and durability."
+        "description": "Professional installations ensuring durability and style."
       },
       {
-        "icon": "🔧",
-        "title": "Repairs & Maintenance",
-        "description": "Keep your roof in top condition with our expert services."
+        "icon": "🛠",
+        "title": "Roof Repairs",
+        "description": "Reliable repairs and maintenance to keep your roof in top condition."
       },
       {
         "icon": "🚨",
         "title": "Emergency Repairs",
-        "description": "Quick response to leaks and urgent roof issues."
+        "description": "Fast response for leaks and urgent roofing issues."
       }
     ]
   },
@@ -70,51 +70,51 @@ const appData = {
     "eyebrow": "Our Journey",
     "title": "Building Trust, One Roof at a Time",
     "paragraphs": [
-      "Axe Roofing Ltd began with a commitment to quality and customer satisfaction. We have grown into a trusted name in Essex.",
-      "Our online tools streamline scheduling and quoting, making it easier for clients to access our services efficiently."
+      "Axe Roofing Ltd has grown as a trusted provider in Harlow and Essex, delivering top-notch roofing solutions for all property types.",
+      "We excel in local lead generation and operational automation, improving efficiency and customer satisfaction."
     ],
-    "image": "https://images.pexels.com/photos/28812511/pexels-photo-28812511.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Customer Satisfaction Stories",
+    "eyebrow": "Client Feedback",
+    "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "Axe Roofing made it easy to schedule my roof repair online. The service was top-notch!",
-        "name": "Sarah J.",
+        "quote": "Axe Roofing made scheduling and repairs seamless. Highly recommend!",
+        "name": "John Doe",
         "role": "Homeowner",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their instant quote tool saved me time and hassle. Highly recommend!",
-        "name": "Mark L.",
-        "role": "Property Manager",
+        "quote": "The online booking system saved us time and hassle. Fantastic service!",
+        "name": "Jane Smith",
+        "role": "Commercial Property Manager",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Explore Our Services",
-    "description": "Located in Harlow, Essex, we serve the local community with pride.",
+    "eyebrow": "Our Location",
+    "title": "Visit Us in Harlow",
+    "description": "Explore our services in the heart of Essex, where tradition meets innovation.",
     "address": "Harlow, Essex, UK",
-    "website": "https://www.axeroofing.co.uk",
+    "website": "www.axeroofing.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in Touch",
-    "title": "Schedule Your Consultation",
-    "description": "Contact us today for a free estimate and consultation.",
-    "consent": "I agree to the terms and conditions."
+    "eyebrow": "Book Your Service",
+    "title": "Schedule a Consultation",
+    "description": "Contact us today for a no-obligation quote or to book a service.",
+    "consent": "I consent to receive communications."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Revolutionize Your Roofing Experience",
-    "description": "Embrace the future with AI-driven solutions.",
+    "title": "Enhance Efficiency with Automation",
+    "description": "Discover how automation can transform your roofing service.",
     "bullets": [
-      "Instant online quotes for quick decisions.",
-      "Automated appointments save time.",
-      "CRM integration for seamless follow-ups."
+      "Instant online quoting boosts lead capture.",
+      "Seamless booking with calendar integration.",
+      "Automated follow-ups via email and SMS."
     ],
     "offer": "Mention Axe Roofing Ltd for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
