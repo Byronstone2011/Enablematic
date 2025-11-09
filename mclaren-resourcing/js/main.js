@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "McLaren Resourcing",
-    "tagline": "Efficient Staffing Solutions",
+    "tagline": "Connecting talent swiftly",
     "category": "Recruitment Agency",
     "location": "UK",
-    "phone": "+44 1234 567890"
+    "phone": "N/A"
   },
   "hero": {
-    "eyebrow": "Streamlined Hiring",
-    "title": "Reduce time-to-hire with our expert team.",
-    "description": "We automate sourcing and screening to fill vacancies faster. Enjoy seamless candidate engagement and self-service options.",
+    "eyebrow": "Efficient hiring solutions",
+    "title": "Streamline hiring with automated recruitment",
+    "description": "We simplify candidate sourcing and screening. Faster hires, less hassle.",
     "highlights": [
       {
-        "label": "Years in Business",
+        "label": "Positions Filled",
+        "value": "3,500+"
+      },
+      {
+        "label": "Happy Clients",
+        "value": "1,200+"
+      },
+      {
+        "label": "Years Experience",
         "value": "10+"
-      },
-      {
-        "label": "Placements Completed",
-        "value": "5,000+"
-      },
-      {
-        "label": "Client Satisfaction",
-        "value": "97%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -32,89 +32,89 @@ const appData = {
     "items": [
       {
         "title": "Industry Expertise",
-        "description": "Our team has extensive experience in recruitment, ensuring top candidates."
+        "description": "Decades of experience ensure precise recruitment strategies."
       },
       {
-        "title": "Efficient Processes",
-        "description": "We use technology to streamline recruitment, saving time and resources."
+        "title": "Proven Success",
+        "description": "High client satisfaction through efficient staffing solutions."
       },
       {
-        "title": "Trusted Reputation",
-        "description": "Multiple certifications showcase our commitment to quality and trust."
+        "title": "Certified Professionals",
+        "description": "Our team is certified, trusted, and results-driven."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive recruitment services tailored to your needs.",
+    "description": "Comprehensive staffing solutions tailored to your needs.",
     "cards": [
       {
-        "icon": "🔍",
+        "icon": "📋",
         "title": "Temporary Staffing",
-        "description": "Quickly fill temporary positions with qualified candidates."
+        "description": "Flexible workforce solutions for short-term projects."
       },
       {
-        "icon": "📄",
+        "icon": "🔍",
         "title": "Permanent Recruitment",
-        "description": "Find the perfect long-term fit for your team."
+        "description": "Long-term hires that align with your company culture."
       },
       {
-        "icon": "🛠",
-        "title": "Consultancy Services",
-        "description": "Expert advice for clients and candidates to achieve recruitment goals."
+        "icon": "👥",
+        "title": "Candidate Sourcing",
+        "description": "Find and screen top talent efficiently and effectively."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Passionate About People",
+    "title": "Behind McLaren Resourcing",
     "paragraphs": [
-      "Founded to revolutionize the recruitment industry, McLaren Resourcing LLP has been connecting talented candidates with top employers for over a decade.",
-      "Our use of cutting-edge technologies ensures efficient processes, making us a preferred partner for businesses and job seekers alike."
+      "Founded with a mission to simplify recruitment, McLaren Resourcing LLP has become a trusted partner for businesses seeking reliable staffing solutions.",
+      "Our expertise and dedication to process automation ensure clients achieve faster hires and better candidate engagement."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client Feedback",
+    "eyebrow": "Client Success Stories",
     "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "McLaren Resourcing filled our vacancies quickly and professionally. Their automation tools are game-changers!",
-        "name": "Jane Doe",
+        "quote": "McLaren Resourcing reduced our time-to-hire drastically. Their automated processes are a game-changer.",
+        "name": "Alex Johnson",
         "role": "HR Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "The candidate experience was seamless and efficient. Highly recommend their services!",
-        "name": "John Smith",
+        "quote": "Their candidate sourcing and screening are unparalleled. We filled critical roles swiftly.",
+        "name": "Emily Carter",
         "role": "Operations Director",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find Us",
-    "title": "Visit Our Office",
-    "description": "Our office is centrally located for easy access to clients and candidates.",
-    "address": "123 Business Rd, London, UK",
-    "website": "https://mclarenresourcing.co.uk",
+    "eyebrow": "Visit Us",
+    "title": "Let's Connect",
+    "description": "We're centrally located, ready to serve your recruitment needs.",
+    "address": "N/A",
+    "website": "www.mclarenresourcing.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in Touch",
-    "title": "Contact Us Today",
-    "description": "Reach out for personalized recruitment solutions.",
-    "consent": "I consent to receive communications."
+    "eyebrow": "Get Started",
+    "title": "Book a Consultation",
+    "description": "Contact us to discuss your staffing requirements.",
+    "consent": "I consent to be contacted by McLaren Resourcing LLP."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Recruitment",
-    "description": "Harness AI to enhance your recruitment process.",
+    "title": "Automation Advantage",
+    "description": "Maximize efficiency with our AI-powered solutions.",
     "bullets": [
-      "Automated sourcing reduces time-to-fill by 50%.",
-      "Online scheduling simplifies interviews.",
-      "Automated onboarding enhances candidate experience."
+      "Automate candidate sourcing and screening.",
+      "Streamline interview scheduling online.",
+      "Enhance candidate engagement with automated communications."
     ],
     "offer": "Mention McLaren Resourcing for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "McLaren Resourcing delivers unforgettable experiences.",
-    "address": "123 Business Rd, London, UK",
+    "address": "N/A",
     "email": "",
     "socials": [
       {
