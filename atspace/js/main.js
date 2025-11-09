@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "ATSPACE LTD",
-    "tagline": "Compliance Made Simple",
+    "tagline": "Compliance Simplified",
     "category": "Building Compliance",
-    "location": "United Kingdom",
+    "location": "UK",
     "phone": ""
   },
   "hero": {
     "eyebrow": "Compliance Experts",
-    "title": "Simplify building compliance challenges.",
-    "description": "ATSPACE LTD streamlines compliance, reducing risks and costs for construction projects.",
+    "title": "Simplify UK building compliance today",
+    "description": "ATSPACE LTD streamlines compliance, reducing risks and costs for your projects.",
     "highlights": [
-      {
-        "label": "Years in Business",
-        "value": "10+"
-      },
       {
         "label": "Projects Completed",
         "value": "1,000+"
       },
       {
-        "label": "Compliance Success",
-        "value": "99.5%"
+        "label": "Compliance Rate",
+        "value": "99.9%"
+      },
+      {
+        "label": "Years Experience",
+        "value": "20+"
       }
     ],
     "image": "https://images.pexels.com/photos/8469986/pexels-photo-8469986.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -32,89 +32,89 @@ const appData = {
     "items": [
       {
         "title": "Eco-Friendly Design",
-        "description": "Our nature-inspired approach promotes sustainable construction solutions."
+        "description": "Our nature-inspired approach enhances sustainability in every project."
       },
       {
-        "title": "User-Centric Layout",
-        "description": "Experience a clear, organized interface that enhances readability and focus."
+        "title": "Clear Visual Hierarchy",
+        "description": "We use distinct sectioning for easy navigation and clarity."
       },
       {
-        "title": "Visual Hierarchy",
-        "description": "Distinct sections guide you effortlessly through our services and offerings."
+        "title": "Humanizing Touch",
+        "description": "Playful illustrations make compliance approachable and engaging."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "ATSPACE offers tailored compliance and sustainability solutions.",
+    "description": "Uncomplicated compliance solutions from start to finish.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Compliance Packages",
-        "description": "Comprehensive packages for building regulations compliance."
-      },
-      {
-        "icon": "🛠",
-        "title": "Design & Testing",
-        "description": "Performance and air-tightness testing services for projects."
+        "description": "Tailored packages to ensure your project's regulatory adherence."
       },
       {
         "icon": "💼",
-        "title": "Consultancy",
-        "description": "Expert advisory on sustainability and compliance for buildings."
+        "title": "Design & Testing",
+        "description": "Optimize performance with our air-tightness and efficiency testing."
+      },
+      {
+        "icon": "🌱",
+        "title": "Sustainability Adviso",
+        "description": "Guiding your projects towards eco-friendly and sustainable solutions."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "From Concept to Compliance",
+    "title": "From Concept to Completion",
     "paragraphs": [
-      "ATSPACE LTD simplifies the complex world of building compliance. We support developers and contractors from design to completion.",
-      "Our innovative solutions align with digital trends, making compliance seamless and efficient for all stakeholders involved."
+      "ATSPACE LTD simplifies building compliance, guiding developers and contractors from design to completion. We ensure every project aligns with UK regulations.",
+      "Our services map well to digital automation, easing the compliance process. Embrace efficient solutions with ATSPACE, where quality meets innovation."
     ],
     "image": "https://images.pexels.com/photos/7937709/pexels-photo-7937709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Testimonials",
+    "eyebrow": "Client Feedback",
+    "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "ATSPACE made our compliance process effortless and saved us time.",
-        "name": "Samantha Green",
-        "role": "Project Manager",
+        "quote": "ATSPACE took the complexity out of compliance. Our project ran smoothly.",
+        "name": "John Anderson",
+        "role": "Architect",
         "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their expertise in regulations ensured our project success.",
-        "name": "John Davis",
-        "role": "Site Supervisor",
+        "quote": "Their expertise saved us time and ensured full compliance.",
+        "name": "Sarah Lee",
+        "role": "Developer",
         "avatar": "https://images.unsplash.com/photo-1730791979207-583e51851e2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxCdWlsZGluZyUyMGNvbXBsaWFuY2UlMjAlMkYlMjBDb25zdHJ1Y3Rpb24lMjBjb25zdWx0aW5nJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI3MjU3MTB8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find Us",
-    "title": "Visit ATSPACE LTD",
-    "description": "Located in the UK, we serve nationwide clients seeking compliance solutions.",
-    "address": "United Kingdom",
+    "eyebrow": "Our Location",
+    "title": "Where to Find Us",
+    "description": "Based in the UK, we serve nationwide, ensuring every project complies with local regulations.",
+    "address": "",
     "website": "www.atspaceltd.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Contact Us Today",
-    "description": "Reach out for a consultation or to learn more about our services.",
-    "consent": "I agree to the privacy policy."
+    "eyebrow": "Get in Touch",
+    "title": "Book a Consultation",
+    "description": "Reach out to discuss your project needs with our experts.",
+    "consent": "By contacting us, you agree to our privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Boost Efficiency with AI",
-    "description": "Leverage automation to streamline compliance processes.",
+    "title": "Automation Benefits",
+    "description": "Streamline your compliance with AI-driven solutions.",
     "bullets": [
-      "Instant quotes with our online configurator.",
-      "Automated document generation and tracking.",
-      "CRM integration for seamless client communication."
+      "Use our online configurator for instant quotes.",
+      "Access reports and track progress via our portal.",
+      "Automated reminders and follow-ups save you time."
     ],
     "offer": "Mention ATSPACE LTD for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "ATSPACE LTD delivers unforgettable experiences.",
-    "address": "United Kingdom",
+    "address": "",
     "email": "",
     "socials": [
       {
