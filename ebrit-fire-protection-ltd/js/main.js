@@ -1,23 +1,23 @@
 const appData = {
   "brand": {
-    "name": "eBrit Fire Protect",
-    "tagline": "Safe Spaces, Secure Lives",
+    "name": "eBrit Fire Prot.",
+    "tagline": "Secure your property",
     "category": "Fire Protection",
     "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Your Safety Partner",
-    "title": "Solve compliance with seamless fire protection",
-    "description": "eBrit simplifies fire safety with automated systems and expert compliance services.",
+    "eyebrow": "Unmatched Safety Standards",
+    "title": "Streamline compliance with ease",
+    "description": "Simplify reports and ensure safety with automated solutions.",
     "highlights": [
       {
         "label": "Years in Business",
-        "value": "10+"
+        "value": "15+"
       },
       {
-        "label": "Projects Secured",
-        "value": "3,000+"
+        "label": "Projects Completed",
+        "value": "2,500+"
       },
       {
         "label": "Compliance Rate",
@@ -35,88 +35,88 @@ const appData = {
         "description": "Decades of experience ensure top-notch fire protection solutions."
       },
       {
-        "title": "Advanced Systems",
-        "description": "Bolster integration for streamlined quality management and reporting."
+        "title": "Quality Management",
+        "description": "Integrated systems guarantee consistent quality and compliance."
       },
       {
-        "title": "Client Trust",
-        "description": "High client satisfaction with verified compliance and strong partnerships."
+        "title": "Trusted Metrics",
+        "description": "Reliable data-driven results for all fire protection needs."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive fire protection services tailored to your needs.",
+    "description": "Comprehensive fire protection services tailored for safety.",
     "cards": [
       {
         "icon": "🚪",
         "title": "Fire Doors",
-        "description": "Installation and repair of fire doors to enhance safety."
+        "description": "Expert installation and repair to secure all entry points."
       },
       {
         "icon": "🛡",
         "title": "Fire Stopping",
-        "description": "Implement passive fire protection to prevent fire spread."
+        "description": "Advanced solutions to prevent fire spread with passive methods."
       },
       {
-        "icon": "📊",
-        "title": "Compliance Surveys",
-        "description": "Regular inspections to ensure adherence to fire safety standards."
+        "icon": "🎨",
+        "title": "Intumescent Coatings",
+        "description": "Protective coatings that expand under heat for safety."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Crafting Safe Environments",
+    "title": "Building Safer Futures",
     "paragraphs": [
-      "eBrit Fire Protection Ltd was established to deliver exceptional fire safety solutions. Our dedication to innovation and quality sets us apart.",
-      "We integrate advanced technology to streamline compliance, ensuring peace of mind for property managers and homeowners alike."
+      "For over 15 years, eBrit has led the way in fire protection. Our commitment to safety and compliance drives our innovative solutions.",
+      "With a focus on technology, we streamline processes for our clients, ensuring seamless compliance and peace of mind."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client Feedback",
-    "title": "What Our Clients Say",
+    "eyebrow": "What Clients Say",
+    "title": "Testimonials",
     "list": [
       {
-        "quote": "eBrit made compliance easy and efficient. Their expertise is unmatched.",
-        "name": "John Fisher",
-        "role": "Property Manager",
-        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
+        "quote": "eBrit simplified our compliance process, making safety stress-free.",
+        "name": "John Smith",
+        "role": "Building Manager",
+        "avatar": "https://images.pexels.com/photos/7831936/pexels-photo-7831936.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their seamless service and automation transformed our safety processes.",
-        "name": "Laura Bennett",
+        "quote": "Their automated reports are a game-changer for our operations.",
+        "name": "Sarah Johnson",
         "role": "Facilities Director",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Our Location",
-    "title": "Visit Us",
-    "description": "Explore our services and see how we can enhance your fire safety.",
+    "eyebrow": "Visit Us",
+    "title": "Discover eBrit Fire Protection",
+    "description": "Visit our headquarters to learn more about our innovative solutions.",
     "address": "",
     "website": "www.ebritfire.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Need Assistance?",
-    "title": "Contact Us",
-    "description": "Reach out for a consultation or to learn more about our services.",
-    "consent": "Your data is safe with us."
+    "eyebrow": "Get in Touch",
+    "title": "Contact Us Today",
+    "description": "Reach out to Stuart Webb for customized fire protection solutions.",
+    "consent": "I agree to receive communications."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Revolutionize Your Compliance",
-    "description": "Leverage AI to streamline fire safety processes.",
+    "title": "Boost Efficiency with AI",
+    "description": "Transform your fire protection processes with automation.",
     "bullets": [
-      "Automate lead capture and quoting.",
-      "CRM integration for project updates.",
-      "Automated compliance reporting."
+      "Automated quoting streamlines client onboarding.",
+      "CRM integration for seamless project updates.",
+      "Online portals deliver compliance documents swiftly."
     ],
-    "offer": "Mention eBrit Fire Protect for the launch-week optimization kit.",
+    "offer": "Mention eBrit Fire Prot. for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,7 +124,7 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "eBrit Fire Protect delivers unforgettable experiences.",
+    "blurb": "eBrit Fire Prot. delivers unforgettable experiences.",
     "address": "",
     "email": "",
     "socials": [
