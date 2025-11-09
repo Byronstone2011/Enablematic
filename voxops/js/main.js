@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "VoxOps AI",
-    "tagline": "AI-driven automotive solutions",
-    "category": "Automotive AI",
+    "tagline": "Revolutionizing Auto Operations",
+    "category": "Automotive AI Solutions",
     "location": "Global",
-    "phone": "Unavailable"
+    "phone": "Not Available"
   },
   "hero": {
-    "eyebrow": "Revolutionize Operations",
-    "title": "Eliminate missed calls and long wait times.",
-    "description": "Use AI to automate calls and tasks, saving time and boosting revenue.",
+    "eyebrow": "AI-Driven Efficiency",
+    "title": "Cut costs and boost service with AI-driven automation.",
+    "description": "VoxOps AI eliminates missed calls and improves customer satisfaction with smart automation.",
     "highlights": [
       {
-        "label": "Operational Cost Savin",
-        "value": "50%+"
-      },
-      {
-        "label": "Customer Satisfaction",
-        "value": "95%"
-      },
-      {
-        "label": "AI Handled Calls",
+        "label": "Calls Handled",
         "value": "10,000+"
+      },
+      {
+        "label": "Cost Reduction",
+        "value": "70%"
+      },
+      {
+        "label": "CSI Improvement",
+        "value": "95%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Premium Experience",
-        "description": "Our dark theme with strong contrast ensures a premium feel."
+        "title": "Premium Design",
+        "description": "Our sleek, dark theme exudes a premium feel, enhancing user experience."
       },
       {
-        "title": "Effective Engagement",
-        "description": "Multi-channel outreach with voice and WhatsApp integration."
+        "title": "Effective Outreach",
+        "description": "Multi-channel automation ensures consistent and efficient customer contact."
       },
       {
         "title": "Proven Results",
-        "description": "Testimonials show our success in scaling operations efficiently."
+        "description": "Testimonials and case studies validate our success in scaling operations."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Automate and optimize customer interactions and operations.",
+    "description": "Enhance customer service with our AI-powered solutions.",
     "cards": [
       {
         "icon": "📞",
-        "title": "AI Voice Agents",
-        "description": "Handle customer contact with AI-driven voice agents seamlessly."
+        "title": "Voice & WhatsApp Agents",
+        "description": "AI agents manage calls and messages, reducing human workload."
       },
       {
-        "icon": "📆",
-        "title": "Appointment Booking",
-        "description": "Automate bookings to fill slots and reduce revenue loss."
+        "icon": "📅",
+        "title": "Automated Scheduling",
+        "description": "Automatically book and manage appointments to optimize time."
       },
       {
-        "icon": "🔄",
+        "icon": "📊",
         "title": "Feedback Collection",
-        "description": "Gather customer feedback to improve satisfaction and services."
+        "description": "Gather feedback automatically to improve service quality."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Innovating Auto Trade",
+    "title": "Innovating Auto Contact",
     "paragraphs": [
-      "VoxOps AI creates AI agents that operate like humans at lower costs, transforming the auto trade.",
-      "Our solutions align with industry needs, proven by our growing customer base and testimonials."
+      "VoxOps AI was founded to transform auto trade operations. Our AI agents manage calls and tasks like humans, but at lower costs.",
+      "Our solutions align with automotive needs. Proven success stories highlight our ability to scale and enhance customer interactions."
     ],
-    "image": "https://images.pexels.com/photos/7709255/pexels-photo-7709255.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client Success",
-    "title": "Hear from Our Clients",
+    "eyebrow": "Client Feedback",
+    "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "VoxOps AI drastically reduced our missed calls, enhancing our customer service.",
-        "name": "John Smith",
-        "role": "Dealership Manager",
-        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
+        "quote": "VoxOps AI has drastically reduced our missed calls, improving customer satisfaction.",
+        "name": "Mark Johnson",
+        "role": "Service Manager",
+        "avatar": "https://images.pexels.com/photos/8691830/pexels-photo-8691830.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their AI agents improved our operational efficiency without the need for extra staff.",
-        "name": "Emily Chen",
-        "role": "Service Director",
+        "quote": "Our follow-up rates have improved, thanks to VoxOps AI's efficient automation.",
+        "name": "Lisa Tran",
+        "role": "Sales Director",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Connect with Us",
-    "title": "Global Reach",
-    "description": "Operating globally to support automotive businesses everywhere.",
-    "address": "N/A",
+    "eyebrow": "Global Presence",
+    "title": "Find Us Anywhere",
+    "description": "VoxOps AI operates globally, bringing AI solutions to automotive businesses everywhere.",
+    "address": "Available Online",
     "website": "voxopsai.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Ready to Transform?",
-    "title": "Schedule a Demo",
-    "description": "Contact us to see how VoxOps AI can optimize your operations.",
-    "consent": "I agree to receive communication."
+    "eyebrow": "Get Started",
+    "title": "Book a Consultation",
+    "description": "Contact us to learn how VoxOps AI can transform your operations.",
+    "consent": "I consent to be contacted by VoxOps AI."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "AI That Transforms",
-    "description": "Harness AI to streamline operations and boost satisfaction.",
+    "title": "AI Power for Automotive",
+    "description": "Leverage AI to streamline operations and enhance customer service.",
     "bullets": [
-      "Automate reminders to reduce no-shows.",
-      "Use AI for routine inquiries before human handover.",
-      "Automatically collect feedback to improve services."
+      "Automate reminders and reduce no-shows.",
+      "Handle routine inquiries with AI precision.",
+      "Collect feedback to boost service quality."
     ],
     "offer": "Mention VoxOps AI for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "VoxOps AI delivers unforgettable experiences.",
-    "address": "N/A",
+    "address": "Available Online",
     "email": "",
     "socials": [
       {
