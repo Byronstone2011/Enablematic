@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "CCS Facades",
-    "tagline": "Building safety and innovation",
+    "tagline": "Innovating building envelopes",
     "category": "Construction",
-    "location": "",
-    "phone": ""
+    "location": " ",
+    "phone": " "
   },
   "hero": {
-    "eyebrow": "Facade experts you trust",
-    "title": "Ensure compliance and project success",
-    "description": "CCS Facades simplifies regulatory compliance and reduces costs through innovative facade solutions.",
+    "eyebrow": "Facade safety experts",
+    "title": "Resolve compliance and coordination risks.",
+    "description": "CCS Facades ensures fire safety compliance and simplifies complex project coordination for peace of mind.",
     "highlights": [
       {
-        "label": "Projects Delivered",
-        "value": "200+"
+        "label": "Projects Completed",
+        "value": "150+"
       },
       {
         "label": "Compliance Rate",
-        "value": "99.9%"
+        "value": "99.8%"
       },
       {
-        "label": "Years of Experience",
-        "value": "15+"
+        "label": "Years Experience",
+        "value": "18+"
       }
     ],
     "image": "https://images.pexels.com/photos/5200201/pexels-photo-5200201.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Architectural Excellence",
-        "description": "Our designs reflect precision and sophistication, enhancing every structure."
+        "title": "Proven Expertise",
+        "description": "With over 18 years in the industry, we deliver impeccable facade solutions."
       },
       {
-        "title": "Proven Track Record",
-        "description": "With £98m+ projects completed, we deliver on time and budget."
+        "title": "High-Value Projects",
+        "description": "Specializing in complex, high-value construction projects for various stakeholders."
       },
       {
-        "title": "Trusted Partnerships",
-        "description": "Our clients rely on us for transparent and reliable consulting."
+        "title": "Trusted Solutions",
+        "description": "Our compliance rate of 99.8% ensures safety and trust in every project."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Expert facade solutions for modern construction challenges.",
+    "description": "Explore our comprehensive facade services tailored for your needs.",
     "cards": [
       {
-        "icon": "🔥",
-        "title": "Safety Remediation",
-        "description": "Comprehensive fire safety and EWS1 solutions for peace of mind."
+        "icon": "🛡",
+        "title": "Building Safety",
+        "description": "We ensure building safety with FRAEW and EWS1 compliance services."
       },
       {
         "icon": "🏗",
         "title": "Cladding & SFS",
-        "description": "Design, supply, and install innovative cladding systems."
+        "description": "Expert design, supply, and installation of cladding and SFS systems."
       },
       {
-        "icon": "🛡",
+        "icon": "🏢",
         "title": "Glazing Solutions",
-        "description": "Durable and stylish aluminium and timber composite glazing."
+        "description": "Quality aluminium and timber glazing for windows, doors, and curtain walls."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Building a Legacy of Trust",
+    "title": "Built on trust and innovation",
     "paragraphs": [
-      "CCS Facades has grown from a small team to an industry leader, known for excellence in facade solutions.",
-      "We use cutting-edge technology to ensure compliance and efficiency, driving valuable outcomes for our clients."
+      "CCS Facades has been at the forefront of facade innovation for 18+ years, providing tailored solutions that meet stringent safety standards.",
+      "We leverage digital tools to enhance efficiency, ensuring compliance and delivering high returns on investment for our clients."
     ],
     "image": "https://images.pexels.com/photos/6285155/pexels-photo-6285155.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Client Success Stories",
+    "eyebrow": "Client Stories",
+    "title": "What our clients say",
     "list": [
       {
-        "quote": "CCS Facades streamlined our compliance process, saving us time and money.",
-        "name": "Mark Stevens",
+        "quote": "CCS Facades streamlined our compliance process, mitigating risks effectively.",
+        "name": "John Doe",
         "role": "Project Manager",
         "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their expertise in fire safety is unmatched. Highly recommend!",
-        "name": "Sarah Johnson",
-        "role": "Building Owner",
+        "quote": "Their coordination and expertise saved us time and costs on a complex project.",
+        "name": "Jane Smith",
+        "role": "Developer",
         "avatar": "https://images.unsplash.com/photo-1641632621887-554d6c8cecc1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlRTIlODAlOTQlMjBGYWNhZGUlMjAlMkYlMjBCdWlsZGluZyUyMGVudmVsb3BlJTIwY29udHJhY3RpbmclMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjcyNTg5M3ww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find Us",
-    "title": "Visit Our Headquarters",
-    "description": "Located in the heart of innovation, our office is where ideas come to life.",
-    "address": "",
-    "website": "",
+    "eyebrow": "Where to find us",
+    "title": "Our Location",
+    "description": "Visit us for a detailed consultation on your facade needs.",
+    "address": " ",
+    "website": " ",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get in Touch",
-    "title": "Schedule a Consultation",
-    "description": "Contact us to discuss your project needs and how we can help.",
-    "consent": "I consent to receiving communications."
+    "title": "Contact Us",
+    "description": "Reach out to CCS Facades for reliable facade solutions.",
+    "consent": " "
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Harness Automation Today",
-    "description": "Streamline processes and enhance efficiency with our AI solutions.",
+    "title": "Transform with AI",
+    "description": "Leverage AI for enhanced project efficiency.",
     "bullets": [
-      "Automate compliance tracking for seamless reporting.",
-      "Optimize bids with automated CRM and lead qualification.",
-      "Monitor project progress through integrated portals."
+      "Automate compliance tracking with FRAEW/EWS1.",
+      "Streamline CRM and bid management for better results.",
+      "Use our portal for real-time project insights."
     ],
     "offer": "Mention CCS Facades for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "CCS Facades delivers unforgettable experiences.",
-    "address": "",
+    "address": " ",
     "email": "",
     "socials": [
       {
