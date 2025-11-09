@@ -1,30 +1,30 @@
 const appData = {
   "brand": {
     "name": "Refurb UK",
-    "tagline": "Crafting Retail Spaces",
-    "category": "Commercial Shopfitting",
+    "tagline": "Transforming Retail Spaces",
+    "category": "Shopfitting Contractors",
     "location": "UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Seamless Transformations",
-    "title": "Minimize downtime with expert fit-outs.",
-    "description": "Refurb UK delivers efficient shopfitting, minimizing downtime and ensuring timely completion.",
+    "eyebrow": "Quality Shopfitting",
+    "title": "Minimize downtime with expert fit-outs",
+    "description": "Refurb UK ensures seamless fit-outs, reducing downtime and enhancing store efficiency.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "1,200+"
+        "value": "1,500+"
       },
       {
-        "label": "Years Experience",
+        "label": "Years of Experience",
         "value": "20+"
       },
       {
         "label": "Client Satisfaction",
-        "value": "95%"
+        "value": "98%"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1612920874217-b922610b918c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxDb21tZXJjaWFsJTIwc2hvcGZpdHRpbmclMjAlMkYlMjByZXRhaWwlMjBmaXQtb3V0JTIwY29udHJhY3RvcnMlMjAlNUIlMjJSZXRhaWwlMjBzaG9wZml0dGluZyUyMGFuZCUyMGZpeHR1cmVzJTIyJTJDJTIyUmVmdXJiaXNobWVudCUyMGFuZCUyMHJlbm92YXRpb24lMjB3b3JrcyUyMiUyQyUyMkZ1bGwtc2NhbGUlMjBmaXQtb3V0cyUyMGZvciUyMG5ldyUyMGJ1aWxkcyUyMiUyQyUyMkZhc3QtdHJhY2slMkZuaWdodCUyRmFyb3VuZC10aGUtY2xvY2slMjBmaXQtb3V0cyUyMiUyQyUyMlByb2plY3QlMjBwcm9ncmFtbWluZyUyMGFuZCUyMHNpdGUlMjBwcm9qZWN0JTIwbWFuYWdlbWVudCUyMiU1RHxlbnwwfHx8fDE3NjI3MjYwMzR8MA&ixlib=rb-4.1.0&q=80&w=1080"
+    "image": "https://images.pexels.com/photos/7937357/pexels-photo-7937357.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
@@ -32,46 +32,46 @@ const appData = {
     "items": [
       {
         "title": "Proven Expertise",
-        "description": "Decades of experience ensure high-quality, reliable outcomes for every client."
+        "description": "Decades of experience ensure flawless execution and client satisfaction."
       },
       {
-        "title": "Client Focused",
-        "description": "We prioritize communication, keeping clients informed every step of the way."
+        "title": "Strong Visuals",
+        "description": "Professional photography showcases our premium craftsmanship."
       },
       {
-        "title": "Efficient Delivery",
-        "description": "Our strategic project management minimizes disruption and delays."
+        "title": "Clear Categories",
+        "description": "Easy navigation with clear service categorization for quick decisions."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Refurb UK specializes in transforming retail spaces with precision and care.",
+    "description": "Comprehensive retail fit-out solutions tailored to your needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Retail Shopfitting",
-        "description": "Custom fixtures and fittings tailored to enhance any retail environment."
+        "description": "Expertly designed shopfittings that enhance brand presence."
       },
       {
-        "icon": "🔧",
-        "title": "Renovation Works",
-        "description": "Comprehensive refurbishments revitalizing your commercial spaces efficiently."
+        "icon": "🔨",
+        "title": "Refurbishment",
+        "description": "High-quality renovations to modernize and refresh your space."
       },
       {
-        "icon": "🌃",
-        "title": "Fast-track Fit-outs",
-        "description": "Overnight and fast-track services to meet tight schedules without compromise."
+        "icon": "🌙",
+        "title": "Night Fit-Outs",
+        "description": "Fast-track services to minimize business disruptions."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Building Excellence",
+    "title": "Crafting Retail Spaces",
     "paragraphs": [
-      "Refurb UK is dedicated to delivering outstanding commercial refurbishments and shopfittings. Our skilled team ensures every project meets the highest standards.",
-      "With a focus on automation and efficiency, we streamline processes to enhance client experience and project delivery. Trust us for reliable, quality service."
+      "Refurb UK specializes in top-notch shopfitting and refurbishments. We transform retail environments with precision and skill.",
+      "Our solutions address downtime and coordination challenges, providing clear communication and real-time updates."
     ],
     "image": "https://images.unsplash.com/photo-1695694455290-5d375698e89e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxDb21tZXJjaWFsJTIwc2hvcGZpdHRpbmclMjAlMkYlMjByZXRhaWwlMjBmaXQtb3V0JTIwY29udHJhY3RvcnMlMjBwcm9mZXNzaW9uYWwlMjB0ZWFtJTIwYXQlMjB3b3JrfGVufDB8fHx8MTc2MjcyNjAzNHww&ixlib=rb-4.1.0&q=80&w=1080"
   },
@@ -80,14 +80,14 @@ const appData = {
     "title": "Client Testimonials",
     "list": [
       {
-        "quote": "Refurb UK minimized our downtime, delivering a seamless fit-out on time.",
-        "name": "Sarah Thompson",
+        "quote": "Refurb UK transformed our store with minimal downtime. Their coordination was impeccable.",
+        "name": "Sarah Johnson",
         "role": "Store Manager",
         "avatar": "https://images.unsplash.com/photo-1603692833615-81dd11ebd2e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxDb21tZXJjaWFsJTIwc2hvcGZpdHRpbmclMjAlMkYlMjByZXRhaWwlMjBmaXQtb3V0JTIwY29udHJhY3RvcnMlMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjcyNjAzNHww&ixlib=rb-4.1.0&q=80&w=1080"
       },
       {
-        "quote": "Their communication and project management were exceptional.",
-        "name": "David Green",
+        "quote": "The team delivered on time and kept us informed throughout. Highly recommended.",
+        "name": "David Lee",
         "role": "Retail Owner",
         "avatar": "https://images.unsplash.com/photo-1690100384817-6f74c1d59c7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwyfHxDb21tZXJjaWFsJTIwc2hvcGZpdHRpbmclMjAlMkYlMjByZXRhaWwlMjBmaXQtb3V0JTIwY29udHJhY3RvcnMlMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjcyNjAzNHww&ixlib=rb-4.1.0&q=80&w=1080"
       }
@@ -95,26 +95,26 @@ const appData = {
   },
   "visit": {
     "eyebrow": "Visit Us",
-    "title": "Our Location",
-    "description": "Located in the UK, we're easily accessible for all your shopfitting needs.",
-    "address": "Unknown",
+    "title": "Discover Our Work",
+    "description": "Explore our projects and see how we can elevate your retail space.",
+    "address": "Contact for details",
     "website": "www.refurbuk.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get In Touch",
-    "title": "Start Your Project",
-    "description": "Contact us today to discuss your shopfitting needs and receive a free quote.",
-    "consent": "We respect your privacy and protect your data."
+    "eyebrow": "Get in Touch",
+    "title": "Request a Consultation",
+    "description": "Contact us to discuss your shopfitting needs and get a tailored quote.",
+    "consent": "I agree to the terms and conditions."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
     "title": "Enhance Efficiency",
-    "description": "Our AI solutions streamline processes, ensuring optimal project outcomes.",
+    "description": "Leverage AI for seamless project management.",
     "bullets": [
-      "Automated project updates for real-time insights.",
-      "Online quoting tools for faster lead responses.",
-      "Scheduling automation for seamless coordination."
+      "Automate quotes for rapid responses.",
+      "Client portal for real-time updates.",
+      "Schedule night shifts effortlessly."
     ],
     "offer": "Mention Refurb UK for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Refurb UK delivers unforgettable experiences.",
-    "address": "Unknown",
+    "address": "Contact for details",
     "email": "",
     "socials": [
       {
