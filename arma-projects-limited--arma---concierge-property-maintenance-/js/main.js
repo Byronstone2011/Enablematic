@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "ARMA Projects",
-    "tagline": "Your Property, Perfectly Maintained",
+    "tagline": "Elevating Property Care",
     "category": "Property Maintenance",
-    "location": "Unknown",
+    "location": "Prime Residential",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Concierge Maintenance",
-    "title": "Streamline your property upkeep today.",
-    "description": "ARMA Projects Ltd solves inefficiencies with digital automation, enhancing property care.",
+    "eyebrow": "Concierge Service",
+    "title": "Streamlined property care with automation",
+    "description": "Experience efficient maintenance with ARMA Projects. Our solutions simplify scheduling and elevate service.",
     "highlights": [
       {
-        "label": "Years of Expertise",
-        "value": "20+"
-      },
-      {
         "label": "Projects Managed",
-        "value": "1,500+"
+        "value": "3,000+"
       },
       {
         "label": "Client Satisfaction",
         "value": "98%"
+      },
+      {
+        "label": "Years Experience",
+        "value": "15+"
       }
     ],
     "image": "https://images.pexels.com/photos/8292797/pexels-photo-8292797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Luxury Focus",
-        "description": "We specialize in prime residential and commercial spaces, ensuring top-tier service."
+        "title": "Luxury Expertise",
+        "description": "We specialize in prime properties, ensuring meticulous attention to detail."
       },
       {
-        "title": "Comprehensive Solutions",
-        "description": "From maintenance to bespoke packages, we cover all property needs with precision."
+        "title": "Professional Design",
+        "description": "Our sophisticated design elevates your property's aesthetic and functionality."
       },
       {
-        "title": "High-Quality Imagery",
-        "description": "Our presentations showcase elegance, reflecting our attention to detail."
+        "title": "Comprehensive Services",
+        "description": "From maintenance to bespoke projects, we handle all your property needs."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our diverse range of property maintenance services.",
+    "description": "Comprehensive maintenance services tailored for prime properties.",
     "cards": [
-      {
-        "icon": "🔧",
-        "title": "Planned Maintenance",
-        "description": "Ensure longevity with our meticulous planned maintenance services."
-      },
       {
         "icon": "🏗",
         "title": "Project Management",
-        "description": "Expertly manage complex projects with our skilled team."
+        "description": "Seamless oversight and execution of refurbishment projects."
       },
       {
         "icon": "💡",
-        "title": "Lighting Controls",
-        "description": "Optimize lighting systems for efficiency and aesthetics."
+        "title": "Electrical Services",
+        "description": "Expert installation and maintenance of electrical systems."
+      },
+      {
+        "icon": "🌳",
+        "title": "Landscaping",
+        "description": "Transform your outdoor spaces with our professional landscaping."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Crafting Excellence",
+    "title": "About ARMA Projects",
     "paragraphs": [
-      "ARMA Projects Ltd has redefined property maintenance with a concierge approach, focusing on prime residential and commercial properties.",
-      "Our tailored services and commitment to quality make us the perfect fit for discerning clients seeking reliable and efficient property management."
+      "ARMA Projects Ltd offers unrivaled concierge property maintenance for prime residences and offices. We ensure exceptional service.",
+      "Our automation solutions streamline processes, enhancing efficiency and client satisfaction. We serve premium clients with tailored care."
     ],
     "image": "https://images.pexels.com/photos/7937709/pexels-photo-7937709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Client Feedback",
+    "eyebrow": "Client Stories",
     "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "ARMA has transformed our property management. Their efficiency and attention to detail are unmatched.",
-        "name": "Jessica Thompson",
+        "quote": "ARMA Projects transformed our property management. Scheduling is now a breeze.",
+        "name": "John Smith",
         "role": "Estate Manager",
         "avatar": "https://images.pexels.com/photos/8353832/pexels-photo-8353832.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "The seamless service and professionalism of ARMA Projects are truly commendable.",
-        "name": "Michael Collins",
+        "quote": "Their attention to detail and efficiency are unmatched. Highly recommended!",
+        "name": "Sarah Johnson",
         "role": "Property Owner",
         "avatar": "https://images.unsplash.com/photo-1706066012947-65a9dcc95285?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxQcm9wZXJ0eSUyMG1haW50ZW5hbmNlJTIwJTJGJTIwRmFjaWxpdGllcyUyMG1hbmFnZW1lbnQlMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjcyNTY5OHww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "HQ Visit",
-    "title": "Meet Us",
-    "description": "Connect with us to experience bespoke property solutions tailored to your needs.",
-    "address": "Unknown",
-    "website": "armaprojects.co.uk",
+    "eyebrow": "Our Location",
+    "title": "Visit Us",
+    "description": "Located in the heart of prime residential and commercial areas, we provide unparalleled service.",
+    "address": "",
+    "website": "www.armaprojects.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Let's Talk",
-    "title": "Book a Consultation",
-    "description": "Reach out to us for personalized property maintenance solutions.",
-    "consent": "I agree to the terms and privacy policy."
+    "eyebrow": "Get In Touch",
+    "title": "Schedule a Consultation",
+    "description": "Contact us today to discuss how we can elevate your property's maintenance.",
+    "consent": "I consent to the terms and privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Revolutionize Maintenance",
-    "description": "Enhance efficiency with our automation solutions.",
+    "title": "Automate Your Maintenance",
+    "description": "AI solutions streamline your property care.",
     "bullets": [
-      "Automate scheduling and dispatch with ease.",
-      "Access service updates via a client portal.",
-      "Automated invoicing and payment integration."
+      "Online booking for easy scheduling.",
+      "Automated invoicing saves time.",
+      "Client portal for real-time updates."
     ],
     "offer": "Mention ARMA Projects for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "ARMA Projects delivers unforgettable experiences.",
-    "address": "Unknown",
+    "address": "",
     "email": "",
     "socials": [
       {
