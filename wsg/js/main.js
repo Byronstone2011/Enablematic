@@ -1,15 +1,15 @@
 const appData = {
   "brand": {
     "name": "WSG Joinery",
-    "tagline": "Crafting Excellence",
-    "category": "Interiors & Joinery",
-    "location": "",
-    "phone": ""
+    "tagline": "Crafting Interiors Perfectly",
+    "category": "Joinery & Interiors",
+    "location": "Global",
+    "phone": "N/A"
   },
   "hero": {
-    "eyebrow": "Award-winning service",
+    "eyebrow": "Award-winning joinery",
     "title": "Never miss a deadline again.",
-    "description": "WSG Joinery ensures timely project delivery with seamless coordination and expert craftsmanship.",
+    "description": "WSG Joinery ensures timely delivery and flawless craftsmanship for all your interior projects.",
     "highlights": [
       {
         "label": "Years in Business",
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Minimalist Design",
-        "description": "Our interiors feature clean layouts that enhance functionality and elegance."
+        "title": "Expert Craftsmanship",
+        "description": "Our skilled artisans ensure every project meets the highest standards."
       },
       {
-        "title": "Clear Communication",
-        "description": "We prioritize transparency and keep clients informed at every stage."
+        "title": "Innovative Design",
+        "description": "We use cutting-edge design techniques to create stunning interiors."
       },
       {
-        "title": "Professional Craft",
-        "description": "Our skilled team delivers exceptional craftsmanship in every project."
+        "title": "Reliable Delivery",
+        "description": "We guarantee timely completion, keeping your projects on schedule."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We specialize in crafting tailored interiors for diverse sectors.",
+    "description": "At WSG Joinery, we specialize in creating stunning interiors for various sectors.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Joinery Design",
-        "description": "Expertly crafted designs that blend functionality with aesthetics."
+        "description": "Expertly crafted designs tailored to your needs."
       },
       {
-        "icon": "🛠",
+        "icon": "🔨",
         "title": "On-site Installation",
-        "description": "Seamless installation service with attention to detail."
+        "description": "Seamless installation with attention to detail."
       },
       {
         "icon": "📋",
         "title": "Project Management",
-        "description": "Coordinated project execution ensuring timely completion."
+        "description": "Coordinated workflows ensuring project success."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Crafting Spaces for Over 35 Years",
+    "title": "Decades of Excellence",
     "paragraphs": [
-      "For over three decades, WSG Joinery has set the standard in creating award-winning interiors across sectors.",
-      "Our focused approach ensures each project benefits from digital automation and precise management."
+      "For over 35 years, WSG Joinery has delivered superior interiors across diverse sectors, winning multiple awards.",
+      "Our focus on automation and client satisfaction sets us apart, making us a preferred partner in the industry."
     ],
-    "image": "https://images.pexels.com/photos/7289739/pexels-photo-7289739.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Client Experiences",
+    "eyebrow": "What Our Clients Say",
+    "title": "Client Testimonials",
     "list": [
       {
-        "quote": "WSG Joinery delivered on time with outstanding quality, making our vision a reality.",
-        "name": "Samantha Green",
-        "role": "Hospitality Manager",
+        "quote": "WSG Joinery transformed our space on time and with impeccable quality.",
+        "name": "Sarah Brown",
+        "role": "Retail Manager",
         "avatar": "https://images.pexels.com/photos/7648239/pexels-photo-7648239.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their project management kept us on schedule without compromising craftsmanship.",
-        "name": "Michael Brown",
-        "role": "Retail Owner",
+        "quote": "Their project management kept us on track and stress-free.",
+        "name": "Mark Thompson",
+        "role": "Hospitality Director",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Explore Our Showroom",
-    "description": "Experience our craftsmanship first-hand and discuss your project needs.",
-    "address": "",
+    "eyebrow": "Global Presence",
+    "title": "Find Us Anywhere",
+    "description": "Our services are available globally, bringing quality joinery to your location.",
+    "address": "N/A",
     "website": "www.wsgjoinery.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get In Touch",
-    "title": "Book a Consultation",
-    "description": "Reach out to discuss your next project with our expert team.",
-    "consent": "I agree to the terms and conditions."
+    "eyebrow": "Get Started Today",
+    "title": "Ready to Transform?",
+    "description": "Contact us to discuss your project and see how we can help.",
+    "consent": "We respect your privacy. No spam."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline Your Projects",
-    "description": "Leverage AI to enhance project efficiency and precision.",
+    "title": "Leverage Automation",
+    "description": "Enhance your projects with our AI solutions.",
     "bullets": [
-      "Automate project scheduling and keep track in real-time.",
-      "Capture leads with automated quoting and estimation.",
-      "Integrate CAD/CAM designs directly into production."
+      "Automate project scheduling for efficiency.",
+      "Streamline quoting with accurate estimations.",
+      "Integrate design-to-production seamlessly."
     ],
     "offer": "Mention WSG Joinery for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "WSG Joinery delivers unforgettable experiences.",
-    "address": "",
+    "address": "N/A",
     "email": "",
     "socials": [
       {
