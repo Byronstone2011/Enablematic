@@ -1,23 +1,23 @@
 const appData = {
   "brand": {
     "name": "Foster Property",
-    "tagline": "Quality Maintenance Solutions",
+    "tagline": "Excellence in Every Detail",
     "category": "Property Maintenance",
-    "location": "UK",
-    "phone": "000-000-0000"
+    "location": "",
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted for 40+ years",
-    "title": "Streamline your property maintenance effortlessly",
-    "description": "We tackle job scheduling and reporting with ease, ensuring seamless service delivery every time.",
+    "eyebrow": "Trusted by Social Housing",
+    "title": "Streamline your property management today.",
+    "description": "We simplify scheduling, job tracking, and reporting for seamless maintenance solutions.",
     "highlights": [
       {
         "label": "Years in Business",
         "value": "40+"
       },
       {
-        "label": "Projects Managed",
-        "value": "5,000+"
+        "label": "Projects Completed",
+        "value": "10,000+"
       },
       {
         "label": "Client Satisfaction",
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Proven Expertise",
-        "description": "Our team has decades of experience in property maintenance."
+        "title": "Comprehensive Services",
+        "description": "We offer a full range of property maintenance solutions tailored to your needs."
       },
       {
-        "title": "Strong Partnerships",
-        "description": "We work with top contractors to ensure quality results."
+        "title": "Proven Expertise",
+        "description": "Our team has decades of experience ensuring quality service and reliability."
       },
       {
         "title": "Sustainable Practices",
-        "description": "Committed to environmentally responsible maintenance solutions."
+        "description": "Committed to environmentally friendly solutions for all maintenance projects."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our comprehensive services designed for property excellence.",
+    "description": "High quality services for social housing sector.",
     "cards": [
       {
-        "icon": "🏗",
-        "title": "Reactive Maintenance",
-        "description": "Swift response to urgent repair needs, ensuring minimal disruption."
-      },
-      {
         "icon": "🔧",
-        "title": "Planned Works",
-        "description": "Scheduled maintenance to keep properties in top condition."
+        "title": "Reactive Maintenance",
+        "description": "Quick response to urgent property repairs and maintenance needs."
       },
       {
-        "icon": "🏢",
-        "title": "Capital Projects",
-        "description": "Expert management of large-scale refurbishment and construction projects."
+        "icon": "🏗",
+        "title": "Capital Works",
+        "description": "Expert management and execution of large-scale renovation projects."
+      },
+      {
+        "icon": "🔨",
+        "title": "Refurbishment",
+        "description": "Comprehensive multi-trade repairs and refurbishments."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Building a Legacy of Excellence",
+    "title": "Decades of Dedication",
     "paragraphs": [
-      "Foster Property Maintenance Ltd has served the Social Housing Sector for over 40 years, providing top-notch maintenance.",
-      "Our scale and expertise make us uniquely suited to deliver comprehensive CRM, scheduling, and automation solutions."
+      "For over 40 years, Foster Property Maintenance Ltd has been a leader in providing top-tier services to the social housing sector.",
+      "Our scale and complexity make us the perfect partner for streamlined property management through advanced digital solutions."
     ],
-    "image": "https://images.pexels.com/photos/7937709/pexels-photo-7937709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client Voices",
-    "title": "What Our Clients Say",
+    "eyebrow": "What Our Clients Say",
+    "title": "Testimonials",
     "list": [
       {
-        "quote": "Foster Property's efficient scheduling system transformed our operations.",
-        "name": "John Smith",
-        "role": "Housing Association Manager",
-        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
+        "quote": "Foster Property Maintenance transformed our scheduling processes!",
+        "name": "Jane Smith",
+        "role": "Property Manager",
+        "avatar": "https://images.pexels.com/photos/8353832/pexels-photo-8353832.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their automation tools improved our project tracking immensely.",
-        "name": "Sarah Brown",
-        "role": "Property Manager",
+        "quote": "Their digital tracking improved our efficiency significantly.",
+        "name": "John Doe",
+        "role": "Housing Association Director",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
     "eyebrow": "Find Us",
-    "title": "Visit Our Headquarters",
-    "description": "Located in the UK, we serve clients nationwide with unmatched property expertise.",
-    "address": "123 Main St, Anytown, UK",
+    "title": "Visit Foster Property",
+    "description": "Discover how our expertise can enhance your property maintenance.",
+    "address": "",
     "website": "www.fpm-ltd.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
+    "eyebrow": "Get in Touch",
     "title": "Contact Us Today",
-    "description": "Reach out for tailored maintenance solutions that meet your needs.",
-    "consent": "By contacting us, you agree to our terms."
+    "description": "Reach out for consultations or service inquiries.",
+    "consent": "We respect your privacy and data."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Your Maintenance",
-    "description": "Harness AI to revolutionize property management.",
+    "title": "Streamline with AI",
+    "description": "Harness technology for seamless operations.",
     "bullets": [
-      "Online portal for easy service bookings.",
-      "Mobile app streamlining workforce tasks.",
-      "Automated invoicing and compliance tracking."
+      "Automate scheduling with our advanced systems.",
+      "Utilize digital portals for effortless service requests.",
+      "Enhance reporting with automated document generation."
     ],
     "offer": "Mention Foster Property for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Foster Property delivers unforgettable experiences.",
-    "address": "123 Main St, Anytown, UK",
+    "address": "",
     "email": "",
     "socials": [
       {
