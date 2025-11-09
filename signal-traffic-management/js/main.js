@@ -1,122 +1,122 @@
 const appData = {
   "brand": {
-    "name": "SIGNAL TRAFFIC MGMT",
-    "tagline": "Managing traffic, efficiently",
-    "category": "Traffic management",
-    "location": "United Kingdom",
+    "name": "SIGNAL TRAFFIC",
+    "tagline": "Managing traffic, ensuring safety",
+    "category": "Traffic Management",
+    "location": "UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Efficient solutions",
-    "title": "Eliminate project delays, ensure safety",
-    "description": "We provide compliant traffic management and real-time coordination for safety and efficiency.",
+    "eyebrow": "Precision Traffic Control",
+    "title": "Avoid delays and stay compliant with us",
+    "description": "We ensure project timelines and safety with Chapter 8 compliance and real-time communication.",
     "highlights": [
       {
         "label": "Projects Managed",
-        "value": "3,000+"
+        "value": "1,500+"
       },
       {
         "label": "Compliance Rate",
         "value": "99.9%"
       },
       {
-        "label": "Years of Experience",
+        "label": "Years Experience",
         "value": "20+"
       }
     ],
-    "image": "https://images.pexels.com/photos/5421686/pexels-photo-5421686.png?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Planning",
-        "description": "Our bespoke CAD designs ensure precise traffic management solutions."
+        "title": "Minimalist Design",
+        "description": "Our layout emphasizes clarity and functionality, enhancing user experience."
       },
       {
-        "title": "Real-Time Monitoring",
-        "description": "Utilize digital tools for instant communication and efficient workflow."
+        "title": "Vibrant Identity",
+        "description": "Our brand colors ensure strong visual recognition across all platforms."
       },
       {
-        "title": "Regulatory Compliance",
-        "description": "We guarantee compliance with Chapter 8 and other key regulations."
+        "title": "Certified Trust",
+        "description": "We display industry certifications prominently to assure reliability."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive traffic management services tailored to your needs.",
+    "description": "Comprehensive traffic solutions tailored to your needs.",
     "cards": [
       {
-        "icon": "🚧",
-        "title": "Temporary Traffic",
-        "description": "Manage traffic in urban, rural, and motorway settings with precision."
+        "icon": "🏗",
+        "title": "Traffic Management",
+        "description": "Expert management for urban, rural, and motorway environments."
       },
       {
-        "icon": "📈",
+        "icon": "💼",
         "title": "Consultation & Planning",
-        "description": "Design traffic schemes compliant with Chapter 8 for smooth operations."
+        "description": "Design traffic schemes compliant with Chapter 8 regulations."
       },
       {
-        "icon": "🖥",
+        "icon": "🛠",
         "title": "CAD Design",
-        "description": "Model traffic schemes for accuracy and efficiency in execution."
+        "description": "Bespoke CAD designs and traffic modelling solutions."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "From Concept to Execution",
+    "title": "Innovative Traffic Solutions",
     "paragraphs": [
-      "SIGNAL TRAFFIC MANAGEMENT LTD began with a vision to streamline traffic management. Our bespoke CAD designs set us apart in the industry.",
-      "We integrate digital solutions for compliance and real-time coordination, providing unmatched service to civil engineering and construction sectors."
+      "SIGNAL TRAFFIC MANAGEMENT LTD specializes in bespoke traffic management and CAD design. Our solutions are tailored to meet the unique needs of the UK civil engineering sector.",
+      "Our commitment to digital transformation ensures compliance and traceability. We leverage technology to enhance connectivity, delivering measurable ROI."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client Feedback",
+    "eyebrow": "Client Testimonials",
     "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "SIGNAL's solutions eliminated our project delays and ensured compliance effortlessly.",
-        "name": "John Smith",
+        "quote": "Thanks to SIGNAL TRAFFIC, our project stayed on schedule and fully compliant.",
+        "name": "John Davis",
         "role": "Project Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their real-time communication tools improved our site safety and coordination.",
-        "name": "Emma Brown",
+        "quote": "Their real-time communication tools significantly improved our site coordination.",
+        "name": "Emily Green",
         "role": "Site Supervisor",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Where We Operate",
-    "title": "Visit Us in the UK",
-    "description": "Our services cover the entire United Kingdom. Experience our efficient traffic management solutions.",
-    "address": "",
+    "eyebrow": "Visit Us",
+    "title": "Our Location",
+    "description": "Based in the UK, serving nationwide.",
+    "address": "Unknown",
     "website": "www.signaltrafficmanagement.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in Touch",
-    "title": "Schedule a Consultation",
-    "description": "Contact us today to discuss your traffic management needs.",
-    "consent": "By submitting, you agree to our terms."
+    "eyebrow": "Get In Touch",
+    "title": "Contact Us Today",
+    "description": "Reach out for expert traffic management solutions tailored to your project.",
+    "consent": "By contacting us, you agree to our privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate with AI",
-    "description": "Transform your operations with our AI-driven solutions.",
+    "title": "Why Automate?",
+    "description": "Harness the power of AI for smarter traffic management.",
     "bullets": [
-      "Automate lead capture and scheduling.",
-      "Integrate CRM for seamless follow-ups.",
-      "Use GPS tracking for workforce efficiency."
+      "Automate lead capture and scheduling for efficiency.",
+      "Integrate CRM for seamless contract follow-ups.",
+      "Real-time dashboards enhance workforce coordination."
     ],
-    "offer": "Mention SIGNAL TRAFFIC MGMT for the launch-week optimization kit.",
+    "offer": "Mention SIGNAL TRAFFIC for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "SIGNAL TRAFFIC MGMT delivers unforgettable experiences.",
-    "address": "",
+    "blurb": "SIGNAL TRAFFIC delivers unforgettable experiences.",
+    "address": "Unknown",
     "email": "",
     "socials": [
       {
