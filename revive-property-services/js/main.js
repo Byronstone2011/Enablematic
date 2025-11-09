@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
-    "name": "REVIVE PROPS UK",
-    "tagline": "Building Your Vision",
-    "category": "Construction",
+    "name": "REVIVE PROPERTY",
+    "tagline": "Transforming spaces beautifully",
+    "category": "Property Development",
     "location": "Liverpool/North",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Expert Property Services",
-    "title": "Fast, reliable solutions for your property needs",
-    "description": "We streamline project coordination to save time and ensure swift, quality results.",
+    "eyebrow": "Trusted by homeowners",
+    "title": "Quick quotes and seamless projects",
+    "description": "We streamline your property needs with fast quotes and reliable service.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "1,200+"
+        "value": "500+"
       },
       {
-        "label": "Years of Experience",
-        "value": "20+"
+        "label": "Years Experience",
+        "value": "10+"
       },
       {
         "label": "Client Satisfaction",
-        "value": "98%"
+        "value": "95%"
       }
     ],
     "image": "https://images.pexels.com/photos/8962799/pexels-photo-8962799.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Comprehensive Solutions",
-        "description": "Our one-stop services ensure seamless project coordination from start to finish."
+        "title": "Clear Communication",
+        "description": "We keep you informed with regular updates and transparent processes."
       },
       {
         "title": "Proven Expertise",
-        "description": "Decades of experience guarantee top-quality execution and client satisfaction."
+        "description": "Our skilled team delivers exceptional results tailored to your needs."
       },
       {
-        "title": "Trusted Reputation",
-        "description": "Our track record of successful projects speaks to our reliability and skill."
+        "title": "Comprehensive Solutions",
+        "description": "We offer end-to-end services from planning to completion."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We handle every aspect of property development with expertise.",
+    "description": "Our tailored solutions cater to all your property development needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Property Development",
-        "description": "We transform ideas into reality, handling all stages of development."
+        "description": "Transform your vision into reality with our expert development services."
       },
       {
         "icon": "🔨",
-        "title": "Refurbishment Projects",
-        "description": "Our team revitalizes spaces, enhancing functionality and aesthetics."
+        "title": "Refurbishment",
+        "description": "Revitalize spaces with our comprehensive refurbishment solutions."
       },
       {
-        "icon": "🚧",
-        "title": "Building Contracting",
-        "description": "Reliable contracting services ensure projects are completed on time."
+        "icon": "📋",
+        "title": "Project Coordination",
+        "description": "Streamline your projects with our seamless coordination services."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "From Vision to Reality",
+    "title": "A Tradition of Excellence",
     "paragraphs": [
-      "Whatever the project, no matter how ambitious, we are the team to get it done. Our family-run business prides itself on delivering exceptional results.",
-      "With clear service lines, we offer tailored solutions. Our automation tools enhance efficiency, ensuring swift responses and client engagement."
+      "Since inception, we've been committed to excellence in every project. Our team thrives on transforming spaces across the North West.",
+      "We leverage technology to enhance efficiency and ensure client satisfaction. Our family-run ethos guarantees personal touch and care."
     ],
     "image": "https://images.pexels.com/photos/7937709/pexels-photo-7937709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Client Success Stories",
+    "eyebrow": "Customer Voices",
+    "title": "What Clients Say",
     "list": [
       {
-        "quote": "REVIVE transformed our outdated property into a modern masterpiece. Their efficiency was remarkable.",
-        "name": "John H.",
+        "quote": "Revive Property transformed our home with precision and care. Their team was responsive and professional.",
+        "name": "John Smith",
         "role": "Homeowner",
         "avatar": "https://images.pexels.com/photos/34558071/pexels-photo-34558071.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their team handled everything seamlessly. I was impressed with their professionalism and attention to detail.",
-        "name": "Emma L.",
+        "quote": "Their project management made our refurbishment stress-free and efficient. Highly recommend!",
+        "name": "Emily Jones",
         "role": "Landlord",
         "avatar": "https://images.unsplash.com/photo-1738929185055-3dfc9e924823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMkYlMjBQcm9wZXJ0eSUyMGRldmVsb3BtZW50JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI3MjU4NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Come See Us",
-    "title": "Visit Our Office",
-    "description": "Located in the heart of Liverpool, our office is where innovation meets reliability.",
-    "address": "Liverpool, UK",
+    "eyebrow": "Visit Us",
+    "title": "Discover Our Expertise",
+    "description": "Contact us to explore how we can transform your property.",
+    "address": "",
     "website": "www.reviveps.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Contact Us Today",
-    "description": "Ready to transform your property? Reach out for a consultation.",
-    "consent": "By submitting, you agree to our terms."
+    "eyebrow": "Get In Touch",
+    "title": "Schedule Your Consultation",
+    "description": "Contact us for a free consultation to discuss your project needs.",
+    "consent": "We respect your privacy and ensure data protection."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline Your Projects",
-    "description": "Our automation solutions enhance efficiency and client satisfaction.",
+    "title": "Revolutionize Your Projects",
+    "description": "Experience the power of automation in property services.",
     "bullets": [
-      "Instant online quotes and booking forms.",
-      "Automated CRM for seamless lead management.",
-      "Real-time project updates via email/SMS."
+      "Instant online quotes for quick project estimates.",
+      "Automated updates keep you informed every step.",
+      "CRM tools enhance client communication and service."
     ],
-    "offer": "Mention REVIVE PROPS UK for the launch-week optimization kit.",
+    "offer": "Mention REVIVE PROPERTY for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "REVIVE PROPS UK delivers unforgettable experiences.",
-    "address": "Liverpool, UK",
+    "blurb": "REVIVE PROPERTY delivers unforgettable experiences.",
+    "address": "",
     "email": "",
     "socials": [
       {
