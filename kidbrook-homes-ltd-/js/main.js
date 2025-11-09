@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Kidbrook Homes",
-    "tagline": "Exquisite Living Spaces",
-    "category": "Residential Development",
-    "location": "South East",
-    "phone": "Unavailable"
+    "tagline": "Building bespoke excellence",
+    "category": "Residential Developer",
+    "location": "South East England",
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Exceptional Quality Homes",
-    "title": "Transforming home buying with bespoke solutions",
-    "description": "Kidbrook Homes offers personalized, high-quality housing solutions. We streamline the process for a seamless experience.",
+    "eyebrow": "High-quality developments",
+    "title": "Streamline your home buying journey today.",
+    "description": "Kidbrook Homes crafts bespoke homes with attention to detail. Our seamless process enhances your experience.",
     "highlights": [
       {
-        "label": "Homes Developed",
-        "value": "100+"
+        "label": "Years in Business",
+        "value": "10+"
       },
       {
-        "label": "Projects Completed",
-        "value": "50+"
+        "label": "Homes Built",
+        "value": "500+"
       },
       {
-        "label": "Customer Satisfaction",
-        "value": "98%"
+        "label": "Client Satisfaction",
+        "value": "97%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,64 +31,64 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Family-Centric Design",
-        "description": "Our homes are crafted with families in mind, ensuring comfort and harmony."
+        "title": "Emotional Connections",
+        "description": "Our homes foster lifelong family memories through thoughtful design."
       },
       {
-        "title": "Tailored Developments",
-        "description": "We adapt our designs to enhance and blend with local environments."
+        "title": "Attention to Detail",
+        "description": "We ensure every home is crafted to the highest standards."
       },
       {
-        "title": "Proven Expertise",
-        "description": "Decades of experience back our commitment to excellence."
+        "title": "Customer Testimonials",
+        "description": "Our clients' words speak volumes about our commitment to quality."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our wide range of bespoke services tailored for discerning homebuyers.",
+    "description": "Discover our range of bespoke services designed to meet your needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Bespoke Development",
-        "description": "Custom design and build services to create your dream home."
+        "description": "We design and build custom homes that stand out."
       },
       {
         "icon": "📜",
-        "title": "Land & Planning",
-        "description": "Expert land acquisition and planning consent negotiation."
+        "title": "Land Acquisition",
+        "description": "We handle land purchasing and planning consent efficiently."
       },
       {
-        "icon": "🏡",
-        "title": "Sales & Customization",
-        "description": "Tailored property sales and customer specification services."
+        "icon": "🌳",
+        "title": "Landscaping Packages",
+        "description": "Our finishing touches include exceptional landscaping services."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Building Dreams",
+    "title": "Crafting Homes with Heart",
     "paragraphs": [
-      "Covering the South East, Kidbrook Homes delivers high-spec houses with attention to detail. Each development blends with its unique location.",
-      "Our bespoke approach and manual processes are evolving with digital solutions to enhance customer experiences and scale our operations."
+      "Kidbrook Homes has been transforming the South East with high-specification homes. Each project blends seamlessly with its environment.",
+      "Our unique approach combines bespoke building with modern technology, ensuring quality and satisfaction for our clients."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
     "eyebrow": "What Clients Say",
-    "title": "Customer Satisfaction",
+    "title": "Customer Success Stories",
     "list": [
       {
-        "quote": "Kidbrook made buying our home easy and stress-free. The attention to detail is unmatched.",
-        "name": "Emma L.",
+        "quote": "Kidbrook made our dream home a reality with their attention to every detail.",
+        "name": "Sarah Johnson",
         "role": "Homeowner",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their bespoke approach suited our needs perfectly. The process was seamless.",
-        "name": "John D.",
-        "role": "Homebuyer",
+        "quote": "Their process was seamless, and the final product exceeded our expectations.",
+        "name": "David Smith",
+        "role": "New Home Buyer",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
@@ -96,25 +96,25 @@ const appData = {
   "visit": {
     "eyebrow": "Visit Us",
     "title": "Experience Our Developments",
-    "description": "Discover the exceptional quality of Kidbrook Homes. Visit us to explore our beautiful properties.",
-    "address": "Unavailable",
-    "website": "Unavailable",
+    "description": "Explore our stunning homes and see the Kidbrook difference firsthand.",
+    "address": "",
+    "website": "www.kidbrook.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Contact Us Today",
-    "description": "Reach out to us for bespoke home solutions tailored to your needs.",
-    "consent": "We value your privacy."
+    "eyebrow": "Get in Touch",
+    "title": "Start Your Journey",
+    "description": "Contact us to discuss your dream home or land opportunities.",
+    "consent": "I agree to receive communications."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Embrace the Future with AI",
-    "description": "Streamline your home buying experience with our innovative solutions.",
+    "title": "Enhance with Automation",
+    "description": "Discover how automation elevates your home buying journey.",
     "bullets": [
-      "Automate lead capture to never miss an opportunity.",
-      "Schedule viewings online effortlessly.",
-      "Track construction milestones with ease."
+      "Automate lead capture to streamline inquiries.",
+      "Use digital portals for bespoke home choices.",
+      "Automate project management for efficiency."
     ],
     "offer": "Mention Kidbrook Homes for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Kidbrook Homes delivers unforgettable experiences.",
-    "address": "Unavailable",
+    "address": "",
     "email": "",
     "socials": [
       {
