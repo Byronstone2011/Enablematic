@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Fusion",
-    "tagline": "Innovative Urban Living",
-    "category": "Residential Property",
-    "location": "UK",
+    "tagline": "Crafting Urban Spaces",
+    "category": "Real Estate Development",
+    "location": "Global Impact",
     "phone": "N/A"
   },
   "hero": {
-    "eyebrow": "Transforming Spaces",
-    "title": "Seamless lead management for real estate.",
-    "description": "Fusion enhances digital engagement with streamlined lead and project communications.",
+    "eyebrow": "Transforming Communities",
+    "title": "Streamlined property development solutions",
+    "description": "Fusion enhances online presence and communication efficiency. Automate lead capture, streamline project updates, and boost conversions.",
     "highlights": [
       {
         "label": "Projects Completed",
         "value": "150+"
       },
       {
-        "label": "Years Experience",
+        "label": "Years of Experience",
         "value": "20+"
       },
       {
         "label": "Client Satisfaction",
-        "value": "98%"
+        "value": "95%"
       }
     ],
     "image": "https://images.pexels.com/photos/7937963/pexels-photo-7937963.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -32,89 +32,89 @@ const appData = {
     "items": [
       {
         "title": "Architectural Excellence",
-        "description": "Our designs redefine living spaces with stunning visual impact."
+        "description": "Our designs are visually striking, showcasing innovation and functionality."
       },
       {
-        "title": "Strategic Placements",
-        "description": "We create valuable urban spaces through thoughtful development."
+        "title": "Seamless Navigation",
+        "description": "Our site is user-friendly, ensuring easy access to vital information."
       },
       {
-        "title": "Sophisticated Design",
-        "description": "Our portfolio showcases strong, impactful architectural styles."
+        "title": "Visual Impact",
+        "description": "We use stunning full-width imagery to highlight our projects."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our diverse real estate services designed to elevate urban living.",
+    "description": "Explore our core services designed to elevate your living spaces.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Property Development",
-        "description": "We build homes that blend functionality with modern aesthetics."
-      },
-      {
-        "icon": "🏙",
-        "title": "Urban Regeneration",
-        "description": "We transform neighborhoods into thriving urban communities."
+        "description": "We create bespoke residential developments that blend aesthetics and function."
       },
       {
         "icon": "🛠",
-        "title": "Project Coordination",
-        "description": "Our team ensures seamless project execution from start to finish."
+        "title": "Construction Coordinati",
+        "description": "Efficient project delivery with seamless coordination and execution."
+      },
+      {
+        "icon": "🏙",
+        "title": "Place-making",
+        "description": "We transform urban spaces into vibrant communities through regeneration."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Building the Future",
+    "title": "Building Better Futures",
     "paragraphs": [
-      "Fusion is at the forefront of residential property innovation, crafting spaces that inspire and engage.",
-      "Our approach aligns with modern demands, ensuring exceptional value and satisfaction for all stakeholders."
+      "Fusion started with a vision to redefine urban living. With innovative designs and strategic planning, we create homes that inspire.",
+      "Our expertise aligns with market needs, providing unmatched value. From design to delivery, Fusion ensures top-tier service."
     ],
     "image": "https://images.pexels.com/photos/8482828/pexels-photo-8482828.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Client Feedback",
+    "eyebrow": "Client Success",
     "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "Fusion transformed our development process. Lead management has never been easier!",
-        "name": "Anna Smith",
+        "quote": "Fusion transformed our digital presence, increasing our lead generation significantly.",
+        "name": "John Doe",
         "role": "Property Investor",
         "avatar": "https://images.pexels.com/photos/11951876/pexels-photo-11951876.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their automated communications keep us informed and engaged at every stage.",
-        "name": "John Doe",
-        "role": "Homebuyer",
+        "quote": "Their automation tools streamlined our communications, saving us valuable time.",
+        "name": "Jane Smith",
+        "role": "Development Partner",
         "avatar": "https://images.unsplash.com/photo-1633938418978-978ac96ff9a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxSZXNpZGVudGlhbCUyMHByb3BlcnR5JTIwZGV2ZWxvcG1lbnQlMjAlMkYlMjByZWFsJTIwZXN0YXRlJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI2NDgzNTF8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Discover Our Spaces",
-    "description": "Experience our projects firsthand. Contact us for a private tour.",
-    "address": "N/A",
+    "eyebrow": "Find Us",
+    "title": "Our Locations",
+    "description": "Explore our projects and see how we transform spaces into communities.",
+    "address": "Various Locations",
     "website": "fusionstudents.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in Touch",
-    "title": "Start Your Journey",
-    "description": "Contact us today to explore opportunities. Let's build something great together.",
-    "consent": "I agree to the privacy policy."
+    "eyebrow": "Reach Out",
+    "title": "Contact Us",
+    "description": "Interested in our services? Contact us for a consultation to discuss your needs.",
+    "consent": "We respect your privacy and keep your data secure."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "AI-Powered Solutions",
-    "description": "Leverage our automation to enhance your real estate operations.",
+    "title": "Automate Your Growth",
+    "description": "Harness AI to streamline operations and boost efficiency.",
     "bullets": [
-      "Automated lead capture with CRM integration.",
-      "Streamlined project and tenant communications.",
-      "Targeted marketing for new developments."
+      "Lead capture forms sync with CRM for seamless follow-up.",
+      "Automate communication with clients via a central portal.",
+      "Enhanced marketing strategies with AI-driven campaigns."
     ],
     "offer": "Mention Fusion for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Fusion delivers unforgettable experiences.",
-    "address": "N/A",
+    "address": "Various Locations",
     "email": "",
     "socials": [
       {
