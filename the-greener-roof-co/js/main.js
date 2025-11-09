@@ -1,93 +1,93 @@
 const appData = {
   "brand": {
     "name": "Greener Roof Co.",
-    "tagline": "Sustainable Roofing Experts",
+    "tagline": "Sustainable roofing solutions",
     "category": "Roofing",
     "location": "Central Scotland",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Sustainable Roofing Solutions",
-    "title": "Reliable, eco-friendly roofing you can trust.",
-    "description": "We replace roofs sustainably, offering competitive pricing and long-term reliability backed by warranties.",
+    "eyebrow": "Eco-friendly roofing",
+    "title": "Reliable roofing made sustainable.",
+    "description": "We offer sustainable roofing replacements with transparent quotes and 50-year guarantees.",
     "highlights": [
       {
-        "label": "Roof Warranties",
-        "value": "50 years"
+        "label": "Years in Business",
+        "value": "10+"
       },
       {
-        "label": "Projects Completed",
-        "value": "1,000+"
+        "label": "Roofs Replaced",
+        "value": "5,000+"
       },
       {
         "label": "Customer Satisfaction",
-        "value": "96%"
+        "value": "99%"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
+    "image": "https://images.pexels.com/photos/9875411/pexels-photo-9875411.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Visual Clarity",
-        "description": "Our services are clearly categorized with engaging visuals."
+        "title": "Sustainable Expertise",
+        "description": "We specialize in eco-friendly roofing, ensuring a greener future for your home."
       },
       {
-        "title": "Proven Trust",
-        "description": "We highlight customer reviews to build trust and credibility."
+        "title": "Trusted Craftsmanship",
+        "description": "Our experienced team guarantees high-quality work with 50-year warranties."
       },
       {
-        "title": "Eco-Centric",
-        "description": "Our focus on sustainability sets us apart in the industry."
+        "title": "Efficient Solutions",
+        "description": "Fast, reliable service with transparent pricing and no hidden costs."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Our roofing solutions prioritize sustainability and quality.",
+    "description": "Choose from our sustainable and durable roofing services.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Slate Re-roofing",
-        "description": "We offer durable slate re-roofing with long-term guarantees."
+        "title": "Sustainable Roofs",
+        "description": "Our eco-friendly roof coverings come with a 50-year guarantee."
       },
       {
         "icon": "🔧",
         "title": "Roof Repairs",
-        "description": "Expert repairs ensure your roof stays in top condition."
+        "description": "Quick and efficient repairs to extend the life of your roof."
       },
       {
         "icon": "☀️",
-        "title": "Solar PV Install",
-        "description": "Harness solar energy with our efficient PV installations."
+        "title": "Solar PV Installation",
+        "description": "Harness the power of the sun with our solar panel solutions."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Leading the Way in Green Roofing",
+    "title": "Building a Greener Future",
     "paragraphs": [
-      "The Greener Roof Co. was founded to provide sustainable and reliable roofing solutions. We believe in eco-friendly practices and transparent pricing.",
-      "Our commitment to sustainability and positive customer feedback make us a perfect match for growth-focused innovations."
+      "The Greener Roof Co. started with a vision to transform roofing into a sustainable practice. Our commitment is to provide eco-friendly solutions that stand the test of time.",
+      "We focus on growth through advanced automation and sustainability. Our positive reviews and efficient processes make us a leader in the green roofing industry."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Customer Feedback",
+    "eyebrow": "Customer Stories",
     "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "The Greener Roof Co. replaced our roof swiftly and sustainably. Their service is unbeatable!",
-        "name": "Jane Smith",
+        "quote": "The Greener Roof Co. replaced our storm-damaged roof quickly and efficiently. Highly recommend!",
+        "name": "Emily Thompson",
         "role": "Homeowner",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Finally, a roofing company that values eco-friendliness. Highly recommend their services.",
-        "name": "Mark Jones",
+        "quote": "Their transparent pricing and eco-friendly options made choosing them an easy decision.",
+        "name": "David Murray",
         "role": "Property Manager",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
@@ -95,26 +95,26 @@ const appData = {
   },
   "visit": {
     "eyebrow": "Visit Us",
-    "title": "Located Across Central Scotland",
-    "description": "Serving homeowners from Dundee to Dumfries, we bring sustainable roofing solutions to your doorstep.",
+    "title": "Serving Central Scotland",
+    "description": "Our services are available from Dundee to Dumfries, providing sustainable roofing solutions.",
     "address": "",
-    "website": "",
+    "website": "greenerroofco.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get In Touch",
+    "eyebrow": "Get Started",
     "title": "Request a Free Estimate",
-    "description": "Contact us today for a free, no-obligation roof estimate.",
-    "consent": "I agree to the terms and privacy policy."
+    "description": "Contact us today for a transparent quote and discover sustainable roofing options.",
+    "consent": "I agree to the privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Enhance Efficiency with AI",
-    "description": "Transform your roofing experience with automation.",
+    "title": "Automate Your Roofing Needs",
+    "description": "Leverage AI to enhance your experience with us.",
     "bullets": [
-      "Schedule appointments online easily.",
-      "Automate estimate follow-ups via email/SMS.",
-      "Streamline payments with online processing."
+      "Online scheduling for easy appointments.",
+      "Automated estimate follow-ups for clarity.",
+      "Streamlined invoicing for quick payments."
     ],
     "offer": "Mention Greener Roof Co. for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
