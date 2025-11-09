@@ -1,26 +1,26 @@
 const appData = {
   "brand": {
     "name": "EngEPA",
-    "tagline": "Engineering excellence",
+    "tagline": "Assessing Future Engineers",
     "category": "Education",
-    "location": "Unknown",
-    "phone": ""
+    "location": "N/A",
+    "phone": "N/A"
   },
   "hero": {
     "eyebrow": "Approved by Ofqual",
-    "title": "Simplify your apprenticeship assessments.",
-    "description": "EngEPA provides clear guidance and streamlined assessments, reducing your stress and workload.",
+    "title": "Streamline your EPA process effortlessly",
+    "description": "EngEPA offers structured guidance and reduces administrative burdens for seamless assessments.",
     "highlights": [
       {
-        "label": "Assessments Completed",
-        "value": "1,500+"
+        "label": "Standards Assessed",
+        "value": "20+"
       },
       {
-        "label": "Certification Rate",
-        "value": "98%"
+        "label": "Candidate Satisfaction",
+        "value": "95%"
       },
       {
-        "label": "Years of Experience",
+        "label": "Years Experience",
         "value": "10+"
       }
     ],
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Credible Authority",
-        "description": "We are backed by Ofqual, ensuring trust and reliability in every assessment."
+        "title": "Official Credibility",
+        "description": "Endorsed by regulatory bodies, ensuring trusted assessments."
       },
       {
-        "title": "Comprehensive Services",
-        "description": "Our service grid covers various apprenticeship levels for seamless support."
+        "title": "Clear Service Grid",
+        "description": "Comprehensive coverage across multiple apprenticeship levels."
       },
       {
-        "title": "Engaging Visuals",
-        "description": "Professional photography shows real apprenticeship scenarios for better engagement."
+        "title": "Visual Engagement",
+        "description": "Professional photos depict real apprenticeship scenarios."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "EngEPA offers specialized services to facilitate engineering apprenticeships.",
+    "description": "EngEPA ensures thorough and compliant assessments.",
     "cards": [
       {
-        "icon": "💼",
+        "icon": "🛠",
         "title": "End-Point Assessments",
-        "description": "We provide end-point assessments for engineering apprenticeships, ensuring compliance."
+        "description": "Conducting EPAs for a wide range of engineering standards."
       },
       {
-        "icon": "🛡",
+        "icon": "📋",
         "title": "Administrative Support",
-        "description": "Our team manages all communications, reducing your administrative workload."
+        "description": "We handle coordination for training providers and employers."
       },
       {
         "icon": "📚",
-        "title": "Candidate Resources",
-        "description": "We offer preparation guides and support resources to help candidates succeed."
+        "title": "Preparation Guides",
+        "description": "Providing resources and support to ease candidate nerves."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Building Future Engineers",
+    "title": "Building Engineering Futures",
     "paragraphs": [
-      "EngEPA is an Ofqual-approved End Point Assessment Organisation. We offer assessments across a range of engineering apprenticeship standards.",
-      "Our services align with digital automation and candidate experience improvements, ensuring compliance and reducing administrative burdens."
+      "EngEPA is an Ofqual-approved organization offering end-point assessments for engineering apprenticeships.",
+      "Our services align with your needs, reducing admin tasks, enhancing candidate experiences, and ensuring compliance."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Client Testimonials",
+    "eyebrow": "Client Testimonials",
+    "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "EngEPA's guidance made the assessment process smooth and stress-free for our apprentices.",
-        "name": "Jane Smith",
-        "role": "Training Manager",
+        "quote": "EngEPA made the assessment process clear and stress-free for our apprentices.",
+        "name": "John Smith",
+        "role": "Training Provider",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their administrative support was invaluable, allowing us to focus on training.",
-        "name": "Tom Brown",
-        "role": "Employer Liaison",
+        "quote": "Their support resources were invaluable for our candidates.",
+        "name": "Sarah Brown",
+        "role": "Employer",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Location",
-    "title": "Where We Are",
-    "description": "EngEPA operates across various locations, bringing our services directly to you.",
-    "address": "Unknown",
-    "website": "www.engepa.com",
+    "eyebrow": "Contact Us",
+    "title": "Get In Touch",
+    "description": "Reach out to learn more about our assessment services.",
+    "address": "N/A",
+    "website": "N/A",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Contact Us",
-    "title": "Get Started Today",
-    "description": "Reach out to us for more information or to schedule a consultation.",
-    "consent": "I consent to being contacted by EngEPA."
+    "eyebrow": "Ready to Start?",
+    "title": "Book a Consultation",
+    "description": "Contact us to streamline your assessment process today.",
+    "consent": "We respect your privacy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Your Assessments",
-    "description": "Improve efficiency and reduce workload with our AI solutions.",
+    "title": "AI Advantages",
+    "description": "Automation streamlines your EPA process.",
     "bullets": [
-      "Online portal for seamless bookings and reminders.",
-      "Automated workflows for compliance and reporting.",
-      "Integrated systems for smooth provider management."
+      "Online portals simplify scheduling and tracking.",
+      "Automated workflows cut administrative time.",
+      "Integrate systems for seamless communication."
     ],
     "offer": "Mention EngEPA for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "EngEPA delivers unforgettable experiences.",
-    "address": "Unknown",
+    "address": "N/A",
     "email": "",
     "socials": [
       {
