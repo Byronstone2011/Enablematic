@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "VNRE",
-    "tagline": "Your London Property Experts",
-    "category": "Real Estate",
+    "tagline": "Your London property expert",
+    "category": "Real estate",
     "location": "London",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Exceptional Service",
-    "title": "Streamline your property journey today.",
-    "description": "VNRE optimizes property sales and lettings with efficient automation. Enjoy faster responses and seamless transactions.",
+    "eyebrow": "Top-tier London agency",
+    "title": "Streamline your property journey today",
+    "description": "VNRE simplifies property sales and lettings with automated solutions and quick responses.",
     "highlights": [
       {
-        "label": "Properties Sold",
-        "value": "500+"
+        "label": "Properties Managed",
+        "value": "1,200+"
       },
       {
-        "label": "Years of Experience",
-        "value": "10+"
-      },
-      {
-        "label": "Client Satisfaction",
+        "label": "Happy Clients",
         "value": "98%"
+      },
+      {
+        "label": "Years in Business",
+        "value": "10+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -32,62 +32,62 @@ const appData = {
     "items": [
       {
         "title": "Stunning Imagery",
-        "description": "Our professional photography enhances property appeal and attracts serious buyers."
+        "description": "Our listings feature professional photos to captivate buyers and tenants."
       },
       {
-        "title": "Clear Calls-To-Action",
-        "description": "Engaging CTAs guide visitors to book viewings or request valuations effortlessly."
+        "title": "Clear Calls-to-Action",
+        "description": "Every page guides clients to act, increasing engagement and conversions."
       },
       {
-        "title": "Trusted Reputation",
-        "description": "Industry certifications and client reviews showcase our expertise and reliability."
+        "title": "Trust & Expertise",
+        "description": "We leverage certifications and reviews to build trust with our clients."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our comprehensive real estate services in London.",
+    "description": "VNRE offers comprehensive property services in London.",
     "cards": [
       {
         "icon": "🏡",
         "title": "Property Sales",
-        "description": "Sell your property with ease. Our team ensures a smooth, profitable sale."
+        "description": "Sell your property with our expert guidance and marketing strategies."
       },
       {
-        "icon": "🔑",
+        "icon": "🏢",
         "title": "Lettings",
-        "description": "Find the perfect rental. We connect tenants and landlords efficiently."
+        "description": "Find the perfect rental with our extensive listings and support."
       },
       {
-        "icon": "📈",
-        "title": "Valuations",
-        "description": "Get accurate property valuations. Our experts provide precise market insights."
+        "icon": "🔍",
+        "title": "Property Search",
+        "description": "Explore our curated listings to discover your ideal property."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Building Trust in Real Estate",
+    "title": "From Local Roots to Trusted Experts",
     "paragraphs": [
-      "VNRE has been a trusted name in London's real estate scene, providing top-notch property sales and lettings services. Our expertise and dedication to client satisfaction set us apart.",
-      "With a focus on automation and innovation, we streamline the property experience. From lead capture to seamless transactions, VNRE offers unparalleled efficiency and success."
+      "VNRE was founded to provide unparalleled property services in London. We offer sales, lettings, and management solutions tailored to client needs.",
+      "Our approach integrates technology to enhance client experiences, ensuring efficient service and satisfaction."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client Experiences",
+    "eyebrow": "Client Success",
     "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "VNRE simplified my home buying process. Their prompt response and expertise made all the difference.",
-        "name": "Emma R.",
+        "quote": "VNRE's fast response and clear guidance made my property search seamless!",
+        "name": "Emily Clarke",
         "role": "Home Buyer",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "As a landlord, I appreciate VNRE's efficient lettings service. They find quality tenants quickly.",
-        "name": "James T.",
+        "quote": "As a landlord, VNRE's automated follow-ups saved me time and effort.",
+        "name": "John Becker",
         "role": "Landlord",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
@@ -95,26 +95,26 @@ const appData = {
   },
   "visit": {
     "eyebrow": "Visit Us",
-    "title": "Explore London Properties",
-    "description": "Discover the vibrant property market in London with VNRE. Let us guide you to your dream home.",
-    "address": "",
-    "website": "vnre.co.uk",
+    "title": "Discover Our London Office",
+    "description": "Located in the heart of London, VNRE is easily accessible for all your property needs.",
+    "address": "London, UK",
+    "website": "https://www.vnre.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get in Touch",
-    "title": "Contact Us Today",
-    "description": "Reach out for property inquiries or consultations. We're here to assist you.",
-    "consent": "By contacting us, you agree to our terms."
+    "title": "Contact VNRE Today",
+    "description": "Reach out to us for property consultations or inquiries.",
+    "consent": "We respect your privacy and data."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Your Property Journey",
-    "description": "Enhance your real estate experience with VNRE's automation.",
+    "title": "Enhance Efficiency with AI",
+    "description": "Leverage automation to optimize your real estate processes.",
     "bullets": [
-      "Automate lead capture and follow-ups.",
-      "Schedule online appointments easily.",
-      "Sync listings across multiple platforms."
+      "Capture leads automatically with CRM integration.",
+      "Book appointments online with calendar sync.",
+      "Automate follow-ups for inquiries and viewings."
     ],
     "offer": "Mention VNRE for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "VNRE delivers unforgettable experiences.",
-    "address": "",
+    "address": "London, UK",
     "email": "",
     "socials": [
       {
