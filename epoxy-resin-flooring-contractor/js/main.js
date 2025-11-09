@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
-    "name": "Robex Contracting",
-    "tagline": "Flooring that lasts",
+    "name": "Robex",
+    "tagline": "Quality floors, lasting value",
     "category": "Industrial Flooring",
-    "location": "United Kingdom",
-    "phone": ""
+    "location": "UK",
+    "phone": "Not available"
   },
   "hero": {
     "eyebrow": "Premium epoxy solutions",
-    "title": "Durable, hygienic floors for your industry",
-    "description": "Robex ensures longevity and safety with top-quality epoxy flooring tailored for high-traffic and chemical areas.",
+    "title": "Ensure safe, durable flooring now",
+    "description": "Robex Contracting solves safety and durability issues with top-quality epoxy resin floors.",
     "highlights": [
+      {
+        "label": "Years of Experience",
+        "value": "20+"
+      },
       {
         "label": "Projects Completed",
         "value": "1,000+"
       },
       {
-        "label": "Years Experience",
-        "value": "20+"
-      },
-      {
-        "label": "Client Satisfaction",
-        "value": "99%"
+        "label": "Customer Satisfaction",
+        "value": "98%"
       }
     ],
     "image": "https://images.pexels.com/photos/4483773/pexels-photo-4483773.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -32,91 +32,91 @@ const appData = {
     "items": [
       {
         "title": "Expert Craftsmanship",
-        "description": "Our skilled team delivers precise installations for lasting results."
+        "description": "Our team ensures precision and lasting results for every installation."
       },
       {
-        "title": "Innovative Products",
-        "description": "We use cutting-edge materials for superior performance and safety."
+        "title": "Trusted Materials",
+        "description": "We use in-house manufactured resin products for superior quality."
       },
       {
-        "title": "Proven Reliability",
-        "description": "Trust our experience and industry knowledge for your flooring needs."
+        "title": "Proven Solutions",
+        "description": "Our floors meet safety and hygiene standards for demanding environments."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Robex Contracting offers tailored solutions for industrial and commercial flooring.",
+    "description": "Robex Contracting offers expert epoxy flooring solutions for industrial needs.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Epoxy Resin Flooring",
-        "description": "High-quality epoxy installations ensuring durability and safety."
+        "title": "Epoxy Resin Floors",
+        "description": "We install high-quality epoxy resin flooring for durability and safety."
       },
       {
         "icon": "🛡",
-        "title": "Food-Safe Flooring",
-        "description": "Hygienic flooring solutions for food and pharmaceutical sectors."
+        "title": "Hygienic Flooring",
+        "description": "Our food-safe flooring meets strict hygiene standards in sensitive areas."
       },
       {
-        "icon": "🚶",
-        "title": "Anti-Slip Solutions",
-        "description": "Prevent accidents with our anti-slip systems for all surfaces."
+        "icon": "🧱",
+        "title": "Anti-Slip Coatings",
+        "description": "Prevent slips with our specialized anti-slip solutions for all surfaces."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Commitment to Quality",
+    "title": "From Vision to Reality",
     "paragraphs": [
-      "Robex Contracting ensures lasting quality for UK industrial floors. We specialize in premium epoxy resin installations.",
-      "Serving diverse industries, we enhance efficiency with digital quoting and scheduling. Our solutions are tailored to client needs."
+      "Robex Contracting was founded to deliver superior epoxy flooring across the UK. We focus on quality and customer satisfaction.",
+      "Our dedication to innovation and automation helps us provide efficient, reliable service to our clients."
     ],
     "image": "https://images.pexels.com/photos/7464233/pexels-photo-7464233.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Trusted by Many",
+    "eyebrow": "Client Feedback",
+    "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "Robex's epoxy flooring transformed our space. It's durable and hygienic.",
-        "name": "John Smith",
-        "role": "Facility Manager",
+        "quote": "Robex provided a durable, hygienic floor that exceeded our expectations.",
+        "name": "Sarah Thompson",
+        "role": "Factory Manager",
         "avatar": "https://images.pexels.com/photos/17313428/pexels-photo-17313428.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their anti-slip solutions made our walkways much safer. Highly recommend!",
-        "name": "Emily Johnson",
-        "role": "Operations Director",
+        "quote": "Their anti-slip coatings have significantly improved our workplace safety.",
+        "name": "James Edwards",
+        "role": "Site Supervisor",
         "avatar": "https://images.unsplash.com/photo-1643480231085-d552c59bd229?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxJbmR1c3RyaWFsJTIwJTJGJTIwQ29tbWVyY2lhbCUyMEZsb29yaW5nJTIwJTI4RXBveHklMjAlMjYlMjBSZXNpbiUyMEZsb29yaW5nJTI5JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI3MjU4ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
     "eyebrow": "Find Us",
-    "title": "Visit Our Headquarters",
-    "description": "Explore our innovative flooring solutions in the heart of the UK.",
-    "address": "Location details unavailable",
+    "title": "Visit Robex",
+    "description": "We're proud to serve clients across the UK with our quality flooring solutions.",
+    "address": "Not available",
     "website": "www.robex.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get In Touch",
-    "title": "Contact Us Today",
-    "description": "Reach out for expert advice and a free consultation on our flooring solutions.",
-    "consent": "We respect your privacy."
+    "eyebrow": "Contact Us",
+    "title": "Get a Quote",
+    "description": "Reach out today to discuss your flooring needs with our experts.",
+    "consent": "By contacting us, you agree to receive follow-up communications."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Enhance Efficiency",
-    "description": "Leverage automation for seamless operations.",
+    "title": "Automate with Ease",
+    "description": "Streamline your flooring projects with our AI-powered tools.",
     "bullets": [
-      "Instant online project estimates",
-      "Automated follow-up sequences",
-      "Efficient project scheduling"
+      "Get instant quotes with our online tool.",
+      "Automated follow-ups ensure project success.",
+      "E-commerce portal for quick repeat orders."
     ],
-    "offer": "Mention Robex Contracting for the launch-week optimization kit.",
+    "offer": "Mention Robex for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Robex Contracting delivers unforgettable experiences.",
-    "address": "Location details unavailable",
+    "blurb": "Robex delivers unforgettable experiences.",
+    "address": "Not available",
     "email": "",
     "socials": [
       {
