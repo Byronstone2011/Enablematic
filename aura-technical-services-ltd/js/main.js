@@ -1,15 +1,15 @@
 const appData = {
   "brand": {
-    "name": "Aura Tech Services",
-    "tagline": "Building Solutions, Elevated",
+    "name": "Aura Technical",
+    "tagline": "Reach new heights",
     "category": "Building Services",
-    "location": "UK",
+    "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Your MEP Experts",
-    "title": "Streamline MEP projects, reduce delays.",
-    "description": "Aura Technical Services LTD offers seamless project management to enhance efficiency and minimize gaps.",
+    "eyebrow": "Leading UK MEP Consultancy",
+    "title": "Streamline your projects with expert MEP solutions.",
+    "description": "Aura Technical Services LTD eliminates delays with automated MEP management. Save time and enhance efficiency.",
     "highlights": [
       {
         "label": "Years in Business",
@@ -31,72 +31,72 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Clear Categorization",
-        "description": "Our services are organized for easy navigation and clarity."
+        "title": "Visual Clarity",
+        "description": "Our service cards are clear and easy to navigate, aiding decision-making."
       },
       {
-        "title": "Brand Consistency",
-        "description": "We maintain strong visual identity across all platforms."
+        "title": "Consistent Branding",
+        "description": "Our red theme ensures brand recognition and trust with clients."
       },
       {
-        "title": "Trusted Expertise",
-        "description": "Decades of experience ensure project success and client trust."
+        "title": "Trust Signals",
+        "description": "Client logos and testimonials establish credibility and confidence."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive MEP solutions tailored for your needs.",
+    "description": "Comprehensive MEP services tailored to meet your project's needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "MEP Management",
-        "description": "Expert management of mechanical, electrical, and plumbing projects."
+        "description": "Expert management ensures seamless project execution from start to finish."
       },
       {
         "icon": "💼",
-        "title": "MEP Design",
-        "description": "Innovative design solutions to meet your building's unique requirements."
+        "title": "Design & Installation",
+        "description": "Innovative design and precise installation services for optimal results."
       },
       {
-        "icon": "🔧",
-        "title": "MEP Installation",
-        "description": "Seamless installation services ensuring quality and compliance."
+        "icon": "🛡",
+        "title": "Compliance Support",
+        "description": "Ensure your projects meet all ISO standards with our guidance."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "From Inception to Leading Expertise",
+    "title": "Building Success Since 2014",
     "paragraphs": [
-      "Established in 2014, Aura Technical Services LTD has grown into one of the UK's leading building service firms. Our collaborative approach ensures client satisfaction and project success.",
-      "We specialize in repeatable project work and embrace digital transformation to enhance efficiency. Our solutions are designed to meet the evolving needs of our clients."
+      "Since 2014, Aura Technical Services LTD has been a leader in building service management. We focus on collaborative and user-friendly solutions.",
+      "Our commitment to innovation and efficiency makes us a perfect fit for clients seeking streamlined project management and reliable MEP services."
     ],
     "image": "https://images.unsplash.com/photo-1551135049-8a33b5883817?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxCdWlsZGluZyUyMHNlcnZpY2VzJTIwJTJGJTIwTUVQJTIwY29uc3VsdGFuY3klMjAlMjYlMjBtYW5hZ2VtZW50JTIwcHJvZmVzc2lvbmFsJTIwdGVhbSUyMGF0JTIwd29ya3xlbnwwfHx8fDE3NjI3MjYwNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "testimonials": {
-    "eyebrow": "Client Feedback",
-    "title": "What Our Clients Say",
+    "eyebrow": "Hear from Clients",
+    "title": "Trusted by Industry Leaders",
     "list": [
       {
-        "quote": "Aura's automated systems streamlined our project coordination, saving us time and reducing errors.",
+        "quote": "Aura Technical transformed our project management. Delays are a thing of the past.",
         "name": "John Smith",
-        "role": "Facilities Manager",
+        "role": "Main Contractor",
         "avatar": "https://images.unsplash.com/photo-1578952531273-2384658914b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxCdWlsZGluZyUyMHNlcnZpY2VzJTIwJTJGJTIwTUVQJTIwY29uc3VsdGFuY3klMjAlMjYlMjBtYW5hZ2VtZW50JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI3MjYwNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
       },
       {
-        "quote": "Their expertise and user-friendly approach helped us achieve seamless MEP integration.",
-        "name": "Emily Johnson",
-        "role": "Project Consultant",
+        "quote": "Their automation solutions saved us time and improved communication.",
+        "name": "Sarah Johnson",
+        "role": "Facilities Manager",
         "avatar": "https://images.unsplash.com/photo-1489515229412-1f3a8f08dc34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwyfHxCdWlsZGluZyUyMHNlcnZpY2VzJTIwJTJGJTIwTUVQJTIwY29uc3VsdGFuY3klMjAlMjYlMjBtYW5hZ2VtZW50JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI3MjYwNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Our Location",
-    "title": "Visit Us",
-    "description": "Discover how our services can elevate your projects. Contact us for a consultation.",
+    "eyebrow": "Visit Us",
+    "title": "Discover Our Expertise",
+    "description": "Explore our innovative solutions and how we can assist your projects.",
     "address": "",
     "website": "auratechnicalservices.co.uk",
     "mapEmbed": ""
@@ -104,19 +104,19 @@ const appData = {
   "inquiry": {
     "eyebrow": "Get Started",
     "title": "Contact Us Today",
-    "description": "Reach out to Aura Technical Services LTD for tailored MEP solutions.",
-    "consent": "I consent to data processing."
+    "description": "Reach out for consultations or inquiries about our services.",
+    "consent": "By submitting, you agree to our privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Enhance Efficiency with AI",
-    "description": "Leverage our AI solutions for seamless project management.",
+    "title": "Automate Your Success",
+    "description": "Leverage AI to enhance efficiency in your projects.",
     "bullets": [
-      "Automate lead capture and follow-up with integrated CRM.",
-      "Utilize project portals for real-time updates and communication.",
-      "Speed up tender responses with proposal automation."
+      "Automate lead capture and follow-up seamlessly.",
+      "Streamline project updates with a client portal.",
+      "Speed up proposal responses and maintain consistency."
     ],
-    "offer": "Mention Aura Tech Services for the launch-week optimization kit.",
+    "offer": "Mention Aura Technical for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,7 +124,7 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Aura Tech Services delivers unforgettable experiences.",
+    "blurb": "Aura Technical delivers unforgettable experiences.",
     "address": "",
     "email": "",
     "socials": [
