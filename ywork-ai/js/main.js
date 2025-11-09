@@ -1,26 +1,26 @@
 const appData = {
   "brand": {
     "name": "Ywork",
-    "tagline": "Smarter, Faster Buying",
+    "tagline": "Decide, don't work",
     "category": "Procurement Software",
     "location": "Global",
-    "phone": "N/A"
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "AI-driven procurement",
-    "title": "Streamline your bidding process today",
-    "description": "Ywork automates quote collection and comparison, saving time and reducing costs.",
+    "eyebrow": "AI-driven efficiency",
+    "title": "End manual procurement hassles today",
+    "description": "Ywork automates quote requests and comparisons, saving you time and money.",
     "highlights": [
       {
-        "label": "Suppliers Reached",
+        "label": "Quotes Automated",
         "value": "1,000+"
       },
       {
-        "label": "Projects Managed",
-        "value": "500+"
+        "label": "Time Saved",
+        "value": "50%"
       },
       {
-        "label": "Efficiency Boost",
+        "label": "Cost Reduction",
         "value": "30%"
       }
     ],
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "AI Integration",
-        "description": "Our AI seamlessly integrates with existing systems for efficiency."
+        "title": "Minimalist Design",
+        "description": "Experience a clean, user-friendly interface that prioritizes functionality."
       },
       {
-        "title": "User-Friendly Design",
-        "description": "Clean, minimalist interface enhances user experience."
+        "title": "Clear Value Prop",
+        "description": "Our headline clearly communicates the benefits of using Ywork."
       },
       {
-        "title": "Credible Partners",
-        "description": "Trusted by industry leaders with proven results."
+        "title": "Trusted Integrations",
+        "description": "Seamlessly connect with Dropbox, Google Drive, and more."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Ywork optimizes construction procurement with cutting-edge technology.",
+    "description": "Ywork enhances procurement processes with cutting-edge AI technology.",
     "cards": [
       {
         "icon": "💻",
-        "title": "AI Quote Agent",
-        "description": "Automatically requests and compares supplier quotes."
+        "title": "AI Quote Comparison",
+        "description": "Let our AI agent request and compare supplier quotes seamlessly."
       },
       {
         "icon": "📂",
         "title": "Document Management",
-        "description": "Cleans up project folders and manages all documents."
+        "description": "Efficiently manage project folders and documents with ease."
       },
       {
-        "icon": "🏗",
-        "title": "Procurement Packages",
-        "description": "Prepares scoped packages efficiently."
+        "icon": "📧",
+        "title": "Automated Outreach",
+        "description": "Automate supplier emails and log communications effortlessly."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "From Vision to Reality",
+    "title": "From Concept to Reality",
     "paragraphs": [
-      "Ywork was founded to make procurement smarter with AI. We streamline supply chains, reduce costs, and improve efficiency.",
-      "Our advanced solutions are perfect for large projects needing integration and automation. We empower construction firms to excel."
+      "Ywork was founded to revolutionize procurement with AI. We simplify complex processes, making buying smarter and faster.",
+      "Our tech-focused approach addresses the unique needs of construction firms. We integrate seamlessly to enhance efficiency."
     ],
     "image": "https://images.pexels.com/photos/3862627/pexels-photo-3862627.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Customer Feedback",
-    "title": "What Clients Are Saying",
+    "eyebrow": "What Clients Say",
+    "title": "Proven Results",
     "list": [
       {
-        "quote": "Ywork saved us from manual quote chaos. Now, it's fast and efficient.",
-        "name": "John Doe",
+        "quote": "Ywork transformed our procurement process, saving us time and costs. Highly recommended!",
+        "name": "Alex Johnson",
         "role": "Project Manager",
         "avatar": "https://images.pexels.com/photos/5473957/pexels-photo-5473957.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Our procurement process is now streamlined and cost-effective.",
-        "name": "Jane Smith",
-        "role": "Procurement Lead",
+        "quote": "Our team now focuses on strategic tasks, thanks to Ywork's automation.",
+        "name": "Maria Gonzalez",
+        "role": "Procurement Director",
         "avatar": "https://images.unsplash.com/photo-1659353587722-54d027fcc09d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxQcm9jdXJlbWVudCUyMHNvZnR3YXJlJTIwJTI4Y29uc3RydWN0aW9uJTI5JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI3MjU2NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Office Location",
-    "title": "Visit Us",
-    "description": "We operate globally, bringing our expertise to your projects anywhere.",
-    "address": "N/A",
+    "eyebrow": "Global Reach",
+    "title": "Connect With Us",
+    "description": "Explore our solutions from anywhere in the world.",
+    "address": "Online",
     "website": "www.ywork.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Contact Us",
-    "title": "Get Started",
-    "description": "Reach out for a demo or consultation with our experts.",
-    "consent": "We respect your privacy."
+    "eyebrow": "Get Started",
+    "title": "Ready to Transform?",
+    "description": "Contact us for a consultation and see how Ywork can optimize your procurement.",
+    "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Your Workflow",
-    "description": "Leverage AI to transform procurement.",
+    "title": "AI-Powered Efficiency",
+    "description": "Discover how Ywork automates procurement for better results.",
     "bullets": [
       "Automate quote requests and follow-ups.",
-      "Centralize and log all supplier communications.",
-      "Generate detailed procurement reports instantly."
+      "Parse and highlight optimal quotes.",
+      "Centralize documents and logs."
     ],
     "offer": "Mention Ywork for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Ywork delivers unforgettable experiences.",
-    "address": "N/A",
+    "address": "Online",
     "email": "",
     "socials": [
       {
