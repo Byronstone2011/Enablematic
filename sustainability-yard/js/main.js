@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Sustainability Yard",
-    "tagline": "Reduce, reuse, rebuild",
+    "tagline": "Build Greener Futures",
     "category": "Circular Economy",
-    "location": "Online Marketplace",
+    "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Circular economy leader",
-    "title": "Cut disposal costs, streamline logistics.",
-    "description": "We simplify reuse of surplus materials, saving costs and reducing waste. Secure transactions and easy logistics streamline your business.",
+    "eyebrow": "Circular Marketplace",
+    "title": "Reduce waste, save money, and build sustainably.",
+    "description": "Our platform eases disposal costs, logistics, and secures transactions for surplus materials.",
     "highlights": [
       {
         "label": "Materials Reused",
-        "value": "500,000+"
-      },
-      {
-        "label": "Happy Users",
         "value": "10,000+"
       },
       {
-        "label": "Transactions Secured",
-        "value": "99.9%"
+        "label": "Active Users",
+        "value": "5,000+"
+      },
+      {
+        "label": "Carbon Saved",
+        "value": "35%+"
       }
     ],
     "image": "https://images.pexels.com/photos/14036132/pexels-photo-14036132.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -32,37 +32,37 @@ const appData = {
     "items": [
       {
         "title": "Mission-Driven",
-        "description": "Our focus on sustainability drives every aspect of our platform."
+        "description": "We focus on sustainability by reducing construction waste and costs."
       },
       {
         "title": "Social Proof",
-        "description": "Testimonials and partners validate our impact in the industry."
+        "description": "Trusted by thousands, our marketplace connects eco-conscious builders."
       },
       {
         "title": "Structured Info",
-        "description": "Clear sections provide easy navigation and understanding for users."
+        "description": "Our platform is intuitive, making it easy to buy and sell materials."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our versatile services tailored to your needs.",
+    "description": "Our app connects buyers and sellers of surplus building materials.",
     "cards": [
       {
         "icon": "📱",
-        "title": "Mobile Marketplace",
-        "description": "Buy and sell surplus materials easily with our app."
+        "title": "Mobile App Marketplace",
+        "description": "Buy and sell surplus materials with ease via our intuitive mobile app."
       },
       {
         "icon": "📊",
-        "title": "Carbon Calculator",
-        "description": "Track sustainability with our carbon and weight calculator."
+        "title": "Sustainability Tools",
+        "description": "Use our carbon and weight calculator to report sustainability metrics."
       },
       {
         "icon": "📍",
-        "title": "Stock Tracker",
-        "description": "Monitor stock in real-time with location-based tracking."
+        "title": "Real-Time Tracker",
+        "description": "Track stock and locations with our real-time stock and map features."
       }
     ]
   },
@@ -70,51 +70,51 @@ const appData = {
     "eyebrow": "Our Journey",
     "title": "Building a Sustainable Future",
     "paragraphs": [
-      "Sustainability Yard was created to transform how building materials are reused. We provide a platform that connects sellers and buyers, reducing waste.",
-      "With a dedicated audience and clear feature gaps, our platform is poised for growth. Automation enhances efficiency, reducing friction and boosting conversions."
+      "Sustainability Yard was founded to revolutionize the way surplus building materials are reused. Our mission is to cut waste and promote eco-friendly practices.",
+      "With a strong app and engaged audience, we integrate automation to solve payment, scheduling, and reporting challenges, delivering measurable ROI."
     ],
     "image": "https://images.pexels.com/photos/7414207/pexels-photo-7414207.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Customer Feedback",
-    "title": "What Our Users Say",
+    "eyebrow": "What They Say",
+    "title": "Client Feedback",
     "list": [
       {
-        "quote": "Sustainability Yard transformed our material disposal process, saving us time and money.",
-        "name": "John Doe",
+        "quote": "Sustainability Yard made surplus sales easy and reduced my disposal costs!",
+        "name": "Alex Thompson",
         "role": "Construction Manager",
         "avatar": "https://images.pexels.com/photos/5583988/pexels-photo-5583988.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "The app's secure transactions and easy logistics are game-changers.",
-        "name": "Jane Smith",
-        "role": "Builder",
+        "quote": "The app's real-time tracking and secure payments simplified our logistics.",
+        "name": "Jamie Lee",
+        "role": "Project Lead",
         "avatar": "https://images.unsplash.com/photo-1602403229475-67b99e81d7c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxDaXJjdWxhciUyMGVjb25vbXklMjAlMkYlMjBvbmxpbmUlMjBtYXJrZXRwbGFjZSUyMGZvciUyMHJldXNhYmxlJTIwYnVpbGRpbmclMjBtYXRlcmlhbHMlMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjcyNTYzM3ww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Connect With Us",
-    "title": "Find Us Online",
-    "description": "Explore our platform and see how we can help your business thrive sustainably.",
-    "address": "Visit our website for more details.",
+    "eyebrow": "Find Us",
+    "title": "Connect With Us",
+    "description": "Discover our innovative marketplace and join a community committed to sustainability.",
+    "address": "",
     "website": "www.sustainabilityyard.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Join the Marketplace",
-    "description": "Contact us to start buying or selling materials today.",
-    "consent": "Consent to contact"
+    "eyebrow": "Contact Us",
+    "title": "Get in Touch",
+    "description": "Reach out to learn how we can help you build sustainably.",
+    "consent": "I consent to receive communications."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline with AI",
-    "description": "Leverage automation to enhance your operations.",
+    "title": "Automate Your Savings",
+    "description": "Harness AI to streamline material reuse and maximize savings.",
     "bullets": [
-      "Automated pricing based on demand and location.",
-      "Secure payments with integrated escrow services.",
-      "Optimize routes for faster pickup and delivery."
+      "Automated listings from images reduce manual effort.",
+      "Dynamic pricing optimizes costs based on demand.",
+      "Automated scheduling speeds up delivery processes."
     ],
     "offer": "Mention Sustainability Yard for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Sustainability Yard delivers unforgettable experiences.",
-    "address": "Visit our website for more details.",
+    "address": "",
     "email": "",
     "socials": [
       {
