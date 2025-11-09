@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Carocelle",
-    "tagline": "Domain, Hosting & More",
+    "tagline": "Hosting redefined",
     "category": "Web Hosting",
-    "location": "UK",
+    "location": "UK-Based",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted Web Services",
-    "title": "Transform your online presence now.",
-    "description": "Carocelle Group simplifies hosting with seamless domain transfers and automated processes.",
+    "eyebrow": "Seamless Solutions",
+    "title": "Transform parked domains into active opportunities",
+    "description": "Carocelle Group offers streamlined hosting and domain solutions, boosting trust and conversions.",
     "highlights": [
       {
         "label": "Domains Managed",
-        "value": "50,000+"
+        "value": "10,000+"
+      },
+      {
+        "label": "Uptime Guarantee",
+        "value": "99.9%"
       },
       {
         "label": "Years of Experience",
-        "value": "10+"
-      },
-      {
-        "label": "Client Satisfaction",
-        "value": "98%"
+        "value": "15+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
+        "title": "Robust Infrastructure",
+        "description": "Our servers ensure consistent, high-performance hosting services."
+      },
+      {
         "title": "Comprehensive Services",
-        "description": "We offer a full suite of hosting and domain solutions tailored to your needs."
+        "description": "From domains to dedicated servers, we cover all your needs."
       },
       {
-        "title": "Cutting-edge Automation",
-        "description": "Our automated systems streamline processes for efficiency and ease of use."
-      },
-      {
-        "title": "Robust Support",
-        "description": "Our expert team ensures that you receive top-notch assistance whenever needed."
+        "title": "User-Friendly Tools",
+        "description": "Our intuitive control panels simplify your hosting management."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our hosting and domain services designed for flexibility and growth.",
+    "description": "Explore our range of hosting and domain services tailored for businesses.",
     "cards": [
       {
         "icon": "💻",
         "title": "Web Hosting",
-        "description": "Unlimited web hosting with powerful features tailored to your business."
+        "description": "Unlimited web hosting with reliable performance for your sites."
       },
       {
         "icon": "🔄",
         "title": "Reseller Hosting",
-        "description": "White-label reselling with seamless integration and control."
+        "description": "White-label reseller hosting to grow your business effortlessly."
       },
       {
-        "icon": "🌐",
-        "title": "Domain Registration",
-        "description": "Easily manage domain registrations and transfers with us."
+        "icon": "🔐",
+        "title": "Domain Services",
+        "description": "Secure domain registration and easy transfers at competitive rates."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Empowering Online Success",
+    "title": "Commitment to Excellence",
     "paragraphs": [
-      "Founded with a mission to deliver reliable hosting, Carocelle Group has grown into a trusted name in the UK.",
-      "Our services align perfectly with your needs, offering unmatched ease and efficiency in hosting."
+      "Carocelle Group started with a vision to provide seamless web hosting and domain services. We partner with Heart Internet to offer top-tier solutions.",
+      "We identify and address hosting deficiencies, enhancing user experience through automation and optimized processes. Our strategies ensure growth."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Client Experiences",
+    "eyebrow": "Client Feedback",
+    "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "Carocelle transformed my website management. Their automation tools are a game changer.",
-        "name": "Jenny Smith",
-        "role": "Web Designer",
+        "quote": "Carocelle Group transformed our parked domain into a thriving site. Their hosting solutions are top-notch!",
+        "name": "John Smith",
+        "role": "Small Business Owner",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Switching to Carocelle was seamless. Their support and tools are top-notch.",
-        "name": "Mark Johnson",
-        "role": "Small Business Owner",
+        "quote": "Their reseller hosting has enabled us to expand our services with ease. Highly recommend!",
+        "name": "Emily Carter",
+        "role": "Agency Director",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Find Us",
-    "title": "UK-based Services",
-    "description": "Discover our services available across the UK, enhancing your online presence.",
+    "eyebrow": "Discover Us",
+    "title": "Your Hosting Experts",
+    "description": "Connect with us to explore hosting solutions tailored for your needs.",
     "address": "",
-    "website": "",
+    "website": "www.irc-carocelle.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get Started",
     "title": "Contact Us Today",
-    "description": "Reach out to us for hosting solutions tailored to your needs.",
-    "consent": "I agree to the terms and privacy policy."
+    "description": "Reach out for a consultation or to start your hosting journey with us.",
+    "consent": "I agree to the terms and conditions."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "AI-Driven Efficiency",
-    "description": "Harness automation to enhance your hosting experience.",
+    "title": "Automate and Optimize",
+    "description": "Boost efficiency with our AI-driven automation solutions.",
     "bullets": [
-      "Seamless domain transfers simplify your setup.",
-      "Automated provisioning speeds up deployment.",
-      "Nurture clients with smart email sequences."
+      "Streamline onboarding with automated domain transfers.",
+      "Enhance reseller experiences with automated provisioning.",
+      "Optimize marketing via automated email sequences."
     ],
     "offer": "Mention Carocelle for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
