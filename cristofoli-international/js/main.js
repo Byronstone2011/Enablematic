@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
-    "name": "Cristofoli Int'l",
-    "tagline": "Lightweight Stone Experts",
+    "name": "Cristofoli Int.",
+    "tagline": "Innovative Stone Solutions",
     "category": "Building Materials",
-    "location": "",
-    "phone": ""
+    "location": "Global",
+    "phone": "+1 (800) 555-0199"
   },
   "hero": {
-    "eyebrow": "Innovative Stone Solutions",
-    "title": "Overcome weight limits with our stone systems",
-    "description": "Cristofoli International offers lightweight stone cladding that meets safety and design needs effectively.",
+    "eyebrow": "Lightweight Stone Experts",
+    "title": "Solve weight issues with Cristolite™.",
+    "description": "Overcome structural limits with lightweight, compliant stone solutions for diverse applications.",
     "highlights": [
-      {
-        "label": "Projects Completed",
-        "value": "1,500+"
-      },
-      {
-        "label": "Compliance Rate",
-        "value": "99.8%"
-      },
       {
         "label": "Years in Business",
         "value": "20+"
+      },
+      {
+        "label": "Projects Delivered",
+        "value": "1,000+"
+      },
+      {
+        "label": "Compliance Rate",
+        "value": "99.9%"
       }
     ],
     "image": "https://images.pexels.com/photos/19783674/pexels-photo-19783674.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Craftsmanship",
-        "description": "Our team ensures flawless execution and lasting quality."
-      },
-      {
         "title": "Innovative Design",
-        "description": "We deliver cutting-edge solutions in stone cladding technology."
+        "description": "Our designs maximize aesthetics and functionality, offering superior stone solutions."
       },
       {
-        "title": "Client Satisfaction",
-        "description": "We prioritize client needs, achieving high satisfaction rates."
+        "title": "Precision Engineering",
+        "description": "Advanced engineering ensures each product meets the highest performance standards."
+      },
+      {
+        "title": "Global Expertise",
+        "description": "Decades of experience with diverse global projects ensure top-notch service."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Cristofoli offers advanced stone solutions for diverse needs.",
+    "description": "Comprehensive lightweight stone solutions tailored for diverse needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Material Sourcing",
-        "description": "We source premium materials for all your architectural needs."
+        "description": "We source premium materials for superior stone cladding systems."
       },
       {
         "icon": "🛠",
         "title": "Design & Engineering",
-        "description": "Innovative solutions for stone cladding systems."
+        "description": "Expert engineering for lightweight, durable stone cladding systems."
       },
       {
-        "icon": "🔧",
-        "title": "Installation",
-        "description": "Expert installation for interior and exterior stone cladding."
+        "icon": "🚢",
+        "title": "Marine Interiors",
+        "description": "Specialized stone solutions for marine and aerospace interiors."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Pioneers in Stone Cladding",
+    "title": "Crafting Excellence",
     "paragraphs": [
-      "Cristofoli International started with a vision to transform how stone is used in architecture. Our products redefine possibilities.",
-      "Our solutions cater to high-value projects, offering lightweight, compliant, and innovative stone applications."
+      "Cristofoli International specializes in lightweight stone solutions, revolutionizing cladding and interior design.",
+      "We provide high-value, project-based solutions for architects and developers, leveraging automation for efficiency."
     ],
     "image": "https://images.pexels.com/photos/16488698/pexels-photo-16488698.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Customer Voices",
+    "eyebrow": "Client Success",
     "title": "What Clients Say",
     "list": [
       {
-        "quote": "Cristofoli's lightweight panels solved our structural concerns brilliantly.",
+        "quote": "Cristofoli's lightweight panels solved our structural challenges seamlessly.",
         "name": "Alex Johnson",
         "role": "Architect",
         "avatar": "https://images.pexels.com/photos/4937198/pexels-photo-4937198.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their cladding systems meet all our stringent safety standards.",
-        "name": "Maria Thompson",
-        "role": "Developer",
+        "quote": "Their compliance expertise is unmatched in marine applications.",
+        "name": "Maria T.",
+        "role": "Marine Designer",
         "avatar": "https://images.unsplash.com/photo-1604854574894-1be73ca43cb8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxCdWlsZGluZyUyMG1hdGVyaWFscyUyMCUyRiUyMEFyY2hpdGVjdHVyYWwlMjBzdG9uZSUyMGNsYWRkaW5nJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI3MjU5NzF8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Our Location",
-    "title": "Discover Our Expertise",
-    "description": "Explore our solutions tailored for unique architectural needs.",
-    "address": "",
+    "eyebrow": "Visit Us",
+    "title": "Explore Our Solutions",
+    "description": "Located globally, we offer innovative stone solutions tailored for your needs.",
+    "address": "Global Locations",
     "website": "www.cristofoli.net",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in Touch",
-    "title": "Request a Consultation",
-    "description": "Contact us today to discuss your project requirements.",
-    "consent": "I agree to receive communications from Cristofoli."
+    "eyebrow": "Get Started",
+    "title": "Contact Us Today",
+    "description": "Reach out for bespoke stone solutions tailored to your project requirements.",
+    "consent": "I agree to receive communications."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline Your Projects",
-    "description": "Automation enhances efficiency and lead capture.",
+    "title": "Automate Your Projects",
+    "description": "Enhance efficiency with our advanced automation solutions.",
     "bullets": [
-      "Instant project quotes with our online configurator.",
-      "Automated lead nurturing through CRM integration.",
-      "Access technical downloads to qualify prospects."
+      "Instant online quotes for faster decisions.",
+      "Automated lead nurturing to keep prospects engaged.",
+      "Access technical downloads instantly."
     ],
-    "offer": "Mention Cristofoli Int'l for the launch-week optimization kit.",
+    "offer": "Mention Cristofoli Int. for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Cristofoli Int'l delivers unforgettable experiences.",
-    "address": "",
+    "blurb": "Cristofoli Int. delivers unforgettable experiences.",
+    "address": "Global Locations",
     "email": "",
     "socials": [
       {
