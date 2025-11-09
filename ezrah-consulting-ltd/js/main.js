@@ -1,26 +1,26 @@
 const appData = {
   "brand": {
-    "name": "Ezrah",
-    "tagline": "Unlock Growth Potential",
+    "name": "Ezrah Consulting",
+    "tagline": "Drive Growth, Expand Reach",
     "category": "Consulting",
     "location": "UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Strategic Market Growth",
-    "title": "Boost your online presence and capture new markets.",
-    "description": "Ezrah Consulting Ltd helps you enhance your digital footprint and seize regional opportunities.",
+    "eyebrow": "Expert Growth Solutions",
+    "title": "Boost your presence and convert leads.",
+    "description": "Ezrah Consulting Ltd helps you shine online and capture new business in regional markets.",
     "highlights": [
       {
-        "label": "Years in Business",
+        "label": "Years of Experience",
         "value": "10+"
       },
       {
         "label": "Clients Served",
-        "value": "500+"
+        "value": "300+"
       },
       {
-        "label": "Success Rate",
+        "label": "Expansion Success Rate",
         "value": "95%"
       }
     ],
@@ -32,91 +32,91 @@ const appData = {
     "items": [
       {
         "title": "Luxury Aesthetic",
-        "description": "Our sophisticated design exudes elegance, perfect for high-end firms."
+        "description": "Our sophisticated design sets you apart in high-end consultancy."
       },
       {
-        "title": "Visual Hierarchy",
-        "description": "Clear sections guide your journey to effective marketing solutions."
+        "title": "Clear Visual Hierarchy",
+        "description": "Experience a streamlined presentation that enhances readability."
       },
       {
-        "title": "Premium Branding",
-        "description": "Gold accents create a standout, luxurious brand perception."
+        "title": "Premium Perception",
+        "description": "Consistent gold accents create a premium brand image."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive marketing and business strategies tailored to your needs.",
+    "description": "Unlock your business potential with our tailored services.",
     "cards": [
       {
         "icon": "💼",
         "title": "Marketing Consultancy",
-        "description": "Develop robust marketing plans to boost your brand's visibility."
+        "description": "Elevate your brand with strategic marketing advice."
       },
       {
         "icon": "📈",
-        "title": "Business Strategy",
-        "description": "Craft strategies to expand your reach and capture new markets."
+        "title": "Business Development",
+        "description": "Expand your reach with expert development strategies."
       },
       {
         "icon": "🌍",
         "title": "Regional Expansion",
-        "description": "Identify growth opportunities in new regional markets."
+        "description": "Identify and seize new opportunities in key markets."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Transformative Growth",
+    "title": "Where Expertise Meets Opportunity",
     "paragraphs": [
-      "Ezrah Consulting Ltd was founded to empower businesses with strategic insights and growth tactics. We specialize in marketing and development.",
-      "Our tailored solutions make us a perfect partner for firms seeking effective market expansion and improved online presence."
+      "Ezrah Consulting Ltd started with a mission to empower businesses through effective marketing and strategic growth.",
+      "We deliver transformative solutions, optimizing your online presence and expanding your market reach."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client Voices",
-    "title": "What Our Clients Say",
+    "eyebrow": "Client Success",
+    "title": "Hear From Our Clients",
     "list": [
       {
-        "quote": "Ezrah transformed our online presence, leading to increased client engagement.",
-        "name": "Emily Clarke",
-        "role": "Managing Partner",
+        "quote": "Ezrah transformed our online visibility, leading to a 50% increase in client inquiries.",
+        "name": "Sarah Johnson",
+        "role": "Marketing Director",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their strategies helped us capture new regional markets effortlessly.",
-        "name": "James Turner",
-        "role": "Operations Director",
+        "quote": "Their regional market insights are invaluable. Our business is thriving!",
+        "name": "Michael Lee",
+        "role": "Business Owner",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Discover Us",
-    "title": "Explore Our Locations",
-    "description": "Connect with us to unlock growth potential in dynamic markets.",
-    "address": "UK",
-    "website": "ezrah.co.uk",
+    "eyebrow": "Visit Us",
+    "title": "Connect With Us",
+    "description": "Discover how we can help your business thrive.",
+    "address": "Contact for details",
+    "website": "www.ezrah.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Contact Us Today",
-    "description": "Reach out to discuss how we can elevate your business strategy.",
-    "consent": "I agree to be contacted by Ezrah."
+    "eyebrow": "Let's Talk",
+    "title": "Schedule a Consultation",
+    "description": "Reach out to us to explore how we can assist your business.",
+    "consent": "I agree to the terms and conditions."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Growth",
-    "description": "Leverage AI to enhance your business development.",
+    "title": "Automate for Success",
+    "description": "Leverage AI to streamline and enhance business processes.",
     "bullets": [
-      "Implement CRM to track and convert leads efficiently.",
-      "Automate email nurturing to engage potential clients.",
-      "Track campaign success with marketing automation tools."
+      "Implement CRM automation to track leads seamlessly.",
+      "Automate marketing to nurture and convert prospects.",
+      "Use campaign tracking for strategic insights."
     ],
-    "offer": "Mention Ezrah for the launch-week optimization kit.",
+    "offer": "Mention Ezrah Consulting for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Ezrah delivers unforgettable experiences.",
-    "address": "UK",
+    "blurb": "Ezrah Consulting delivers unforgettable experiences.",
+    "address": "Contact for details",
     "email": "",
     "socials": [
       {
