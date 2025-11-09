@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
-    "name": "UK ROLLER SHUTTERS",
-    "tagline": "Securing Your World",
+    "name": "UK Roller Shutters",
+    "tagline": "Secure Your Future",
     "category": "Security Solutions",
-    "location": "United Kingdom",
-    "phone": "N/A"
+    "location": "",
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Bespoke Security Solutions",
-    "title": "Protect your assets with custom roller shutters.",
-    "description": "Our bespoke solutions enhance security, ensuring peace of mind with reliable installation and maintenance.",
+    "eyebrow": "Trusted Security Experts",
+    "title": "Secure your assets with bespoke shutters.",
+    "description": "Our custom solutions ensure robust protection, reliable installation, and seamless maintenance.",
     "highlights": [
       {
-        "label": "Years in Business",
-        "value": "15+"
+        "label": "Years of Experience",
+        "value": "20+"
       },
       {
         "label": "Installations Completed",
-        "value": "3,000+"
+        "value": "5,000+"
       },
       {
-        "label": "Customer Satisfaction",
-        "value": "98%"
+        "label": "Client Satisfaction",
+        "value": "99%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Visual Expertise",
-        "description": "Clear product categorization with visual examples enhances decision-making."
+        "title": "Proven Expertise",
+        "description": "Decades of industry experience ensure top-quality installations."
       },
       {
-        "title": "Industry Credibility",
-        "description": "Trust signals like accreditations build confidence in our services."
+        "title": "Visual Excellence",
+        "description": "Stunning imagery showcases our high-quality products and installations."
       },
       {
-        "title": "Accessible Support",
-        "description": "Easily accessible contact info ensures seamless customer communication."
+        "title": "Trusted Partners",
+        "description": "Accreditations highlight our commitment to industry standards."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our range of customized security solutions.",
+    "description": "Explore our bespoke security solutions tailored for every need.",
     "cards": [
       {
         "icon": "🛡",
-        "title": "Bespoke Shutters",
-        "description": "Custom-designed roller shutters tailored to your specific needs."
+        "title": "Roller Shutter Doors",
+        "description": "Custom-designed shutters for maximum security and aesthetic appeal."
       },
       {
-        "icon": "🏗",
+        "icon": "🔒",
+        "title": "Security Grilles",
+        "description": "Durable grilles offer enhanced protection for your premises."
+      },
+      {
+        "icon": "🚪",
         "title": "Steel Doors",
-        "description": "Durable steel doors providing robust security for any facility."
-      },
-      {
-        "icon": "🔧",
-        "title": "Maintenance & Repairs",
-        "description": "Comprehensive after-sales service to keep your shutters in prime condition."
+        "description": "Robust steel doors built to withstand the toughest conditions."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Crafting Security Excellence",
+    "title": "Commitment to Security",
     "paragraphs": [
-      "Since inception, UK ROLLER SHUTTERS LTD has specialized in bespoke security solutions. We offer roller shutters, fire shutters, and steel doors for various sectors.",
-      "Our commitment to quality and innovation makes us a perfect fit for clients seeking reliable security solutions. We leverage technology to streamline service delivery."
+      "Since our inception, UK Roller Shutters has specialized in bespoke security solutions. We cater to homes, businesses, and warehouses.",
+      "Our dedication to quality and client satisfaction makes us a leader in the industry. We leverage cutting-edge technology for superior service."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
     "eyebrow": "Client Feedback",
-    "title": "Trusted by Many",
+    "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "The custom roller shutters have significantly improved our site's security. Exceptional service!",
-        "name": "James Thompson",
+        "quote": "UK Roller Shutters resolved our security concerns with expert installation and reliable service.",
+        "name": "John Harris",
         "role": "Facilities Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Reliable installation and maintenance keep our premises secure. Highly recommend!",
-        "name": "Sarah McLean",
-        "role": "Retail Manager",
+        "quote": "Their bespoke solutions and maintenance services are unmatched.",
+        "name": "Sarah Greene",
+        "role": "Retail Owner",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit Us",
-    "title": "Discover Our Solutions",
-    "description": "Explore our comprehensive range of security solutions tailored to your needs.",
-    "address": "N/A",
-    "website": "ukrollershutters.com",
+    "title": "Our Showroom",
+    "description": "Explore our extensive range of security solutions in person.",
+    "address": "",
+    "website": "www.ukrollershutters.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in Touch",
-    "title": "Secure Your Space Today",
-    "description": "Contact us for a quote or to schedule a consultation.",
-    "consent": "By submitting, you agree to our terms."
+    "eyebrow": "Get In Touch",
+    "title": "Book a Consultation",
+    "description": "Contact us today for a custom security solution consultation.",
+    "consent": "I agree to be contacted for consultation."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "AI-Powered Efficiency",
-    "description": "Enhance your security management with our AI-driven solutions.",
+    "title": "Automate Your Security",
+    "description": "Streamline your experience with our AI-driven solutions.",
     "bullets": [
-      "Automated quotes provide fast, accurate pricing.",
-      "Schedule site surveys with ease online.",
-      "Streamlined e-commerce for parts and accessories."
+      "Instant quotes with our online configurator.",
+      "Schedule surveys and installations online.",
+      "Automated maintenance reminders via CRM."
     ],
-    "offer": "Mention UK ROLLER SHUTTERS for the launch-week optimization kit.",
+    "offer": "Mention UK Roller Shutters for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "UK ROLLER SHUTTERS delivers unforgettable experiences.",
-    "address": "N/A",
+    "blurb": "UK Roller Shutters delivers unforgettable experiences.",
+    "address": "",
     "email": "",
     "socials": [
       {
