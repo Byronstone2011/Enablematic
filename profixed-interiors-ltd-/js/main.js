@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Profixed Interiors",
-    "tagline": "Transforming spaces with precision",
-    "category": "Commercial Interior Refurbishment",
+    "tagline": "Refine Your Space",
+    "category": "Commercial Interiors",
     "location": "UK",
-    "phone": ""
+    "phone": "+44 1234 567890"
   },
   "hero": {
-    "eyebrow": "Commercial fit-out experts",
-    "title": "Streamline your space and processes seamlessly",
-    "description": "We optimize interior refurbishments and automate project workflows for efficiency.",
+    "eyebrow": "Seamless Transformations",
+    "title": "Streamline your interior projects today.",
+    "description": "We automate workflows and compliance, enhancing efficiency and reducing manual tasks.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "500+"
+        "value": "100+"
       },
       {
         "label": "Client Retention",
         "value": "95%"
       },
       {
-        "label": "Years Experience",
-        "value": "10+"
+        "label": "Compliance Rate",
+        "value": "99.8%"
       }
     ],
     "image": "https://images.pexels.com/photos/6566810/pexels-photo-6566810.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Exceptional Design",
-        "description": "Our design use professional photography to showcase our expertise."
+        "title": "Visual Impact",
+        "description": "Our designs captivate with professional photography and unique portfolios."
       },
       {
-        "title": "Clear Categorization",
-        "description": "Our services are clearly categorized for easy navigation and understanding."
+        "title": "Service Clarity",
+        "description": "Clear categorization ensures easy navigation through our offerings."
       },
       {
-        "title": "Strong Presentation",
-        "description": "We use circular image frames to highlight our portfolio attractively."
+        "title": "Mission Focus",
+        "description": "Structured goals guide us in delivering exceptional results every time."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Tailored solutions for your business needs.",
+    "description": "Transform your business space with our tailored services.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Interior Refurbishment",
-        "description": "We transform office spaces with precise refurbishment services."
+        "description": "Revamp your office with our expert refurbishment solutions."
       },
       {
-        "icon": "🔧",
+        "icon": "💼",
         "title": "Project Management",
-        "description": "Efficient project management ensures smooth coordination and execution."
+        "description": "Efficient coordination ensures timely project delivery and success."
       },
       {
         "icon": "🛡",
-        "title": "Health & Safety",
-        "description": "We guarantee compliance with all health and safety regulations."
+        "title": "Safety Compliance",
+        "description": "We adhere to health and safety standards, prioritizing secure environments."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Building Excellence in Refurbishment",
+    "title": "Crafting Spaces Since Day One",
     "paragraphs": [
-      "Profixed Interiors Ltd has been transforming commercial spaces for over a decade. Our commitment to quality and attention to detail sets us apart.",
-      "By implementing advanced project workflows, we ensure efficient, repeatable outcomes that meet our clients' expectations consistently."
+      "Profixed Interiors Ltd was founded to transform commercial spaces with style and efficiency. Our team combines creativity and precision to deliver exceptional fit-outs.",
+      "We excel at streamlined processes and client retention. Our approach leverages automation for seamless project management and compliance, setting us apart in the industry."
     ],
     "image": "https://images.pexels.com/photos/5486132/pexels-photo-5486132.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
     "eyebrow": "Client Feedback",
-    "title": "What Our Clients Say",
+    "title": "What Clients Say",
     "list": [
       {
-        "quote": "Profixed Interiors streamlined our refurbishment, saving us time and hassle.",
-        "name": "John Doe",
-        "role": "Property Owner",
+        "quote": "Profixed streamlined our workflow, saving time and enhancing productivity.",
+        "name": "Jane Doe",
+        "role": "Commercial Property Owner",
         "avatar": "https://images.pexels.com/photos/5201930/pexels-photo-5201930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their project management made coordination seamless. Highly recommend!",
-        "name": "Jane Smith",
+        "quote": "Their attention to compliance and detail is unmatched. Highly recommend!",
+        "name": "John Smith",
         "role": "Main Contractor",
         "avatar": "https://images.unsplash.com/photo-1666900492873-4b1498bfb771?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxDb21tZXJjaWFsJTIwaW50ZXJpb3IlMjByZWZ1cmJpc2htZW50JTIwJTJGJTIwZml0LW91dCUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNzI1NjA3fDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Explore Our Work",
-    "description": "Discover our projects and see how we can transform your space.",
-    "address": "London, UK",
+    "eyebrow": "Find Us",
+    "title": "Visit Our Showroom",
+    "description": "Explore our projects in person and see the quality we deliver.",
+    "address": "123 Interior Lane, London, UK",
     "website": "www.profixedinteriors.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in Touch",
-    "title": "Start Your Project",
-    "description": "Contact us for a consultation and let's bring your vision to life.",
-    "consent": "I consent to receive communications."
+    "eyebrow": "Get In Touch",
+    "title": "Book a Consultation",
+    "description": "Contact us today to discuss your project needs and get a custom quote.",
+    "consent": "By providing your details, you agree to our privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate and Optimize",
-    "description": "Leverage AI to enhance your business processes.",
+    "title": "Automate and Innovate",
+    "description": "Leverage AI for efficient project management and lead capture.",
     "bullets": [
-      "Automate lead capture and follow-ups to boost sales.",
-      "Streamline project management with digital tools.",
-      "Ensure compliance with automated reporting."
+      "Automate lead capture with integrated CRM solutions.",
+      "Streamline project workflows with digital tools.",
+      "Enhance compliance with automated reporting systems."
     ],
     "offer": "Mention Profixed Interiors for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Profixed Interiors delivers unforgettable experiences.",
-    "address": "London, UK",
+    "address": "123 Interior Lane, London, UK",
     "email": "",
     "socials": [
       {
