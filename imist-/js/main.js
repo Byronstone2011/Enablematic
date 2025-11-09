@@ -1,120 +1,120 @@
 const appData = {
   "brand": {
     "name": "iMist",
-    "tagline": "Save lives, water & property",
+    "tagline": "Innovative safety solutions",
     "category": "Fire Suppression",
-    "location": "UK",
-    "phone": "Unknown"
+    "location": "United Kingdom",
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Innovative Fire Safety",
-    "title": "Efficient fire protection, simplified.",
-    "description": "Our water mist systems replace sprinklers to save water, lives, and property effectively.",
+    "eyebrow": "Advanced Fire Protection",
+    "title": "Choose water mist for safer homes.",
+    "description": "iMist systems replace sprinklers, saving lives, water, and properties. Discover the future of fire safety with us.",
     "highlights": [
       {
+        "label": "Years in Business",
+        "value": "10+"
+      },
+      {
         "label": "Systems Installed",
-        "value": "5,000+"
+        "value": "3,000+"
       },
       {
-        "label": "Compliance Rate",
-        "value": "99.8%"
-      },
-      {
-        "label": "Years of Experience",
-        "value": "12+"
+        "label": "Client Satisfaction",
+        "value": "99%"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
+    "image": "https://images.pexels.com/photos/12237450/pexels-photo-12237450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Precision Design",
-        "description": "We create bespoke systems tailored to each property’s needs."
+        "title": "Comprehensive Design",
+        "description": "We prioritize clear hierarchy and professional layouts for effective communication."
       },
       {
-        "title": "Seamless Integration",
-        "description": "Our solutions integrate effortlessly with existing structures."
+        "title": "Effective Call-to-Action",
+        "description": "Our standout buttons guide users effortlessly to take the next step."
       },
       {
-        "title": "Proven Performance",
-        "description": "Our systems are tested to ensure reliability and safety."
+        "title": "Organized Content",
+        "description": "Well-structured information with case studies enhances user engagement."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Discover our comprehensive services for fire protection.",
+    "description": "Our systems are designed to protect and serve various sectors, ensuring safety and compliance.",
     "cards": [
       {
-        "icon": "🔥",
-        "title": "System Design",
-        "description": "We design high-pressure mist systems for your safety."
-      },
-      {
         "icon": "🏗",
-        "title": "Installation",
-        "description": "Professional installation ensures optimal system performance."
+        "title": "System Design",
+        "description": "Expertly designed high-pressure mist systems for optimal fire suppression."
       },
       {
         "icon": "🛡",
+        "title": "Installation",
+        "description": "Professional installation for residential and domestic properties."
+      },
+      {
+        "icon": "⚙️",
         "title": "Maintenance",
-        "description": "Annual servicing and warranties keep your system in top shape."
+        "description": "Comprehensive servicing and annual maintenance with warranty support."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Innovation in Fire Protection",
+    "title": "The iMist Story",
     "paragraphs": [
-      "iMist began with a mission to redefine fire safety. Our water mist systems provide efficient and eco-friendly solutions.",
-      "Embracing automation and digital tools, we streamline processes for a seamless customer experience and improved safety."
+      "Founded with the mission to innovate fire safety, iMist replaces traditional sprinklers with advanced water mist systems. We aim to protect lives and properties.",
+      "Our commitment to transparency and control drives us to adopt technologies that streamline operations and enhance customer interactions."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
     "eyebrow": "What Clients Say",
-    "title": "Trusted by Many",
+    "title": "Testimonials",
     "list": [
       {
-        "quote": "iMist's system was easy to integrate and provided peace of mind.",
-        "name": "John Mason",
-        "role": "Property Manager",
+        "quote": "Switching to iMist was the best decision for our property safety. The system is efficient and requires less water.",
+        "name": "Helen R.",
+        "role": "Homeowner",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their maintenance service keeps our system in perfect condition.",
-        "name": "Sarah Connors",
-        "role": "Homeowner",
+        "quote": "The installation was seamless, and the team was professional. iMist's system is a game-changer.",
+        "name": "Mark T.",
+        "role": "Property Manager",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Come Visit Us",
-    "title": "Our Headquarters",
-    "description": "Located in the UK, we offer personalized consultations.",
-    "address": "Unknown",
+    "eyebrow": "Visit Us",
+    "title": "Explore Our Solutions",
+    "description": "Discover innovative fire suppression systems designed to protect your home and business.",
+    "address": "Contact us for more details",
     "website": "www.imist.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Contact Us",
-    "title": "Get a Free Consultation",
-    "description": "Contact us for a free quote and learn more about our solutions.",
-    "consent": "Yes, I agree to receive communications."
+    "eyebrow": "Get in Touch",
+    "title": "Request a Free Quote",
+    "description": "Contact us for a personalized system design and quotation.",
+    "consent": "I agree to the terms and privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automation Advantages",
-    "description": "Streamline your fire safety with AI-driven solutions.",
+    "title": "Enhance Your Safety",
+    "description": "Leverage AI for efficient fire safety management.",
     "bullets": [
-      "Instant quotes with our online builder.",
-      "Automated follow-ups and service reminders.",
-      "Effortless scheduling for service and installations."
+      "Instant quotes with our online calculator.",
+      "Automated follow-ups for annual servicing.",
+      "Simplify bookings with our scheduling tool."
     ],
     "offer": "Mention iMist for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "iMist delivers unforgettable experiences.",
-    "address": "Unknown",
+    "address": "Contact us for more details",
     "email": "",
     "socials": [
       {
