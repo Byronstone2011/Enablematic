@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "A&B Fencing",
-    "tagline": "Fencing Redefined",
+    "tagline": "Your trusted fencing partner",
     "category": "Fencing & Landscaping",
-    "location": "UK-wide",
-    "phone": "N/A"
+    "location": "Nationwide UK",
+    "phone": "Contact via email"
   },
   "hero": {
-    "eyebrow": "Your Trusted Supplier",
-    "title": "Streamline Your Fencing Supply Needs",
-    "description": "A&B Fencing Supplies Ltd offers efficient solutions with online ordering, trade portals, and expert support.",
+    "eyebrow": "Fencing excellence delivered",
+    "title": "Streamline your fencing supplies with us.",
+    "description": "We offer seamless ordering, fast distribution, and reliable service.",
     "highlights": [
-      {
-        "label": "Projects Supplied",
-        "value": "3,000+"
-      },
       {
         "label": "Years in Business",
         "value": "20+"
       },
       {
-        "label": "Client Satisfaction",
-        "value": "98%"
+        "label": "Orders Fulfilled",
+        "value": "10,000+"
+      },
+      {
+        "label": "UK Coverage",
+        "value": "100%"
       }
     ],
     "image": "https://images.pexels.com/photos/4825686/pexels-photo-4825686.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Quality Products",
-        "description": "We provide top-tier fencing and landscaping materials, trusted by professionals."
+        "title": "Clear Photography",
+        "description": "View our products clearly with high-quality images."
       },
       {
-        "title": "Comprehensive Support",
-        "description": "Our team ensures smooth transactions with reliable customer service."
+        "title": "Organized Categories",
+        "description": "Find exactly what you need with our structured catalog."
       },
       {
-        "title": "Efficient Delivery",
-        "description": "UK-wide distribution guarantees timely delivery for all orders."
+        "title": "Trust-Building Info",
+        "description": "Reliable delivery and contact details you can trust."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our range of fencing and landscaping products tailored for trade.",
+    "description": "Discover our comprehensive range of fencing and landscaping supplies.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Concrete Fencing",
-        "description": "Manufacture and supply durable concrete fencing products for all needs."
+        "description": "Manufacture and supply durable concrete fencing solutions."
       },
       {
-        "icon": "🛒",
+        "icon": "💼",
         "title": "Wholesale Supplies",
-        "description": "Exclusive wholesale pricing and inventory for trade accounts."
+        "description": "Exclusive trade accounts for fencing companies and contractors."
       },
       {
-        "icon": "🌿",
+        "icon": "🌳",
         "title": "Landscaping Products",
-        "description": "Wide selection of landscaping accessories for your projects."
+        "description": "Accessories and products to enhance your landscaping projects."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Journey",
-    "title": "Building Trust in Fencing",
+    "eyebrow": "Our journey",
+    "title": "Built on quality and reliability",
     "paragraphs": [
-      "A&B Fencing has been a leading supplier for over two decades, providing high-quality fencing and landscaping solutions. Our dedication to excellence ensures our clients achieve unparalleled results.",
-      "We integrate cutting-edge technology to streamline processes and enhance customer experience. Our tech-driven approach sets us apart in the industry."
+      "A&B Fencing Supplies Ltd began with a mission to provide top-quality fencing and landscaping materials. We have grown to be a trusted partner for trade customers.",
+      "Our focus on automation and digital solutions enables us to offer seamless experiences. We are committed to making ordering efficient and accessible for all."
     ],
     "image": "https://images.pexels.com/photos/8546591/pexels-photo-8546591.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Testimonials",
+    "eyebrow": "Customer voices",
+    "title": "What our clients say",
     "list": [
       {
-        "quote": "A&B Fencing has transformed our supply chain with their efficient service.",
-        "name": "John Davis",
-        "role": "Landscaping Contractor",
+        "quote": "A&B Fencing has transformed our supply process. Their service is impeccable!",
+        "name": "John Smith",
+        "role": "Fencing Contractor",
         "avatar": "https://images.pexels.com/photos/11700775/pexels-photo-11700775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their trade portal is a game changer for our business operations.",
-        "name": "Emily Brown",
-        "role": "Fencing Supplier",
+        "quote": "Reliable and efficient. Our go-to for all fencing needs.",
+        "name": "Sarah Thompson",
+        "role": "Landscaping Manager",
         "avatar": "https://images.unsplash.com/photo-1621396487129-101eded7086f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxGZW5jaW5nJTIwJTI2JTIwTGFuZHNjYXBpbmclMjBTdXBwbGllcyUyMCUyRiUyMEJ1aWxkaW5nJTIwTWF0ZXJpYWxzJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI3MjU3NDh8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Experience Our Service",
-    "description": "Discover the difference with A&B Fencing's reliable supplies and support.",
-    "address": "N/A",
-    "website": "www.fencingsuppliers.co.uk",
+    "eyebrow": "Visit us",
+    "title": "Reach out for your fencing needs",
+    "description": "We distribute UK-wide, ensuring timely and efficient service.",
+    "address": "Nationwide UK",
+    "website": "fencingsuppliers.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get In Touch",
-    "title": "Contact Us Today",
-    "description": "Reach out for quotes or to set up a trade account. Email us at paul@fencingsuppliers.co.uk.",
-    "consent": "Agree to receive updates"
+    "eyebrow": "Get in touch",
+    "title": "Request a consultation today",
+    "description": "Contact us to discuss your specific fencing needs and solutions.",
+    "consent": "By contacting us, you agree to our privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Your Ordering",
-    "description": "Enhance efficiency and accuracy with our AI-powered solutions.",
+    "title": "Enhance your business with AI",
+    "description": "Unlock efficiency and convenience with our automated solutions.",
     "bullets": [
-      "Implement online trade portals for seamless ordering.",
-      "Automate inventory and delivery scheduling.",
-      "Integrate CRM for better client management."
+      "Online ordering platform for trade accounts.",
+      "Automated trade account management portal.",
+      "Integrated CRM with follow-up automation."
     ],
     "offer": "Mention A&B Fencing for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "A&B Fencing delivers unforgettable experiences.",
-    "address": "N/A",
+    "address": "Nationwide UK",
     "email": "",
     "socials": [
       {
