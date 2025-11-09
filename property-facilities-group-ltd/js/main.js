@@ -1,23 +1,23 @@
 const appData = {
   "brand": {
-    "name": "Prop. Facilities",
-    "tagline": "Restoring with Precision",
-    "category": "Building & Maintenance",
+    "name": "Property Facilities",
+    "tagline": "Restoring Your Peace of Mind",
+    "category": "Building Maintenance",
     "location": "London & South Eas",
-    "phone": "020 1234 5678"
+    "phone": "N/A"
   },
   "hero": {
-    "eyebrow": "Trusted Restoration Experts",
-    "title": "Say goodbye to manual processes and delays.",
-    "description": "Streamline your building projects with automated systems and expert guidance.",
+    "eyebrow": "Trusted by industry leaders",
+    "title": "Streamline your property restoration needs.",
+    "description": "We optimize project management and automate workflows, saving you time and hassle.",
     "highlights": [
       {
-        "label": "Years in Service",
-        "value": "20+"
+        "label": "Projects Managed",
+        "value": "3,000+"
       },
       {
-        "label": "Projects Managed",
-        "value": "3,500+"
+        "label": "Years Experience",
+        "value": "20+"
       },
       {
         "label": "Client Satisfaction",
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Bold Identity",
-        "description": "Our strong brand stands out with vibrant colors and trust symbols."
+        "title": "Strong Identity",
+        "description": "Our brand resonates with bold colors that stand out in the industry."
       },
       {
-        "title": "Service Clarity",
-        "description": "Clear service categories help clients find what they need quickly."
+        "title": "Credible Partnerships",
+        "description": "We are trusted by top firms, backed by solid client logos and awards."
       },
       {
-        "title": "Proven Credibility",
-        "description": "Client logos and accreditations showcase our reliability and expertise."
+        "title": "Expert Team",
+        "description": "Our dedicated professionals ensure exceptional project execution."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive services for all your property needs.",
+    "description": "Explore our comprehensive building and restoration services.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Project Management",
-        "description": "From concept to completion, we manage every detail of your build."
+        "description": "From concept to completion, we manage your building projects efficiently."
       },
       {
-        "icon": "🔧",
-        "title": "Maintenance Programs",
-        "description": "Regular maintenance and repair keep your properties in top shape."
+        "icon": "🛠",
+        "title": "Maintenance & Repair",
+        "description": "Regular maintenance and timely repairs keep properties in top condition."
       },
       {
         "icon": "🔥",
         "title": "Restoration Services",
-        "description": "We restore properties after fires, storms, and subsidence efficiently."
+        "description": "We specialize in restoration after fires, storms, and subsidence."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Building Trust, Delivering Excellence",
+    "title": "Building Trust and Excellence",
     "paragraphs": [
-      "Property Facilities Group Ltd has been a leader in building and property maintenance for over two decades. Our commitment to quality and customer satisfaction drives our success.",
-      "With a focus on sustainable building practices and efficient project management, we serve local authorities, developers, and property owners. Our tailored solutions meet diverse client needs."
+      "Property Facilities Group Ltd has been a trusted name in building maintenance and restoration for over two decades. We take pride in our work and our commitment to excellence.",
+      "Our expertise makes us the preferred choice for local authorities, developers, and insurers. We offer reliable, sustainable solutions that lead the industry."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What Our Clients Say",
-    "title": "Client Success Stories",
+    "eyebrow": "What Clients Say",
+    "title": "Our Clients Love Us",
     "list": [
       {
-        "quote": "PFG transformed our property swiftly and professionally. Their automated systems saved us time and hassle.",
-        "name": "John Smith",
-        "role": "Commercial Developer",
+        "quote": "Their automated systems have transformed our project management efficiency.",
+        "name": "Sarah Johnson",
+        "role": "Project Manager, ABC Developments",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their maintenance programs are top-notch. We're impressed with their efficiency and attention to detail.",
-        "name": "Sarah Johnson",
-        "role": "Property Manager",
+        "quote": "PFG's restoration work is unmatched. They're quick, reliable, and professional.",
+        "name": "Tom Richards",
+        "role": "Property Owner",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit Us",
-    "title": "Explore Our Services",
-    "description": "Located in the heart of London, we serve the South East with pride and dedication.",
-    "address": "123 London Road, London, UK",
+    "title": "Discover Our Expertise",
+    "description": "Located in the heart of London, we serve the South East with dedication.",
+    "address": "N/A",
     "website": "www.pfg.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get In Touch",
+    "eyebrow": "Get in Touch",
     "title": "Contact Us Today",
-    "description": "Ready to start your project? Contact us for a consultation or more information.",
-    "consent": "I agree to receive communications."
+    "description": "Reach out for consultations or service inquiries. Let's discuss your project needs.",
+    "consent": "By contacting us you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Boost Efficiency with AI",
-    "description": "Leverage technology to enhance your property's management.",
+    "title": "Streamline with AI",
+    "description": "Leverage technology for efficiency and precision.",
     "bullets": [
-      "Automate quoting and scheduling for seamless projects.",
-      "Use CRM tools for effective lead nurturing.",
-      "Streamline invoicing and document management."
+      "Automate quotes and scheduling.",
+      "Enhance CRM with AI follow-ups.",
+      "Digitize invoicing and compliance."
     ],
-    "offer": "Mention Prop. Facilities for the launch-week optimization kit.",
+    "offer": "Mention Property Facilities for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Prop. Facilities delivers unforgettable experiences.",
-    "address": "123 London Road, London, UK",
+    "blurb": "Property Facilities delivers unforgettable experiences.",
+    "address": "N/A",
     "email": "",
     "socials": [
       {
