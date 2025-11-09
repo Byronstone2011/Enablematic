@@ -1,120 +1,120 @@
 const appData = {
   "brand": {
     "name": "Logic Fire & Sec",
-    "tagline": "Your safety, our mission",
-    "category": "Fire & Security",
+    "tagline": "Secure your future today",
+    "category": "Fire & Security Systems",
     "location": "UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted nationwide",
-    "title": "Stay compliant and secure effortlessly.",
-    "description": "We ensure your systems meet standards, minimizing downtime and disruptions.",
+    "eyebrow": "Nationwide Protection",
+    "title": "Ensure compliance and safety with ease",
+    "description": "We provide expert installation and 24/7 monitoring, ensuring your systems stay compliant and reliable.",
     "highlights": [
       {
-        "label": "Years Protecting",
+        "label": "Years of Experience",
         "value": "20+"
       },
       {
         "label": "Systems Installed",
-        "value": "5,000+"
+        "value": "10,000+"
       },
       {
-        "label": "Compliance Rate",
-        "value": "99.9%"
+        "label": "Customer Satisfaction",
+        "value": "99%"
       }
     ],
-    "image": "https://images.pexels.com/photos/7425342/pexels-photo-7425342.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Design",
-        "description": "We deliver cutting-edge fire and security system designs tailored to your needs."
+        "title": "Proven Expertise",
+        "description": "Decades of industry experience ensure reliable fire and security solutions."
+      },
+      {
+        "title": "Advanced Technology",
+        "description": "State-of-the-art systems and seamless integrations for ultimate protection."
       },
       {
         "title": "24/7 Monitoring",
-        "description": "Our dedicated team provides round-the-clock surveillance and rapid response."
-      },
-      {
-        "title": "Professional Installati",
-        "description": "Certified installers ensure minimal disruption with efficient service."
+        "description": "Around-the-clock vigilance with rapid response to all security threats."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive fire and security solutions for complete peace of mind.",
+    "description": "Explore our comprehensive services tailored to your security needs.",
     "cards": [
       {
         "icon": "🔥",
         "title": "Fire Detection",
-        "description": "Advanced systems designed to detect and alert at the first sign of fire."
+        "description": "Design and install cutting-edge fire detection systems for maximum safety."
       },
       {
         "icon": "🛡",
         "title": "Security Systems",
-        "description": "State-of-the-art electronic systems to secure your premises effectively."
+        "description": "Protect your premises with our electronic security system designs."
       },
       {
-        "icon": "⚙️",
+        "icon": "🔧",
         "title": "Maintenance",
-        "description": "Reliable maintenance and inspection services to keep systems optimal."
+        "description": "Ensure optimal performance with regular maintenance and inspections."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "A Legacy of Protection",
+    "title": "Leading the Way in Safety",
     "paragraphs": [
-      "For over two decades, Logic Fire and Security has led the UK in fire and security solutions. Our commitment to safety and quality is unmatched.",
-      "We integrate automation and cutting-edge technology to streamline compliance and maintenance, ensuring you stay protected effortlessly."
+      "Logic Fire and Security has been at the forefront of fire and security solutions across the UK. We deliver expert services from design to maintenance.",
+      "Our commitment to innovation and technology ensures we meet the highest standards. We adapt to evolving needs, providing unmatched service and reliability."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Client Success Stories",
+    "eyebrow": "Our Clients Say",
+    "title": "Trusted by Industry Leaders",
     "list": [
       {
-        "quote": "Logic Fire and Security keeps our facilities compliant and secure. Their rapid response is unmatched.",
-        "name": "John Smith",
-        "role": "Property Manager",
+        "quote": "Logic Fire and Security keeps our systems compliant and reliable, minimizing downtime.",
+        "name": "James H.",
+        "role": "Facilities Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their automated systems have simplified our maintenance processes. Highly recommend!",
-        "name": "Emily Johnson",
-        "role": "Facility Director",
+        "quote": "Their rapid response and expert maintenance have been invaluable for our business.",
+        "name": "Sarah T.",
+        "role": "Property Manager",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Our Headquarters",
-    "description": "Explore our state-of-the-art facilities and meet our dedicated team.",
-    "address": "123 Security Lane, UK",
-    "website": "www.logicfireandsecurity.com",
+    "eyebrow": "Location",
+    "title": "Serving the UK",
+    "description": "We operate nationwide, offering comprehensive fire and security solutions tailored to your needs.",
+    "address": "",
+    "website": "logicfireandsecurity.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in Touch",
-    "title": "Request a Consultation",
-    "description": "Contact us to discuss your fire and security needs. Our experts are ready to help.",
-    "consent": "I agree to receive communications."
+    "eyebrow": "Contact Us",
+    "title": "Protect Your Business",
+    "description": "Reach out to schedule a consultation or request more information about our services.",
+    "consent": "I agree to the terms and conditions."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline with AI",
-    "description": "Enhance efficiency and compliance with our automated solutions.",
+    "title": "Automate Your Security",
+    "description": "Enhance efficiency with our AI-powered solutions.",
     "bullets": [
-      "Automate maintenance scheduling.",
-      "Online portal for easy bookings.",
-      "Remote monitoring and alerts."
+      "Automated scheduling boosts compliance.",
+      "Real-time monitoring with instant alerts.",
+      "CRM integration for seamless management."
     ],
     "offer": "Mention Logic Fire & Sec for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Logic Fire & Sec delivers unforgettable experiences.",
-    "address": "123 Security Lane, UK",
+    "address": "",
     "email": "",
     "socials": [
       {
