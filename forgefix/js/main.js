@@ -1,15 +1,15 @@
 const appData = {
   "brand": {
     "name": "ForgeFix",
-    "tagline": "Fixings that last",
-    "category": "Construction Hardware",
+    "tagline": "Fasten Your Future",
+    "category": "Fixings & Fasteners",
     "location": "UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Over 30 years of trust",
-    "title": "Streamline your inventory with ForgeFix today",
-    "description": "We simplify inventory and fulfilment with 2000+ products. Enjoy seamless B2B ordering and logistics.",
+    "eyebrow": "Leading Distributor",
+    "title": "Streamline your inventory and ordering",
+    "description": "ForgeFix provides an efficient solution for managing over 2000 product lines, simplifying orders and logistics.",
     "highlights": [
       {
         "label": "Years in Business",
@@ -20,8 +20,8 @@ const appData = {
         "value": "2000+"
       },
       {
-        "label": "Merchant Partners",
-        "value": "500+"
+        "label": "Satisfied Clients",
+        "value": "1000+"
       }
     ],
     "image": "https://images.pexels.com/photos/5583051/pexels-photo-5583051.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,89 +31,89 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Trusted Partnerships",
-        "description": "ForgeFix partners with top brands, ensuring quality and reliability for all customers."
+        "title": "Trusted Brands",
+        "description": "ForgeFix partners with renowned brands to ensure quality and reliability in every product."
       },
       {
-        "title": "Efficient Layout",
-        "description": "Our organized structure ensures you find what you need quickly and easily."
+        "title": "Organized Layout",
+        "description": "Our website's layout ensures easy navigation and quick access to product information."
       },
       {
-        "title": "Comprehensive Support",
-        "description": "Our extensive footer provides all the contact info and links you need."
+        "title": "Comprehensive Footer",
+        "description": "Our footer provides all necessary contact info and social links for seamless communication."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "ForgeFix provides comprehensive distribution services for fixings and fasteners. Explore our offerings:",
+    "description": "ForgeFix offers a range of services to meet all your fixings and fasteners needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Wholesale Distribution",
-        "description": "We supply a vast range of fixings and fasteners to trade customers across the UK."
+        "description": "Supplying a vast range of fixings and fasteners to trade customers across the UK."
       },
       {
         "icon": "💼",
         "title": "Brand Development",
-        "description": "We design and develop fixings and fastener brands tailored to your needs."
+        "description": "Designing and developing own brands for distinct product recognition and trust."
       },
       {
-        "icon": "🔗",
+        "icon": "🛒",
         "title": "Partnership Supply",
-        "description": "We work with merchants to ensure a seamless supply of our products."
+        "description": "Strategic distribution to merchants ensuring timely and efficient product delivery."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Legacy",
-    "title": "Built on Trust and Quality",
+    "eyebrow": "Our Journey",
+    "title": "Decades of Excellence",
     "paragraphs": [
-      "ForgeFix has been a leader in fixings and fasteners distribution for over 30 years. We offer over 2000 product lines to various merchants.",
-      "Our commitment to modernizing B2B sales is unmatched. We integrate e-commerce and automated systems for efficiency."
+      "ForgeFix has been a leader in the fixings and fasteners industry for over 30 years. Our extensive product range serves builders, plumbers, and DIY enthusiasts.",
+      "We specialize in modernizing B2B operations, providing scalable solutions like e-commerce portals and ERP integrations for seamless transactions."
     ],
     "image": "https://images.pexels.com/photos/5691652/pexels-photo-5691652.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
     "eyebrow": "Customer Feedback",
-    "title": "What Our Clients Say",
+    "title": "What Clients Say",
     "list": [
       {
-        "quote": "ForgeFix transformed our inventory management. It's now seamless and efficient.",
-        "name": "John Doe",
-        "role": "Builder Merchant",
+        "quote": "ForgeFix made inventory management a breeze. Our orders are now seamless and efficient.",
+        "name": "John Mason",
+        "role": "Procurement Manager",
         "avatar": "https://images.pexels.com/photos/259988/pexels-photo-259988.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their online portal makes ordering a breeze for my business.",
-        "name": "Jane Smith",
-        "role": "DIY Outlet Manager",
+        "quote": "Their product range and reliability have transformed our business operations.",
+        "name": "Sarah Collins",
+        "role": "Operations Director",
         "avatar": "https://images.unsplash.com/photo-1581166397057-235af2b3c6dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxGaXhpbmdzJTIwJTI2JTIwZmFzdGVuZXJzJTIwZGlzdHJpYnV0aW9uJTIwJTJGJTIwQ29uc3RydWN0aW9uJTIwaGFyZHdhcmUlMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjcyNTc2MXww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Location & Access",
-    "title": "Visit Us in the UK",
-    "description": "Located in the UK, we are easily accessible to all our merchant partners and clients.",
-    "address": "Unknown",
-    "website": "www.forgefix.co.uk",
+    "eyebrow": "Discover Us",
+    "title": "Visit ForgeFix",
+    "description": "Situated in the UK, ForgeFix is at the heart of the construction hardware industry, serving clients nationwide.",
+    "address": "",
+    "website": "forgefix.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in Touch",
-    "title": "Start Your Order",
-    "description": "Contact us for quotes, orders, or any inquiries. Let's build together.",
-    "consent": "I agree to the terms and conditions."
+    "eyebrow": "Get Started",
+    "title": "Contact Us",
+    "description": "Reach out for more information or to discuss your requirements.",
+    "consent": "I agree to receive communications."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate with AI",
-    "description": "Optimize your operations with ForgeFix's automation solutions.",
+    "title": "Automate Your Operations",
+    "description": "Enhance your business efficiency with ForgeFix's automation solutions.",
     "bullets": [
-      "Build a B2B e-commerce portal for quick orders.",
-      "Integrate ERP for seamless stock management.",
+      "Launch a B2B e-commerce portal for easy trade ordering.",
+      "Integrate ERP for seamless inventory management.",
       "Automate product data with a PIM system."
     ],
     "offer": "Mention ForgeFix for the launch-week optimization kit.",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "ForgeFix delivers unforgettable experiences.",
-    "address": "Unknown",
+    "address": "",
     "email": "",
     "socials": [
       {
