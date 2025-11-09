@@ -2,26 +2,26 @@ const appData = {
   "brand": {
     "name": "King & Co",
     "tagline": "Unlock Your Land's Potential",
-    "category": "Real Estate & Consultancy",
-    "location": "Hertfordshire",
-    "phone": "Unavailable"
+    "category": "Property Development",
+    "location": "Hertfordshire Area",
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Leading Property Experts",
-    "title": "Overcome Planning and Cost Hurdles with Us",
-    "description": "King & Co expertly navigates planning risks and cost control to unlock site value.",
+    "eyebrow": "Strategic Land Experts",
+    "title": "Overcome land development hurdles today",
+    "description": "King & Co streamlines land value enhancement. We manage planning, control costs, and reduce risks effectively.",
     "highlights": [
       {
         "label": "Projects Completed",
         "value": "500+"
       },
       {
-        "label": "Years of Experience",
-        "value": "20+"
+        "label": "Client Satisfaction",
+        "value": "97%"
       },
       {
-        "label": "Client Satisfaction",
-        "value": "98%"
+        "label": "Years of Experience",
+        "value": "20+"
       }
     ],
     "image": "https://images.pexels.com/photos/7937324/pexels-photo-7937324.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,63 +31,63 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Architectural Imagery",
-        "description": "Stunning visuals bring your vision to life, enhancing project appeal."
+        "title": "Architectural Vision",
+        "description": "We use stunning visuals to bring your project's potential to life."
       },
       {
         "title": "Clean Design",
-        "description": "Our layouts use whitespace effectively to highlight key information."
+        "description": "Our layouts use whitespace effectively for clarity and focus."
       },
       {
-        "title": "Professional Photograph",
-        "description": "High-quality images showcase our expertise and project outcomes."
+        "title": "Professional Imagery",
+        "description": "Showcase your projects with high-quality photos and 3D renderings."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our comprehensive services designed to maximize your property's potential.",
+    "description": "Unlock your site's value with our expert services.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Asset Enhancement",
-        "description": "We enhance asset value through strategic planning and development."
+        "description": "Maximize your property's value with our tailored strategies."
+      },
+      {
+        "icon": "🗺",
+        "title": "Strategic Land Promotio",
+        "description": "Navigate complex planning processes with our expert guidance."
       },
       {
         "icon": "💼",
-        "title": "Development Consultatio",
-        "description": "From concept to delivery, we manage every step of your project."
-      },
-      {
-        "icon": "🏘",
-        "title": "Land Promotion",
-        "description": "We promote land for development, ensuring optimal planning outcomes."
+        "title": "Development Consultat",
+        "description": "From concept to delivery, we ensure seamless project execution."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Building More Than Structures",
+    "title": "From Vision to Reality",
     "paragraphs": [
-      "King & Co has built a reputation for transforming land into valuable assets. We specialize in strategic consultancy and property development.",
-      "Our focus on automation and digital tools positions us uniquely to tackle planning and financial challenges effectively."
+      "King & Co has been a leader in property development for over 20 years. We specialize in transforming land into thriving communities.",
+      "We excel at integrating CRM and automation to enhance our services. Our focus on client needs ensures successful outcomes."
     ],
     "image": "https://images.pexels.com/photos/7937709/pexels-photo-7937709.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Client Success Stories",
-    "title": "What Our Clients Say",
+    "eyebrow": "Client Feedback",
+    "title": "Hear from Our Clients",
     "list": [
       {
-        "quote": "King & Co helped us navigate complex planning issues seamlessly.",
-        "name": "Sarah Johnson",
+        "quote": "King & Co unlocked the true potential of our site. Their expertise in planning was invaluable.",
+        "name": "Jane Doe",
         "role": "Private Developer",
         "avatar": "https://images.pexels.com/photos/4525178/pexels-photo-4525178.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their strategic advice was invaluable for our project's success.",
-        "name": "David Brown",
+        "quote": "Their strategic advice minimized our risks and maximized our returns.",
+        "name": "John Smith",
         "role": "Landowner",
         "avatar": "https://images.unsplash.com/photo-1613391780851-c7d6cea710f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxQcm9wZXJ0eSUyMGRldmVsb3BtZW50JTIwYW5kJTIwc3RyYXRlZ2ljJTIwbGFuZCUyMGNvbnN1bHRhbmN5JTIwJTJGJTIwcmVhbCUyMGVzdGF0ZSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNzI1NjYwfDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
@@ -95,26 +95,26 @@ const appData = {
   },
   "visit": {
     "eyebrow": "Visit Us",
-    "title": "Discover Our Hertfordshire Office",
-    "description": "Our office serves as a hub for innovative real estate solutions.",
-    "address": "Location details unavailable",
-    "website": "Unavailable",
+    "title": "Explore Our Projects",
+    "description": "Discover our work in the scenic Hertfordshire area. Our projects enhance local landscapes.",
+    "address": "Hertfordshire, UK",
+    "website": "www.kingandco.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get In Touch",
-    "title": "Start Your Project Today",
-    "description": "Contact us for a consultation and unlock your property's potential.",
-    "consent": "By contacting us, you agree to our terms."
+    "eyebrow": "Partner With Us",
+    "title": "Let's Discuss Your Project",
+    "description": "Contact us to explore how we can transform your land. Book a consultation today.",
+    "consent": "I consent to receive emails."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Transform with AI",
-    "description": "Harness AI to streamline your property projects.",
+    "title": "Automate Your Success",
+    "description": "Harness AI to optimize your development process.",
     "bullets": [
       "Automate CRM for efficient stakeholder management.",
-      "Optimize project costs with integrated dashboards.",
-      "Engage communities through digital platforms."
+      "Use dashboards for cost and project control.",
+      "Enhance engagement with digital platforms."
     ],
     "offer": "Mention King & Co for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "King & Co delivers unforgettable experiences.",
-    "address": "Location details unavailable",
+    "address": "Hertfordshire, UK",
     "email": "",
     "socials": [
       {
