@@ -1,22 +1,22 @@
 const appData = {
   "brand": {
     "name": "Unique Windows",
-    "tagline": "Windows that work for you",
-    "category": "Fenestration Products",
-    "location": "UK",
+    "tagline": "Excellence in Fenestration",
+    "category": "Window & Door Manufacturing",
+    "location": "",
     "phone": ""
   },
   "hero": {
     "eyebrow": "Award-winning service",
-    "title": "Streamline your window orders today",
-    "description": "We reduce lead times and automate processes for smoother operations.",
+    "title": "End lead time delays with our solutions",
+    "description": "Our automated systems optimize production and streamline ordering, reducing errors and delays.",
     "highlights": [
       {
         "label": "Years in Business",
         "value": "15+"
       },
       {
-        "label": "Projects Completed",
+        "label": "Projects Delivered",
         "value": "10,000+"
       },
       {
@@ -32,89 +32,89 @@ const appData = {
     "items": [
       {
         "title": "Consistent Branding",
-        "description": "Our strong orange brand color ensures our CTAs stand out."
-      },
-      {
-        "title": "Clean Layout",
-        "description": "We use ample whitespace to create a clean, easy-to-navigate layout."
+        "description": "Our strong orange branding enhances visibility and brand recall in the market."
       },
       {
         "title": "Professional Imagery",
-        "description": "High-quality photos showcase our state-of-the-art facilities."
+        "description": "We use high-quality photography to showcase our top-tier facilities and products."
+      },
+      {
+        "title": "Clear Structure",
+        "description": "Our website offers a clear layout with well-organized sections for easy navigation."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive range of fenestration products and services.",
+    "description": "Explore our range of high-quality fenestration products and services.",
     "cards": [
       {
         "icon": "🏗",
         "title": "UPVC Windows",
-        "description": "Fabrication of durable UPVC windows for various sectors."
+        "description": "We fabricate durable UPVC windows, perfect for any building project."
       },
       {
-        "icon": "🏢",
-        "title": "Aluminium Windows",
-        "description": "Crafting aluminium windows and curtain walling for modern builds."
+        "icon": "🏗",
+        "title": "Aluminium Systems",
+        "description": "Our aluminium windows and curtain walling offer strength and elegance."
       },
       {
-        "icon": "🚪",
-        "title": "Doors",
-        "description": "Manufacturing doors including patio, sliding, and bifold options."
+        "icon": "🏗",
+        "title": "Doors & Conservatorie",
+        "description": "Manufacture of premium doors and conservatories for various needs."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Innovating Fenestration",
+    "title": "Committed to Quality",
     "paragraphs": [
-      "Unique Window Systems Ltd is a multi-award-winning supplier of UPVC and aluminium products. We serve trade, new build, and commercial sectors.",
-      "Our focus on B2B efficiency and operational automation sets us apart. We invest in technology to optimize production and reduce lead times."
+      "Unique Window Systems Ltd is a multi-award-winning supplier of UPVC and aluminium fenestration products. We serve trade, new build, and commercial sectors.",
+      "Our solutions enhance B2B sales efficiency with a focus on automation, reducing lead times and improving production planning."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
     "eyebrow": "What Clients Say",
-    "title": "Client Testimonials",
+    "title": "Customer Success Stories",
     "list": [
       {
-        "quote": "Unique Windows streamlined our orders, reducing lead times significantly.",
+        "quote": "Unique's automated systems drastically reduced our lead times and improved our workflow.",
         "name": "John Smith",
         "role": "Trade Installer",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their automation tools have greatly improved our project efficiency.",
-        "name": "Jane Doe",
-        "role": "Commercial Developer",
+        "quote": "Their support and efficiency have transformed our order management processes.",
+        "name": "Emily Brown",
+        "role": "Glazing Merchant",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Our Showroom",
-    "description": "Explore our products in person and meet our expert team.",
-    "address": "Leicester, UK",
-    "website": "www.uniquewindowsystems.com",
+    "eyebrow": "Come Visit Us",
+    "title": "Discover Our Showroom",
+    "description": "Explore our state-of-the-art showroom and see our products in action.",
+    "address": "",
+    "website": "uniquewindowsystems.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Request a Quote",
-    "description": "Contact us today for your personalized window and door solutions.",
+    "eyebrow": "Get in Touch",
+    "title": "Request a Consultation",
+    "description": "Contact us today to discuss your project needs and see how we can help.",
     "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Your Operations",
-    "description": "Enhance efficiency with our AI-driven solutions.",
+    "title": "Streamline with AI",
+    "description": "Leverage automation to enhance your business operations.",
     "bullets": [
-      "Instant online quotes for trade customers",
-      "CRM integration for seamless order management",
-      "Optimize production with ERP scheduling"
+      "Instant quoting and order placement via our online portal.",
+      "Automated CRM for error-free communications and support.",
+      "ERP integrations for optimized production scheduling."
     ],
     "offer": "Mention Unique Windows for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Unique Windows delivers unforgettable experiences.",
-    "address": "Leicester, UK",
+    "address": "",
     "email": "",
     "socials": [
       {
