@@ -1,19 +1,19 @@
 const appData = {
   "brand": {
     "name": "Sontec Electrical",
-    "tagline": "Powering Your Projects",
+    "tagline": "Electrical excellence delivered",
     "category": "Electrical Contracting",
     "location": "Stevenage, UK",
-    "phone": "N/A"
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted by Major Sectors",
-    "title": "Eliminate delays with rapid deployment solutions.",
-    "description": "Sontec ensures fast project recovery and compliance, keeping you on schedule and safe.",
+    "eyebrow": "Expert electrical solutions",
+    "title": "Rapid, compliant electrical contracting services",
+    "description": "We solve project delays, ensure compliance, and scale resources efficiently.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "1,000+"
+        "value": "1,200+"
       },
       {
         "label": "Compliance Rate",
@@ -21,7 +21,7 @@ const appData = {
       },
       {
         "label": "Years in Service",
-        "value": "20+"
+        "value": "25+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Certified Excellence",
-        "description": "Our certifications validate our commitment to quality and safety."
+        "title": "Certified Expertise",
+        "description": "Our team is certified with industry-leading standards for quality work."
       },
       {
-        "title": "Real Project Photography",
-        "description": "We showcase actual projects to demonstrate our capabilities."
+        "title": "Real Projects",
+        "description": "See our successful projects that demonstrate our proficiency."
       },
       {
-        "title": "Distinct Service Layout",
-        "description": "Clear service differentiation helps clients understand our offerings."
+        "title": "Service Clarity",
+        "description": "Clear, distinct service offerings ensuring your project needs are met."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive electrical services across various sectors.",
+    "description": "Providing comprehensive electrical services across various industries.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Electrical Contracting",
-        "description": "Complete cabling and lighting installation for diverse sectors."
+        "description": "We provide robust electrical installations for all sectors."
       },
       {
-        "icon": "🛠",
+        "icon": "🔧",
         "title": "Project Recovery",
-        "description": "Rapid deployment of additional labour and management for stalled projects."
+        "description": "Swiftly recover projects with additional labor and management."
       },
       {
         "icon": "🛡",
-        "title": "Compliance Management",
-        "description": "Ensuring health and safety compliance across all projects."
+        "title": "Safety & Compliance",
+        "description": "Ensure health and safety compliance on all your sites."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Pioneers in Electrical Contracting",
+    "title": "Building a legacy of trust",
     "paragraphs": [
-      "Based in Stevenage, Sontec provides electrical services across the UK, specializing in installation for retail, leisure, and industrial sectors.",
-      "We align with ISO 9001 standards, ensuring quality and safety. Our automation solutions enhance efficiency, making us a reliable partner."
+      "Based in Stevenage, we've been providing top-notch electrical services in the UK. Our work spans retail, leisure, industrial, and more.",
+      "Our services align with your needs through modernization, SEO, and automation, improving lead generation and project efficiency."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client Experiences",
-    "title": "What Our Clients Say",
+    "eyebrow": "What Clients Say",
+    "title": "Client Success Stories",
     "list": [
       {
-        "quote": "Sontec recovered our project swiftly, ensuring compliance and timely completion.",
+        "quote": "Sontec saved our project from delays, ensuring compliance and quality.",
         "name": "John Smith",
         "role": "Project Manager",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their expertise in compliance and safety is unmatched. Highly reliable!",
-        "name": "Sarah Johnson",
-        "role": "Main Contractor",
+        "quote": "Their expertise in compliance is unmatched, saving us time and resources.",
+        "name": "Sarah Brown",
+        "role": "Construction Developer",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Explore Our Headquarters",
-    "description": "Located in Stevenage, we are at the heart of innovation and efficiency.",
+    "eyebrow": "Our Location",
+    "title": "Visit Us in Stevenage",
+    "description": "Centrally located, serving the East, South, Midlands, and London area.",
     "address": "Stevenage, UK",
-    "website": "www.sontec-elec.co.uk",
+    "website": "https://www.sontec-elec.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get In Touch",
-    "title": "Ready to Start Your Project?",
-    "description": "Contact us for consultations or project inquiries.",
-    "consent": "Yes, I agree to the terms."
+    "eyebrow": "Get Started",
+    "title": "Contact Us Today",
+    "description": "Reach out for a consultation on your electrical projects.",
+    "consent": "I consent to the terms and privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Enhance Efficiency with AI",
-    "description": "Leverage automation for superior project management.",
+    "title": "Automate Your Workflow",
+    "description": "Enhance efficiency with our AI-driven solutions.",
     "bullets": [
-      "Automate lead capture and follow-ups with CRM tools.",
-      "Streamline quoting and proposal generation digitally.",
-      "Optimize workforce scheduling and resource allocation."
+      "Automated CRM for better lead management.",
+      "Digital proposals streamline your quoting process.",
+      "Automated safety reports ensure compliance."
     ],
     "offer": "Mention Sontec Electrical for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
