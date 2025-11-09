@@ -1,18 +1,18 @@
 const appData = {
   "brand": {
-    "name": "Dearneside Fab",
-    "tagline": "Crafting Your Vision",
+    "name": "Dearneside Fabs",
+    "tagline": "Crafting Steel Solutions",
     "category": "Steel Fabrication",
-    "location": "N/A",
-    "phone": "N/A"
+    "location": "UK",
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Bespoke Metal Solutions",
-    "title": "Streamline Your Projects with Automation.",
-    "description": "Dearneside Fabrications Ltd enhances efficiency through online lead capture and automated quoting, saving you time and effort.",
+    "eyebrow": "Precision Fabrication Experts",
+    "title": "Streamlined projects with automated processes",
+    "description": "Dearneside Fabrications Ltd enhances efficiency with automated lead capture and project tracking, ensuring seamless service.",
     "highlights": [
       {
-        "label": "Projects Completed",
+        "label": "Projects Delivered",
         "value": "3,000+"
       },
       {
@@ -21,7 +21,7 @@ const appData = {
       },
       {
         "label": "Client Satisfaction",
-        "value": "95%"
+        "value": "98%"
       }
     ],
     "image": "https://images.pexels.com/photos/8377793/pexels-photo-8377793.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -32,91 +32,91 @@ const appData = {
     "items": [
       {
         "title": "Expert Craftsmanship",
-        "description": "Our skilled team delivers top-notch metalwork using advanced techniques."
+        "description": "Our skilled team ensures top-notch steelwork for any project size."
       },
       {
-        "title": "Stunning Visuals",
-        "description": "Strong photography showcases our exceptional projects and craftsmanship."
+        "title": "Visual Excellence",
+        "description": "Strong photography showcases our commitment to quality and design."
       },
       {
-        "title": "Organized Layout",
-        "description": "Easy navigation with a clear grid layout enhances user experience."
+        "title": "Efficient Organization",
+        "description": "Our service categories are clear and visually appealing to clients."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our wide range of architectural and structural steel services.",
+    "description": "Explore our specialized fabrication services tailored for your needs.",
     "cards": [
       {
         "icon": "🏗",
-        "title": "Architectural Fab",
-        "description": "Custom architectural fabrications designed to your specifications."
+        "title": "Architectural Fabrications",
+        "description": "Custom metalwork solutions that enhance and define your projects."
       },
       {
-        "icon": "🏢",
-        "title": "Balconies",
-        "description": "Expertly crafted balconies that add elegance and functionality."
+        "icon": "🛡",
+        "title": "Balconies & Balustrades",
+        "description": "Stylish, safe designs that perfectly complement your structures."
       },
       {
-        "icon": "🛠",
-        "title": "Structural Steel",
-        "description": "Reliable structural steelworks for robust building solutions."
+        "icon": "🏗",
+        "title": "Structural Steelworks",
+        "description": "Reliable steel frameworks that form the backbone of your buildings."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Building a Legacy",
+    "title": "Built on Expertise",
     "paragraphs": [
-      "Founded with a vision to transform metal into masterpieces, Dearneside Fabrications Ltd has become a trusted name in steel fabrication.",
-      "We excel in delivering repeatable, project-based services. Our web presence and automation enhance client satisfaction."
+      "Dearneside Fabrications Ltd began with a mission to deliver precision in every steel piece crafted. Our team is dedicated to excellence.",
+      "By integrating automation, we streamline processes, enhancing productivity and client satisfaction. Our digital growth fuels our success."
     ],
     "image": "https://images.pexels.com/photos/10319788/pexels-photo-10319788.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
     "eyebrow": "Client Feedback",
-    "title": "What Clients Say",
+    "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "Dearneside helped us streamline our project intake with their automated solutions.",
+        "quote": "Their automated system made project management a breeze. Highly recommend!",
         "name": "John Smith",
         "role": "Architect",
         "avatar": "https://images.pexels.com/photos/8960994/pexels-photo-8960994.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their online quoting system saved us time and effort. Highly recommend!",
-        "name": "Emily Davis",
-        "role": "Builder",
+        "quote": "Seamless quoting and lead management saved us time and effort.",
+        "name": "Jane Doe",
+        "role": "Developer",
         "avatar": "https://images.unsplash.com/photo-1550605006-5b1c506b79f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxBcmNoaXRlY3R1cmFsJTIwJTJGJTIwU3RydWN0dXJhbCUyMFN0ZWVsJTIwRmFicmljYXRpb24lMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjcyNTczNXww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit Us",
-    "title": "Connect with Us",
-    "description": "Discover our capabilities and discuss your project needs today.",
-    "address": "N/A",
-    "website": "N/A",
+    "title": "Discover Our Craft",
+    "description": "Located in the heart of the UK, we offer onsite consultations to bring your vision to life.",
+    "address": "UK",
+    "website": "dearnesidefabs.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get In Touch",
-    "title": "Request a Consultation",
-    "description": "Reach out to us to discuss your fabrication needs and receive a personalized quote.",
+    "eyebrow": "Get in Touch",
+    "title": "Start Your Project",
+    "description": "Contact us today to discuss your fabrication needs and get a free quote.",
     "consent": "I agree to receive communications."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate with Dearneside",
-    "description": "Enhance efficiency with our automation tools.",
+    "title": "Automate Your Success",
+    "description": "Transform your project management with automation.",
     "bullets": [
-      "Automated online quoting streamlines processes.",
-      "CRM integration for effective lead management.",
-      "Automated project tracking boosts productivity."
+      "Automated online quoting streamlines proposals.",
+      "CRM integration for seamless lead management.",
+      "Track project schedules with ease."
     ],
-    "offer": "Mention Dearneside Fab for the launch-week optimization kit.",
+    "offer": "Mention Dearneside Fabs for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Dearneside Fab delivers unforgettable experiences.",
-    "address": "N/A",
+    "blurb": "Dearneside Fabs delivers unforgettable experiences.",
+    "address": "UK",
     "email": "",
     "socials": [
       {
