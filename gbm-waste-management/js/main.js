@@ -1,120 +1,120 @@
 const appData = {
   "brand": {
     "name": "GBM Waste",
-    "tagline": "Efficient Waste Solutions",
+    "tagline": "Effortless Waste Solutions",
     "category": "Waste Management",
     "location": "Louth and Lincoln",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted Local Partner",
-    "title": "Simplifying Waste Management for You",
-    "description": "Streamline your skip hire with transparent pricing and easy booking. Our services ensure efficiency and reliability.",
+    "eyebrow": "Streamlined Service",
+    "title": "Simplify waste management with ease.",
+    "description": "Experience hassle-free bookings and transparent pricing. Enjoy efficient waste solutions tailored for you.",
     "highlights": [
       {
-        "label": "Years in Service",
+        "label": "Years of Experience",
         "value": "20+"
       },
       {
-        "label": "Projects Completed",
-        "value": "5,000+"
+        "label": "Skips Delivered",
+        "value": "10,000+"
       },
       {
-        "label": "Client Satisfaction",
-        "value": "98%"
+        "label": "Customer Satisfaction",
+        "value": "95%"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
+    "image": "https://images.pexels.com/photos/34406295/pexels-photo-34406295.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Reliable Solutions",
-        "description": "Count on us for dependable waste management tailored to your needs."
+        "title": "Clear Brand Identity",
+        "description": "Our strong green branding ensures instant recognition and trust."
+      },
+      {
+        "title": "User-Friendly Booking",
+        "description": "Our intuitive online booking process saves you time and hassle."
       },
       {
         "title": "Transparent Pricing",
-        "description": "Our straightforward pricing builds trust and ensures no surprises."
-      },
-      {
-        "title": "Online Convenience",
-        "description": "Book skips easily with our user-friendly online system."
+        "description": "Upfront pricing builds trust and eliminates surprises for our clients."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive services across Louth and Lincoln.",
+    "description": "Comprehensive waste solutions for homes and businesses in Louth and Lincoln.",
     "cards": [
       {
         "icon": "🏠",
         "title": "Domestic Skip Hire",
-        "description": "Perfect for home renovations and clear-outs."
+        "description": "Hire skips for home projects with flexible sizes and fast delivery."
       },
       {
         "icon": "🏢",
         "title": "Commercial Services",
-        "description": "Tailored waste solutions for businesses of all sizes."
+        "description": "Reliable waste solutions for businesses with tailored service options."
       },
       {
-        "icon": "🚚",
+        "icon": "🚛",
         "title": "Cage Van Services",
-        "description": "Efficient collection for various waste types."
+        "description": "Efficient removal of bulky waste with our specialized vehicles."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Commitment to Excellence",
+    "title": "Pioneering Waste Solutions",
     "paragraphs": [
-      "Since our inception, GBM Waste Management has proudly served Louth and Lincoln with dedicated waste solutions.",
-      "We focus on innovation to meet our clients' needs, integrating technology to enhance service quality."
+      "Founded in Louth and Lincoln, GBM Waste Management is dedicated to delivering top-notch waste solutions. Our team is committed to sustainability and innovation.",
+      "With a focus on automation, we address booking inefficiencies, offering seamless experiences. We ensure high ROI with our tailored services."
     ],
-    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
+    "image": "https://images.pexels.com/photos/7581123/pexels-photo-7581123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Customer Experiences",
+    "eyebrow": "Customer Reviews",
+    "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "GBM's online booking made our renovation smooth and hassle-free. Highly recommend!",
-        "name": "John Smith",
+        "quote": "GBM made our waste management hassle-free! The booking process is seamless and transparent.",
+        "name": "John Doe",
         "role": "Homeowner",
-        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
+        "avatar": "https://images.pexels.com/photos/7827860/pexels-photo-7827860.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their transparent pricing and reliable service are unmatched. A great partner for our business.",
-        "name": "Emma Brown",
+        "quote": "Their commercial services are top-notch. We appreciate the clear pricing and reliable delivery.",
+        "name": "Jane Smith",
         "role": "Construction Manager",
-        "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
+        "avatar": "https://images.unsplash.com/photo-1648818170819-0dd78af84faa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxXYXN0ZSUyMG1hbmFnZW1lbnQlMjAlMkYlMjBTa2lwJTIwaGlyZSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNzI5MjQzfDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit Us",
-    "title": "Find Our Locations",
-    "description": "Serving the Louth and Lincoln area with pride. Visit us for all your waste management needs.",
-    "address": "Louth and Lincoln",
+    "title": "Explore Our Services",
+    "description": "Discover premium waste management solutions with GBM. Serving Louth, Lincoln, and beyond.",
+    "address": "",
     "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in Touch",
+    "eyebrow": "Contact Us",
     "title": "Book Your Skip Today",
-    "description": "Contact us to schedule your service or for any inquiries.",
-    "consent": "I consent to receive communication."
+    "description": "Ready to simplify your waste management? Contact us now for seamless service.",
+    "consent": "I agree to the terms and conditions"
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Your Experience",
-    "description": "Enhance your service with AI-powered solutions.",
+    "title": "Enhance Efficiency with AI",
+    "description": "Leverage automation for superior waste management.",
     "bullets": [
-      "Streamline skip bookings with online payments.",
-      "Automate scheduling to optimize fleet usage.",
-      "Receive instant SMS/email confirmations."
+      "Simplify bookings with online payment options.",
+      "Receive automated scheduling and ETA updates.",
+      "Use our skip size wizard to minimize queries."
     ],
     "offer": "Mention GBM Waste for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "GBM Waste delivers unforgettable experiences.",
-    "address": "Louth and Lincoln",
+    "address": "",
     "email": "",
     "socials": [
       {
