@@ -1,26 +1,26 @@
 const appData = {
   "brand": {
-    "name": "Morgan Const. Wales",
-    "tagline": "Building Your Vision",
+    "name": "Morgan Construct.",
+    "tagline": "Local Expertise, Global Standards",
     "category": "Construction",
-    "location": "Based in Wales",
-    "phone": "N/A"
+    "location": "Wales",
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Reliable Local Service",
-    "title": "Streamlining Your Construction Needs",
-    "description": "Morgan Construction offers full building services, from renovations to new builds. We enhance efficiency and client satisfaction.",
+    "eyebrow": "Comprehensive Solutions",
+    "title": "Streamline your projects with ease",
+    "description": "We offer seamless integration of construction services, making project management simple.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "500+"
+        "value": "1,000+"
       },
       {
         "label": "Local Workforce",
         "value": "100%"
       },
       {
-        "label": "Years of Experience",
+        "label": "Years of Service",
         "value": "20+"
       }
     ],
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expertise & Trust",
-        "description": "Our seasoned team ensures quality and reliability in every project, enhancing client trust."
+        "title": "Expert Team",
+        "description": "Our skilled team ensures quality and trust in every project we undertake."
       },
       {
-        "title": "Innovative Solutions",
-        "description": "We offer cutting-edge solutions tailored to your needs, ensuring maximum efficiency."
+        "title": "Professional Imagery",
+        "description": "We showcase our projects with high-quality images that build client confidence."
       },
       {
-        "title": "Local Commitment",
-        "description": "We prioritize local labor, supporting the community while delivering top-notch service."
+        "title": "Clear Structure",
+        "description": "Our website is organized to guide you effortlessly through our services."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Morgan Construction provides a comprehensive range of services tailored to your building needs.",
+    "description": "From small renovations to complete builds, we cover all aspects of construction.",
     "cards": [
       {
         "icon": "🏗",
         "title": "General Construction",
-        "description": "From small renovations to full builds, we deliver comprehensive construction solutions."
+        "description": "We handle every aspect of construction, from start to finish."
       },
       {
-        "icon": "🏘",
+        "icon": "🏠",
         "title": "Bespoke Homes",
-        "description": "Customize your dream home with our bespoke residential property development services."
+        "description": "Create your dream home with our bespoke residential services."
       },
       {
         "icon": "🚜",
         "title": "Plant Hire",
-        "description": "Our M Plant Hire service provides reliable equipment for your projects."
+        "description": "Access our extensive range of plant and equipment for hire."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Building Excellence Locally",
+    "title": "Building with Pride",
     "paragraphs": [
-      "Morgan Construction Wales Limited began its journey with a commitment to quality and local expertise. We offer everything from small renovations to complete new builds.",
-      "Our multiple service lines, including plant hire and trade supplies, meet diverse needs. We leverage technology to enhance efficiency and client satisfaction."
+      "Morgan Construction Wales Limited offers a full range of building services. We use local labor, ensuring quality and community support.",
+      "Our diverse services and strong online presence enhance client relationships and project efficiency."
     ],
     "image": "https://images.pexels.com/photos/8962801/pexels-photo-8962801.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Client Experiences",
-    "title": "What Clients Say",
+    "eyebrow": "What Clients Say",
+    "title": "Client Success Stories",
     "list": [
       {
-        "quote": "Morgan Construction transformed our home beautifully. Their local expertise ensured a smooth process.",
-        "name": "Laura Jenkins",
+        "quote": "Morgan Construction transformed our vision into reality. Their team is exceptional!",
+        "name": "Sarah Evans",
         "role": "Homeowner",
         "avatar": "https://images.pexels.com/photos/34558071/pexels-photo-34558071.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their plant hire service is reliable and efficient. It made our project run seamlessly.",
-        "name": "David Evans",
-        "role": "Project Manager",
+        "quote": "Their seamless project management made our renovation stress-free and efficient.",
+        "name": "John Davies",
+        "role": "Commercial Client",
         "avatar": "https://images.unsplash.com/photo-1659353587484-a83a0ddf8aca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjAlMkYlMjBQcm9wZXJ0eSUyMERldmVsb3BtZW50JTIwJTJGJTIwUGxhbnQlMjBIaXJlJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI3MjU3ODN8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Come See Us",
-    "title": "Visit Our Office",
-    "description": "Explore our services and meet our team in Wales, where local expertise meets innovation.",
-    "address": "N/A",
-    "website": "N/A",
+    "eyebrow": "Our Location",
+    "title": "Visit Us in Wales",
+    "description": "Discover our local expertise and commitment to quality construction.",
+    "address": "",
+    "website": "www.morganconstructionwales.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Contact Us",
-    "title": "Let's Build Together",
-    "description": "Reach out for consultations or project inquiries. Your vision is our mission.",
-    "consent": "We respect your privacy."
+    "eyebrow": "Get in Touch",
+    "title": "Contact Us Today",
+    "description": "Reach out for consultations or to start your project with us.",
+    "consent": "By contacting us, you consent to our privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Your Build",
-    "description": "Enhance your construction projects with our AI-driven solutions.",
+    "title": "Enhance Efficiency",
+    "description": "Leverage AI to streamline operations and boost results.",
     "bullets": [
-      "Streamline inquiries with automated forms.",
+      "Automate lead capture for quick follow-ups.",
       "Implement online booking for plant hire.",
-      "Automate project updates with client portals."
+      "Improve marketing with automated email campaigns."
     ],
-    "offer": "Mention Morgan Const. Wales for the launch-week optimization kit.",
+    "offer": "Mention Morgan Construct. for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Morgan Const. Wales delivers unforgettable experiences.",
-    "address": "N/A",
+    "blurb": "Morgan Construct. delivers unforgettable experiences.",
+    "address": "",
     "email": "",
     "socials": [
       {
