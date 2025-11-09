@@ -2,22 +2,22 @@ const appData = {
   "brand": {
     "name": "GCL Building Tech",
     "tagline": "Powering Your Future",
-    "category": "Electrical Contracting",
-    "location": "Across the UK",
+    "category": "Commercial Electrical",
+    "location": "UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Innovative Solutions",
-    "title": "Upgrade Your Electrical Systems Today",
-    "description": "GCL solves outdated systems and connectivity issues efficiently. Trust us for structured cabling and battery storage solutions.",
+    "eyebrow": "Trusted UK Partner",
+    "title": "Transforming outdated systems with cutting-edge tech",
+    "description": "GCL Building Technologies modernizes electrical systems, enhances connectivity, and ensures compliance for your commercial space.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "1,200+"
+        "value": "3,000+"
       },
       {
         "label": "Client Satisfaction",
-        "value": "98%"
+        "value": "99%"
       },
       {
         "label": "Years Experience",
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Clear Services",
-        "description": "Our services are clearly categorized for quick navigation and understanding."
+        "title": "Clear Service Offerings",
+        "description": "Our services are clearly categorized, ensuring clients can easily find the solutions they need."
       },
       {
-        "title": "Strong CTAs",
-        "description": "Our call-to-action buttons are strategically placed for maximum engagement."
+        "title": "Strong Call-to-Action",
+        "description": "We use strategic CTAs to guide our clients through engaging experiences."
       },
       {
         "title": "Consistent Design",
-        "description": "Experience a cohesive design that maintains a consistent color scheme."
+        "description": "Our consistent color scheme enhances brand recognition and trust."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our range of specialized electrical services tailored for your commercial needs.",
+    "description": "Expert commercial electrical services tailored to your business needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Electrical Installation",
-        "description": "We provide expert commercial electrical installations across diverse industries."
+        "description": "We deliver comprehensive commercial electrical installations across the UK."
       },
       {
         "icon": "💻",
-        "title": "Data Cabling",
-        "description": "Our structured cabling solutions ensure robust data and connectivity performance."
+        "title": "Data & Cabling",
+        "description": "Structured cabling solutions to enhance your data performance."
       },
       {
-        "icon": "📶",
+        "icon": "📡",
         "title": "Connectivity Solution",
-        "description": "Improve your site’s connectivity with our comprehensive surveys and solutions."
+        "description": "Ensure seamless connectivity with our expert site surveys and solutions."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Empowering Infrastructure",
+    "title": "Building Excellence",
     "paragraphs": [
-      "Since inception, GCL has been at the forefront of commercial electrical services, evolving with the latest technology to offer structured cabling and battery storage.",
-      "Our processes are streamlined for efficiency, using automation to enhance lead capture and scheduling, ensuring top-notch service delivery."
+      "GCL Building Technologies has been a leader in commercial electrical services, specializing in structured cabling, WiFi networks, and battery storage.",
+      "Automating our processes allows us to provide efficient, reliable service. We enhance client satisfaction and streamline operations, ensuring high ROI."
     ],
     "image": "https://images.pexels.com/photos/8487403/pexels-photo-8487403.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Satisfied Clients",
-    "title": "What They Say",
+    "eyebrow": "Client Feedback",
+    "title": "What Clients Say",
     "list": [
       {
-        "quote": "GCL upgraded our aging systems with ease. Their expertise in connectivity is unmatched.",
-        "name": "Sarah Thompson",
-        "role": "Facilities Manager",
+        "quote": "GCL upgraded our outdated systems flawlessly. The service was impeccable.",
+        "name": "John Smith",
+        "role": "Building Manager",
         "avatar": "https://images.pexels.com/photos/8774503/pexels-photo-8774503.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Scheduling site surveys with GCL is so effortless and quick. Highly recommend!",
-        "name": "John Davis",
-        "role": "Building Manager",
+        "quote": "Their cabling solutions transformed our connectivity issues. Highly recommend!",
+        "name": "Emily Davis",
+        "role": "Facilities Manager",
         "avatar": "https://images.unsplash.com/photo-1617118600610-dcdf743b3dfc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxDb21tZXJjaWFsJTIwZWxlY3RyaWNhbCUyMGNvbnRyYWN0aW5nJTIwJTJGJTIwYnVpbGRpbmclMjB0ZWNobm9sb2dpZXMlMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjcyNTkyMXww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Our Operations",
-    "title": "Nationwide Service",
-    "description": "We operate across the UK, bringing our expertise to your doorstep.",
-    "address": "United Kingdom",
-    "website": "www.gcl.uk.com",
+    "eyebrow": "Find Us",
+    "title": "Visit Our Office",
+    "description": "Discover our solutions firsthand. Join us in revolutionizing your space.",
+    "address": "UK",
+    "website": "gcl.uk.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Contact Us",
-    "title": "Get in Touch",
-    "description": "Reach out today to schedule a consultation or request a quote.",
-    "consent": "I agree to receive communications."
+    "eyebrow": "Get In Touch",
+    "title": "Book a Consultation",
+    "description": "Contact us to modernize your electrical and connectivity systems.",
+    "consent": "By submitting, you agree to our terms."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate with GCL",
-    "description": "Streamline your processes with our advanced automation solutions.",
+    "title": "Automate with Ease",
+    "description": "Harness AI to streamline your operations.",
     "bullets": [
-      "Online booking and automated scheduling.",
-      "Seamless CRM integration for follow-ups.",
-      "Instant quoting and job dispatch."
+      "Automate site-survey scheduling and reminders.",
+      "Integrate lead capture with CRM for seamless follow-ups.",
+      "Generate instant quotes and dispatch jobs efficiently."
     ],
     "offer": "Mention GCL Building Tech for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "GCL Building Tech delivers unforgettable experiences.",
-    "address": "United Kingdom",
+    "address": "UK",
     "email": "",
     "socials": [
       {
