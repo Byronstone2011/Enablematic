@@ -1,22 +1,22 @@
 const appData = {
   "brand": {
     "name": "Hitchen Contracts",
-    "tagline": "Building Your Vision",
+    "tagline": "Crafting Your Vision",
     "category": "Construction",
-    "location": "N/A",
-    "phone": "N/A"
+    "location": "UK",
+    "phone": "Unavailable"
   },
   "hero": {
-    "eyebrow": "Trusted Construction",
-    "title": "Transforming spaces with precision and care",
-    "description": "Hitchen Contracts streamlines your projects, ensuring quality and reliability every step of the way.",
+    "eyebrow": "Contracting Excellence",
+    "title": "Build with confidence and clarity.",
+    "description": "Hitchen Contracts delivers seamless project management and exceptional results. Trust us to handle your construction needs with expertise.",
     "highlights": [
       {
         "label": "Projects Completed",
         "value": "1,200+"
       },
       {
-        "label": "Years of Experience",
+        "label": "Years Experience",
         "value": "20+"
       },
       {
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Strong Brand Identity",
-        "description": "Our logo stands as a mark of trust and excellence in the industry."
+        "title": "Strong Identity",
+        "description": "Our brand is recognized for quality and reliability in every project we undertake."
       },
       {
-        "title": "Clear Messaging",
-        "description": "Our communication is straightforward, ensuring clients understand our offerings."
+        "title": "Bold Messaging",
+        "description": "Clear communication ensures you are always informed and confident in our services."
       },
       {
-        "title": "Professional Photograph",
-        "description": "Our work is showcased through high-quality images, reflecting our craftsmanship."
+        "title": "Professional Imagery",
+        "description": "Our professional visuals showcase our work and facilities with clarity and precision."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We offer comprehensive construction services tailored to your needs.",
+    "description": "Explore our tailored services designed to meet your construction and renovation needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Construction & Contracting",
-        "description": "From blueprint to building, we manage every detail with precision."
+        "description": "We deliver top-notch construction services to bring your vision to life."
       },
       {
         "icon": "🔨",
         "title": "Renovations & Repairs",
-        "description": "Transform your space with our expert renovation services."
+        "description": "Enhance your space with our expert renovation and repair services."
       },
       {
         "icon": "📋",
         "title": "Project Management",
-        "description": "Efficiently managing your projects from start to finish."
+        "description": "Efficient site coordination keeps your project on track and within budget."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Crafting Excellence",
+    "title": "Building Dreams, One Project at a Time",
     "paragraphs": [
-      "Hitchen Contracts was born from a passion for quality construction. We take pride in our work and the relationships we build.",
-      "As we revamp our website, we aim to enhance client engagement and streamline project execution with digital solutions."
+      "Hitchen Contracts has been a trusted name in construction for over two decades. Our commitment to excellence drives every project.",
+      "Our active approach to updating our digital presence ensures we remain a leader in innovation and customer engagement."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client Stories",
-    "title": "What Our Clients Say",
+    "eyebrow": "What Clients Say",
+    "title": "Voices of Satisfaction",
     "list": [
       {
-        "quote": "Hitchen Contracts made our renovation effortless and stress-free.",
-        "name": "Sarah Thompson",
+        "quote": "Hitchen Contracts transformed our space with precision and care. Highly recommend them!",
+        "name": "John Doe",
         "role": "Homeowner",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their attention to detail and communication is unmatched.",
-        "name": "Mark Johnson",
+        "quote": "Their project management was seamless, making renovations stress-free.",
+        "name": "Jane Smith",
         "role": "Property Manager",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Our Location",
-    "title": "Find Us",
-    "description": "Visit our office to discuss your construction needs.",
-    "address": "N/A",
-    "website": "N/A",
+    "eyebrow": "Find Us",
+    "title": "Discover Our Services",
+    "description": "We serve clients across the UK with dedication and expertise.",
+    "address": "Unavailable",
+    "website": "Unavailable",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get in Touch",
-    "title": "Contact Us Today",
-    "description": "Reach out for a consultation or project quote.",
-    "consent": "We respect your privacy."
+    "title": "Request a Consultation",
+    "description": "Contact us to discuss your project needs and schedule a consultation.",
+    "consent": "I agree to the privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Your Success",
-    "description": "Leverage AI to enhance your construction projects.",
+    "title": "Automate for Success",
+    "description": "Enhance efficiency and engagement with AI-driven solutions.",
     "bullets": [
-      "Automate lead capture and follow-ups with CRM.",
-      "Streamline bookings and scheduling for efficiency.",
-      "Use SEO and analytics to optimize campaign success."
+      "Capture leads with integrated CRM and follow-ups.",
+      "Automate booking and scheduling for convenience.",
+      "Utilize SEO and analytics for performance tracking."
     ],
     "offer": "Mention Hitchen Contracts for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Hitchen Contracts delivers unforgettable experiences.",
-    "address": "N/A",
+    "address": "Unavailable",
     "email": "",
     "socials": [
       {
