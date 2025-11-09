@@ -1,66 +1,66 @@
 const appData = {
   "brand": {
     "name": "Adjudicate",
-    "tagline": "Reshaping resolutions",
+    "tagline": "Resolving disputes efficiently",
     "category": "Legal Services",
-    "location": "United Kingdom",
+    "location": "",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Transforming disputes",
-    "title": "End your payment delays with expert adjudication.",
-    "description": "We resolve disputes efficiently, ensuring swift payments and clear contract outcomes.",
+    "eyebrow": "Expert legal services",
+    "title": "Say goodbye to payment delays",
+    "description": "Adjudicate resolves disputes swiftly and fairly, saving you time and money.",
     "highlights": [
       {
-        "label": "Disputes Resolved",
-        "value": "1,200+"
+        "label": "Cases Resolved",
+        "value": "500+"
       },
       {
-        "label": "Client Satisfaction",
-        "value": "98%"
+        "label": "Success Rate",
+        "value": "97%"
       },
       {
-        "label": "Years of Experience",
-        "value": "10+"
+        "label": "Years Experience",
+        "value": "15+"
       }
     ],
-    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
+    "image": "https://images.pexels.com/photos/7876000/pexels-photo-7876000.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Guidance",
-        "description": "Our consultants provide industry-leading expertise for fair outcomes."
+        "title": "Clear Processes",
+        "description": "Our streamlined workflows ensure quick and transparent dispute resolutions."
       },
       {
-        "title": "Streamlined Process",
-        "description": "Efficient dispute handling reduces time and cost for our clients."
+        "title": "Experienced Team",
+        "description": "Decades of legal expertise guide every case, ensuring fair outcomes."
       },
       {
         "title": "Proven Results",
-        "description": "Our track record speaks for itself with numerous successful cases."
+        "description": "Our approach delivers consistently high success rates for our clients."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Tailored legal services for construction disputes.",
+    "description": "Our services are tailored to address your construction legal challenges.",
     "cards": [
       {
         "icon": "⚖️",
         "title": "Adjudication",
-        "description": "Resolve disputes quickly with expert adjudication services."
+        "description": "Resolve disputes with expert adjudication for contractors."
       },
       {
         "icon": "💼",
         "title": "Payment Recovery",
-        "description": "Secure outstanding payments efficiently and effectively."
+        "description": "Recover unpaid invoices effectively and efficiently."
       },
       {
-        "icon": "🛠",
+        "icon": "📄",
         "title": "Contract Advice",
         "description": "Receive expert advice on commercial contracts and representation."
       }
@@ -68,53 +68,53 @@ const appData = {
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Pioneering Change",
+    "title": "A Force for Change",
     "paragraphs": [
-      "Adjudicate is dedicated to transforming the construction industry. We secure fair outcomes and improve the adjudication process for all parties involved.",
-      "Our specialized approach and clear niche allow us to offer precise solutions. We integrate technology to enhance efficiency and client satisfaction."
+      "Adjudicate was founded to transform the construction industry. We secure fair outcomes and improve adjudication processes.",
+      "Our niche services align perfectly with your needs, leveraging advanced automation for seamless operations."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
     "eyebrow": "Client Feedback",
-    "title": "What Our Clients Say",
+    "title": "Success Stories",
     "list": [
       {
-        "quote": "Adjudicate resolved our payment issues swiftly, saving us time and money.",
-        "name": "Jane Smith",
+        "quote": "Adjudicate resolved our payment issues swiftly. Highly recommended!",
+        "name": "John Smith",
         "role": "Contractor",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their expertise in adjudication helped us navigate complex disputes effortlessly.",
-        "name": "John Doe",
-        "role": "Project Manager",
+        "quote": "Their expertise in contract advice saved us time and money.",
+        "name": "Sarah Johnson",
+        "role": "Construction Manager",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Our Location",
-    "title": "Find Us",
-    "description": "Visit us in the heart of the UK for expert dispute resolution services.",
-    "address": "London, UK",
+    "eyebrow": "Connect with Us",
+    "title": "Reach Out Today",
+    "description": "Contact us to find solutions for your construction legal challenges.",
+    "address": "",
     "website": "www.adjudicate.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get Started",
-    "title": "Book a Consultation",
-    "description": "Contact us to discuss your dispute resolution needs.",
-    "consent": "Consent to contact via email."
+    "title": "Request a Consultation",
+    "description": "Contact us for a tailored consultation and see how we can help.",
+    "consent": "I agree to the terms and privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Your Process",
-    "description": "Leverage AI to streamline your dispute management.",
+    "title": "Streamline Your Process",
+    "description": "Automate your legal workflows with our innovative solutions.",
     "bullets": [
-      "Automated intake forms reduce admin tasks.",
-      "CRM integration enhances client follow-ups.",
-      "Document workflows streamline case tracking."
+      "Automated client intake reduces admin work.",
+      "CRM integration for seamless follow-ups.",
+      "Case-tracking automation enhances efficiency."
     ],
     "offer": "Mention Adjudicate for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Adjudicate delivers unforgettable experiences.",
-    "address": "London, UK",
+    "address": "",
     "email": "",
     "socials": [
       {
