@@ -1,120 +1,120 @@
 const appData = {
   "brand": {
     "name": "Montgomeryshire Hom",
-    "tagline": "Crafting Dreams in Wales",
-    "category": "Residential Developer",
+    "tagline": "Quality Homes, Built Right",
+    "category": "Homebuilder",
     "location": "Welshpool, Powys",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Quality New Builds",
-    "title": "Streamline your home buying journey",
-    "description": "Discover seamless booking and personalized service with Montgomeryshire Homes.",
+    "eyebrow": "Excellence in Homebuilding",
+    "title": "Streamline your home buying experience today!",
+    "description": "Montgomeryshire Homes offers seamless viewings and efficient lead management to enhance your home buying journey.",
     "highlights": [
       {
-        "label": "Years Building",
+        "label": "Homes Built",
+        "value": "200+"
+      },
+      {
+        "label": "Years in Business",
         "value": "10+"
       },
       {
-        "label": "Homes Delivered",
-        "value": "500+"
-      },
-      {
-        "label": "Client Satisfaction",
-        "value": "98%"
+        "label": "Customer Satisfaction",
+        "value": "95%"
       }
     ],
-    "image": "https://images.pexels.com/photos/7937324/pexels-photo-7937324.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1585211964888-c2a4277a9f6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxSZXNpZGVudGlhbCUyMHByb3BlcnR5JTIwZGV2ZWxvcGVyJTIwJTJGJTIwSG9tZWJ1aWxkZXIlMjAlNUIlMjJOZXclMjBob21lJTIwY29uc3RydWN0aW9uJTIyJTJDJTIyUmVzaWRlbnRpYWwlMjBwcm9wZXJ0eSUyMGRldmVsb3BtZW50JTIwJTI4c2l0ZSUyMGFjcXVpc2l0aW9uJTIwYW5kJTIwZGV2ZWxvcG1lbnQlMjklMjIlMkMlMjJTYWxlcyUyMG9mJTIwbmV3JTIwaG9tZXMlMjBhbmQlMjBjdXN0b21lciUyMHN1cHBvcnQlMjBmb3IlMjBidXllcnMlMjIlNUR8ZW58MHx8fHwxNzYyNzI2MDIyfDA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "pillars": {
     "eyebrow": "What sets us apart",
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Craftsmanship",
-        "description": "Our homes are built with precision and attention to detail."
+        "title": "Quality Construction",
+        "description": "We use premium materials to ensure durability and longevity in every home."
       },
       {
-        "title": "Durability Focus",
-        "description": "We use top-quality materials ensuring lasting homes."
+        "title": "Exceptional Design",
+        "description": "Our homes feature elegant designs with a personal touch by our founder."
       },
       {
-        "title": "Buyer Support",
-        "description": "Dedicated support throughout your home-buying process."
+        "title": "Comprehensive Support",
+        "description": "We provide full support from site acquisition to customer service."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our range of services tailored for your needs.",
+    "description": "Explore our diverse range of services designed to meet your homebuilding needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "New Home Construction",
-        "description": "We build stunning new homes with a focus on quality."
+        "description": "We build high-quality new homes throughout Mid Wales and Shropshire."
       },
       {
-        "icon": "💼",
-        "title": "Site Development",
-        "description": "From land acquisition to development, we've got you covered."
+        "icon": "🏡",
+        "title": "Property Development",
+        "description": "We handle site acquisition and development for residential properties."
       },
       {
-        "icon": "🏠",
+        "icon": "🛠",
         "title": "Sales & Support",
-        "description": "Guiding you from purchase to move-in with ease."
+        "description": "Our team assists buyers with sales and provides excellent customer service."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Building Homes, Creating Legacies",
+    "title": "Building Dreams, One Home at a Time",
     "paragraphs": [
-      "Montgomeryshire Homes, based in Welshpool, Powys, specializes in crafting quality new build homes across Mid Wales and Shropshire.",
-      "We offer a seamless buying experience, enhancing lead conversions and streamlining sales with digital solutions."
+      "Montgomeryshire Homes, based in Welshpool, Powys, creates quality new builds in Mid Wales and Shropshire.",
+      "We focus on seamless viewings, lead management, and online conversions to enhance client experiences."
     ],
-    "image": "https://images.pexels.com/photos/8482828/pexels-photo-8482828.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1711897398239-053bec49b255?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxSZXNpZGVudGlhbCUyMHByb3BlcnR5JTIwZGV2ZWxvcGVyJTIwJTJGJTIwSG9tZWJ1aWxkZXIlMjBwcm9mZXNzaW9uYWwlMjB0ZWFtJTIwYXQlMjB3b3JrfGVufDB8fHx8MTc2MjcyNjAyMnww&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "testimonials": {
-    "eyebrow": "Happy Homeowners",
-    "title": "What Our Clients Say",
+    "eyebrow": "What Our Clients Say",
+    "title": "Client Testimonials",
     "list": [
       {
-        "quote": "The seamless booking process made buying our first home a breeze!",
-        "name": "Aled Thomas",
-        "role": "First-time Buyer",
-        "avatar": "https://images.pexels.com/photos/8379357/pexels-photo-8379357.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        "quote": "The team made buying our first home a breeze. Efficient and supportive throughout.",
+        "name": "John Davies",
+        "role": "First-Time Buyer",
+        "avatar": "https://images.unsplash.com/photo-1748976168038-5e8317470c68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxSZXNpZGVudGlhbCUyMHByb3BlcnR5JTIwZGV2ZWxvcGVyJTIwJTJGJTIwSG9tZWJ1aWxkZXIlMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjcyNjAyMnww&ixlib=rb-4.1.0&q=80&w=1080"
       },
       {
-        "quote": "Montgomeryshire Homes provided excellent support every step of the way.",
-        "name": "Sara Evans",
-        "role": "Family Buyer",
-        "avatar": "https://images.unsplash.com/photo-1748976168038-5e8317470c68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxSZXNpZGVudGlhbCUyMHByb3BlcnR5JTIwZGV2ZWxvcGVyJTIwJTJGJTIwSG9tZWJ1aWxkZXIlMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjcyNjAwMXww&ixlib=rb-4.1.0&q=80&w=1080"
+        "quote": "Our new home is perfect. The process was smooth and stress-free.",
+        "name": "Emily Williams",
+        "role": "Family Home Buyer",
+        "avatar": "https://images.unsplash.com/photo-1750075750210-55d4c382d012?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwyfHxSZXNpZGVudGlhbCUyMHByb3BlcnR5JTIwZGV2ZWxvcGVyJTIwJTJGJTIwSG9tZWJ1aWxkZXIlMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjcyNjAyMnww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit Us",
-    "title": "Discover Our Developments",
-    "description": "Visit our homes in the heart of Mid Wales and experience quality craftsmanship firsthand.",
-    "address": "",
-    "website": "https://montgomeryshirehomes.co.u",
+    "title": "Discover Our Homes",
+    "description": "Explore the charm of Mid Wales and Shropshire, where our homes are built with care.",
+    "address": "Welshpool, Powys",
+    "website": "montgomeryshirehomes.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in Touch",
+    "eyebrow": "Get In Touch",
     "title": "Schedule a Viewing",
-    "description": "Contact us today to book a viewing of your future home.",
-    "consent": "We respect your privacy."
+    "description": "Contact us today to book a viewing and start your journey with Montgomeryshire Homes.",
+    "consent": "I agree to the privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Enhance Your Home Buying Experience",
-    "description": "Leverage AI to streamline your journey.",
+    "title": "Enhance Your Process",
+    "description": "Utilize AI to streamline your home buying experience.",
     "bullets": [
-      "Automate viewing bookings with reminders.",
-      "Integrate CRM for seamless lead management.",
-      "Use digital tools to boost sales conversion."
+      "Automate viewings with calendar integration.",
+      "Implement CRM for efficient lead management.",
+      "Use email nurturing to engage potential buyers."
     ],
     "offer": "Mention Montgomeryshire Hom for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Montgomeryshire Hom delivers unforgettable experiences.",
-    "address": "",
+    "address": "Welshpool, Powys",
     "email": "",
     "socials": [
       {
