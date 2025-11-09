@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
-    "name": "Quinn Dev.",
-    "tagline": "Trust in every foundation",
+    "name": "Quinn Dev",
+    "tagline": "Building the Future",
     "category": "Civil Engineering",
-    "location": "Liverpool, North",
-    "phone": "+44 1234 567890"
+    "location": "Liverpool, UK",
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Dependable Engineering",
-    "title": "Streamline your projects with our expertise",
-    "description": "Quinn Developments addresses delays with efficient processes and reliable service.",
+    "eyebrow": "Dependable & Trustworthy",
+    "title": "Streamlined solutions for modern projects",
+    "description": "Quinn Developments enhances efficiency with advanced systems, reducing delays and increasing reliability.",
     "highlights": [
       {
-        "label": "Projects Delivered",
+        "label": "Projects Completed",
         "value": "1,000+"
       },
       {
-        "label": "Years of Experience",
+        "label": "Years in Business",
         "value": "20+"
       },
       {
         "label": "Client Satisfaction",
-        "value": "99%"
+        "value": "98%"
       }
     ],
     "image": "https://images.pexels.com/photos/18812422/pexels-photo-18812422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Clear Hierarchy",
-        "description": "Our designs feature intuitive layouts for easy navigation and clarity."
+        "title": "Distinctive Design",
+        "description": "Our use of clear color hierarchy ensures attention to key details."
       },
       {
-        "title": "Distinct CTAs",
-        "description": "Bold, orange buttons guide users seamlessly through your site."
+        "title": "Whitespace Mastery",
+        "description": "We strategically use whitespace to enhance readability and focus."
       },
       {
-        "title": "Professional Imagery",
-        "description": "High-quality photos showcase our projects and craftsmanship."
+        "title": "Consistent Style",
+        "description": "Our consistent button styling improves user experience."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive services tailored to meet your civil engineering needs.",
+    "description": "Expert civil engineering and groundworks services tailored to your needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Civil Engineering",
-        "description": "Expertly managing complex infrastructure projects with precision."
-      },
-      {
-        "icon": "🛠",
-        "title": "Groundworks",
-        "description": "Foundation and groundwork solutions for various project scales."
+        "description": "Delivering innovative solutions for complex engineering challenges."
       },
       {
         "icon": "🚧",
-        "title": "Drainage",
-        "description": "Specialist drainage solutions to prevent future issues."
+        "title": "Groundworks",
+        "description": "Comprehensive groundwork services for any scale of project."
+      },
+      {
+        "icon": "💧",
+        "title": "Specialist Drainage",
+        "description": "Expert drainage solutions to manage water flow efficiently."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Building the Future",
+    "title": "Commitment to Excellence",
     "paragraphs": [
-      "Quinn Developments has been a leader in groundworks and civil engineering across the North West. Our dedication to quality and trust forms the bedrock of our operations.",
-      "We serve house builders and contractors, leveraging technology to enhance project delivery. Our reputation for reliability ensures lasting partnerships."
+      "Quinn Developments has become a leader in civil engineering and groundworks across the North West. Our core values of trust and dependability guide every project.",
+      "We serve major contractors and developers, offering scalable solutions and digital innovations that enhance project delivery and efficiency."
     ],
     "image": "https://images.pexels.com/photos/8961160/pexels-photo-8961160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Client Success",
+    "eyebrow": "Client Feedback",
     "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "Quinn Developments streamlined our project timeline and communication. Outstanding service!",
+        "quote": "Quinn Developments transformed our project delivery with their efficient systems.",
         "name": "John Smith",
-        "role": "Property Developer",
+        "role": "Project Manager",
         "avatar": "https://images.pexels.com/photos/3776969/pexels-photo-3776969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their efficient processes and reliable service transformed our site preparation.",
-        "name": "Emma Brown",
-        "role": "Main Contractor",
+        "quote": "Their automation reduced our lead time and improved our workflow significantly.",
+        "name": "Sarah Johnson",
+        "role": "Construction Director",
         "avatar": "https://images.unsplash.com/photo-1651500963570-e2bfd5a4f94b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxDaXZpbCUyMEVuZ2luZWVyaW5nJTIwJTI2JTIwR3JvdW5kd29ya3MlMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjcyNTg3MXww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Explore Our Office",
-    "description": "Located in vibrant Liverpool, our office is a hub for innovation and collaboration.",
-    "address": "123 Engineering Lane, Liverpool",
-    "website": "www.quinndevelopments.co.uk",
+    "eyebrow": "Our Location",
+    "title": "Based in Liverpool",
+    "description": "Situated in Liverpool, we cover the North West, offering trusted engineering solutions.",
+    "address": "",
+    "website": "",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Contact Us",
-    "title": "Let's Build Together",
-    "description": "Reach out for consultations or project inquiries.",
-    "consent": "I agree to receive communications."
+    "eyebrow": "Get In Touch",
+    "title": "Ready to Start?",
+    "description": "Contact us for consultations or project quotes today.",
+    "consent": "We value your privacy. Your information is secure."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Enhance with Automation",
-    "description": "Boost efficiency and accuracy with AI solutions.",
+    "title": "Enhance Efficiency",
+    "description": "Our AI solutions streamline your project management and operations.",
     "bullets": [
-      "Automate quoting with instant estimates.",
-      "Streamline project management with real-time updates.",
-      "Digital client portal for seamless handovers."
+      "Automate quoting with our online estimate generator.",
+      "Manage projects with integrated scheduling systems.",
+      "Access client portals for seamless document delivery."
     ],
-    "offer": "Mention Quinn Dev. for the launch-week optimization kit.",
+    "offer": "Mention Quinn Dev for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Quinn Dev. delivers unforgettable experiences.",
-    "address": "123 Engineering Lane, Liverpool",
+    "blurb": "Quinn Dev delivers unforgettable experiences.",
+    "address": "",
     "email": "",
     "socials": [
       {
