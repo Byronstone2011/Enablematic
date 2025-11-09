@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
-    "name": "Olympus Construct",
-    "tagline": "Building Dreams in Hampshire",
-    "category": "Residential Construction",
-    "location": "Hampshire",
-    "phone": ""
+    "name": "Olympus Const.",
+    "tagline": "Crafting Dreams, Building Futures",
+    "category": "Construction & Surveying",
+    "location": "Hampshire, UK",
+    "phone": "+44 1234 567890"
   },
   "hero": {
-    "eyebrow": "Expert Construction Services",
-    "title": "Streamlined solutions for your home.",
-    "description": "Discover seamless construction and survey services with our expert team. We ensure clarity, reliability, and timely completion.",
+    "eyebrow": "Trusted in Hampshire",
+    "title": "Streamlined services for modern living",
+    "description": "We offer efficient construction and surveying solutions. Simplify your project with our expertise.",
     "highlights": [
       {
         "label": "Projects Completed",
-        "value": "1,000+"
+        "value": "1,200+"
+      },
+      {
+        "label": "Years of Experience",
+        "value": "20+"
       },
       {
         "label": "Client Satisfaction",
-        "value": "95%"
-      },
-      {
-        "label": "Years in Operation",
-        "value": "15+"
+        "value": "98%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1619191949522-38b014a9e506?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxSZXNpZGVudGlhbCUyMGNvbnN0cnVjdGlvbiUyMCUyNiUyMHByb3BlcnR5JTIwc3VydmV5aW5nJTIwJTVCJTIyUmVzaWRlbnRpYWwlMjBjb25zdHJ1Y3Rpb24lMjIlMkMlMjJQcm9wZXJ0eSUyRnN1cnZleWluZyUyMHNlcnZpY2VzJTIyJTJDJTIySG9tZSUyMHJlbm92YXRpb25zJTIwYW5kJTIwZXh0ZW5zaW9ucyUyMCUyOGdlbmVyYWwlMjBjb250cmFjdG9yJTI5JTIyJTVEfGVufDB8fHx8MTc2MjcyNjAyNHww&ixlib=rb-4.1.0&q=80&w=1080"
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Certified Expertise",
-        "description": "Our team is Master Builder and TrustMark certified, ensuring top-quality service."
+        "title": "Certified Excellence",
+        "description": "We are Master Builder and TrustMark certified, ensuring top quality."
       },
       {
-        "title": "Comprehensive Services",
-        "description": "We offer a full range of construction and surveying services tailored to your needs."
+        "title": "Local Expertise",
+        "description": "Our team knows Hampshire, delivering tailored solutions for every client."
       },
       {
-        "title": "Proven Reliability",
-        "description": "With clear geographical coverage, we deliver reliable results every time."
+        "title": "Stunning Results",
+        "description": "We showcase our work through beautiful, real-life photography."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our range of expert services tailored to meet your construction needs.",
+    "description": "Explore our expert services tailored to your needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "New Builds",
-        "description": "Construct your dream home from the ground up with our expert builders."
+        "description": "Create your dream home with our custom new build services."
       },
       {
         "icon": "🔍",
         "title": "Property Surveys",
-        "description": "Get detailed, reliable surveys for your property with our expert team."
+        "description": "Detailed surveys to ensure your property is up to standard."
       },
       {
-        "icon": "🔨",
+        "icon": "🏠",
         "title": "Renovations",
-        "description": "Transform your home with our top-notch renovation and extension services."
+        "description": "Transform your space with our expert renovation services."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Building Legacies",
+    "title": "Building a Legacy",
     "paragraphs": [
-      "Olympus Construction, at the forefront in Hampshire, offers unmatched residential construction and surveying. We specialize in new builds, renovations, and more.",
-      "Our local expertise ensures a perfect fit for your needs. We streamline operations with automation, delivering precision and efficiency."
+      "Founded with a passion for excellence, Olympus Construction offers comprehensive construction and surveying services across Hampshire.",
+      "We leverage local expertise and cutting-edge technology to provide seamless, reliable solutions for homeowners and developers."
     ],
-    "image": "https://images.pexels.com/photos/8482828/pexels-photo-8482828.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+    "image": "https://images.unsplash.com/photo-1682063631532-b865521538fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxSZXNpZGVudGlhbCUyMGNvbnN0cnVjdGlvbiUyMCUyNiUyMHByb3BlcnR5JTIwc3VydmV5aW5nJTIwcHJvZmVzc2lvbmFsJTIwdGVhbSUyMGF0JTIwd29ya3xlbnwwfHx8fDE3NjI3MjYwMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "testimonials": {
     "eyebrow": "What Clients Say",
-    "title": "Trusted by Homeowners",
+    "title": "Customer Success Stories",
     "list": [
       {
-        "quote": "Olympus made our renovation stress-free and efficient. Their clear process and communication were outstanding.",
-        "name": "Sarah Thompson",
+        "quote": "Olympus transformed our home with precision and care. Their service is unmatched.",
+        "name": "Sarah Johnson",
         "role": "Homeowner",
         "avatar": "https://images.unsplash.com/photo-1607134542077-a12b0c8e1b94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxSZXNpZGVudGlhbCUyMGNvbnN0cnVjdGlvbiUyMCUyNiUyMHByb3BlcnR5JTIwc3VydmV5aW5nJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI3MjYwMjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
       },
       {
-        "quote": "The survey process was smooth and insightful. Olympus Construction truly stands out.",
-        "name": "James Peterson",
-        "role": "Property Investor",
+        "quote": "From start to finish, Olympus provided exceptional service. Highly recommended.",
+        "name": "Tom Baker",
+        "role": "Landlord",
         "avatar": "https://images.unsplash.com/photo-1608926259241-5bfa7d2ea67f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwyfHxSZXNpZGVudGlhbCUyMGNvbnN0cnVjdGlvbiUyMCUyNiUyMHByb3BlcnR5JTIwc3VydmV5aW5nJTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI3MjYwMjR8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit Us",
-    "title": "Experience Our Expertise",
-    "description": "Join us in Hampshire to see how we bring construction dreams to life.",
-    "address": "Hampshire, UK",
-    "website": "olympuspropertygroup.co.uk",
+    "title": "Explore Hampshire",
+    "description": "Discover the charm of Hampshire while working with a trusted local partner.",
+    "address": "123 Main Street, Southampton,",
+    "website": "www.olympuspropertygroup.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Contact Us",
-    "title": "Start Your Project",
-    "description": "Reach out for a consultation or to learn more about our services. Let's build together.",
-    "consent": "Yes, I agree to receive communications."
+    "eyebrow": "Get Started",
+    "title": "Contact Us Today",
+    "description": "Ready to build your dream home? Reach out for a consultation.",
+    "consent": "We respect your privacy and protect your data."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Streamline Your Project",
-    "description": "Harness AI to enhance efficiency and client satisfaction.",
+    "title": "AI-Powered Efficiency",
+    "description": "Streamline your construction process with our automation solutions.",
     "bullets": [
-      "Get instant quotes with our online estimator.",
-      "Schedule surveys and consultations seamlessly.",
-      "Automate follow-ups and reminders for efficiency."
+      "Instant online quotes for quick project estimates.",
+      "Automated scheduling for hassle-free appointments.",
+      "CRM integration to efficiently manage client relationships."
     ],
-    "offer": "Mention Olympus Construct for the launch-week optimization kit.",
+    "offer": "Mention Olympus Const. for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Olympus Construct delivers unforgettable experiences.",
-    "address": "Hampshire, UK",
+    "blurb": "Olympus Const. delivers unforgettable experiences.",
+    "address": "123 Main Street, Southampton,",
     "email": "",
     "socials": [
       {
