@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
-    "name": "Worthi Plant",
-    "tagline": "Quality machinery online",
-    "category": "Machinery Brokerage",
+    "name": "WorthiPlant",
+    "tagline": "Quality Equipment, Reliable Service",
+    "category": "Equipment Brokerage",
     "location": "UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Trusted equipment source",
-    "title": "Streamline your machinery sales effortlessly",
-    "description": "Worthi Plant simplifies buying and selling with expert brokerage, secure payments, and detailed inspections.",
+    "eyebrow": "Efficient Equipment Solutions",
+    "title": "Streamline your equipment sales process today.",
+    "description": "Worthi Plant simplifies equipment sales with expert brokering, secure payments, and logistics support.",
     "highlights": [
       {
-        "label": "Listings Managed",
-        "value": "1,200+"
-      },
-      {
-        "label": "Years Experience",
+        "label": "Years in Business",
         "value": "10+"
       },
       {
-        "label": "Client Satisfaction",
-        "value": "95%"
+        "label": "Transactions Completed",
+        "value": "5,000+"
+      },
+      {
+        "label": "Customer Satisfaction",
+        "value": "96%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -32,91 +32,91 @@ const appData = {
     "items": [
       {
         "title": "Focused Expertise",
-        "description": "Specialists in heavy machinery, ensuring top-tier service."
+        "description": "We specialize in heavy machinery trading, ensuring top-notch service."
       },
       {
-        "title": "Comprehensive Tools",
-        "description": "We provide end-to-end solutions from listing to logistics."
+        "title": "Multiple Contact Options",
+        "description": "Reach us easily through various channels for seamless communication."
       },
       {
-        "title": "Proven Track Record",
-        "description": "Years of success in the UK marketplace with satisfied clients."
+        "title": "Strong Online Presence",
+        "description": "Our established social media presence boosts visibility and engagement."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Explore our complete suite of services for all your equipment needs.",
+    "description": "Explore our comprehensive services tailored for the construction industry.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Equipment Brokerage",
-        "description": "Brokering deals with precision for seamless transactions."
+        "description": "We facilitate deals for buyers and sellers, ensuring smooth transactions."
       },
       {
         "icon": "💻",
         "title": "Online Marketplace",
-        "description": "List and auction machinery with ease on our platform."
+        "description": "List your equipment on our online platform for maximum exposure."
       },
       {
-        "icon": "🔍",
-        "title": "Inspections & Valuati",
-        "description": "Pre/post-sale inspections and valuations by experts."
+        "icon": "🛠",
+        "title": "Inspection Services",
+        "description": "Professional inspections ensure quality and functionality pre-sale."
       }
     ]
   },
   "story": {
-    "eyebrow": "Our Legacy",
-    "title": "From Passion to Service",
+    "eyebrow": "Our Journey",
+    "title": "Building Trust in Equipment Sales",
     "paragraphs": [
-      "Worthi Plant was founded to provide quality new and used construction machinery. We thrive on connecting buyers and sellers efficiently.",
-      "Our single-owner structure enables quick decision-making, making us a perfect fit for digital solutions that streamline our operations."
+      "Worthi Plant began as a passion-driven project to offer quality used construction equipment. Our dedication to excellence has propelled us as a trusted broker.",
+      "We streamline sales with automation, enhancing efficiency and reducing errors. Our phased approach ensures affordability for businesses of all sizes."
     ],
-    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
+    "image": "https://images.pexels.com/photos/4487449/pexels-photo-4487449.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Customer Voices",
-    "title": "What Our Clients Say",
+    "eyebrow": "What Clients Say",
+    "title": "Customer Testimonials",
     "list": [
       {
-        "quote": "Worthi Plant made selling my machinery hassle-free. Their service is top-notch!",
-        "name": "John D.",
+        "quote": "Worthi Plant made our equipment sale seamless and secure. Highly recommend!",
+        "name": "John Davies",
         "role": "Contractor",
         "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "The seamless process and excellent customer support were impressive!",
-        "name": "Emily R.",
-        "role": "Machinery Dealer",
+        "quote": "Their marketplace is easy to use and connected us with serious buyers.",
+        "name": "Emma Thompson",
+        "role": "Reseller",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
     "eyebrow": "Visit Us",
-    "title": "Discover Worthi Plant",
-    "description": "Explore our online marketplace from anywhere in the UK.",
-    "address": "Online Only",
-    "website": "www.worthiplant.com",
+    "title": "Discover Our Location",
+    "description": "Based in the UK, we serve nationwide with precision and care.",
+    "address": "UK",
+    "website": "worthiplant.com",
     "mapEmbed": ""
   },
   "inquiry": {
     "eyebrow": "Get in Touch",
-    "title": "Contact Us Today",
-    "description": "Reach out for expert machinery advice or to list your equipment.",
-    "consent": "I consent to be contacted"
+    "title": "Request a Consultation",
+    "description": "Contact us to discuss your equipment needs and find solutions.",
+    "consent": "I agree to the terms and conditions."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Enhance Operations with AI",
-    "description": "Automate and streamline your machinery processes with AI.",
+    "title": "Automation Benefits",
+    "description": "Harness AI to enhance your machinery sales.",
     "bullets": [
-      "Automated inventory management for efficient listings.",
-      "Secure online payments with automated release codes.",
-      "Marketing automation to reach a wider audience."
+      "Automate listings and manage inventory effortlessly.",
+      "Secure online payments simplify transactions.",
+      "Streamline invoicing and customer tracking."
     ],
-    "offer": "Mention Worthi Plant for the launch-week optimization kit.",
+    "offer": "Mention WorthiPlant for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Worthi Plant delivers unforgettable experiences.",
-    "address": "Online Only",
+    "blurb": "WorthiPlant delivers unforgettable experiences.",
+    "address": "UK",
     "email": "",
     "socials": [
       {
