@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "CMServices",
-    "tagline": "Transforming Businesses",
+    "tagline": "Transforming businesses digitally",
     "category": "Management Consulting",
-    "location": "",
+    "location": "Global",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "Digital Experts",
-    "title": "Overcome stalled growth with strategic solutions.",
-    "description": "CMServices revitalizes your sales pipeline with tailored digital strategies. Enhance talent acquisition and streamline processes today.",
+    "eyebrow": "Digital excellence delivered",
+    "title": "Fix stalled pipelines with our expertise",
+    "description": "CMServices accelerates growth by optimizing pipelines and automating processes.",
     "highlights": [
       {
-        "label": "Projects Delivered",
-        "value": "300+"
+        "label": "Years of Experience",
+        "value": "20+"
       },
       {
-        "label": "Client Satisfaction",
+        "label": "Clients Transformed",
+        "value": "150+"
+      },
+      {
+        "label": "Success Rate",
         "value": "95%"
-      },
-      {
-        "label": "Years Experience",
-        "value": "10+"
       }
     ],
     "image": "https://images.pexels.com/photos/3782235/pexels-photo-3782235.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Bold Strategies",
-        "description": "We craft bold strategies that captivate and convert."
+        "title": "Bold Strategy",
+        "description": "We deliver clear, impactful strategies for digital transformation."
       },
       {
-        "title": "Clear Messaging",
-        "description": "Our messaging resonates, ensuring client engagement."
+        "title": "Client-Centric",
+        "description": "Our solutions are tailored to meet each client’s unique needs."
       },
       {
-        "title": "Simple Design",
-        "description": "Our design is uncluttered, focusing on client needs."
+        "title": "Simplified Processes",
+        "description": "We streamline complicated workflows for better efficiency."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "CMServices offers tailored solutions for business growth.",
+    "description": "Explore our comprehensive services designed for business growth.",
     "cards": [
       {
-        "icon": "💻",
-        "title": "Digital Strategy",
-        "description": "We develop cohesive digital strategies for growth."
-      },
-      {
         "icon": "💼",
-        "title": "Talent Acquisition",
-        "description": "Acquire top talent with our recruitment support."
+        "title": "Digital Strategy",
+        "description": "Crafting strategic digital plans for seamless transformation."
       },
       {
-        "icon": "📊",
-        "title": "Pipeline Management",
-        "description": "Optimize your sales pipeline with our insights."
+        "icon": "📈",
+        "title": "Lead Generation",
+        "description": "Boosting sales pipelines with targeted lead generation."
+      },
+      {
+        "icon": "🧑",
+        "title": "Talent Acquisition",
+        "description": "Supporting recruitment to build strong leadership teams."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Empowering Businesses",
+    "title": "Driving Digital Change",
     "paragraphs": [
-      "CMServices was founded to drive digital transformation and business growth. Our team excels in crafting strategies that align with client goals.",
-      "Our expertise in automation and digital solutions uniquely positions us to solve complex business challenges, ensuring success and efficiency."
+      "CMServices began with a mission to lead businesses into the digital age. We provide expert consulting for digital transformation and business development.",
+      "Our team excels at identifying and addressing client-specific challenges, leveraging proven methods to deliver measurable results."
     ],
     "image": "https://images.pexels.com/photos/7792771/pexels-photo-7792771.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "Client Feedback",
-    "title": "Success Stories",
+    "eyebrow": "Client Success Stories",
+    "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "CMServices transformed our digital strategy, leading to significant growth.",
-        "name": "Sarah Thompson",
-        "role": "Head of Digital, TechCorp",
+        "quote": "CMServices revolutionized our pipeline. Their insights and strategies are unmatched.",
+        "name": "Jane Roberts",
+        "role": "Director of Operations",
         "avatar": "https://images.pexels.com/photos/3727462/pexels-photo-3727462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Our talent acquisition improved drastically with CMServices' support.",
-        "name": "John Evans",
-        "role": "HR Director, BuildIt",
+        "quote": "The digital strategy from CMServices was a game-changer for us.",
+        "name": "Michael Lee",
+        "role": "CEO",
         "avatar": "https://images.unsplash.com/photo-1758691736934-e5d6d0c7f875?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxNYW5hZ2VtZW50JTIwY29uc3VsdGluZyUyMCUyOGRpZ2l0YWwlMjB0cmFuc2Zvcm1hdGlvbiUyMCUyNiUyMGJ1c2luZXNzJTIwZGV2ZWxvcG1lbnQlMjklMjBoZWFkc2hvdCUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjcyNTcyM3ww&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Our Location",
-    "title": "Visit CMServices",
-    "description": "Discover how we can transform your business with a personalized visit.",
-    "address": "",
-    "website": "",
+    "eyebrow": "Connect with Us",
+    "title": "Visit Our Headquarters",
+    "description": "Join us at our global hubs to explore how we can transform your business.",
+    "address": "Available upon request",
+    "website": "cmservices.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get in Touch",
-    "title": "Request Consultation",
-    "description": "Contact us to schedule a consultation and unlock your business potential.",
-    "consent": "I consent to receive communications."
+    "eyebrow": "Start Your Journey",
+    "title": "Schedule a Consultation",
+    "description": "Contact us to discuss how we can help elevate your business.",
+    "consent": "I agree to receive communications."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate for Success",
-    "description": "Leverage AI to streamline operations and drive growth.",
+    "title": "Harness the Power of AI",
+    "description": "Leverage AI for streamlined operations and insightful business decisions.",
     "bullets": [
-      "Automate lead generation for increased efficiency.",
-      "Optimize CRM processes with automation.",
-      "Enhance recruitment through automated workflows."
+      "Automate lead nurturing with AI.",
+      "Optimize CRM with automated insights.",
+      "Enhance talent acquisition with AI tools."
     ],
     "offer": "Mention CMServices for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "CMServices delivers unforgettable experiences.",
-    "address": "",
+    "address": "Available upon request",
     "email": "",
     "socials": [
       {
