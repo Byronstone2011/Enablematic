@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "iBuild Interiors",
-    "tagline": "Building your vision",
-    "category": "Interior Fit-Out",
-    "location": "Contact for detail",
-    "phone": "Contact for details"
+    "tagline": "Seamless Fit-Out Solutions",
+    "category": "Commercial Interiors",
+    "location": "Nationwide",
+    "phone": "Contact Us"
   },
   "hero": {
-    "eyebrow": "Expert Interior Fit-Out",
-    "title": "Streamline your projects today with iBuild",
-    "description": "We eliminate delays with efficient processes, enhancing your digital presence for better conversions.",
+    "eyebrow": "Streamline Your Interiors",
+    "title": "Efficient fit-outs, no delays or hassles",
+    "description": "We simplify your project journey from tender to completion, ensuring timely delivery and quality results.",
     "highlights": [
       {
-        "label": "Years of Experience",
-        "value": "20+"
-      },
-      {
-        "label": "Projects Completed",
+        "label": "Projects Delivered",
         "value": "1,000+"
       },
       {
         "label": "Client Satisfaction",
-        "value": "98%"
+        "value": "95%"
+      },
+      {
+        "label": "Years Experience",
+        "value": "20+"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Stunning Photography",
-        "description": "High-quality images showcase our successful projects, capturing our craftsmanship."
+        "title": "Stunning Visuals",
+        "description": "Our projects feature high-quality images that showcase our unparalleled craftsmanship."
       },
       {
-        "title": "Comprehensive Services",
-        "description": "We offer a one-stop shop for your interior fit-out needs, ensuring seamless service."
+        "title": "Comprehensive Service",
+        "description": "We are your all-in-one solution for interior fit-outs, ensuring seamless project execution."
       },
       {
-        "title": "Certified Expertise",
-        "description": "Our industry certifications guarantee top-notch quality and reliability."
+        "title": "Certified Excellence",
+        "description": "Our industry certifications guarantee the highest standards of quality and trust."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Transform your commercial spaces with our expert services.",
+    "description": "Expert solutions for commercial interiors, tailored to your needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Interior Fit-Outs",
-        "description": "We provide comprehensive interior fit-out services tailored to your needs."
+        "description": "Transform your space with our comprehensive interior fit-out services."
       },
       {
         "icon": "💼",
         "title": "Project Management",
-        "description": "From tender to completion, we manage every aspect of your project."
+        "description": "From tender to completion, our management ensures smooth execution."
       },
       {
-        "icon": "🔑",
+        "icon": "🛠",
         "title": "Site Finishing",
-        "description": "Our team ensures impeccable finishing and smooth handover for every site."
+        "description": "Our site finishing services ensure a polished and professional handover."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Commitment to Excellence",
+    "title": "Crafting Excellence",
     "paragraphs": [
-      "iBuild Interiors has been a leader in the fit-out industry, delivering tailored solutions for over 20 years.",
-      "We excel in digital presence, tender efficiency, and streamlined project delivery, ensuring client satisfaction."
+      "iBuild-Interiors began with a mission to redefine the interior fit-out experience. We've grown by making every project unique.",
+      "Our dedication to improving digital presence and automating processes ensures efficient, client-focused service."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "What Our Clients Say",
-    "title": "Client Success Stories",
+    "eyebrow": "Client Feedback",
+    "title": "What Clients Say",
     "list": [
       {
-        "quote": "iBuild transformed our space with efficiency and attention to detail. Highly recommend!",
-        "name": "Alex Johnson",
+        "quote": "iBuild solved our delay issues, delivering a stunning space on time.",
+        "name": "John Smith",
         "role": "Property Developer",
-        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
+        "avatar": "https://images.pexels.com/photos/5201930/pexels-photo-5201930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Their project management portal kept us informed and stress-free throughout.",
-        "name": "Jamie Lee",
+        "quote": "Their project management was impeccable, streamlining our fit-out process.",
+        "name": "Sarah Lee",
         "role": "Facility Manager",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Explore Our Expertise",
-    "description": "Contact us to see our portfolio and discuss your next project.",
-    "address": "Contact for details",
-    "website": "www.ibuild-interiors.com",
+    "eyebrow": "Our Location",
+    "title": "Visit Our Offices",
+    "description": "We're located nationwide, bringing our expertise to your doorstep.",
+    "address": "Nationwide",
+    "website": "ibuild-interiors.com",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
-    "title": "Book a Consultation",
-    "description": "Reach out today to discuss your project needs with our experts.",
-    "consent": "We respect your privacy."
+    "eyebrow": "Get in Touch",
+    "title": "Start Your Project Today",
+    "description": "Contact us for a consultation and see how we can transform your space.",
+    "consent": "I agree to the terms and conditions."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "AI-Driven Solutions",
-    "description": "Enhance efficiency with our AI and automation offerings.",
+    "title": "Automate for Success",
+    "description": "Harness the power of AI to enhance efficiency and accuracy.",
     "bullets": [
-      "Automate proposals with CRM integration.",
-      "Use our portal for real-time project updates.",
-      "Streamline invoicing to reduce errors."
+      "Automate tender processes for quicker responses.",
+      "Client portal for real-time project updates.",
+      "Streamlined invoicing to reduce errors."
     ],
     "offer": "Mention iBuild Interiors for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "iBuild Interiors delivers unforgettable experiences.",
-    "address": "Contact for details",
+    "address": "Nationwide",
     "email": "",
     "socials": [
       {
