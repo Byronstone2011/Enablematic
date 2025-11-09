@@ -1,26 +1,26 @@
 const appData = {
   "brand": {
-    "name": "Aura Technical",
-    "tagline": "Solutions for Growth",
+    "name": "Aura Tech Services",
+    "tagline": "Building Solutions, Elevated",
     "category": "Building Services",
     "location": "UK",
     "phone": ""
   },
   "hero": {
-    "eyebrow": "UK's Leading Provider",
-    "title": "Streamline Your Projects with Aura",
-    "description": "We fix delays and enhance coordination with automated solutions. Experience seamless MEP management.",
+    "eyebrow": "Your MEP Experts",
+    "title": "Streamline MEP projects, reduce delays.",
+    "description": "Aura Technical Services LTD offers seamless project management to enhance efficiency and minimize gaps.",
     "highlights": [
       {
-        "label": "Years in Service",
-        "value": "10+"
+        "label": "Years in Business",
+        "value": "9+"
       },
       {
         "label": "Projects Completed",
         "value": "500+"
       },
       {
-        "label": "Satisfaction Rate",
+        "label": "Client Satisfaction",
         "value": "98%"
       }
     ],
@@ -31,92 +31,92 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expertise You Trust",
-        "description": "Decades of experience ensure flawless project execution and client satisfaction."
+        "title": "Clear Categorization",
+        "description": "Our services are organized for easy navigation and clarity."
       },
       {
-        "title": "Streamlined Processes",
-        "description": "Efficient systems reduce delays and improve communication across all projects."
+        "title": "Brand Consistency",
+        "description": "We maintain strong visual identity across all platforms."
       },
       {
-        "title": "Client-Centric Approach",
-        "description": "Collaborative strategies tailored to meet unique client needs and expectations."
+        "title": "Trusted Expertise",
+        "description": "Decades of experience ensure project success and client trust."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Comprehensive MEP services that drive success.",
+    "description": "Comprehensive MEP solutions tailored for your needs.",
     "cards": [
       {
         "icon": "🏗",
         "title": "MEP Management",
-        "description": "Expert management of mechanical, electrical, and plumbing projects for optimal efficiency."
+        "description": "Expert management of mechanical, electrical, and plumbing projects."
       },
       {
         "icon": "💼",
-        "title": "Commissioning",
-        "description": "Ensure all systems are installed and perform as intended with our commissioning services."
+        "title": "MEP Design",
+        "description": "Innovative design solutions to meet your building's unique requirements."
       },
       {
         "icon": "🔧",
-        "title": "Coordination",
-        "description": "Seamless coordination of contractors and resources for timely project delivery."
+        "title": "MEP Installation",
+        "description": "Seamless installation services ensuring quality and compliance."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Building a Legacy",
+    "title": "From Inception to Leading Expertise",
     "paragraphs": [
-      "Since 2014, Aura Technical Services LTD has led the UK in building service management and installation, delivering innovative solutions.",
-      "Our B2B focus leverages automation for project management, enhancing efficiency and client satisfaction across the board."
+      "Established in 2014, Aura Technical Services LTD has grown into one of the UK's leading building service firms. Our collaborative approach ensures client satisfaction and project success.",
+      "We specialize in repeatable project work and embrace digital transformation to enhance efficiency. Our solutions are designed to meet the evolving needs of our clients."
     ],
     "image": "https://images.unsplash.com/photo-1551135049-8a33b5883817?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxCdWlsZGluZyUyMHNlcnZpY2VzJTIwJTJGJTIwTUVQJTIwY29uc3VsdGFuY3klMjAlMjYlMjBtYW5hZ2VtZW50JTIwcHJvZmVzc2lvbmFsJTIwdGVhbSUyMGF0JTIwd29ya3xlbnwwfHx8fDE3NjI3MjYwNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Proven Success",
+    "eyebrow": "Client Feedback",
+    "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "Aura's automated systems have streamlined our projects, reducing delays significantly. Highly recommend their services.",
+        "quote": "Aura's automated systems streamlined our project coordination, saving us time and reducing errors.",
         "name": "John Smith",
         "role": "Facilities Manager",
         "avatar": "https://images.unsplash.com/photo-1578952531273-2384658914b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxCdWlsZGluZyUyMHNlcnZpY2VzJTIwJTJGJTIwTUVQJTIwY29uc3VsdGFuY3klMjAlMjYlMjBtYW5hZ2VtZW50JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI3MjYwNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
       },
       {
-        "quote": "Their expertise and client-focused approach set them apart. We've seen remarkable improvements in project coordination.",
-        "name": "Jane Doe",
+        "quote": "Their expertise and user-friendly approach helped us achieve seamless MEP integration.",
+        "name": "Emily Johnson",
         "role": "Project Consultant",
         "avatar": "https://images.unsplash.com/photo-1489515229412-1f3a8f08dc34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwyfHxCdWlsZGluZyUyMHNlcnZpY2VzJTIwJTJGJTIwTUVQJTIwY29uc3VsdGFuY3klMjAlMjYlMjBtYW5hZ2VtZW50JTIwaGVhZHNob3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjI3MjYwNDl8MA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Plan your visit",
-    "title": "",
-    "description": "",
+    "eyebrow": "Our Location",
+    "title": "Visit Us",
+    "description": "Discover how our services can elevate your projects. Contact us for a consultation.",
     "address": "",
-    "website": "",
+    "website": "auratechnicalservices.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Ready to Start?",
+    "eyebrow": "Get Started",
     "title": "Contact Us Today",
-    "description": "Reach out to Aura Technical Services LTD for your next project. Let's transform your vision into reality.",
-    "consent": "I agree to receive communications."
+    "description": "Reach out to Aura Technical Services LTD for tailored MEP solutions.",
+    "consent": "I consent to data processing."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Embrace Automation",
-    "description": "Leverage AI for seamless project execution.",
+    "title": "Enhance Efficiency with AI",
+    "description": "Leverage our AI solutions for seamless project management.",
     "bullets": [
-      "Automate lead capture and CRM integration.",
-      "Streamline project updates with client portals.",
-      "Speed up proposals with automated systems."
+      "Automate lead capture and follow-up with integrated CRM.",
+      "Utilize project portals for real-time updates and communication.",
+      "Speed up tender responses with proposal automation."
     ],
-    "offer": "Mention Aura Technical for the launch-week optimization kit.",
+    "offer": "Mention Aura Tech Services for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,7 +124,7 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Aura Technical delivers unforgettable experiences.",
+    "blurb": "Aura Tech Services delivers unforgettable experiences.",
     "address": "",
     "email": "",
     "socials": [
