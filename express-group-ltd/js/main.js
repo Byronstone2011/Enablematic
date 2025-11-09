@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
     "name": "Express Group",
-    "tagline": "Building Facade Excellence",
+    "tagline": "Wall solutions made easy",
     "category": "Construction",
-    "location": "London, UK",
-    "phone": "N/A"
+    "location": "UK",
+    "phone": ""
   },
   "hero": {
-    "eyebrow": "Single Contractor Solution",
-    "title": "Simplify Complex Wall Systems Today",
-    "description": "We coordinate all walling systems, ensuring clean finishes and timely delivery.",
+    "eyebrow": "Seamless installations",
+    "title": "Solving wall system challenges efficiently",
+    "description": "We streamline the installation of interior and exterior wall systems, ensuring perfect finishes every time.",
     "highlights": [
       {
         "label": "Projects Completed",
         "value": "1,000+"
       },
       {
-        "label": "Client Satisfaction",
-        "value": "98%"
+        "label": "Years of Expertise",
+        "value": "20+"
       },
       {
-        "label": "Years of Experience",
-        "value": "15+"
+        "label": "Client Satisfaction",
+        "value": "98%"
       }
     ],
     "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1280&q=80"
@@ -31,90 +31,90 @@ const appData = {
     "title": "Every detail creates a premium client experience.",
     "items": [
       {
-        "title": "Expert Coordination",
-        "description": "We manage complex projects seamlessly for smooth execution."
+        "title": "Comprehensive Solutions",
+        "description": "We offer a one-stop solution for all walling needs, ensuring seamless coordination."
+      },
+      {
+        "title": "Expert Craftsmanship",
+        "description": "Our skilled team delivers clean, sharp finishes across varied systems."
       },
       {
         "title": "Trusted Partnerships",
-        "description": "Our clients trust us, reflected by our high satisfaction rate."
-      },
-      {
-        "title": "Impressive Portfolio",
-        "description": "Explore our diverse, completed projects showcasing our expertise."
+        "description": "We use client logos to build trust and showcase our professional standards."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "We specialize in interior and exterior wall systems.",
+    "description": "We specialize in a wide range of wall and cladding systems to suit all projects.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Dry-lining & Partitions",
-        "description": "Expert dry-lining to ensure precise ceiling and partition solutions."
+        "description": "Expert installation of dry-lining for ceilings and partitions tailored to your needs."
       },
       {
         "icon": "🛠",
         "title": "Glass & Plastering",
-        "description": "Professional glass partitioning and plastering for modern spaces."
+        "description": "Precision glass partition installation and flawless plastering services."
       },
       {
         "icon": "🏢",
         "title": "Steel Framing & SFS",
-        "description": "Reliable lightweight steel framing and SFS installation services."
+        "description": "Durable lightweight steel framing and SFS installation for robust structures."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "From Foundation to Facades",
+    "title": "Crafting Excellence in Walls",
     "paragraphs": [
-      "Express Group Ltd offers a comprehensive solution for wall installations, tailored to diverse design needs.",
-      "Our multidisciplinary approach and automation tools enhance efficiency, providing unmatched client value."
+      "Express Group Ltd is your go-to contractor for all walling needs. We handle everything from dry-lining to state-of-the-art cladding systems.",
+      "Our multi-disciplined approach and focus on automation ensure efficient projects. We aim to replace manual processes and enhance client experiences."
     ],
     "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1280&q=80"
   },
   "testimonials": {
-    "eyebrow": "Client Feedback",
+    "eyebrow": "Client Voices",
     "title": "What Our Clients Say",
     "list": [
       {
-        "quote": "Express Group made our project seamless, handling all wall systems expertly.",
-        "name": "Sarah Johnson",
-        "role": "Project Manager",
-        "avatar": "https://images.pexels.com/photos/7217987/pexels-photo-7217987.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+        "quote": "Express Group transformed our project with their seamless wall installations. Truly impressive!",
+        "name": "John Smith",
+        "role": "Property Developer",
+        "avatar": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=400&q=80"
       },
       {
-        "quote": "Their coordination and finish quality saved us time and stress.",
-        "name": "Michael Lee",
+        "quote": "Their attention to detail and coordination skills set them apart. Highly recommended!",
+        "name": "Sarah Johnson",
         "role": "Architect",
         "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Our Location",
-    "title": "Visit Us in London",
-    "description": "Located in the heart of London, serving projects across the UK.",
-    "address": "N/A",
-    "website": "N/A",
+    "eyebrow": "Visit Us",
+    "title": "Discover Our Expertise",
+    "description": "Located in the UK, we serve clients nationwide with top-tier construction expertise.",
+    "address": "",
+    "website": "expressgroupltd.co.uk",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get In Touch",
-    "title": "Contact Us Today",
-    "description": "Reach out for a consultation or to start your project.",
+    "eyebrow": "Get in Touch",
+    "title": "Request a Consultation",
+    "description": "Contact us to discuss your project needs and discover how we can assist.",
     "consent": "I agree to the privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automation Advantages",
-    "description": "Enhance efficiency with our AI solutions.",
+    "title": "Enhance Efficiency with AI",
+    "description": "Leverage technology to streamline your projects and improve outcomes.",
     "bullets": [
-      "Automate estimates for faster quotes.",
-      "Streamline project scheduling online.",
-      "Track materials with inventory integration."
+      "Automated quoting saves time and reduces errors.",
+      "CRM integration enhances client interactions.",
+      "Real-time project tracking keeps you updated."
     ],
     "offer": "Mention Express Group for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
@@ -125,7 +125,7 @@ const appData = {
   },
   "footer": {
     "blurb": "Express Group delivers unforgettable experiences.",
-    "address": "N/A",
+    "address": "",
     "email": "",
     "socials": [
       {
