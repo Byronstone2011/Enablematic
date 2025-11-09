@@ -1,27 +1,27 @@
 const appData = {
   "brand": {
-    "name": "Premier Plant",
-    "tagline": "Efficient Equipment Solutions",
-    "category": "Construction Hire",
-    "location": "London & Surroundi",
-    "phone": "N/A"
+    "name": "Premier Plant Hire",
+    "tagline": "Your project partner",
+    "category": "Construction Equipment Hire",
+    "location": "London Area",
+    "phone": "Unavailable"
   },
   "hero": {
-    "eyebrow": "Streamlined Hiring",
-    "title": "Eliminate booking chaos with our smart tools",
-    "description": "Our online system prevents double bookings and delays. Enjoy seamless logistics and timely deliveries.",
+    "eyebrow": "Seamless Equipment Hire",
+    "title": "Streamline your site operations today.",
+    "description": "Avoid double bookings and delays with our efficient scheduling. Enjoy timely equipment delivery and hassle-free hire.",
     "highlights": [
       {
-        "label": "Tools Available",
-        "value": "3,500+"
+        "label": "Equipment Available",
+        "value": "1,000+"
       },
       {
-        "label": "On-time Deliveries",
+        "label": "Sites Served",
+        "value": "500+"
+      },
+      {
+        "label": "On-Time Delivery",
         "value": "99%"
-      },
-      {
-        "label": "Years Experience",
-        "value": "20+"
       }
     ],
     "image": "https://images.pexels.com/photos/6790816/pexels-photo-6790816.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
@@ -32,91 +32,91 @@ const appData = {
     "items": [
       {
         "title": "Clear Organization",
-        "description": "Our intuitive layout helps you find the right tools fast."
+        "description": "Our intuitive system ensures easy access to all your hire needs."
       },
       {
         "title": "Strong Identity",
-        "description": "Consistent branding builds trust and recognition."
+        "description": "Consistent branding reinforces trust and professionalism."
       },
       {
-        "title": "Visible Contact",
-        "description": "Easy access to contact details ensures quick support."
+        "title": "Trusted Partners",
+        "description": "Endorsements from industry leaders signify our reliability."
       }
     ]
   },
   "offerings": {
     "eyebrow": "Our core spaces",
     "title": "Spaces and services tuned for your clients.",
-    "description": "Reliable equipment and service for all construction needs.",
+    "description": "Comprehensive services for construction professionals.",
     "cards": [
       {
         "icon": "🏗",
         "title": "Plant Hire",
-        "description": "High-quality machinery to meet every construction demand."
+        "description": "Wide range of machinery for every construction need."
       },
       {
-        "icon": "🛠",
+        "icon": "🔧",
         "title": "Tool Hire",
-        "description": "Wide range of tools for various projects, large or small."
+        "description": "Essential tools available for short-term projects."
       },
       {
         "icon": "🚚",
-        "title": "Equipment Delivery",
-        "description": "Efficient logistics ensures your equipment arrives on time."
+        "title": "Equipment Transport",
+        "description": "Reliable delivery with skilled HGV drivers."
       }
     ]
   },
   "story": {
     "eyebrow": "Our Journey",
-    "title": "Building a Legacy",
+    "title": "Building Success",
     "paragraphs": [
-      "Premier Plant Hire has served the construction industry with dedication and excellence. Our commitment to quality is unrivaled.",
-      "By integrating advanced systems, we enhance efficiency and reduce costs, ensuring our clients receive the best service possible."
+      "Since inception, Premier Plant Hire has been dedicated to providing top-notch equipment hire services. We focus on reliability and customer satisfaction.",
+      "Our investment in automation enhances booking efficiency and delivery precision, ensuring smooth operations for all clients."
     ],
     "image": "https://images.pexels.com/photos/6790816/pexels-photo-6790816.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
   },
   "testimonials": {
-    "eyebrow": "What Clients Say",
-    "title": "Client Success Stories",
+    "eyebrow": "Customer Feedback",
+    "title": "What Clients Say",
     "list": [
       {
-        "quote": "Booking tools is now a breeze. No more delays thanks to Premier's smart system.",
+        "quote": "Premier Plant Hire's scheduling made our operations seamless. No more double-booking headaches.",
         "name": "John Smith",
         "role": "Site Manager",
         "avatar": "https://images.pexels.com/photos/6790816/pexels-photo-6790816.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
       },
       {
-        "quote": "Reliable delivery and great service. Premier Plant Hire keeps my projects on track.",
+        "quote": "Efficient delivery and top-notch equipment. They saved us time and costs.",
         "name": "Sarah Lee",
-        "role": "Construction Foreman",
+        "role": "Construction Supervisor",
         "avatar": "https://images.unsplash.com/photo-1682063631532-b865521538fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w4Mjc2Nzh8MHwxfHNlYXJjaHwxfHxDb25zdHJ1Y3Rpb24lMjBlcXVpcG1lbnQlMjAlMjYlMjB0b29sJTIwaGlyZSUyMCUyRiUyMFBsYW50JTIwaGlyZSUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYyNzI1ODMwfDA&ixlib=rb-4.1.0&q=80&w=1080"
       }
     ]
   },
   "visit": {
-    "eyebrow": "Visit Us",
-    "title": "Explore Our Services",
-    "description": "Discover top-notch equipment solutions. Serving London and beyond.",
-    "address": "N/A",
-    "website": "N/A",
+    "eyebrow": "Where We Operate",
+    "title": "Serving London and Beyond",
+    "description": "Providing essential hire services to construction sites across London and nearby areas.",
+    "address": "Unavailable",
+    "website": "Unavailable",
     "mapEmbed": ""
   },
   "inquiry": {
-    "eyebrow": "Get Started",
+    "eyebrow": "Get in Touch",
     "title": "Book Your Equipment",
-    "description": "Contact us for inquiries and bookings. We're here to help.",
-    "consent": "I agree to the terms and conditions."
+    "description": "Contact us for bookings or inquiries and streamline your project with ease.",
+    "consent": "I agree to the privacy policy."
   },
   "byronCallout": {
     "eyebrow": "Enablematic insight",
-    "title": "Automate Your Hire",
-    "description": "Streamline operations with cutting-edge automation.",
+    "title": "Smart Automation",
+    "description": "Revolutionize your equipment hire process with AI.",
     "bullets": [
-      "Online booking eliminates scheduling errors.",
-      "Automated delivery ensures timely arrivals.",
-      "Real-time inventory boosts efficiency."
+      "Online booking with real-time availability.",
+      "Automated delivery and route optimization.",
+      "Efficient inventory and maintenance alerts."
     ],
-    "offer": "Mention Premier Plant for the launch-week optimization kit.",
+    "offer": "Mention Premier Plant Hire for the launch-week optimization kit.",
     "ctaLabel": "Book a call with Byron",
     "email": "byron@enablematic.io",
     "phone": "+44 7776044988",
@@ -124,8 +124,8 @@ const appData = {
     "image": "https://images.unsplash.com/photo-1517430816045-df4b7de11d1d?auto=format&fit=crop&w=900&q=80"
   },
   "footer": {
-    "blurb": "Premier Plant delivers unforgettable experiences.",
-    "address": "N/A",
+    "blurb": "Premier Plant Hire delivers unforgettable experiences.",
+    "address": "Unavailable",
     "email": "",
     "socials": [
       {
